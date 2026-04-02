@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pharma Intelligence — Press Monitor</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Syne:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg:        #0a0c0f;
+    --bg2:       #10141a;
+    --bg3:       #161c25;
+    --border:    rgba(255,255,255,0.07);
+    --border2:   rgba(255,255,255,0.13);
+    --text:      #e8eaf0;
+    --muted:     #5a6070;
+    --muted2:    #8892a0;
+    --green:     #00e676;
+    --green-dim: rgba(0,230,118,0.12);
+    --blue:      #40c4ff;
+    --blue-dim:  rgba(64,196,255,0.10);
+    --amber:     #ffab40;
+    --amber-dim: rgba(255,171,64,0.10);
+    --red:       #ff5252;
+    --red-dim:   rgba(255,82,82,0.10);
+    --purple:    #b388ff;
+    --purple-dim:rgba(179,136,255,0.10);
+  }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Syne', sans-serif;
+    font-size: 14px;
+    min-height: 100vh;
+  }
+
+  /* ── HEADER ── */
+  header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 40px;
+    height: 64px;
+    border-bottom: 1px solid var(--border);
+    background: var(--bg);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+
+  .logo {
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+  }
+  .logo span { color: var(--green); }
+
+  .header-meta {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--muted2);
+  }
+  .header-meta .pill {
+    background: var(--bg3);
+    border: 1px solid var(--border2);
+    padding: 4px 10px;
+    border-radius: 4px;
+  }
+  .header-meta .pill strong { color: var(--green); }
+
+  /* ── NAV ── */
+  nav {
+    display: flex;
+    gap: 0;
+    padding: 0 40px;
+    border-bottom: 1px solid var(--border);
+    background: var(--bg);
+  }
+  nav a {
+    text-decoration: none;
+    color: var(--muted2);
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    padding: 14px 0;
+    margin-right: 32px;
+    border-bottom: 2px solid transparent;
+    transition: color 0.2s;
+    cursor: pointer;
+  }
+  nav a.active {
+    color: var(--text);
+    border-bottom-color: var(--green);
+  }
+  nav a:hover { color: var(--text); }
+
+  /* ── MAIN ── */
+  main { padding: 40px; max-width: 1400px; margin: 0 auto; }
+
+  /* ── MODALITY CARDS ── */
+  .cards-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+    margin-bottom: 48px;
+  }
+
+  .mod-card {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 24px;
+    cursor: pointer;
+    transition: border-color 0.2s, background 0.2s;
+    position: relative;
+    overflow: hidden;
+  }
+  .mod-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+    background: var(--card-accent, var(--green));
+    opacity: 0;
+    transition: opacity 0.2s;
+  }
+  .mod-card:hover,
+  .mod-card.active {
+    border-color: var(--border2);
+    background: var(--bg3);
+  }
+  .mod-card:hover::before,
+  .mod-card.active::before { opacity: 1; }
+
+  .mod-card[data-mod="bispecific antibodies"]   { --card-accent: var(--green); }
+  .mod-card[data-mod="monoclonal antibodies"]   { --card-accent: var(--blue); }
+  .mod-card[data-mod="molecular glues"]         { --card-accent: var(--purple); }
+  .mod-card[data-mod="gene editing"]            { --card-accent: var(--amber); }
+
+  .mod-icon {
+    width: 28px; height: 28px;
+    border-radius: 6px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 14px;
+    margin-bottom: 16px;
+    background: var(--card-dim, var(--green-dim));
+  }
+  .mod-card[data-mod="bispecific antibodies"] .mod-icon { background: var(--green-dim); }
+  .mod-card[data-mod="monoclonal antibodies"] .mod-icon { background: var(--blue-dim); }
+  .mod-card[data-mod="molecular glues"]       .mod-icon { background: var(--purple-dim); }
+  .mod-card[data-mod="gene editing"]          .mod-icon { background: var(--amber-dim); }
+
+  .mod-title {
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--muted2);
+    margin-bottom: 12px;
+    letter-spacing: 0.3px;
+  }
+
+  .mod-count {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 4px;
+    color: var(--card-accent, var(--green));
+    font-variant-numeric: tabular-nums;
+  }
+
+  .mod-label {
+    font-size: 10px;
+    letter-spacing: 1.5px;
+    color: var(--muted);
+    text-transform: uppercase;
+    font-family: 'IBM Plex Mono', monospace;
+    margin-bottom: 16px;
+  }
+
+  .mod-date {
+    font-size: 11px;
+    color: var(--muted);
+    font-family: 'IBM Plex Mono', monospace;
+  }
+
+  .mod-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 14px;
+  }
+  .tag {
+    font-size: 10px;
+    font-family: 'IBM Plex Mono', monospace;
+    padding: 3px 8px;
+    border-radius: 3px;
+    border: 1px solid var(--border2);
+    color: var(--muted2);
+    background: var(--bg);
+  }
+
+  /* ── NEWS PANEL ── */
+  #news-panel { display: none; }
+  #news-panel.visible { display: block; }
+
+  .panel-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 24px;
+  }
+
+  .panel-title {
+    font-size: 18px;
+    font-weight: 600;
+  }
+  .panel-title .accent { color: var(--green); }
+  .panel-title[data-mod="monoclonal antibodies"] .accent { color: var(--blue); }
+  .panel-title[data-mod="molecular glues"]       .accent { color: var(--purple); }
+  .panel-title[data-mod="gene editing"]          .accent { color: var(--amber); }
+
+  .panel-controls {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .btn-back {
+    background: transparent;
+    border: 1px solid var(--border2);
+    color: var(--muted2);
+    padding: 7px 14px;
+    border-radius: 5px;
+    font-family: 'Syne', sans-serif;
+    font-size: 12px;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .btn-back:hover { background: var(--bg3); color: var(--text); }
+
+  .sort-select {
+    background: var(--bg2);
+    border: 1px solid var(--border2);
+    color: var(--text);
+    padding: 7px 12px;
+    border-radius: 5px;
+    font-family: 'Syne', sans-serif;
+    font-size: 12px;
+    cursor: pointer;
+    outline: none;
+    appearance: none;
+    padding-right: 28px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%235a6070'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+  }
+
+  /* ── NEWS ITEMS ── */
+  .news-list { display: flex; flex-direction: column; gap: 12px; }
+
+  .news-item {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 20px 24px;
+    display: grid;
+    grid-template-columns: 32px 1fr auto;
+    gap: 16px;
+    align-items: start;
+    transition: border-color 0.2s, background 0.2s;
+    text-decoration: none;
+    color: inherit;
+  }
+  .news-item:hover {
+    border-color: var(--border2);
+    background: var(--bg3);
+  }
+
+  .news-rank {
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--muted);
+    font-variant-numeric: tabular-nums;
+    line-height: 1.3;
+  }
+
+  .news-body {}
+
+  .news-company {
+    font-size: 11px;
+    font-family: 'IBM Plex Mono', monospace;
+    color: var(--muted2);
+    margin-bottom: 6px;
+    letter-spacing: 0.5px;
+  }
+  .news-company strong { color: var(--text); }
+
+  .news-text {
+    font-size: 14px;
+    line-height: 1.65;
+    color: var(--text);
+    margin-bottom: 12px;
+  }
+
+  .news-footer {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .news-mod-tag {
+    font-size: 10px;
+    font-family: 'IBM Plex Mono', monospace;
+    padding: 3px 8px;
+    border-radius: 3px;
+    color: var(--green);
+    background: var(--green-dim);
+    border: 1px solid rgba(0,230,118,0.2);
+  }
+  .news-mod-tag.blue   { color: var(--blue);   background: var(--blue-dim);   border-color: rgba(64,196,255,0.2); }
+  .news-mod-tag.purple { color: var(--purple); background: var(--purple-dim); border-color: rgba(179,136,255,0.2); }
+  .news-mod-tag.amber  { color: var(--amber);  background: var(--amber-dim);  border-color: rgba(255,171,64,0.2); }
+
+  .news-link-icon {
+    font-size: 11px;
+    color: var(--muted);
+    font-family: 'IBM Plex Mono', monospace;
+  }
+  .news-link-icon:hover { color: var(--muted2); }
+
+  .news-date-col {
+    text-align: right;
+    font-size: 11px;
+    font-family: 'IBM Plex Mono', monospace;
+    color: var(--muted);
+    white-space: nowrap;
+    padding-top: 2px;
+  }
+
+  /* ── EMPTY STATE ── */
+  .empty {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--muted);
+    font-size: 13px;
+  }
+  .empty .big { font-size: 40px; margin-bottom: 12px; }
+
+  /* ── DATE SECTION HEADERS ── */
+  .date-section { margin-bottom: 8px; margin-top: 20px; }
+  .date-section:first-child { margin-top: 0; }
+  .date-label {
+    font-size: 11px;
+    font-family: 'IBM Plex Mono', monospace;
+    color: var(--muted);
+    letter-spacing: 1px;
+    padding: 0 0 10px;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 10px;
+  }
+
+  /* ── RESPONSIVE ── */
+  @media (max-width: 900px) {
+    .cards-grid { grid-template-columns: repeat(2, 1fr); }
+    header, nav, main { padding-left: 20px; padding-right: 20px; }
+  }
+  @media (max-width: 600px) {
+    .cards-grid { grid-template-columns: 1fr; }
+    .news-item { grid-template-columns: 24px 1fr; }
+    .news-date-col { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">Pharma<span>Intel</span></div>
+  <div class="header-meta">
+    <span id="total-count" class="pill"><strong>—</strong> briefs</span>
+    <span id="last-date" class="pill">last run <strong>—</strong></span>
+  </div>
+</header>
+
+<nav>
+  <a class="active" onclick="showDashboard()">DASHBOARD</a>
+  <a onclick="showArchive()">ARCHIVE</a>
+</nav>
+
+<main>
+  <!-- MODALITY CARDS -->
+  <div id="dashboard-view">
+    <div class="cards-grid" id="cards-grid"></div>
+  </div>
+
+  <!-- NEWS PANEL -->
+  <div id="news-panel">
+    <div class="panel-header">
+      <h2 class="panel-title" id="panel-title">
+        <span class="accent" id="panel-mod-name">—</span> — Latest Briefs
+      </h2>
+      <div class="panel-controls">
+        <select class="sort-select" id="sort-select" onchange="renderNews()">
+          <option value="date-desc">Newest first</option>
+          <option value="date-asc">Oldest first</option>
+          <option value="company">By company</option>
+        </select>
+        <button class="btn-back" onclick="showDashboard()">← All modalities</button>
+      </div>
+    </div>
+    <div class="news-list" id="news-list"></div>
+  </div>
+</main>
+
+<script>
+let historyData = {};
+let currentMod  = null;
+
+const MODALITIES = [
+  { key: 'bispecific antibodies',  label: 'Bispecific Antibodies',  icon: '⬡', color: 'green',  tags: ['bispecific','BiTE','T-cell engager'] },
+  { key: 'monoclonal antibodies',  label: 'Monoclonal Antibodies',  icon: '◎', color: 'blue',   tags: ['monoclonal','mAb','therapeutic antibody'] },
+  { key: 'molecular glues',        label: 'Molecular Glues',        icon: '◆', color: 'purple', tags: ['molecular glue','TPD','E3 ligase'] },
+  { key: 'gene editing',           label: 'Gene Editing',           icon: '◇', color: 'amber',  tags: ['CRISPR','Cas9','guide RNA'] },
+];
+
+const MOD_COLOR = {
+  'bispecific antibodies': 'green',
+  'monoclonal antibodies': 'blue',
+  'molecular glues':       'purple',
+  'gene editing':          'amber',
+};
+
+async function loadData() {
+  try {
+    const r = await fetch('briefs_history.json?v=' + Date.now());
+    historyData = await r.json();
+  } catch(e) {
+    historyData = {};
+  }
+  renderCards();
+  updateHeader();
+}
+
+function allItemsForMod(mod) {
+  const items = [];
+  for (const [date, mods] of Object.entries(historyData)) {
+    const list = mods[mod] || [];
+    list.forEach(item => items.push({ ...item, _date: date }));
+  }
+  return items;
+}
+
+function allItems() {
+  const items = [];
+  for (const [date, mods] of Object.entries(historyData)) {
+    for (const [mod, list] of Object.entries(mods)) {
+      list.forEach(item => items.push({ ...item, _date: date }));
+    }
+  }
+  return items;
+}
+
+function latestDate() {
+  const dates = Object.keys(historyData).sort().reverse();
+  return dates[0] || '—';
+}
+
+function updateHeader() {
+  const total = allItems().length;
+  const date  = latestDate();
+  document.getElementById('total-count').innerHTML = `<strong>${total}</strong> briefs`;
+  document.getElementById('last-date').innerHTML   = `last run <strong>${date}</strong>`;
+}
+
+function renderCards() {
+  const grid = document.getElementById('cards-grid');
+  grid.innerHTML = '';
+
+  MODALITIES.forEach(m => {
+    const items = allItemsForMod(m.key);
+    const count = items.length;
+    const latest = items.map(i => i._date).sort().reverse()[0] || '—';
+
+    const card = document.createElement('div');
+    card.className   = 'mod-card';
+    card.dataset.mod = m.key;
+    card.innerHTML = `
+      <div class="mod-icon">${m.icon}</div>
+      <div class="mod-title">${m.label}</div>
+      <div class="mod-count" style="color:var(--${m.color})">${count}</div>
+      <div class="mod-label">Briefs indexed</div>
+      <div class="mod-date">Last updated: ${latest}</div>
+      <div class="mod-tags">${m.tags.map(t=>`<span class="tag">${t}</span>`).join('')}</div>
+    `;
+    card.onclick = () => showNews(m.key, m.label);
+    grid.appendChild(card);
+  });
+}
+
+function showNews(mod, label) {
+  currentMod = mod;
+  document.getElementById('dashboard-view').style.display = 'none';
+  const panel = document.getElementById('news-panel');
+  panel.classList.add('visible');
+
+  const color = MOD_COLOR[mod] || 'green';
+  const titleEl = document.getElementById('panel-title');
+  titleEl.dataset.mod = mod;
+  titleEl.innerHTML = `<span class="accent" style="color:var(--${color})">${label}</span> — Latest Briefs`;
+
+  renderNews();
+}
+
+function renderNews() {
+  if (!currentMod) return;
+  const sort   = document.getElementById('sort-select').value;
+  let items    = allItemsForMod(currentMod);
+
+  if (sort === 'date-desc')  items.sort((a,b) => b._date.localeCompare(a._date));
+  if (sort === 'date-asc')   items.sort((a,b) => a._date.localeCompare(b._date));
+  if (sort === 'company')    items.sort((a,b) => (a.company||'').localeCompare(b.company||''));
+
+  const list = document.getElementById('news-list');
+  list.innerHTML = '';
+
+  if (!items.length) {
+    list.innerHTML = `<div class="empty"><div class="big">◎</div>No briefs found for this modality.</div>`;
+    return;
+  }
+
+  const color = MOD_COLOR[currentMod] || 'green';
+  const colorClass = color === 'green' ? '' : color;
+
+  if (sort === 'date-desc' || sort === 'date-asc') {
+    const byDate = {};
+    items.forEach(item => {
+      if (!byDate[item._date]) byDate[item._date] = [];
+      byDate[item._date].push(item);
+    });
+
+    const dates = Object.keys(byDate).sort((a,b) =>
+      sort === 'date-desc' ? b.localeCompare(a) : a.localeCompare(b)
+    );
+
+    let rank = 1;
+    dates.forEach(date => {
+      const section = document.createElement('div');
+      section.className = 'date-section';
+      section.innerHTML = `<div class="date-label">${date}</div>`;
+
+      byDate[date].forEach(item => {
+        section.appendChild(buildNewsItem(item, rank++, color, colorClass));
+      });
+      list.appendChild(section);
+    });
+  } else {
+    items.forEach((item, i) => {
+      list.appendChild(buildNewsItem(item, i+1, color, colorClass));
+    });
+  }
+}
+
+function buildNewsItem(item, rank, color, colorClass) {
+  const el = document.createElement('div');
+  el.className = 'news-item';
+
+  const linkHref = item.url ? `href="${item.url}" target="_blank" rel="noopener"` : '';
+  const tag = `<span class="news-mod-tag ${colorClass}">${item.modality}</span>`;
+  const linkIcon = item.url
+    ? `<a href="${item.url}" target="_blank" rel="noopener" class="news-link-icon">↗ source</a>`
+    : '';
+
+  el.innerHTML = `
+    <div class="news-rank">${rank}</div>
+    <div class="news-body">
+      <div class="news-company"><strong>${item.company || '—'}</strong> · ${item.query || ''}</div>
+      <div class="news-text">${item.news || ''}</div>
+      <div class="news-footer">${tag}${linkIcon}</div>
+    </div>
+    <div class="news-date-col">${item._date}</div>
+  `;
+  return el;
+}
+
+function showDashboard() {
+  currentMod = null;
+  document.getElementById('dashboard-view').style.display = '';
+  const panel = document.getElementById('news-panel');
+  panel.classList.remove('visible');
+}
+
+function showArchive() {
+  alert('Archive view — coming soon. All historical briefs are stored in briefs_history.json');
+}
+
+loadData();
+</script>
+</body>
+</html>

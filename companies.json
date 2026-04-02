@@ -1,0 +1,2660 @@
+{
+    "Sanofi": {
+        "press_url": "https://www.sanofi.com/en/media-room/press-releases",
+        "focus_areas": [
+            "Immunology",
+            "Vaccines",
+            "Rare Disease",
+            "Oncology",
+            "General Medicines"
+        ]
+    },
+    "Dr. Reddy's Laboratories": {
+        "press_url": "https://www.drreddys.com/media/",
+        "focus_areas": [
+            "Generics",
+            "Biosimilars",
+            "Active Pharmaceutical Ingredients",
+            "Consumer Healthcare",
+            "Digital Therapeutics"
+        ]
+    },
+    "Amgen": {
+        "press_url": "https://www.amgen.com/newsroom/press-releases",
+        "focus_areas": [
+            "Oncology",
+            "Cardiovascular Disease",
+            "Inflammation",
+            "Rare Disease",
+            "Obesity"
+        ]
+    },
+    "Tata Consultancy Services": {
+        "press_url": "https://www.tcs.com/newsroom",
+        "focus_areas": [
+            "Artificial Intelligence",
+            "Cloud",
+            "Life Sciences",
+            "Data & Analytics",
+            "Digital Transformation"
+        ]
+    },
+    "MSD": {
+        "press_url": "https://www.msd.com/media/news/",
+        "focus_areas": [
+            "Oncology",
+            "Vaccines",
+            "Infectious Diseases",
+            "Cardiometabolic Disease",
+            "Immunology"
+        ]
+    },
+    "Novartis": {
+        "press_url": "https://www.novartis.com/news",
+        "focus_areas": [
+            "Oncology",
+            "Cardiovascular",
+            "Immunology",
+            "Gene Therapy"
+        ]
+    },
+    "Ami Polymer": {
+        "press_url": "https://www.amipolymer.com/about/news-article",
+        "focus_areas": [
+            "Silicone Tubing",
+            "Single-Use Systems",
+            "Pharma Packaging",
+            "Biopharma Components",
+            "Elastomer Solutions"
+        ]
+    },
+    "Miltenyi Biotec": {
+        "press_url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases.html",
+        "focus_areas": [
+            "Cell Therapy",
+            "Immunology",
+            "Biotech Platforms"
+        ]
+    },
+    "ALS Global": {
+        "press_url": "https://www.alsglobal.com/en/news-and-media-Global",
+        "focus_areas": [
+            "Analytical Testing",
+            "Life Sciences",
+            "Food & Pharmaceutical Testing",
+            "Environmental Testing",
+            "Laboratory Services"
+        ]
+    },
+    "Veeva Systems": {
+        "press_url": "https://www.veeva.com/news/",
+        "focus_areas": [
+            "Life Sciences Software",
+            "Clinical Data",
+            "Regulatory Systems"
+        ]
+    },
+    "Sartorius Stedim India Pvt Ltd": {
+        "press_url": "https://www.sartorius.com/en/company/newsroom",
+        "focus_areas": [
+            "Bioprocessing",
+            "Lab Products",
+            "Cell Culture",
+            "Filtration",
+            "Biomanufacturing"
+        ]
+    },
+    "Charles River": {
+        "press_url": "https://www.criver.com/insights?f%5B0%5D=insight_type%3A1963",
+        "focus_areas": [
+            "Drug Discovery",
+            "Preclinical Research",
+            "Safety Assessment",
+            "Biologics Testing",
+            "Manufacturing Support"
+        ]
+    },
+    "Solix Technologies, Inc.": {
+        "press_url": "https://www.solix.com/company/news-events/press-releases/",
+        "focus_areas": [
+            "Enterprise Data Management",
+            "Cloud Data Platforms",
+            "AI",
+            "Data Governance",
+            "Data Archiving"
+        ]
+    },
+    "Lonza": {
+        "press_url": "https://www.lonza.com/news",
+        "focus_areas": [
+            "Biomanufacturing",
+            "Cell & Gene Therapy",
+            "CDMO"
+        ]
+    },
+    "Thermo Fisher Scientific": {
+        "press_url": "https://www.thermofisher.com/blog/",
+        "focus_areas": [
+            "Life Sciences Tools",
+            "Diagnostics",
+            "Laboratory Technologies"
+        ]
+    },
+    "Gland Pharma Limited": {
+        "press_url": "https://glandpharma.com/resource/news",
+        "focus_areas": [
+            "Injectables",
+            "Generic Pharmaceuticals",
+            "Contract Manufacturing",
+            "Sterile Products",
+            "Biologics"
+        ]
+    },
+    "Daicel Chiral Technologies Pvt. Ltd.": {
+        "press_url": "https://chiraltech.com/news-events/",
+        "focus_areas": [
+            "Chiral Chromatography",
+            "Analytical Services",
+            "Process Development",
+            "Pharmaceutical Research",
+            "Separation Technologies"
+        ]
+    },
+    "BIRAC": {
+        "press_url": "https://www.birac.nic.in/desc_all_news.php",
+        "focus_areas": [
+            "Biotech Innovation",
+            "Startup Funding",
+            "Translational Research",
+            "Public Health Innovation",
+            "Bioentrepreneurship"
+        ]
+    },
+    "FocalCXM": {
+        "press_url": "https://www.focalcxm.com/news/",
+        "focus_areas": [
+            "CRM",
+            "Data & AI",
+            "Life Sciences Commercial IT",
+            "Salesforce",
+            "Veeva"
+        ]
+    },
+    "o2h Discovery": {
+        "press_url": "https://o2h.com/news/",
+        "focus_areas": [
+            "Drug Discovery",
+            "Medicinal Chemistry",
+            "Integrated Discovery",
+            "PROTAC",
+            "Lipid Nanoparticles"
+        ]
+    },
+    "AdametNext": {
+        "press_url": "https://adametnext.com/blog/",
+        "focus_areas": [
+            "Competitive Intelligence",
+            "Forecasting",
+            "Marketing Analytics",
+            "Pharma Strategy",
+            "Brand Insights"
+        ]
+    },
+    "Genotypic Technology Pvt Ltd": {
+        "press_url": "https://genotypic.co.in/aboutus/news/",
+        "focus_areas": [
+            "Genomics",
+            "Next-Generation Sequencing",
+            "Microarray",
+            "Bioinformatics",
+            "Proteomics"
+        ]
+    },
+    "InSilicoMinds": {
+        "press_url": "https://insilicominds.com/news-blogs/",
+        "focus_areas": [
+            "AI for Pharma",
+            "Modeling & Simulation",
+            "In Silico Trials",
+            "Regulatory Science",
+            "Drug Development"
+        ]
+    },
+    "Sequel Logistics Pvt. Ltd.": {
+        "press_url": "https://sequelglobal.com/media-release",
+        "focus_areas": [
+            "Secure Logistics",
+            "Pharma Logistics",
+            "Cold Chain",
+            "Precious Cargo",
+            "Supply Chain Technology"
+        ]
+    },
+    "SCIEX": {
+        "press_url": "https://sciex.com/about-us/press-releases",
+        "focus_areas": [
+            "Mass Spectrometry",
+            "Capillary Electrophoresis",
+            "Life Sciences Research",
+            "Clinical Diagnostics",
+            "Analytical Testing"
+        ]
+    },
+    "Vimta Labs": {
+        "press_url": "https://vimta.com/investors/announcements/",
+        "focus_areas": [
+            "Contract Research",
+            "Analytical Testing",
+            "Clinical Diagnostics",
+            "Food Testing",
+            "Environmental Testing"
+        ]
+    },
+    "JETRO": {
+        "press_url": "https://www.jetro.go.jp/en/news/",
+        "focus_areas": [
+            "Trade Promotion",
+            "Foreign Direct Investment",
+            "Startup Ecosystems",
+            "Biotechnology & Life Sciences",
+            "International Business Development"
+        ]
+    },
+    "Adgyl Lifesciences": {
+        "press_url": "https://www.adgyllifesciences.com/news-conferences/",
+        "focus_areas": [
+            "Discovery Services",
+            "Preclinical Development",
+            "Early Clinical Development",
+            "Safety Assessment",
+            "Regulatory Support"
+        ]
+    },
+    "Instem": {
+        "press_url": "https://www.instem.com/blog/press-releases/",
+        "focus_areas": [
+            "Life Sciences Software",
+            "Preclinical Studies",
+            "Clinical Trial Analytics",
+            "Regulatory Technology",
+            "Data Management"
+        ]
+    },
+    "Nucleome Informatics Private Limited": {
+        "press_url": "https://www.nucleomeinfo.com/news_test/",
+        "focus_areas": [
+            "Genomics",
+            "Precision Medicine",
+            "Bioinformatics",
+            "Next-Generation Sequencing",
+            "Microarray Technologies"
+        ]
+    },
+    "Tredence": {
+        "press_url": "https://www.tredence.com/newsroom",
+        "focus_areas": [
+            "AI Healthcare",
+            "Data Analytics",
+            "Machine Learning"
+        ]
+    },
+    "Fermenta Biotech Limited": {
+        "press_url": "https://www.fermentabiotech.com/media/press-release/",
+        "focus_areas": [
+            "Vitamin D3",
+            "Nutrition",
+            "Pharmaceutical Ingredients",
+            "Environmental Solutions",
+            "Biotechnology Manufacturing"
+        ]
+    },
+    "CAS (ACS International India Pvt Ltd.)": {
+        "press_url": "https://www.cas.org/press-releases",
+        "focus_areas": [
+            "Scientific Information",
+            "Chemical Data",
+            "Life Sciences Intelligence",
+            "Research Discovery",
+            "Data Solutions"
+        ]
+    },
+    "Fumex India": {
+        "press_url": "https://fumex.com/news/",
+        "focus_areas": [
+            "Fume Extraction",
+            "Air Filtration",
+            "Cleanroom Safety",
+            "Laboratory Ventilation",
+            "Industrial Air Quality"
+        ]
+    },
+    "Pharmace Research Laboratory Pvt Ltd": {
+        "press_url": "https://www.pharmaceresearch.com/public/news-event/list",
+        "focus_areas": [
+            "Drug Impurity Standards",
+            "Reference Standards",
+            "Custom Synthesis",
+            "Analytical Characterization",
+            "Pharmaceutical Research"
+        ]
+    },
+    "Simson Pharma Limited": {
+        "press_url": "https://www.simsonpharma.com/blog",
+        "focus_areas": [
+            "Impurity Standards",
+            "Reference Materials",
+            "Metabolite Standards",
+            "Pharmaceutical Standards",
+            "Custom Synthesis"
+        ]
+    },
+    "Akshar Global Clinical Research Pvt. Ltd.": {
+        "press_url": "https://agcro.com/insights/",
+        "focus_areas": [
+            "Clinical Research",
+            "Regulatory Affairs",
+            "Pharmacovigilance",
+            "Medical Writing",
+            "Biostatistics"
+        ]
+    },
+    "Abiogenesis Clinpharm Private Limited": {
+        "press_url": "https://abiogenesisclinpharm.com/blog/",
+        "focus_areas": [
+            "Clinical Trials",
+            "Early Phase Development",
+            "Late Phase Clinical Research",
+            "Post-Launch Lifecycle Management",
+            "Regulatory Support"
+        ]
+    },
+    "T-Hub": {
+        "press_url": "https://t-hub.co/media/",
+        "focus_areas": [
+            "Startup Acceleration",
+            "Innovation Ecosystems",
+            "Healthtech",
+            "Deep Tech",
+            "Enterprise Partnerships"
+        ]
+    },
+    "IKP Knowledge Park": {
+        "press_url": "https://ikpknowledgepark.com/newsletters/",
+        "focus_areas": [
+            "Biotech Incubation",
+            "Medtech",
+            "Life Sciences Startups",
+            "Innovation Infrastructure",
+            "Technology Commercialization"
+        ]
+    },
+    "Centre for Innovation & Entrepreneurship - IIITH": {
+        "press_url": "https://cie.iiit.ac.in/newsletter/",
+        "focus_areas": [
+            "Startup Incubation",
+            "Deep Tech",
+            "AI",
+            "Healthtech",
+            "Entrepreneurship"
+        ]
+    },
+    "Center for Digital Technologies in Healthcare, IIITH": {
+        "press_url": "https://cdith.iiit.ac.in/home-2-onepage/#team",
+        "focus_areas": [
+            "Digital Health",
+            "AI in Healthcare",
+            "Clinical Data Platforms",
+            "Health Systems Innovation",
+            "Translational Healthcare Technology"
+        ]
+    },
+    "iHub-Data, IIIT Hyderabad": {
+        "press_url": "https://ihub-data.iiit.ac.in/",
+        "focus_areas": [
+            "Applied AI",
+            "Data Science",
+            "Healthcare AI",
+            "Mobility & Infrastructure Analytics",
+            "Research Translation"
+        ]
+    },
+    "Achala Health Services": {
+        "press_url": "https://www.achalahealth.com/blog",
+        "focus_areas": [
+            "AI-Powered Hospital Operations",
+            "Unified Patient Records",
+            "Healthcare Data Platforms",
+            "ABDM-Compatible Systems",
+            "Clinical Workflow Optimization"
+        ]
+    },
+    "BioSignatures Tech": {
+        "press_url": "https://biosignaturestech.com/blogs-and-news",
+        "focus_areas": [
+            "Early Diagnosis",
+            "Deep Science",
+            "Deep Technology",
+            "Biology-to-Clinical Translation",
+            "Medicine 2.0"
+        ]
+    },
+    "Medtronic": {
+        "press_url": "https://news.medtronic.com",
+        "focus_areas": [
+            "Medical Devices",
+            "Surgical Technologies",
+            "Digital Health"
+        ]
+    },
+    "Olympus Corporation": {
+        "press_url": "https://www.olympus-global.com/news/",
+        "focus_areas": [
+            "Endoscopy",
+            "Medical Imaging",
+            "Surgical Devices"
+        ]
+    },
+    "Google DeepMind": {
+        "press_url": "https://deepmind.google/discover/blog/",
+        "focus_areas": [
+            "AI for Biology",
+            "Protein Folding",
+            "Machine Learning"
+        ]
+    },
+    "Unilabs": {
+        "press_url": "https://unilabs.com/news/",
+        "focus_areas": [
+            "Diagnostics",
+            "Laboratory Medicine",
+            "Medical Testing"
+        ]
+    },
+    "Biocon": {
+        "press_url": "https://www.bioconbiologics.com/news/press-releases/",
+        "focus_areas": [
+            "Biologics",
+            "Biosimilars",
+            "Insulin"
+        ]
+    },
+    "Biocon Biologics": {
+        "press_url": "https://www.bioconbiologics.com/media/",
+        "focus_areas": [
+            "Biosimilars",
+            "Biologics Manufacturing",
+            "Immunology"
+        ]
+    },
+    "Sai Life Sciences": {
+        "press_url": "https://www.sailife.com/news",
+        "focus_areas": [
+            "Drug Discovery",
+            "Contract Research",
+            "Medicinal Chemistry"
+        ]
+    },
+    "Aragen Life Sciences": {
+        "press_url": "https://www.aragen.com/news",
+        "focus_areas": [
+            "Contract Research",
+            "Drug Discovery",
+            "Development Services"
+        ]
+    },
+    "Jubilant Biosys": {
+        "press_url": "https://www.jubilantbiosys.com/news/",
+        "focus_areas": [
+            "Drug Discovery",
+            "Medicinal Chemistry",
+            "Contract Research"
+        ]
+    },
+    "Illumina": {
+        "press_url": "https://www.illumina.com/company/news-center.html",
+        "focus_areas": [
+            "Genomics",
+            "DNA Sequencing",
+            "Precision Medicine"
+        ]
+    },
+    "Waters Corporation": {
+        "press_url": "https://www.waters.com/waters/en_US/News-and-Events/nav.htm",
+        "focus_areas": [
+            "Analytical Instruments",
+            "Chromatography",
+            "Mass Spectrometry"
+        ]
+    },
+    "Agilisium": {
+        "press_url": "https://www.agilisium.com/newsroom",
+        "focus_areas": [
+            "Life Sciences Data",
+            "AI Analytics",
+            "Cloud Platforms"
+        ]
+    },
+    "Boston Consulting Group": {
+        "press_url": "https://www.bcg.com/about/corporate-newsroom",
+        "focus_areas": [
+            "Strategy Consulting",
+            "Healthcare Innovation",
+            "Digital Health"
+        ]
+    },
+    "EY-Parthenon": {
+        "press_url": "https://www.ey.com/en_gl/newsroom#tabs-20ba3c4fea-item-7bb34d0129-tab",
+        "focus_areas": [
+            "Strategy Consulting",
+            "Healthcare Advisory",
+            "Life Sciences"
+        ]
+    },
+    "KPMG": {
+        "press_url": "https://kpmg.com/xx/en/media.html",
+        "focus_areas": [
+            "Consulting",
+            "Healthcare Advisory",
+            "Regulatory Strategy"
+        ]
+    },
+    "Deloitte": {
+        "press_url": "https://www2.deloitte.com/global/en/pages/about-deloitte/articles/press-releases.html",
+        "focus_areas": [
+            "Consulting",
+            "Digital Transformation",
+            "Healthcare Strategy"
+        ]
+    },
+    "Rx Propellant": {
+        "press_url": "https://rxpropellant.com/news/",
+        "focus_areas": [
+            "Lab Infrastructure",
+            "Biotech Facilities",
+            "Innovation Hubs"
+        ]
+    },
+    "Telangana Life Sciences": {
+        "press_url": "https://lifesciences.telangana.gov.in/news/",
+        "focus_areas": [
+            "Life Sciences Policy",
+            "Biotech Ecosystem",
+            "Industry Development"
+        ]
+    },
+    "Indian Immunologicals": {
+        "press_url": "https://www.indimmune.com/media/iil-in-the-news/",
+        "focus_areas": [
+            "Vaccines",
+            "Animal Health",
+            "Human Vaccines"
+        ]
+    },
+    "Panacea Biotec": {
+        "press_url": "https://www.panaceabiotec.com/en/section/news-center",
+        "focus_areas": [
+            "Vaccines",
+            "Biopharmaceuticals",
+            "Infectious Diseases"
+        ]
+    },
+    "Sun Pharmaceutical Industries": {
+        "press_url": "https://sunpharma.com/media",
+        "focus_areas": [
+            "Generic Medicines",
+            "Specialty Pharmaceuticals",
+            "Dermatology"
+        ]
+    },
+    "Cipla": {
+        "press_url": "https://www.cipla.com/media-centre/media-releases",
+        "focus_areas": [
+            "Respiratory",
+            "Generics",
+            "HIV Medicines"
+        ]
+    },
+    "Aurobindo Pharma": {
+        "press_url": "https://www.aurobindo.com/media/press-releases",
+        "focus_areas": [
+            "Generic Pharmaceuticals",
+            "APIs",
+            "Injectables"
+        ]
+    },
+    "Granules India": {
+        "press_url": "https://granulesindia.com/media/",
+        "focus_areas": [
+            "Pharmaceutical Manufacturing",
+            "APIs",
+            "Finished Dosages"
+        ]
+    },
+    "Natco Pharma": {
+        "press_url": "https://www.natcopharma.co.in/insights/news-and-announcements",
+        "focus_areas": [
+            "Generic Drugs",
+            "Oncology",
+            "Specialty Pharma"
+        ]
+    },
+    "Gland Pharma": {
+        "press_url": "https://www.glandpharma.com/news/",
+        "focus_areas": [
+            "Injectables",
+            "Sterile Manufacturing",
+            "Biologics"
+        ]
+    },
+    "Divi's Laboratories": {
+        "press_url": "https://www.divislabs.com/news/",
+        "focus_areas": [
+            "API Manufacturing",
+            "Custom Synthesis",
+            "Pharmaceutical Ingredients"
+        ]
+    },
+    "Lupin": {
+        "press_url": "https://www.lupin.com/media/",
+        "focus_areas": [
+            "Pharmaceuticals",
+            "Respiratory",
+            "Cardiovascular"
+        ]
+    },
+    "Intas Pharmaceuticals": {
+        "press_url": "https://www.intaspharma.com/media/",
+        "focus_areas": [
+            "Biopharmaceuticals",
+            "Oncology",
+            "Generics"
+        ]
+    },
+    "Cadila Pharmaceuticals": {
+        "press_url": "https://www.cadilapharma.com/media/",
+        "focus_areas": [
+            "Pharmaceuticals",
+            "Therapeutics",
+            "Drug Development"
+        ]
+    },
+    "Wockhardt": {
+        "press_url": "https://www.wockhardt.com/media/",
+        "focus_areas": [
+            "Biopharmaceuticals",
+            "Vaccines",
+            "Infectious Diseases"
+        ]
+    },
+    "Mylan (Viatris)": {
+        "press_url": "https://newsroom.viatris.com/press-releases",
+        "focus_areas": [
+            "Generic Medicines",
+            "Biosimilars",
+            "Pharmaceuticals"
+        ]
+    },
+    "Abbott Laboratories": {
+        "press_url": "https://abbott.mediaroom.com",
+        "focus_areas": [
+            "Diagnostics",
+            "Medical Devices",
+            "Nutrition"
+        ]
+    },
+    "GSK": {
+        "press_url": "https://www.gsk.com/en-gb/media/press-releases/",
+        "focus_areas": [
+            "Vaccines",
+            "Immunology",
+            "Respiratory"
+        ]
+    },
+    "WuXi Biologics": {
+        "press_url": "https://www.wuxibiologics.com/media",
+        "focus_areas": [
+            "Biologics CDMO",
+            "Bioprocessing",
+            "Drug Development"
+        ]
+    },
+    "PPD (Thermo Fisher)": {
+        "press_url": "https://www.ppd.com/news/",
+        "focus_areas": [
+            "Clinical Research",
+            "Drug Development",
+            "Clinical Trials"
+        ]
+    },
+    "Labcorp Drug Development": {
+        "press_url": "https://www.labcorp.com/newsroom",
+        "focus_areas": [
+            "Clinical Trials",
+            "Drug Development",
+            "Diagnostics"
+        ]
+    },
+    "Medpace": {
+        "press_url": "https://investor.medpace.com/news-releases",
+        "focus_areas": [
+            "Clinical Research",
+            "Clinical Trials",
+            "Regulatory Services"
+        ]
+    },
+    "Benchling": {
+        "press_url": "https://www.benchling.com/news",
+        "focus_areas": [
+            "Bioinformatics",
+            "Lab Data Platforms",
+            "Biotech Software"
+        ]
+    },
+    "DNAnexus": {
+        "press_url": "https://www.dnanexus.com/press",
+        "focus_areas": [
+            "Genomics Cloud",
+            "Precision Medicine",
+            "Bioinformatics"
+        ]
+    },
+    "Tempus": {
+        "press_url": "https://www.tempus.com/news/",
+        "focus_areas": [
+            "Precision Medicine",
+            "Clinical Data",
+            "AI Healthcare"
+        ]
+    },
+    "Guardant Health": {
+        "press_url": "https://investors.guardanthealth.com/press-releases/default.aspx",
+        "focus_areas": [
+            "Liquid Biopsy",
+            "Precision Oncology",
+            "Diagnostics"
+        ]
+    },
+    "23andMe": {
+        "press_url": "https://blog.23andme.com/category/news",
+        "focus_areas": [
+            "Consumer Genomics",
+            "Genetic Testing",
+            "Health Insights"
+        ]
+    },
+    "Verily Life Sciences": {
+        "press_url": "https://verily.com/news",
+        "focus_areas": [
+            "Digital Health",
+            "Data Platforms",
+            "Precision Medicine"
+        ]
+    },
+    "GE HealthCare": {
+        "press_url": "https://www.gehealthcare.com/newsroom",
+        "focus_areas": [
+            "Medical Imaging",
+            "Diagnostics",
+            "Digital Health"
+        ]
+    },
+    "Siemens Healthineers": {
+        "press_url": "https://www.siemens-healthineers.com/press-room",
+        "focus_areas": [
+            "Medical Imaging",
+            "Diagnostics",
+            "Healthcare AI"
+        ]
+    },
+    "Stryker": {
+        "press_url": "https://www.stryker.com/us/en/about/news.html",
+        "focus_areas": [
+            "Orthopedic Devices",
+            "Surgical Equipment",
+            "Medical Technology"
+        ]
+    },
+    "Zimmer Biomet": {
+        "press_url": "https://investor.zimmerbiomet.com/news-releases",
+        "focus_areas": [
+            "Orthopedics",
+            "Implants",
+            "Medical Devices"
+        ]
+    },
+    "Edwards Lifesciences": {
+        "press_url": "https://www.edwards.com/newsroom/press-releases",
+        "focus_areas": [
+            "Cardiovascular Devices",
+            "Heart Valves",
+            "Critical Care"
+        ]
+    },
+    "Boston Scientific": {
+        "press_url": "https://news.bostonscientific.com",
+        "focus_areas": [
+            "Medical Devices",
+            "Cardiovascular",
+            "Endoscopy"
+        ]
+    },
+    "Genentech": {
+        "press_url": "https://www.gene.com/media",
+        "focus_areas": [
+            "Oncology",
+            "Immunology",
+            "Biologics"
+        ]
+    },
+    "BioMarin": {
+        "press_url": "https://investors.biomarin.com/news/default.aspx",
+        "focus_areas": [
+            "Rare Disease",
+            "Gene Therapy"
+        ]
+    },
+    "Exact Sciences": {
+        "press_url": "https://investor.exactsciences.com/news-releases",
+        "focus_areas": [
+            "Cancer Diagnostics",
+            "Precision Medicine"
+        ]
+    },
+    "Caris Life Sciences": {
+        "press_url": "https://www.carislifesciences.com/news/",
+        "focus_areas": [
+            "Precision Oncology",
+            "Molecular Profiling"
+        ]
+    },
+    "Foundation Medicine": {
+        "press_url": "https://www.foundationmedicine.com/press-releases",
+        "focus_areas": [
+            "Genomics",
+            "Precision Oncology"
+        ]
+    },
+    "Pfizer": {
+        "press_url": "https://www.pfizer.com/newsroom/press-releases",
+        "focus_areas": [
+            "Oncology",
+            "Vaccines",
+            "Rare Disease",
+            "Inflammation & Immunology",
+            "Internal Medicine"
+        ]
+    },
+    "Roche": {
+        "press_url": "https://www.roche.com/media/releases",
+        "focus_areas": [
+            "Oncology",
+            "Neurology",
+            "Immunology",
+            "Ophthalmology"
+        ]
+    },
+    "AstraZeneca": {
+        "press_url": "https://www.astrazeneca.com/media-centre/press-releases.html",
+        "focus_areas": [
+            "Oncology",
+            "Cardiovascular",
+            "Respiratory",
+            "Rare Disease"
+        ]
+    },
+    "Merck & Co.": {
+        "press_url": "https://www.merckgroup.com/en/news.html",
+        "focus_areas": [
+            "Oncology",
+            "Vaccines",
+            "Infectious Disease",
+            "Immunology"
+        ]
+    },
+    "Johnson & Johnson": {
+        "press_url": "https://www.jnj.com/media-center/press-releases",
+        "focus_areas": [
+            "Oncology",
+            "Immunology",
+            "Neuroscience"
+        ]
+    },
+    "Bristol Myers Squibb": {
+        "press_url": "https://www.bms.com/media/press-releases.html",
+        "focus_areas": [
+            "Immuno-Oncology",
+            "Cell Therapy",
+            "Cardiovascular"
+        ]
+    },
+    "AbbVie": {
+        "press_url": "https://news.abbvie.com/",
+        "focus_areas": [
+            "Immunology",
+            "Oncology",
+            "Neuroscience"
+        ]
+    },
+    "Gilead Sciences": {
+        "press_url": "https://www.gilead.com/media",
+        "focus_areas": [
+            "Oncology",
+            "HIV",
+            "Virology",
+            "Inflammation"
+        ]
+    },
+    "Regeneron Pharmaceuticals": {
+        "press_url": "https://investor.regeneron.com/news/press-releases",
+        "focus_areas": [
+            "Antibody Engineering",
+            "Oncology",
+            "Immunology",
+            "Ophthalmology"
+        ]
+    },
+    "BioNTech": {
+        "press_url": "https://investors.biontech.de/news/press-releases",
+        "focus_areas": [
+            "mRNA Oncology",
+            "Cell Therapy",
+            "Immunotherapy"
+        ]
+    },
+    "Vertex Pharmaceuticals": {
+        "press_url": "https://news.vrtx.com/press-releases",
+        "focus_areas": [
+            "Cystic Fibrosis",
+            "Gene Editing",
+            "Pain",
+            "Rare Disease"
+        ]
+    },
+    "Biogen": {
+        "press_url": "https://investors.biogen.com/news/news-releases",
+        "focus_areas": [
+            "Neuroscience",
+            "Multiple Sclerosis",
+            "Rare Disease"
+        ]
+    },
+    "Daiichi Sankyo": {
+        "press_url": "https://www.daiichisankyo.com/media/press_release/",
+        "focus_areas": [
+            "Oncology (ADC)",
+            "Cardiovascular"
+        ]
+    },
+    "Astellas Pharma": {
+        "press_url": "https://newsroom.astellas.com/news",
+        "focus_areas": [
+            "Oncology",
+            "Gene Therapy",
+            "Immunology"
+        ]
+    },
+    "Takeda Pharmaceutical": {
+        "press_url": "https://www.takeda.com/newsroom/press-releases/",
+        "focus_areas": [
+            "Rare Disease",
+            "Oncology",
+            "Gastroenterology",
+            "Neuroscience"
+        ]
+    },
+    "Arvinas": {
+        "press_url": "https://ir.arvinas.com/press-releases",
+        "focus_areas": [
+            "Targeted Protein Degradation",
+            "Oncology"
+        ]
+    },
+    "Kymera Therapeutics": {
+        "press_url": "https://investors.kymeratx.com/news-events/press-releases",
+        "focus_areas": [
+            "Targeted Protein Degradation",
+            "Immunology",
+            "Oncology"
+        ]
+    },
+    "Nurix Therapeutics": {
+        "press_url": "https://ir.nurixtx.com/press-releases",
+        "focus_areas": [
+            "E3 Ligase Biology",
+            "Oncology"
+        ]
+    },
+    "C4 Therapeutics": {
+        "press_url": "https://ir.c4therapeutics.com/press-releases",
+        "focus_areas": [
+            "Targeted Protein Degradation",
+            "Oncology"
+        ]
+    },
+    "Relay Therapeutics": {
+        "press_url": "https://ir.relaytx.com/news-events/press-releases",
+        "focus_areas": [
+            "Structure-Based Drug Design",
+            "Oncology"
+        ]
+    },
+    "Revolution Medicines": {
+        "press_url": "https://ir.revmed.com/press-releases",
+        "focus_areas": [
+            "RAS Oncology",
+            "Precision Medicine"
+        ]
+    },
+    "Blueprint Medicines": {
+        "press_url": "https://ir.blueprintmedicines.com/",
+        "focus_areas": [
+            "Precision Oncology",
+            "Rare Disease"
+        ]
+    },
+    "Genmab": {
+        "press_url": "https://ir.genmab.com/genmab-news",
+        "focus_areas": [
+            "Antibody Engineering",
+            "Oncology"
+        ]
+    },
+    "BeiGene": {
+        "press_url": "https://ir.beonemedicines.com/news-events/pressreleases",
+        "focus_areas": [
+            "Oncology",
+            "Immunotherapy"
+        ]
+    },
+    "Zai Lab": {
+        "press_url": "https://ir.zailaboratory.com/news-media/press-releases",
+        "focus_areas": [
+            "Oncology",
+            "Global Licensing"
+        ]
+    },
+    "CRISPR Therapeutics": {
+        "press_url": "https://crisprtx.com/about-us/press-releases-and-presentations/all-press",
+        "focus_areas": [
+            "Gene Editing",
+            "Cell Therapy"
+        ]
+    },
+    "Intellia Therapeutics": {
+        "press_url": "https://ir.intelliatx.com/press-releases",
+        "focus_areas": [
+            "In Vivo CRISPR",
+            "Rare Disease"
+        ]
+    },
+    "Editas Medicine": {
+        "press_url": "https://www.editasmedicine.com/newsroom/#s1",
+        "focus_areas": [
+            "Gene Editing",
+            "Ophthalmology"
+        ]
+    },
+    "Alnylam Pharmaceuticals": {
+        "press_url": "https://investors.alnylam.com/press-releases",
+        "focus_areas": [
+            "RNAi Therapeutics",
+            "Rare Disease"
+        ]
+    },
+    "Ionis Pharmaceuticals": {
+        "press_url": "https://ir.ionis.com/investor-news/press-releases",
+        "focus_areas": [
+            "Antisense Technology",
+            "Neurology",
+            "Rare Disease"
+        ]
+    },
+    "Sarepta Therapeutics": {
+        "press_url": "https://www.sarepta.com/newsroom",
+        "focus_areas": [
+            "Gene Therapy",
+            "Neuromuscular Disorders"
+        ]
+    },
+    "Immunocore": {
+        "press_url": "https://www.immunocore.com/investors/news/press-releases",
+        "focus_areas": [
+            "TCR Immunotherapy",
+            "Oncology"
+        ]
+    },
+    "Exelixis": {
+        "press_url": "https://ir.exelixis.com/press-releases",
+        "focus_areas": [
+            "Oncology Small Molecules",
+            "Combination Therapy"
+        ]
+    },
+    "Recursion Pharmaceuticals": {
+        "press_url": "https://ir.recursion.com/news-events/press-releases",
+        "focus_areas": [
+            "AI Drug Discovery",
+            "Phenotypic Screening",
+            "Oncology"
+        ]
+    },
+    "Schrödinger": {
+        "press_url": "https://ir.schrodinger.com/press-releases/default.aspx",
+        "focus_areas": [
+            "Computational Chemistry",
+            "Structure-Based Drug Design"
+        ]
+    },
+    "Insitro": {
+        "press_url": "https://www.insitro.com/publications-press/",
+        "focus_areas": [
+            "Machine Learning Biology",
+            "Fibrosis",
+            "Neurodegeneration"
+        ]
+    },
+    "Insilico Medicine": {
+        "press_url": "https://insilico.com/news",
+        "focus_areas": [
+            "Generative AI Drug Design",
+            "Preclinical to Clinical"
+        ]
+    },
+    "Isomorphic Labs": {
+        "press_url": "https://www.isomorphiclabs.com/announcements",
+        "focus_areas": [
+            "AI Protein Modeling",
+            "Structure-Based Discovery"
+        ]
+    },
+    "Numerion Labs": {
+        "press_url": "https://numerionlabs.ai/news/",
+        "focus_areas": [
+            "AI Drug Discovery",
+            "Computational Chemistry"
+        ]
+    },
+    "Generate Biomedicines": {
+        "press_url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases",
+        "focus_areas": [
+            "Generative Biology",
+            "Protein Engineering"
+        ]
+    },
+    "AbCellera": {
+        "press_url": "https://www.abcellera.com/news",
+        "focus_areas": [
+            "Antibody Discovery Platform",
+            "AI Biologics"
+        ]
+    },
+    "Sangamo Therapeutics": {
+        "press_url": "http://investor.sangamo.com/news-releases",
+        "focus_areas": [
+            "Gene Regulation",
+            "Genomic Medicine"
+        ]
+    },
+    "Genetix Bio": {
+        "press_url": "https://www.genetixbiotx.com/news.html",
+        "focus_areas": [
+            "Gene Therapy",
+            "Biotech Innovation"
+        ]
+    },
+    "Adaptimmune": {
+        "press_url": "http://adaptimmune.com/investors-and-media/news-center/press-releases",
+        "focus_areas": [
+            "T-Cell Receptor Therapy",
+            "Oncology"
+        ]
+    },
+    "Poseida Therapeutics": {
+        "press_url": "https://www.gene.com/media",
+        "focus_areas": [
+            "CAR-T",
+            "Gene Editing"
+        ]
+    },
+    "Iktos": {
+        "press_url": "https://iktos.ai/resources/articles",
+        "focus_areas": [
+            "AI Molecular Design",
+            "Generative Chemistry"
+        ]
+    },
+    "Evotec": {
+        "press_url": "https://www.evotec.com/company/media/news?category=&year=",
+        "focus_areas": [
+            "Drug Discovery Partnerships",
+            "Platform Collaboration"
+        ]
+    },
+    "WuXi AppTec": {
+        "press_url": "https://www.wuxiapptec.com/news/wuxi-news",
+        "focus_areas": [
+            "CRO Services",
+            "Preclinical Development"
+        ]
+    },
+    "ICON plc": {
+        "press_url": "https://www.iconplc.com/news-events/press-releases",
+        "focus_areas": [
+            "Clinical Trial Management",
+            "Regulatory Support"
+        ]
+    },
+    "IQVIA": {
+        "press_url": "https://www.iqvia.com/newsroom",
+        "focus_areas": [
+            "Clinical Data Analytics",
+            "Real-World Evidence"
+        ]
+    },
+    "Parexel": {
+        "press_url": "https://newsroom.parexel.com/press-releases",
+        "focus_areas": [
+            "Regulatory Consulting",
+            "Clinical Trials"
+        ]
+    },
+    "Catalent": {
+        "press_url": "https://www.catalent.com/news-and-events/",
+        "focus_areas": [
+            "Drug Manufacturing",
+            "Biologics",
+            "Formulation Development"
+        ]
+    },
+    "GlaxoSmithKline": {
+        "press_url": "https://www.gsk.com/en-gb/media/press-releases/",
+        "focus_areas": [
+            "Vaccines",
+            "Specialty Medicines",
+            "Oncology",
+            "Immunology",
+            "HIV"
+        ]
+    },
+    "Merck KGaA": {
+        "press_url": "https://www.merckgroup.com/en/news/press-releases.html",
+        "focus_areas": [
+            "Oncology",
+            "Neurology",
+            "Immunology",
+            "Fertility",
+            "Endocrinology"
+        ]
+    },
+    "UCB": {
+        "press_url": "https://www.ucb.com/stories-media/press-releases",
+        "focus_areas": [
+            "Neurology",
+            "Immunology",
+            "Bone",
+            "Rare Disease"
+        ]
+    },
+    "Ipsen": {
+        "press_url": "https://www.ipsen.com/media-room/press-releases/",
+        "focus_areas": [
+            "Oncology",
+            "Neuroscience",
+            "Rare Disease"
+        ]
+    },
+    "Eisai": {
+        "press_url": "https://www.eisai.com/news/index.html",
+        "focus_areas": [
+            "Neurology",
+            "Oncology",
+            "Alzheimer's Disease"
+        ]
+    },
+    "Sumitomo Pharma": {
+        "press_url": "https://www.sumitomo-pharma.com/news/",
+        "focus_areas": [
+            "Psychiatry",
+            "Neurology",
+            "Oncology",
+            "Urology",
+            "Regenerative Medicine"
+        ]
+    },
+    "Otsuka Pharmaceutical": {
+        "press_url": "https://www.otsuka.co.jp/en/company/newsreleases/",
+        "focus_areas": [
+            "Psychiatry",
+            "Nephrology",
+            "Oncology",
+            "Dermatology"
+        ]
+    },
+    "Shionogi": {
+        "press_url": "https://www.shionogi.com/global/en/news.html",
+        "focus_areas": [
+            "Infectious Disease",
+            "Pain",
+            "Psychiatry",
+            "Oncology"
+        ]
+    },
+    "Chugai Pharmaceutical": {
+        "press_url": "https://www.chugai-pharm.co.jp/english/news/",
+        "focus_areas": [
+            "Oncology",
+            "Immunology",
+            "Bone/Joint Disease",
+            "Neurology"
+        ]
+    },
+    "Kyowa Kirin": {
+        "press_url": "https://www.kyowakirin.com/media_center/news_releases/",
+        "focus_areas": [
+            "Nephrology",
+            "Oncology",
+            "Immunology",
+            "Rare Disease"
+        ]
+    },
+    "Ono Pharmaceutical": {
+        "press_url": "https://www.ono-pharma.com/en/news",
+        "focus_areas": [
+            "Oncology",
+            "Immunology",
+            "Pain",
+            "Urology"
+        ]
+    },
+    "CSL Behring": {
+        "press_url": "https://www.cadilapharma.com/media/in-news/",
+        "focus_areas": [
+            "Rare Disease",
+            "Plasma-derived Therapies",
+            "Immunology",
+            "Coagulation"
+        ]
+    },
+    "Lupin Limited": {
+        "press_url": "ttps://www.lupin.com/media/press-releases",
+        "focus_areas": [
+            "Generics",
+            "Specialty Pharma",
+            "Biosimilars",
+            "APIs",
+            "Respiratory"
+        ]
+    },
+    "Mankind Pharma": {
+        "press_url": "https://www.mankindpharma.com/media/",
+        "focus_areas": [
+            "Consumer Health",
+            "Chronic Disease",
+            "Acute Care",
+            "Generics"
+        ]
+    },
+    "Alembic Pharmaceuticals": {
+        "press_url": "https://alembicpharmaceuticals.com/press-releases",
+        "focus_areas": [
+            "APIs",
+            "Generics",
+            "Specialty Pharma",
+            "Injectables"
+        ]
+    },
+    "Aravind Eye Care": {
+        "press_url": "https://aravind.org/in-the-media/",
+        "focus_areas": [
+            "Ophthalmology",
+            "Eye Disease Research",
+            "Global Eye Health"
+        ]
+    },
+    "Serum Institute of India": {
+        "press_url": "https://www.seruminstitute.com/news.php",
+        "focus_areas": [
+            "Vaccines",
+            "Biologics",
+            "Global Health"
+        ]
+    },
+    "Alvotech": {
+        "press_url": "https://www.alvotech.com/newsroom",
+        "focus_areas": [
+            "Biosimilars",
+            "Monoclonal Antibodies",
+            "Autoimmune",
+            "Oncology"
+        ]
+    },
+    "Celltrion": {
+        "press_url": "https://www.celltrion.com/en-us/company/media-center",
+        "focus_areas": [
+            "Biosimilars",
+            "Oncology",
+            "Autoimmune",
+            "Infectious Disease"
+        ]
+    },
+    "Yuhan Corporation": {
+        "press_url": "https://www.yuhan.co.kr/eng/news/press.do",
+        "focus_areas": [
+            "Respiratory",
+            "CNS",
+            "Metabolic Disease",
+            "Generics"
+        ]
+    },
+    "Sino Biopharmaceutical": {
+        "press_url": "https://www.sinobiopharm.com/en/news.php",
+        "focus_areas": [
+            "Oncology",
+            "Hepatology",
+            "Cardiovascular",
+            "Respiratory",
+            "Orthopedics"
+        ]
+    },
+    "Zymeworks": {
+        "press_url": "https://ir.zymeworks.com/news-releases",
+        "focus_areas": [
+            "ADC",
+            "Bispecific Antibodies",
+            "Oncology"
+        ]
+    },
+    "Merus": {
+        "press_url": "https://ir.merus.nl/news-releases",
+        "focus_areas": [
+            "Bispecific Antibodies",
+            "Oncology",
+            "Immunotherapy"
+        ]
+    },
+    "Disc Medicine": {
+        "press_url": "https://ir.discmedicine.com/news-releases",
+        "focus_areas": [
+            "Hematology",
+            "Iron Metabolism",
+            "Erythropoiesis"
+        ]
+    },
+    "Intra-Cellular Therapies": {
+        "press_url": "https://ir.intracellulartherapies.com/press-releases",
+        "focus_areas": [
+            "CNS",
+            "Psychiatry",
+            "Bipolar",
+            "Parkinson's"
+        ]
+    },
+    "Praxis Precision Medicine": {
+        "press_url": "https://ir.praxismedicines.com/press-releases",
+        "focus_areas": [
+            "Neurology",
+            "Epilepsy",
+            "Tremor",
+            "CNS Ion Channels"
+        ]
+    },
+    "Sage Therapeutics": {
+        "press_url": "https://investor.sagerx.com/press-releases",
+        "focus_areas": [
+            "GABA Biology",
+            "Neurology",
+            "Depression",
+            "Epilepsy"
+        ]
+    },
+    "Solid Biosciences": {
+        "press_url": "https://investors.solidbio.com/press-releases",
+        "focus_areas": [
+            "Gene Therapy",
+            "Duchenne Muscular Dystrophy"
+        ]
+    },
+    "Entrada Therapeutics": {
+        "press_url": "https://ir.entradatx.com/news-releases",
+        "focus_areas": [
+            "Endosomal Escape",
+            "Neuromuscular Disorders",
+            "Oligonucleotide Delivery"
+        ]
+    },
+    "Silence Therapeutics": {
+        "press_url": "https://www.silence-therapeutics.com/news/press-releases/",
+        "focus_areas": [
+            "siRNA",
+            "Hematology",
+            "Cardiovascular",
+            "Rare Disease"
+        ]
+    },
+    "Larimar Therapeutics": {
+        "press_url": "https://investors.larimartx.com/press-releases",
+        "focus_areas": [
+            "Rare Disease",
+            "Friedreich Ataxia",
+            "Mitochondrial"
+        ]
+    },
+    "ProQR Therapeutics": {
+        "press_url": "https://ir.proqr.com/press-releases",
+        "focus_areas": [
+            "RNA Repair",
+            "Inherited Retinal Disease",
+            "RNA Editing"
+        ]
+    },
+    "Wave Life Sciences": {
+        "press_url": "https://ir.wavelifesciences.com/press-releases",
+        "focus_areas": [
+            "Stereopure Nucleic Acid Chemistry",
+            "Neurology",
+            "Rare Disease"
+        ]
+    },
+    "Imvax": {
+        "press_url": "https://www.imvax.com/news",
+        "focus_areas": [
+            "Glioblastoma",
+            "Personalized Immunotherapy",
+            "CNS Oncology"
+        ]
+    },
+    "Lyell Immunopharma": {
+        "press_url": "https://ir.lyell.com/news-events/news-releases",
+        "focus_areas": [
+            "T-Cell Reprogramming",
+            "Solid Tumor Oncology",
+            "Cell Therapy"
+        ]
+    },
+    "Fate Therapeutics": {
+        "press_url": "https://ir.fatetherapeutics.com/press-releases",
+        "focus_areas": [
+            "iPSC Cell Therapy",
+            "NK Cells",
+            "CAR-T",
+            "Oncology"
+        ]
+    },
+    "Precision BioSciences": {
+        "press_url": "https://investor.precisionbiosciences.com/press-releases",
+        "focus_areas": [
+            "ARCUS Genome Editing",
+            "CAR-T",
+            "Gene Therapy"
+        ]
+    },
+    "Graphite Bio": {
+        "press_url": "https://ir.graphitebio.com/press-releases",
+        "focus_areas": [
+            "Precise Gene Correction",
+            "Hematology",
+            "Sickle Cell Disease"
+        ]
+    },
+    "Annexon Biosciences": {
+        "press_url": "https://ir.annexonbio.com/news-releases",
+        "focus_areas": [
+            "Complement Biology",
+            "Neurodegeneration",
+            "Autoimmune",
+            "Ophthalmic"
+        ]
+    },
+    "Ikena Oncology": {
+        "press_url": "https://ir.ikenaoncology.com/press-releases",
+        "focus_areas": [
+            "Transcription Factor Oncology",
+            "MEK/ERK Pathway",
+            "AHR Biology"
+        ]
+    },
+    "Monte Rosa Therapeutics": {
+        "press_url": "https://www.monterosatx.com/news/",
+        "focus_areas": [
+            "Molecular Glue Degraders",
+            "Oncology",
+            "Protein Degradation"
+        ]
+    },
+    "Fog Pharmaceuticals": {
+        "press_url": "https://fogpharma.com/news/",
+        "focus_areas": [
+            "Helical Drug Scaffolds",
+            "Undruggable Targets",
+            "Oncology"
+        ]
+    },
+    "Incyte Corporation": {
+        "press_url": "https://investor.incyte.com/press-releases",
+        "focus_areas": [
+            "Oncology",
+            "Inflammation",
+            "JAK Inhibitors",
+            "Dermatology"
+        ]
+    },
+    "Agios Pharmaceuticals": {
+        "press_url": "https://investor.agios.com/news-events/press-releases",
+        "focus_areas": [
+            "Hematology",
+            "IDH Mutations",
+            "Thalassemia"
+        ]
+    },
+    "Keros Therapeutics": {
+        "press_url": "https://ir.kerostx.com/news-events/press-releases",
+        "focus_areas": [
+            "TGF-beta Superfamily",
+            "Hematology",
+            "Musculoskeletal Disease"
+        ]
+    },
+    "Acelot Therapeutics": {
+        "press_url": "https://www.aceabio.com/news/",
+        "focus_areas": [
+            "Cancer Biology",
+            "Tumor Microenvironment",
+            "Oncology"
+        ]
+    },
+    "Alkermes": {
+        "press_url": "https://investor.alkermes.com/press-releases",
+        "focus_areas": [
+            "CNS",
+            "Addiction",
+            "Schizophrenia",
+            "Depression"
+        ]
+    },
+    "Replimune": {
+        "press_url": "https://ir.replimune.com/press-releases",
+        "focus_areas": [
+            "Oncolytic Virus Immunotherapy",
+            "Melanoma",
+            "Solid Tumors"
+        ]
+    },
+    "CytomX Therapeutics": {
+        "press_url": "https://ir.cytomx.com/press-releases",
+        "focus_areas": [
+            "Probody Therapeutics",
+            "Oncology",
+            "Tumor-Activated Biologics"
+        ]
+    },
+    "KaryoPharm Therapeutics": {
+        "press_url": "https://investors.karyopharm.com/press-releases",
+        "focus_areas": [
+            "XPO1 Inhibition",
+            "Hematology",
+            "Myeloma",
+            "Myelodysplastic Syndromes"
+        ]
+    },
+    "Genfit": {
+        "press_url": "https://www.genfit.com/press-releases/",
+        "focus_areas": [
+            "Liver Disease",
+            "NASH",
+            "Cholestatic Liver Disease"
+        ]
+    },
+    "Madrigal Pharmaceuticals": {
+        "press_url": "https://ir.madrigalpharma.com/news-releases",
+        "focus_areas": [
+            "NASH/MASH",
+            "Liver Disease",
+            "THR-beta Agonism"
+        ]
+    },
+    "Corcept Therapeutics": {
+        "press_url": "https://ir.corcept.com/news-releases",
+        "focus_areas": [
+            "Cortisol Modulation",
+            "Oncology",
+            "Metabolic Disease"
+        ]
+    },
+    "Imvax Inc": {
+        "press_url": "https://www.imvax.com/news/",
+        "focus_areas": [
+            "Brain Tumor Immunotherapy",
+            "IDH-Mutant Gliomas"
+        ]
+    },
+    "Novavax": {
+        "press_url": "https://ir.novavax.com/press-releases",
+        "focus_areas": [
+            "Protein Subunit Vaccines",
+            "COVID-19",
+            "Influenza",
+            "RSV"
+        ]
+    },
+    "Bavarian Nordic": {
+        "press_url": "https://www.bavarian-nordic.com/investor/news.aspx",
+        "focus_areas": [
+            "Viral Vaccines",
+            "Mpox",
+            "Cancer Immunotherapy",
+            "RSV"
+        ]
+    },
+    "Valneva": {
+        "press_url": "https://valneva.com/press-releases/",
+        "focus_areas": [
+            "Travel Vaccines",
+            "Lyme Disease",
+            "Chikungunya"
+        ]
+    },
+    "Kineta": {
+        "press_url": "https://kineta.com/news/",
+        "focus_areas": [
+            "Immuno-oncology",
+            "VISTA Checkpoint",
+            "Innate Immunity"
+        ]
+    },
+    "NextCure": {
+        "press_url": "https://ir.nextcure.com/news-releases",
+        "focus_areas": [
+            "Immunomedicine",
+            "B7-H4",
+            "Oncology"
+        ]
+    },
+    "Merus NV": {
+        "press_url": "https://ir.merus.nl/news-releases",
+        "focus_areas": [
+            "Bispecific Full-Length Antibodies",
+            "Oncology",
+            "Zenocutuzumab"
+        ]
+    },
+    "Compass Pathways": {
+        "press_url": "https://ir.compasspathways.com/News--Events-/news/default.aspx",
+        "focus_areas": [
+            "Psilocybin Therapy",
+            "Mental Health",
+            "Treatment-Resistant Depression"
+        ]
+    },
+    "MindMed": {
+        "press_url": "https://ir.mindmed.co/press-releases",
+        "focus_areas": [
+            "Psychedelic Medicines",
+            "Anxiety Disorders",
+            "ADHD"
+        ]
+    },
+    "Tango Therapeutics": {
+        "press_url": "https://ir.tangotx.com/press-releases",
+        "focus_areas": [
+            "CRISPR Functional Genomics",
+            "Synthetic Lethality",
+            "Oncology"
+        ]
+    },
+    "Mirati Therapeutics": {
+        "press_url": "https://ir.mirati.com/press-releases",
+        "focus_areas": [
+            "KRAS Oncology",
+            "Lung Cancer",
+            "Precision Medicine"
+        ]
+    },
+    "Agenus": {
+        "press_url": "https://investor.agenusbio.com/press-releases",
+        "focus_areas": [
+            "Antibody Discovery",
+            "Immune Checkpoint",
+            "Oncology",
+            "CTLA-4"
+        ]
+    },
+    "Argenx": {
+        "press_url": "https://argenx.com/investors/events-presentations",
+        "focus_areas": [
+            "FcRn Biology",
+            "Autoimmune",
+            "Rare Disease",
+            "Myasthenia Gravis"
+        ]
+    },
+    "UCB Pharma": {
+        "press_url": "https://www.ucb.com/stories-media/press-releases",
+        "focus_areas": [
+            "Neurology",
+            "Immunology",
+            "Seizure Disorders",
+            "Myasthenia Gravis"
+        ]
+    },
+    "Prothena Corporation": {
+        "press_url": "https://ir.prothena.com/press-releases",
+        "focus_areas": [
+            "Protein Dysregulation",
+            "Amyloidosis",
+            "Neurodegenerative Disease"
+        ]
+    },
+    "AC Immune": {
+        "press_url": "https://ir.acimmune.com/news",
+        "focus_areas": [
+            "Alzheimer's Disease",
+            "Neurodegeneration",
+            "Tau & Abeta Biology"
+        ]
+    },
+    "Neurimmune": {
+        "press_url": "https://neurimmune.com/news",
+        "focus_areas": [
+            "Human-derived Antibodies",
+            "Neurodegeneration",
+            "ALS",
+            "Alzheimer's"
+        ]
+    },
+    "Relay Tx": {
+        "press_url": "https://ir.relaytx.com/news-events/press-releases",
+        "focus_areas": [
+            "Motion-based Drug Design",
+            "FGFR2",
+            "Oncology",
+            "PI3Ka"
+        ]
+    },
+    "HitGen": {
+        "press_url": "https://www.hitgen.com/news/",
+        "focus_areas": [
+            "DNA-encoded Libraries",
+            "Fragment-based Drug Discovery",
+            "CRO Services"
+        ]
+    },
+    "Vividion Therapeutics": {
+        "press_url": "https://vividion.com/news/",
+        "focus_areas": [
+            "Chemoproteomics",
+            "Covalent Drug Discovery",
+            "Undruggable Targets"
+        ]
+    },
+    "Xaira Therapeutics": {
+        "press_url": "https://xaira.com/",
+        "focus_areas": [
+            "Generative AI Drug Design",
+            "Molecular Biology",
+            "Protein Structure"
+        ]
+    },
+    "PostEra": {
+        "press_url": "https://postera.ai/news",
+        "focus_areas": [
+            "Medicinal Chemistry AI",
+            "Synthesis Planning",
+            "Open Science Drug Discovery"
+        ]
+    },
+    "Chemify": {
+        "press_url": "https://www.chemify.io/news",
+        "focus_areas": [
+            "Automated Chemical Synthesis",
+            "AI Chemistry",
+            "Drug Discovery Automation"
+        ]
+    },
+    "Cellipont Bioservices": {
+        "press_url": "https://cellipont.com/press-release/",
+        "focus_areas": [
+            "Cell Therapy CDMO",
+            "Viral Vector Manufacturing",
+            "Cell Processing"
+        ]
+    },
+    "OXB (Oxford Biomedica)": {
+        "press_url": "https://oxb.com/news/",
+        "focus_areas": [
+            "Lentiviral Vectors",
+            "Gene Therapy CDMO",
+            "AAV Manufacturing"
+        ]
+    },
+    "Spark Therapeutics": {
+        "press_url": "https://sparktx.com/press-releases/",
+        "focus_areas": [
+            "Hemophilia Gene Therapy",
+            "Retinal Disease",
+            "AAV Gene Delivery"
+        ]
+    },
+    "Genethon": {
+        "press_url": "https://www.genethon.fr/newsroom/actualites/",
+        "focus_areas": [
+            "Gene Therapy",
+            "Rare Neuromuscular Disease",
+            "Non-profit Research"
+        ]
+    },
+    "4D Molecular Therapeutics": {
+        "press_url": "https://ir.4dmoleculartherapeutics.com/press-releases",
+        "focus_areas": [
+            "Evolved AAV Capsids",
+            "Ophthalmology",
+            "Pulmonary",
+            "Cardiology"
+        ]
+    },
+    "Apic Bio": {
+        "press_url": "https://apicbio.com/news/",
+        "focus_areas": [
+            "Dual AAV Systems",
+            "Alpha-1 Antitrypsin Deficiency",
+            "Liver Disease Gene Therapy"
+        ]
+    },
+    "Asimov": {
+        "press_url": "https://www.asimov.com/news/",
+        "focus_areas": [
+            "Synthetic Biology Platform",
+            "Gene Circuit Design",
+            "Biomanufacturing AI"
+        ]
+    },
+    "Ginkgo Bioworks": {
+        "press_url": "https://www.ginkgo.bio/resources/press",
+        "focus_areas": [
+            "Synthetic Biology",
+            "Biological Foundry",
+            "Biosecurity",
+            "Biomanufacturing"
+        ]
+    },
+    "Zymergen": {
+        "press_url": "https://www.zymergen.com/news/",
+        "focus_areas": [
+            "Biological R&D Platform",
+            "Material Science",
+            "Genomics"
+        ]
+    },
+    "Dotmatics": {
+        "press_url": "https://www.dotmatics.com/news/",
+        "focus_areas": [
+            "Scientific Informatics",
+            "R&D Data Management",
+            "Drug Discovery Software"
+        ]
+    },
+    "Ardigen": {
+        "press_url": "https://ardigen.com/category/news/",
+        "focus_areas": [
+            "AI for Drug Discovery",
+            "Immunoinformatics",
+            "Bioinformatics CRO"
+        ]
+    },
+    "Healx": {
+        "press_url": "https://healx.ai/news/",
+        "focus_areas": [
+            "AI Rare Disease Drug Discovery",
+            "Drug Repurposing",
+            "NLP"
+        ]
+    },
+    "BenevolentAI": {
+        "press_url": "https://www.benevolent.com/news",
+        "focus_areas": [
+            "AI Drug Discovery",
+            "Biomedical Knowledge Graph",
+            "Target Identification"
+        ]
+    },
+    "Exscientia": {
+        "press_url": "https://www.exscientia.ai/news-events",
+        "focus_areas": [
+            "AI-driven Drug Design",
+            "Automated Drug Discovery",
+            "Oncology",
+            "Inflammation"
+        ]
+    },
+    "Chemspace": {
+        "press_url": "https://chem-space.com/news",
+        "focus_areas": [
+            "Chemical Compound Sourcing",
+            "Drug Discovery Reagents",
+            "Building Blocks"
+        ]
+    },
+    "Enamine": {
+        "press_url": "https://enamine.net/news-press-releases",
+        "focus_areas": [
+            "Compound Libraries",
+            "Building Blocks",
+            "Screening Collections",
+            "Custom Synthesis"
+        ]
+    },
+    "Cresset Group": {
+        "press_url": "https://cresset-group.com/about/news/",
+        "focus_areas": [
+            "Computational Chemistry",
+            "Ligand Design",
+            "Lead Optimization Software"
+        ]
+    },
+    "OpenEye Scientific": {
+        "press_url": "https://www.eyesopen.com/news",
+        "focus_areas": [
+            "Molecular Modeling",
+            "Virtual Screening",
+            "CADD Platform"
+        ]
+    },
+    "Chemical Computing Group (CCG)": {
+        "press_url": "https://www.chemcomp.com/en/Events.htm",
+        "focus_areas": [
+            "MOE Drug Discovery Platform",
+            "Computational Chemistry",
+            "Molecular Modeling"
+        ]
+    },
+    "BioSolveIT": {
+        "press_url": "https://www.biosolveit.de/company/news/",
+        "focus_areas": [
+            "Fragment-based Drug Design",
+            "Virtual Screening",
+            "Lead Generation Software"
+        ]
+    },
+    "Chemaxon": {
+        "press_url": "https://chemaxon.com/news",
+        "focus_areas": [
+            "Cheminformatics",
+            "Chemical Drawing & Registration",
+            "Drug Discovery Informatics"
+        ]
+    },
+    "Dassault Systemes BIOVIA": {
+        "press_url": "https://www.3ds.com/products/biovia/media-press",
+        "focus_areas": [
+            "Life Sciences Software",
+            "Molecular Dynamics",
+            "Pipeline Pilot",
+            "ELN"
+        ]
+    },
+    "Nimbus Therapeutics": {
+        "press_url": "https://www.nimbustx.com/news/",
+        "focus_areas": [
+            "Structure-based Drug Design",
+            "TYK2 Inhibition",
+            "Metabolic Disease",
+            "Oncology"
+        ]
+    },
+    "Accent Therapeutics": {
+        "press_url": "https://accenttx.com/news-events/",
+        "focus_areas": [
+            "RNA Modification Biology",
+            "RNA Writers/Erasers/Readers",
+            "Oncology"
+        ]
+    },
+    "Gotham Therapeutics": {
+        "press_url": "https://gothamtx.com/news/",
+        "focus_areas": [
+            "m6A RNA Modification",
+            "Oncology",
+            "AML"
+        ]
+    },
+    "Storm Therapeutics": {
+        "press_url": "https://www.stormtherapeutics.com/news/",
+        "focus_areas": [
+            "Epitranscriptomics",
+            "RNA Modification",
+            "Oncology"
+        ]
+    },
+    "Cellarity": {
+        "press_url": "https://www.cellarity.com/news",
+        "focus_areas": [
+            "Cell Behavior Drug Discovery",
+            "AI Biology",
+            "Single-cell Omics"
+        ]
+    },
+    "Abridge": {
+        "press_url": "https://www.abridge.com/blog",
+        "focus_areas": [
+            "Clinical AI",
+            "Medical Conversation AI",
+            "Healthcare Informatics"
+        ]
+    },
+    "Tempus AI": {
+        "press_url": "https://www.tempus.com/news/",
+        "focus_areas": [
+            "AI-driven Clinical Intelligence",
+            "Oncology Data",
+            "Multimodal Real-World Data"
+        ]
+    },
+    "Grail": {
+        "press_url": "https://grail.com/press-releases/",
+        "focus_areas": [
+            "Multi-cancer Early Detection",
+            "Methylation cfDNA",
+            "Screening"
+        ]
+    },
+    "10x Genomics": {
+        "press_url": "https://investors.10xgenomics.com/news/default.aspx",
+        "focus_areas": [
+            "Single-cell Genomics",
+            "Spatial Biology",
+            "Multiomics Tools"
+        ]
+    },
+    "Oxford Nanopore Technologies": {
+        "press_url": "https://nanoporetech.com/news",
+        "focus_areas": [
+            "Nanopore Sequencing",
+            "Long Reads",
+            "Portable Sequencing",
+            "Epigenetics"
+        ]
+    },
+    "Absci Corporation": {
+        "press_url": "https://investors.absci.com/news-and-events/news-releases",
+        "focus_areas": [
+            "AI Drug Creation",
+            "Zero-shot Antibody Design",
+            "Generative AI Biologics"
+        ]
+    },
+    "BigHat Biosciences": {
+        "press_url": "https://www.bighatbio.com/news/",
+        "focus_areas": [
+            "ML Antibody Design",
+            "Antibody Engineering",
+            "Biologics Discovery"
+        ]
+    },
+    "Nabla Bio": {
+        "press_url": "https://www.nabla.bio/news",
+        "focus_areas": [
+            "AI Antibody Design",
+            "Protein Language Models",
+            "Therapeutic Biologics"
+        ]
+    },
+    "ProteinQure": {
+        "press_url": "https://proteinqure.com/news/",
+        "focus_areas": [
+            "Protein Design AI",
+            "Macrocycles",
+            "Peptide Drug Design"
+        ]
+    },
+    "Deep Genomics": {
+        "press_url": "https://www.deepgenomics.com/news/",
+        "focus_areas": [
+            "RNA-targeting AI",
+            "Oligonucleotide Therapeutics",
+            "Rare Disease"
+        ]
+    },
+    "Nuclera": {
+        "press_url": "https://www.nuclera.com/latest-news/",
+        "focus_areas": [
+            "Cell-free Protein Expression",
+            "Rapid Protein Production",
+            "Drug Discovery Tools"
+        ]
+    },
+    "Proxygen": {
+        "press_url": "https://proxygen.com/news/",
+        "focus_areas": [
+            "Molecular Glue Degraders",
+            "Targeted Protein Degradation",
+            "Oncology"
+        ]
+    },
+    "Springworks Therapeutics": {
+        "press_url": "https://ir.springworkstx.com/news-releases",
+        "focus_areas": [
+            "Rare Oncology",
+            "Desmoid Tumors",
+            "Multiple Myeloma",
+            "Notch Pathway"
+        ]
+    },
+    "Tesaro (GSK oncology)": {
+        "press_url": "https://www.gsk.com/en-gb/media/press-releases/",
+        "focus_areas": [
+            "PARP Inhibitor Niraparib",
+            "Ovarian Cancer",
+            "Oncology"
+        ]
+    },
+    "Menarini Group": {
+        "press_url": "https://www.menarini.com/en-us/news.html",
+        "focus_areas": [
+            "Oncology",
+            "Cardiology",
+            "Infectious Diseases",
+            "Dermatology"
+        ]
+    },
+    "Almirall": {
+        "press_url": "https://www.almirall.com/media",
+        "focus_areas": [
+            "Dermatology",
+            "Atopic Dermatitis",
+            "Psoriasis",
+            "Actinic Keratosis"
+        ]
+    },
+    "Galapagos": {
+        "press_url": "https://www.glpg.com/press-releases",
+        "focus_areas": [
+            "Inflammation",
+            "Fibrosis",
+            "Oncology",
+            "Drug Discovery Platform"
+        ]
+    },
+    "Ablynx (Sanofi)": {
+        "press_url": "https://www.sanofi.com/en/media-room/press-releases",
+        "focus_areas": [
+            "Nanobody Technology",
+            "Rare Disease",
+            "Hematology"
+        ]
+    },
+    "Zealand Pharma": {
+        "press_url": "https://www.zealandpharma.com/news-media/?tab=newsroom",
+        "focus_areas": [
+            "Peptide Drug Discovery",
+            "GI Disease",
+            "Metabolic Disease",
+            "Rare Disease"
+        ]
+    },
+    "Aerpio Pharmaceuticals": {
+        "press_url": "https://aerpio.com/news/",
+        "focus_areas": [
+            "Tie2 Activation",
+            "Diabetic Macular Edema",
+            "Vascular Biology"
+        ]
+    },
+    "Tune Therapeutics": {
+        "press_url": "https://tunetx.com/news/",
+        "focus_areas": [
+            "Epigenome Editing",
+            "Gene Regulation",
+            "Liver Disease",
+            "Oncology"
+        ]
+    },
+    "Crinetics Pharmaceuticals": {
+        "press_url": "https://crinetics.com/news-events/?filter=press-releases",
+        "focus_areas": [
+            "Endocrine Disorders",
+            "Acromegaly",
+            "Cushing's Disease",
+            "PCOS"
+        ]
+    },
+    "Aerpio": {
+        "press_url": "https://aerpio.com/news/",
+        "focus_areas": [
+            "Tie2 Pathway",
+            "Ophthalmic Disease",
+            "Vascular Stabilization"
+        ]
+    },
+    "Juvena Therapeutics": {
+        "press_url": "https://www.juvenatherapeutics.com/news/",
+        "focus_areas": [
+            "Secretome-driven Regeneration",
+            "Aging Biology",
+            "Muscle Disease"
+        ]
+    },
+    "Calico Life Sciences": {
+        "press_url": "https://www.calicolabs.com/news",
+        "focus_areas": [
+            "Longevity Research",
+            "Aging Biology",
+            "Neurodegeneration"
+        ]
+    },
+    "Change Bioscience": {
+        "press_url": "https://changebioscience.com/news/",
+        "focus_areas": [
+            "Epigenetic Reprogramming",
+            "Aging",
+            "Regenerative Medicine"
+        ]
+    },
+    "Altos Labs": {
+        "press_url": "https://www.altoslabs.com/featured",
+        "focus_areas": [
+            "Cellular Reprogramming",
+            "Rejuvenation Biology",
+            "Aging"
+        ]
+    },
+    "Retro Biosciences": {
+        "press_url": "https://www.retro.bio/news",
+        "focus_areas": [
+            "Longevity",
+            "Autophagy",
+            "Plasma Fraction Therapies"
+        ]
+    },
+    "AnaptysBio": {
+        "press_url": "hhttps://ir.anaptysbio.com/news",
+        "focus_areas": [
+            "Antibody Discovery",
+            "Dermatology",
+            "Inflammatory Disease",
+            "PD-1 Agonism"
+        ]
+    },
+    "Travere Therapeutics": {
+        "press_url": "https://ir.travere.com/press-releases",
+        "focus_areas": [
+            "Rare Kidney Disease",
+            "IgA Nephropathy",
+            "FSGS"
+        ]
+    },
+    "Omeros Corporation": {
+        "press_url": "https://investor.omeros.com/press-releases",
+        "focus_areas": [
+            "Complement Pathway",
+            "PDE10 Inhibition",
+            "Inflammation",
+            "CNS"
+        ]
+    },
+    "Alexion Pharmaceuticals": {
+        "press_url": "https://alexion.com/media-center/press-releases",
+        "focus_areas": [
+            "Complement Inhibition",
+            "PNH",
+            "aHUS",
+            "Rare Disease"
+        ]
+    },
+    "BioCryst Pharmaceuticals": {
+        "press_url": "https://ir.biocryst.com/news-events/press-releases",
+        "focus_areas": [
+            "Hereditary Angioedema",
+            "Plasma Kallikrein Inhibition",
+            "Rare Disease"
+        ]
+    },
+    "Springworks Tx": {
+        "press_url": "https://ir.springworkstx.com/news-releases",
+        "focus_areas": [
+            "Gamma Secretase Inhibitors",
+            "Desmoid Tumor",
+            "Myeloma"
+        ]
+    },
+    "Sosei Heptares": {
+        "press_url": "https://www.soseiheptares.com/news/press-releases/",
+        "focus_areas": [
+            "GPCR Structure-based Drug Discovery",
+            "CNS",
+            "Gastroenterology"
+        ]
+    },
+    "Gossamer Bio": {
+        "press_url": "https://ir.gossamerbio.com/press-releases",
+        "focus_areas": [
+            "Pulmonary Hypertension",
+            "Eosinophilic Conditions",
+            "Oncology"
+        ]
+    },
+    "Altimmune": {
+        "press_url": "https://ir.altimmune.com/press-releases",
+        "focus_areas": [
+            "Obesity/MASH",
+            "Peptide GLP-1/Glucagon",
+            "Liver Disease"
+        ]
+    },
+    "Carmot Therapeutics": {
+        "press_url": "https://carmot.us/news/",
+        "focus_areas": [
+            "Obesity",
+            "Diabetes",
+            "GLP-1/GIP Receptor Agonism"
+        ]
+    },
+    "Inventiva Pharma": {
+        "press_url": "https://inventivapharma.com/press-releases/",
+        "focus_areas": [
+            "NASH/MASH",
+            "Mucopolysaccharidoses",
+            "Pan-PPAR Agonism"
+        ]
+    },
+    "89bio": {
+        "press_url": "https://ir.89bio.com/press-releases",
+        "focus_areas": [
+            "FGF21 Analog",
+            "NASH/MASH",
+            "Hypertriglyceridemia"
+        ]
+    },
+    "Sagimet Biosciences": {
+        "press_url": "https://ir.sagimet.com/press-releases",
+        "focus_areas": [
+            "NASH",
+            "Fatty Acid Synthase Inhibition",
+            "FASN"
+        ]
+    },
+    "GRAIL Inc": {
+        "press_url": "https://grail.com/press-releases/",
+        "focus_areas": [
+            "Multi-cancer Detection",
+            "Galleri Test",
+            "cfDNA Methylation"
+        ]
+    },
+    "Rocket Pharmaceuticals": {
+        "press_url": "https://ir.rocketpharma.com/press-releases",
+        "focus_areas": [
+            "Lentiviral & AAV Gene Therapy",
+            "Rare Pediatric Disease",
+            "Hematology"
+        ]
+    },
+    "Orchard Therapeutics": {
+        "press_url": "https://ir.orchard-tx.com/",
+        "focus_areas": [
+            "Lentiviral Gene Therapy",
+            "Pediatric Rare Disease",
+            "Hematopoietic Stem Cells"
+        ]
+    },
+    "Mustang Bio": {
+        "press_url": "https://ir.mustangbio.com/news-events",
+        "focus_areas": [
+            "Lentiviral CAR-T",
+            "Hematologic Cancers",
+            "Brain Tumors"
+        ]
+    },
+    "Pharvaris": {
+        "press_url": "https://ir.pharvaris.com/press-releases",
+        "focus_areas": [
+            "Hereditary Angioedema",
+            "Bradykinin B2 Receptor",
+            "Oral Peptide"
+        ]
+    },
+    "Aldeyra Therapeutics": {
+        "press_url": "https://ir.aldeyra.com/press-releases",
+        "focus_areas": [
+            "Aldehyde Trap Chemistry",
+            "Inflammatory Disease",
+            "Dry Eye"
+        ]
+    },
+    "Translate Bio (Sanofi)": {
+        "press_url": "https://www.sanofi.com/en/media-room/press-releases",
+        "focus_areas": [
+            "mRNA Technology",
+            "Cystic Fibrosis",
+            "mRNA Platform"
+        ]
+    },
+    "Kodiak Sciences": {
+        "press_url": "https://ir.kodiak.com/press-releases",
+        "focus_areas": [
+            "ABC Platform",
+            "Retinal Disease",
+            "Anti-VEGF",
+            "Eye Disease"
+        ]
+    },
+    "Regenxbio": {
+        "press_url": "https://ir.regenxbio.com/press-releases",
+        "focus_areas": [
+            "NAV AAV Platform",
+            "Retinal Disease",
+            "Gene Therapy",
+            "Wet AMD"
+        ]
+    },
+    "Lipocine": {
+        "press_url": "https://ir.lipocine.com/press-releases",
+        "focus_areas": [
+            "Oral Drug Delivery",
+            "Testosterone Replacement",
+            "Liver Disease"
+        ]
+    },
+    "Atea Pharmaceuticals": {
+        "press_url": "https://ir.ateapharma.com/news-and-events/news-releases",
+        "focus_areas": [
+            "Antiviral Nucleotides",
+            "HCV",
+            "COVID-19",
+            "Respiratory Viruses"
+        ]
+    },
+    "Kiora Pharmaceuticals": {
+        "press_url": "https://ir.kiorapharma.com/news-events/news-releases",
+        "focus_areas": [
+            "Ocular Disease",
+            "Glaucoma",
+            "AMD"
+        ]
+    },
+    "Affinia Therapeutics": {
+        "press_url": "https://affiniatx.com/our-news/",
+        "focus_areas": [
+            "Next-gen AAV CNS Gene Therapy",
+            "SMA",
+            "Neurological Disease"
+        ]
+    },
+    "Neurogene": {
+        "press_url": "https://ir.neurogene.com/",
+        "focus_areas": [
+            "AAV Gene Therapy",
+            "Batten Disease",
+            "Rare CNS"
+        ]
+    },
+    "Taysha Gene Therapies": {
+        "press_url": "https://ir.tayshagtx.com/press-releases",
+        "focus_areas": [
+            "CNS AAV Gene Therapy",
+            "Rett Syndrome",
+            "GM2 Gangliosidosis"
+        ]
+    },
+    "TransEnterix (Asensus Surgical)": {
+        "press_url": "https://ir.asensus.com/press-releases",
+        "focus_areas": [
+            "Digital Surgery",
+            "Surgical Robotics",
+            "Performance-guided Surgery"
+        ]
+    },
+    "Hinge Bio": {
+        "press_url": "https://hingebio.com/news-publications/",
+        "focus_areas": [
+            "Conditional Biologics",
+            "Tumor Microenvironment",
+            "ProTCE Platform"
+        ]
+    },
+    "Werewolf Therapeutics": {
+        "press_url": "https://www.werewolftx.com/news/",
+        "focus_areas": [
+            "Conditionally Active Cytokines",
+            "INDUKINE Platform",
+            "Immuno-oncology"
+        ]
+    },
+    "Junshi Biosciences": {
+        "press_url": "https://www.junshipharma.com/en/news-center/",
+        "focus_areas": [
+            "Immuno-oncology",
+            "Autoimmune",
+            "Metabolic Disease"
+        ]
+    },
+    "Kineta Inc": {
+        "press_url": "https://kineta.com/news/",
+        "focus_areas": [
+            "VISTA Immune Checkpoint",
+            "Innate Immunity Oncology"
+        ]
+    },
+    "Vividion Tx": {
+        "press_url": "https://vividion.com/news/",
+        "focus_areas": [
+            "Proteomics-driven Discovery",
+            "Covalent Ligands",
+            "Oncology/Immunology"
+        ]
+    },
+    "QurAlis Corporation": {
+        "press_url": "https://quralis.com/news/",
+        "focus_areas": [
+            "ALS Drug Discovery",
+            "Neurodegeneration",
+            "Precision Neurology"
+        ]
+    },
+    "ESSA Pharma": {
+        "press_url": "https://investors.essapharma.com/press-releases",
+        "focus_areas": [
+            "Androgen Receptor N-terminal Domain",
+            "Prostate Cancer",
+            "Oncology"
+        ]
+    }
+}
