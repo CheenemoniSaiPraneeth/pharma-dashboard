@@ -1,0 +1,76 @@
+name: Daily Pharma Intel
+
+on:
+  schedule:
+    - cron: '30 5 * * *'   # 11:00 AM IST every day
+  workflow_dispatch:        # manual trigger from GitHub UI
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests aiohttp beautifulsoup4 lxml playwright
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: Run Stage 1 — Harvester
+        run: python harvester.py
+
+      - name: Run Stage 2 — Delta Engine
+        run: python today_info.py
+
+      - name: Check if new articles exist
+        id: check
+        run: |
+          COUNT=$(python -c "import json; d=json.load(open('today.json')); print(len(d))")
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+          echo "New articles today: $COUNT"
+
+      - name: Run Stage 3 — Text Extractor
+        if: steps.check.outputs.count != '0'
+        run: python llm.py
+
+      - name: Run Stage 4 — Summariser (bispecific antibodies)
+        if: steps.check.outputs.count != '0'
+        env:
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+        run: python summary.py --query "bispecific antibodies"
+
+      - name: Run Stage 4 — Summariser (monoclonal antibodies)
+        if: steps.check.outputs.count != '0'
+        env:
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+        run: python summary.py --query "monoclonal antibodies"
+
+      - name: Run Stage 4 — Summariser (molecular glues)
+        if: steps.check.outputs.count != '0'
+        env:
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+        run: python summary.py --query "molecular glues"
+
+      - name: Run Stage 4 — Summariser (gene editing)
+        if: steps.check.outputs.count != '0'
+        env:
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+        run: python summary.py --query "gene editing"
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git pull --rebase origin main
+          git add briefs_history.json master_storage.json briefs.json
+          git diff --staged --quiet || git commit -m "Auto intel run $(date +'%Y-%m-%d')"
+          git push
