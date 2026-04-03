@@ -70,7 +70,10 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
+          git add -A
+          git stash
           git pull --rebase origin main
-          git add briefs_history.json master_storage.json briefs.json
-          git diff --staged --quiet || git commit -m "Auto intel run $(date +'%Y-%m-%d')"
+          git stash pop
+          git add ranked_results_*.json
+          git diff --staged --quiet || git commit -m "Auto scrape $(date +'%Y-%m-%d')"
           git push
