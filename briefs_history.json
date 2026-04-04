@@ -1,4 +1,24 @@
 {
+  "2026-04-04": {
+    "monoclonal antibodies": [
+      {
+        "company": "Lipocine",
+        "modality": "monoclonal antibodies",
+        "news": "Lipocine reported topline safety and efficacy results for LPCN 1154 (oral brexanolone) in a Phase 3 trial for postpartum depression. While the primary endpoint was not met in the overall population, a post hoc analysis in patients with a history of psychiatric conditions showed statistically significant and clinically meaningful reductions in HAM-D scores. The drug demonstrated a favorable safety profile with no severe adverse events.",
+        "url": "https://ir.lipocine.com/2026-04-02-Lipocine-Reports-Topline-Safety-and-Efficacy-Results-for-LPCN-1154-in-Patients-with-Postpartum-Depression",
+        "query": "monoclonal antibodies"
+      }
+    ],
+    "gene editing": [
+      {
+        "company": "Caris Life Sciences",
+        "modality": "gene editing",
+        "news": "Caris Life Sciences launched Caris ChromoSeq, the world's first Whole Genome and Whole Transcriptome Tumor Profiling assay specifically designed for myeloid malignancies. The test aims to replace fragmented diagnostic workflows with a single, integrated solution for acute myeloid leukemia, myelodysplastic syndromes, and myeloproliferative neoplasms.",
+        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-announces-launch-of-caris-chromoseq/",
+        "query": "gene editing"
+      }
+    ]
+  },
   "2026-04-02": {
     "bispecific antibodies": [
       {
