@@ -550,6 +550,56 @@
     "press_url": "https://www.amgen.com/newsroom/press-releases",
     "candidate_links": [
       {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/03/repatha-cuts-risk-of-first-major-cardiovascular-events-by-31-in-highrisk-patients-without-known-significant-atherosclerosis",
+        "anchor_text": "REPATHA® CUTS RISK OF FIRST MAJOR CARDIOVASCULAR EVENTS BY 31% IN HIGH-RISK PATIENTS WITHOUT KNOWN SIGNIFICANT ATHEROSCLEROSIS",
+        "score": 201
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/01/amgen-announces-webcast-of-2025-fourth-quarter-and-full-year-financial-results",
+        "anchor_text": "AMGEN ANNOUNCES WEBCAST OF 2025 FOURTH QUARTER AND FULL YEAR FINANCIAL RESULTS",
+        "score": 156
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/european-commission-approves-amgens-uplizna-for-generalized-myasthenia-gravis",
+        "anchor_text": "EUROPEAN COMMISSION APPROVES AMGEN'S UPLIZNA® FOR GENERALIZED MYASTHENIA GRAVIS",
+        "score": 155
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/03/amgen-to-present-at-the-leerink-partners-2026-global-healthcare-conference",
+        "anchor_text": "AMGEN TO PRESENT AT THE LEERINK PARTNERS 2026 GLOBAL HEALTHCARE CONFERENCE",
+        "score": 152
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/01/amgen-to-present-at-the-44th-annual-j-p--morgan-healthcare-conference",
+        "anchor_text": "AMGEN TO PRESENT AT THE 44TH ANNUAL J.P. MORGAN HEALTHCARE CONFERENCE",
+        "score": 147
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/amgen-to-present-at-the-46th-annual-td-cowen-health-care-conference",
+        "anchor_text": "AMGEN TO PRESENT AT THE 46TH ANNUAL TD COWEN HEALTH CARE CONFERENCE",
+        "score": 145
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/01/amgen-acquires-dark-blue-therapeutics-bolstering-oncology-pipeline",
+        "anchor_text": "AMGEN ACQUIRES DARK BLUE THERAPEUTICS, BOLSTERING ONCOLOGY PIPELINE",
+        "score": 144
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/amgen-to-present-at-citis-2026-virtual-oncology-leadership-summit",
+        "anchor_text": "AMGEN TO PRESENT AT CITI'S 2026 VIRTUAL ONCOLOGY LEADERSHIP SUMMIT",
+        "score": 143
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/amgen-reports-fourth-quarter-and-full-year-2025-financial-results",
+        "anchor_text": "AMGEN REPORTS FOURTH QUARTER AND FULL YEAR 2025 FINANCIAL RESULTS",
+        "score": 143
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/03/amgen-announces-2026-second-quarter-dividend",
+        "anchor_text": "AMGEN ANNOUNCES 2026 SECOND QUARTER DIVIDEND",
+        "score": 122
+      },
+      {
         "url": "https://www.amgen.com/about/how-we-operate/policies-practices-and-disclosures/business-conduct/quality",
         "anchor_text": "Product Quality",
         "score": 101
@@ -1287,14 +1337,144 @@
     "press_url": "https://www.novartis.com/news",
     "candidate_links": [
       {
+        "url": "https://www.novartis.com/news/media-releases/novartis-verzeichnet-im-dritten-quartal-solide-steigerungen-beim-umsatz-und-operativen-kernergebnis-sowie-starke-fortschritte-der-pipeline-prognose-fur-das-geschaftsjahr-2025-bestatigt",
+        "anchor_text": "Ad hoc releaseOct 28, 2025Novartis verzeichnet im dritten Quartal solide Steigerungen beim Umsatz und operativen Kernergebnis sowie starke Fortschritte in der Pipeline; Prognose für das Geschäftsjahr 2025 bestätigtAd-hoc-Mitteilung gemäss Art. 53 KRDer Nettoumsatz wuchs im dritten Quartal um +7% (kWk1, +8% USD), das operative Kernergebnis1 verbesserte sich um +7% (kWk, +6% USD)Das Umsatzwachstum beruhte…",
+        "score": 221
+      },
+      {
+        "url": "https://www.novartis.com/news/media-releases/novartis-pluvictotm-demonstrates-statistically-significant-and-clinically-meaningful-rpfs-benefit-patients-psma-positive-metastatic-hormone-sensitive-prostate-cancer",
+        "anchor_text": "Ad hoc releaseJun 02, 2025Novartis Pluvicto™ demonstrates statistically significant and clinically meaningful rPFS benefit in patients with PSMA-positive metastatic hormone-sensitive prostate cancerAd hoc announcement pursuant to Art. 53 LR        At interim analysis, PSMAddition trial met its primary endpoint showing statistically significant and clinically meaningful benefit for Pluvicto™…",
+        "score": 202
+      },
+      {
+        "url": "https://www.novartis.com/news/media-releases/novartis-erzielte-im-jahr-2025-eine-umsatzsteigerung-im-hohen-einstelligen-prozentbereich-eine-kerngewinnmarge-von-40-sowie-weitere-fortschritte-der-pipeline",
+        "anchor_text": "Ad hoc releaseFeb 04, 2026Novartis erzielte im Jahr 2025 eine Umsatzsteigerung im hohen einstelligen Prozentbereich, eine Kerngewinnmarge von 40% sowie weitere Fortschritte in der PipelineAd-hoc-Mitteilung gemäss Art. 53 KRGeschäftsjahrDer Nettoumsatz wuchs um +8% (kWk1, +8% USD), das operative Kernergebnis1 verbesserte sich um +14% (kWk, +12% USD)Das Umsatzwachstum beruhte auf…",
+        "score": 194
+      },
+      {
+        "url": "https://www.novartis.com/news/media-releases/novartis-receives-fda-approval-itvisma-only-gene-replacement-therapy-children-two-years-and-older-teens-and-adults-spinal-muscular-atrophy-sma",
+        "anchor_text": "Ad hoc releaseNov 24, 2025Novartis receives FDA approval for Itvisma®, the only gene replacement therapy for children two years and older, teens, and adults with spinal muscular atrophy (SMA)Ad hoc announcement pursuant to Art. 53 LR  Itvisma (onasemnogene abeparvovec-brve) demonstrated improved motor function and stabilization in patients regardless of SMA treatment history in Phase III…",
+        "score": 179
+      },
+      {
+        "url": "https://www.novartis.com/news/media-releases/novartis-successfully-completes-acquisition-avidity-biosciences-strengthening-late-stage-neuroscience-pipeline-and-advancing-xrna-strategy",
+        "anchor_text": "Press releaseFeb 27, 2026Novartis successfully completes acquisition of Avidity Biosciences, strengthening late-stage neuroscience pipeline and advancing xRNA strategyAdds Avidity’s differentiated muscle-directed Antibody Oligonucleotide Conjugates (AOC) platform and three late-stage programs to industry-leading neuromuscular pipelinePotentially unlocks multi-…",
+        "score": 175
+      },
+      {
+        "url": "https://www.novartis.com/news/media-releases/novartis-reports-strong-q2-double-digit-sales-growth-and-core-margin-expansion-raises-fy-2025-core-operating-income-guidance",
+        "anchor_text": "Ad hoc releaseJul 17, 2025Novartis reports strong Q2 with double-digit sales growth and core margin expansion; raises FY 2025 core operating income guidanceAd hoc announcement pursuant to Art. 53 LRQ2 net sales grew +11% (cc1, +12% USD) with core operating income1 up +21% (cc, +20% USD) Sales growth driven by continued strong performance from Kisqali (+…",
+        "score": 161
+      },
+      {
+        "url": "https://www.novartis.com/news/media-releases/novartis-agrees-acquire-avidity-biosciences-innovator-rna-therapeutics-strengthening-its-late-stage-neuroscience-pipeline",
+        "anchor_text": "Ad hoc releaseOct 26, 2025Novartis agrees to acquire Avidity Biosciences, an innovator in RNA therapeutics, strengthening its late-stage neuroscience pipelineAd hoc announcement pursuant to Art. 53 LR   Transaction strengthens neuroscience franchise for Novartis with three late-stage programs that address genetic neuromuscular diseasesAdvances the…",
+        "score": 158
+      },
+      {
+        "url": "https://www.novartis.com/news/media-releases/novartis-receives-fda-approval-rhapsido-remibrutinib-only-oral-targeted-btki-treatment-chronic-spontaneous-urticaria-csu",
+        "anchor_text": "Ad hoc releaseSep 30, 2025Novartis receives FDA approval for Rhapsido® (remibrutinib), the only oral, targeted BTKi treatment for chronic spontaneous urticaria (CSU)Ad hoc announcement pursuant to Art. 53 LR  Rhapsido helps to inhibit release of histamine and proinflammatory mediators by targeting BTK, offering unique approach to CSU treatment1Well-controlled…",
+        "score": 157
+      },
+      {
+        "url": "https://www.novartis.com/news/media-releases/novartis-delivers-solid-sales-and-core-operating-income-growth-strong-pipeline-progress-q3-reaffirms-fy-2025-guidance",
+        "anchor_text": "Ad hoc releaseOct 28, 2025Novartis delivers solid sales and core operating income growth with strong pipeline progress in Q3; reaffirms FY 2025 guidanceAd hoc announcement pursuant to Art. 53 LRQ3 net sales grew +7% (cc1, +8% USD) and core operating income1 grew +7% (cc, +6% USD) Sales growth was driven by continued strong execution on priority…",
+        "score": 154
+      },
+      {
+        "url": "https://www.novartis.com/news/european-commission-ec-adopts-decision-endorsing-chmp-recommendation-revoke-conditional-marketing-authorization-adakveo-crizanlizumab",
+        "anchor_text": "StatementAug 04, 2023European Commission (EC) adopts decision endorsing CHMP recommendation to revoke the conditional marketing authorization for Adakveo® (crizanlizumab)",
+        "score": 153
+      },
+      {
+        "url": "https://www.novartis.com/news/media-releases/new-real-world-data-reinforce-earlier-use-pluvictotm-chemotherapy-metastatic-castration-resistant-prostate-cancer",
+        "anchor_text": "Press releaseFeb 24, 2026New real‑world data reinforce earlier use of Pluvicto™ before chemotherapy in metastatic castration-resistant prostate cancerIn the real-world, Pluvicto™ showed 13.5 months median PFS in chemo-naïve patients with PSMA-positive mCRPCReal‑world evidence showed Pluvicto achieved longer PFS when initiated after one ARPI…",
+        "score": 150
+      },
+      {
+        "url": "https://www.novartis.com/news/media-releases/novartis-presents-rhapsido-remibrutinib-data-aaaai-showing-potential-beyond-chronic-spontaneous-urticaria-csu",
+        "anchor_text": "Press releaseFeb 23, 2026Novartis presents Rhapsido® (remibrutinib) data at AAAAI, showing potential beyond chronic spontaneous urticaria (CSU)Analyses from REMIX-1 & -2 studies on CSU disease control and early symptom relief will be presented Phase II data evaluating safety and efficacy results of remibrutinib for treatment of peanut…",
+        "score": 146
+      },
+      {
+        "url": "https://www.novartis.com/news/media-releases/novartis-projects-5-6-cc-sales-cagr-2025-2030-long-term-growth-backed-30-potential-high-value-pipeline-assets",
+        "anchor_text": "Ad hoc releaseNov 20, 2025Novartis projects +5-6% cc sales CAGR 2025-2030, with long-term growth backed by 30+ potential high-value pipeline assetsAd hoc announcement pursuant to Art. 53 LR  Mid-term sales guidance rolled forward to +5-6% cc CAGR for 2025-2030, following upgrade of 2024-2029 guidance to +6% cc1Peak sales guidance upgraded for…",
+        "score": 146
+      },
+      {
+        "url": "https://www.novartis.com/news/media-releases/novartis-build-new-radioligand-therapy-site-denton-texas-delivering-more-next-generation-treatments-patients",
+        "anchor_text": "Press releaseFeb 25, 2026Novartis to build new radioligand therapy site in Denton, Texas, delivering more next‑generation treatments to patientsFacility expected to be operational in 2028 in Dallas-Fort Worth area, expanding largest RLT manufacturing network in USSite to serve patients in Southern US and add network capacity as RLT expands…",
+        "score": 145
+      },
+      {
+        "url": "https://www.novartis.com/news/media-releases/novartis-delivered-high-single-digit-sales-growth-achieved-40-core-margin-and-further-advanced-pipeline-2025",
+        "anchor_text": "Ad hoc releaseFeb 04, 2026Novartis delivered high single-digit sales growth, achieved 40% core margin and further advanced the pipeline in 2025Ad hoc announcement pursuant to Art. 53 LRFull yearNet sales grew +8% (cc1, +8% USD) with core operating income1 up +14% (cc, +12% USD) Sales growth driven by continued strong performance from…",
+        "score": 145
+      },
+      {
+        "url": "https://www.novartis.com/news/media-releases/novartis-cosentyx-receives-fda-approval-pediatric-patients-aged-12-moderate-severe-hidradenitis-suppurativa",
+        "anchor_text": "Press releaseMar 13, 2026Novartis Cosentyx® receives FDA approval for pediatric patients aged 12+ with moderate to severe hidradenitis suppurativaCosentyx is the only IL-17A inhibitor approved for this population, and the first differentiated mechanism in nearly a decade1-3 HS often emerges around puberty, underscoring…",
+        "score": 144
+      },
+      {
+        "url": "https://www.novartis.com/news/media-releases/novartis-announces-both-ianalumab-phase-iii-clinical-trials-met-primary-endpoint-patients-sjogrens-disease",
+        "anchor_text": "Ad hoc releaseAug 11, 2025Novartis announces both ianalumab Phase III clinical trials met primary endpoint in patients with Sjögren’s diseaseAd hoc announcement pursuant to Art. 53 LR    NEPTUNUS-1 and NEPTUNUS-2 are the first ever global phase III trials to demonstrate statistically significant reduction in disease activity for Sjögren’s…",
+        "score": 143
+      },
+      {
+        "url": "https://www.novartis.com/news/media-releases/novartis-agrees-acquire-excellergy-inc-building-allergy-leadership-next-generation-anti-ige-innovation",
+        "anchor_text": "Press releaseMar 27, 2026Novartis agrees to acquire Excellergy, Inc., building on allergy leadership with next-generation anti-IgE innovation- Proposed acquisition strengthens Novartis immunology strategy in food allergy and other IgE-driven diseases   - Lead asset Exl-111 builds on proven IgE biology with a differentiated…",
+        "score": 139
+      },
+      {
+        "url": "https://www.novartis.com/news/media-releases/novartis-agrees-acquire-pan-mutant-selective-pi3ka-inhibitor-strengthening-its-breast-cancer-pipeline",
+        "anchor_text": "Press releaseMar 20, 2026Novartis agrees to acquire a pan-mutant-selective PI3Kα inhibitor, strengthening its breast cancer pipelineProposed acquisition supports the Novartis oncology strategy in hormone receptor positive, human epidermal growth factor receptor two-negative (HR+/HER2-) breast cancer The lead asset, SNV4818,…",
+        "score": 138
+      },
+      {
+        "url": "https://www.novartis.com/news/media-releases/novartis-presents-new-data-early-symptom-relief-and-long-term-control-complex-skin-diseases-aad-2026",
+        "anchor_text": "Press releaseMar 23, 2026Novartis presents new data on early symptom relief and long-term control in complex skin diseases at AAD 2026New Rhapsido® REMIX-1 & -2 pooled analysis on symptom control as early as week 1 in chronic spontaneous urticaria (CSU) to be presentedLong-term Cosentyx® data build on extensive body of evidence…",
+        "score": 137
+      },
+      {
         "url": "https://www.novartis.com/healthcare-professionals/investigator-initiated-trials-studies-clinical-and-investigator-initiated-research-non-clinical",
         "anchor_text": "Investigator-initiated trials / studies",
         "score": 135
       },
       {
+        "url": "https://www.novartis.com/news/media-releases/novartis-shareholders-approve-all-resolutions-proposed-board-directors-2026-annual-general-meeting",
+        "anchor_text": "Press releaseMar 06, 2026Novartis shareholders approve all resolutions proposed by the Board of Directors at the 2026 Annual General MeetingShareholders approve 29th consecutive dividend increase to CHF 3.70 (+5.7%) per share for 2025, representing a 3.0% yield¹Shareholders confirm Giovanni Caforio as Chair of the Board of Directors as…",
+        "score": 135
+      },
+      {
+        "url": "https://www.novartis.com/news/media-releases/novartis-appoints-mukul-mehta-chief-financial-officer-harry-kirsch-retires-after-22-years-company",
+        "anchor_text": "Ad hoc releaseJul 17, 2025Novartis appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch retires after 22 years with the companyAd hoc announcement pursuant to Art. 53 LR   Mukul Mehta, currently Head of Business Planning and Analysis (BPA), Digital Finance and Tax, has been appointed Chief Financial Officer, effective March…",
+        "score": 134
+      },
+      {
+        "url": "https://www.novartis.com/news/media-releases/novartis-igan-data-new-england-journal-medicine-show-fabhalta-slowed-kidney-function-decline-493",
+        "anchor_text": "Press releaseMar 29, 2026Novartis IgAN data in New England Journal of Medicine show Fabhalta® slowed kidney function decline by 49.3%Fabhalta lowered likelihood of progression to kidney failure by 43% in APPLAUSE-IgAN study140.7% of patients on Fabhalta demonstrated sustained reduction of protein in urine over two years1Fabhalta…",
+        "score": 133
+      },
+      {
+        "url": "https://www.novartis.com/news/media-releases/aktionare-von-novartis-heissen-der-generalversammlung-2026-alle-antrage-des-verwaltungsrats-gut",
+        "anchor_text": "Press releaseMar 06, 2026Aktionäre von Novartis heissen an der Generalversammlung 2026 alle Anträge des Verwaltungsrats gutDie Aktionärinnen und Aktionäre genehmigten die 29. Dividendenerhöhung in Folge. Für 2025 wird die Dividende auf CHF 3.70 (+5,7%) je Aktie erhöht, was einer Rendite von 3,0% entspricht¹Die…",
+        "score": 132
+      },
+      {
         "url": "https://www.novartis.com/research-and-development/research-disease-areas/diseases-aging-and-regenerative-medicine-dare-research-novartis",
         "anchor_text": "Diseases of Aging and Regenerative medicine (DARe)",
         "score": 128
+      },
+      {
+        "url": "https://www.novartis.com/news/media-releases/novartis-receives-positive-chmp-opinion-remibrutinib-chronic-spontaneous-urticaria-csu",
+        "anchor_text": "Press releaseFeb 27, 2026Novartis receives positive CHMP opinion for remibrutinib in chronic spontaneous urticaria (CSU)Remibrutinib, a highly selective oral BTKi, has potential to be first targeted therapy approved for CSU in Europe Improvements with remibrutinib observed as early as Week 1 in REMIX 1 & 2, with…",
+        "score": 123
+      },
+      {
+        "url": "https://www.novartis.com/news/novartis-statement-about-entresto-sacubitrilvalsartan-selection-medicare-drug-price-negotiation-program",
+        "anchor_text": "StatementAug 29, 2023Novartis statement about Entresto®  (sacubitril/valsartan) selection for Medicare Drug Price Negotiation Program",
+        "score": 123
       },
       {
         "url": "https://www.novartis.com/research-and-development/research-disease-areas/cardiovascular-and-metabolic-disease-research-novartis",
@@ -1327,9 +1507,29 @@
         "score": 101
       },
       {
+        "url": "https://www.novartis.com/news/novartis-condemns-terrorist-actions-against-people-israel-and-loss-innocent-lives",
+        "anchor_text": "StatementOct 13, 2023Novartis condemns the terrorist actions against people in Israel and loss of innocent lives",
+        "score": 101
+      },
+      {
+        "url": "https://www.novartis.com/news/novartis-statement-collaboration-and-license-agreement-tislelizumab-beigene-ltd",
+        "anchor_text": "StatementSep 19, 2023Novartis statement on collaboration and license agreement for tislelizumab with BeiGene, Ltd.Novartis and BeiGene, Ltd. have mutually agreed to terminate the collaboration and license agreement for tislelizumab, a humanized IgG4 anti-PD-1 monoclonal antibody.",
+        "score": 99
+      },
+      {
         "url": "https://www.novartis.com/research-and-development/research-disease-areas/neuroscience-research-novartis",
         "anchor_text": "Neuroscience research at Novartis",
         "score": 95
+      },
+      {
+        "url": "https://www.novartis.com/news/violence-against-innocent-people-runs-counter-our-work-improve-human-health",
+        "anchor_text": "StatementOct 19, 2023Violence against innocent people runs counter to our work to improve human health",
+        "score": 95
+      },
+      {
+        "url": "https://www.novartis.com/stories/building-future-novartis-innovation-lab-ai-game-studio-xr-emerging-tech",
+        "anchor_text": "StoryMar 18, 2026People and CultureBuilding the Future: Novartis Innovation Lab - AI, Game Studio, XR & Emerging TechThe leaders behind the Novartis Innovation Lab share how they are leveraging emerging technologies to win for patients.",
+        "score": 94
       },
       {
         "url": "https://www.novartis.com/healthcare-professionals/novartis-medical-information/submit-medical-enquiry",
@@ -1347,8 +1547,28 @@
         "score": 91
       },
       {
+        "url": "https://www.novartis.com/stories/marcs-story-raising-awareness-elevated-lpa-cardiovascular-disease",
+        "anchor_text": "StoryMar 24, 2025Patient PerspectivesMarc’s story: Raising awareness of elevated Lp(a) in cardiovascular disease",
+        "score": 88
+      },
+      {
+        "url": "https://www.novartis.com/stories/supercharging-rd-how-ai-helps-us-bring-medicines-patients-faster",
+        "anchor_text": "StoryMar 10, 2026People and CultureSupercharging R&D: How AI helps us to bring medicines to patients fasterMax leads AI innovation in pharmaceutical development at Novartis. His story reflects how cutting-edge technology is combined with human expertise for meaningful impact.",
+        "score": 87
+      },
+      {
+        "url": "https://www.novartis.com/stories/science-motion-autumn-and-sabrinas-noteworthy-novartis-adventure",
+        "anchor_text": "StoryApr 15, 2025People and CultureScience in Motion: Autumn and Sabrina's Noteworthy Novartis AdventureIn the ever-evolving world of STEM, where innovation and discovery are to the forefront, the stories of women who have made their mark are both inspiring and essential. Today, we're shining a spotlight on two dedicated Novartis employees who have chosen to begin their careers in manufacturing operations, paving the way for others to follow.",
+        "score": 87
+      },
+      {
         "url": "https://www.novartis.com/investors/reporting-and-transparency-hub/patient-organization-funding",
         "anchor_text": "Patient organization funding",
+        "score": 86
+      },
+      {
+        "url": "https://www.novartis.com/stories/victor-bulto-and-thierry-diagana-named-2026-time100-health-list",
+        "anchor_text": "StoryFeb 11, 2026Victor Bulto and Thierry Diagana named to 2026 TIME100 Health ListNovartis is proud to share that TIME has recognized Victor Bultó and Thierry Diagana among the most influential people shaping the future of health. Learn more about what drives our honorees.",
         "score": 86
       },
       {
@@ -1402,6 +1622,11 @@
         "score": 77
       },
       {
+        "url": "https://www.novartis.com/news/novartis-statement-filing-inflation-reduction-act-lawsuit",
+        "anchor_text": "StatementSep 01, 2023Novartis statement on filing of Inflation Reduction Act lawsuit",
+        "score": 77
+      },
+      {
         "url": "https://www.novartis.com/careers/our-business-functions/careers-commercial-and-sales",
         "anchor_text": "Careers in commercial and sales",
         "score": 76
@@ -1437,6 +1662,16 @@
         "score": 73
       },
       {
+        "url": "https://www.novartis.com/stories/turning-personal-experience-purpose-driven-careers",
+        "anchor_text": "StoryMar 10, 2026People and CultureTurning personal experience into purpose-driven careersWhat drives someone to dedicate their career to reimagining medicine? Three women at Novartis share their deeply personal and unique stories.",
+        "score": 73
+      },
+      {
+        "url": "https://www.novartis.com/news/novartis-provides-support-moroccan-earthquake-victims",
+        "anchor_text": "StatementSep 13, 2023Novartis provides support for Moroccan earthquake victims",
+        "score": 73
+      },
+      {
         "url": "https://www.novartis.com/careers/our-business-functions/careers-global-functions",
         "anchor_text": "Careers in global functions",
         "score": 72
@@ -1462,6 +1697,16 @@
         "score": 71
       },
       {
+        "url": "https://www.novartis.com/news/europe-talks-health-sovereignty-now-it-must-deliver",
+        "anchor_text": "StatementApr 25, 2025Europe talks health sovereignty — now it must deliver",
+        "score": 71
+      },
+      {
+        "url": "https://www.novartis.com/news/gt005-ppy988-development-program-geographic-atrophy",
+        "anchor_text": "StatementSep 11, 2023GT005 (PPY988): Development Program in Geographic Atrophy",
+        "score": 71
+      },
+      {
         "url": "https://www.novartis.com/about/quality/novartis-quality-management-system-qms",
         "anchor_text": "Novartis quality management system (QMS)",
         "score": 69
@@ -1479,6 +1724,11 @@
       {
         "url": "https://www.novartis.com/investors/shareholder-information/general-meetings",
         "anchor_text": "General Meetings",
+        "score": 67
+      },
+      {
+        "url": "https://www.novartis.com/stories/bringing-proteins-together-take-cancer-apart",
+        "anchor_text": "StoryMar 12, 2026From Our LabsBringing proteins together to take cancer apartA Q&A with Jake Haling, Head of Oncology Drug Discovery in San Diego, on induced proximity and how it could open new paths to treat cancer.",
         "score": 67
       },
       {
@@ -1502,6 +1752,11 @@
         "score": 66
       },
       {
+        "url": "https://www.novartis.com/news/novartis-statement-maximum-fair-price-entresto",
+        "anchor_text": "StatementAug 15, 2024Novartis statement on Maximum Fair Price for Entresto",
+        "score": 66
+      },
+      {
         "url": "https://www.novartis.com/healthcare-professionals/novartis-external-funding",
         "anchor_text": "Novartis external funding",
         "score": 65
@@ -1519,6 +1774,11 @@
       {
         "url": "https://www.novartis.com/investors/shareholder-information/share-buy-back",
         "anchor_text": "Share buyback",
+        "score": 65
+      },
+      {
+        "url": "https://www.novartis.com/news/vas-narasimhan-named-2025-time100-health-list",
+        "anchor_text": "StatementMay 08, 2025Vas Narasimhan named to 2025 TIME100 Health list",
         "score": 65
       },
       {
@@ -1567,6 +1827,16 @@
         "score": 61
       },
       {
+        "url": "https://www.novartis.com/stories/whats-next-neuroscience-drug-discovery",
+        "anchor_text": "StoryFeb 09, 2026DiscoveryWhat's next in Neuroscience drug discoveryA Q&A with Bryan Laffitte, who leads a Novartis team that’s using the tools of genetic medicine to innovate new therapies for neuromuscular and neurodegenerative conditions.",
+        "score": 61
+      },
+      {
+        "url": "https://www.novartis.com/stories/how-novartis-helping-eliminate-leprosy",
+        "anchor_text": "StoryFeb 04, 2026Access to HealthcareInfectious DiseasesHow Novartis is helping to eliminate leprosyLeprosy is one of the world’s oldest infectious diseases – yet there are still around 200,000 cases every year1. As the only supplier of multidrug therapy, in January 2026 Novartis renewed its partnership to provide the medicine via the WHO, protecting vital access to treatment.",
+        "score": 61
+      },
+      {
         "url": "https://www.novartis.com/about/board-directors/elizabeth-liz-doherty",
         "anchor_text": "Elizabeth (Liz) Doherty",
         "score": 60
@@ -1592,6 +1862,11 @@
         "score": 60
       },
       {
+        "url": "https://www.novartis.com/stories/parental-leave-leadership-opportunity",
+        "anchor_text": "StoryFeb 28, 2025People and CultureParental leave – A leadership opportunityAt Novartis, we believe in the importance of balancing professional and personal responsibilities. This belief is embodied through our inclusive parental leave policy, which supports all our people in taking the time they need to be with their families during significant life events. To understand how this truly supports our colleagues we invited Sumeet, Global Head of Service Enablement & Governance, People Services & Solutions to share his story with us.",
+        "score": 60
+      },
+      {
         "url": "https://www.novartis.com/about/executive-committee/shreeram-aradhye",
         "anchor_text": "Shreeram Aradhye",
         "score": 59
@@ -1604,6 +1879,11 @@
       {
         "url": "https://www.novartis.com/esg/ethics-risk-and-compliance/compliance",
         "anchor_text": "Compliance",
+        "score": 58
+      },
+      {
+        "url": "https://www.novartis.com/stories/why-advocating-your-ms-so-important",
+        "anchor_text": "StoryMay 22, 2025Access to HealthcareWhy advocating for your MS is so important",
         "score": 58
       },
       {
@@ -1649,6 +1929,11 @@
       {
         "url": "https://www.novartis.com/investors/financial-data/annual-results",
         "anchor_text": "Novartis annual results",
+        "score": 56
+      },
+      {
+        "url": "https://www.novartis.com/news/bringing-breakthroughs-more-patients",
+        "anchor_text": "StatementSep 29, 2025Bringing breakthroughs to more patients",
         "score": 56
       },
       {
@@ -1759,6 +2044,11 @@
       {
         "url": "https://www.novartis.com/esg/access/novartis-oncology-access",
         "anchor_text": "Novartis oncology access",
+        "score": 52
+      },
+      {
+        "url": "https://www.novartis.com/stories/breaking-ground-global-health",
+        "anchor_text": "StoryFeb 25, 2026DiscoveryBreaking ground in Global HealthManju Ujjini, Head of Lead Discovery for our Global Health Biomedical Research group, discusses what’s next for his team in drug discovery",
         "score": 52
       },
       {
@@ -9325,11 +9615,6 @@
         "url": "https://insilicominds.com/fda-launches-general-principles-of-model-integrated-evidence-mie-industry-meeting-pilot-for-generic-drug-applicants/",
         "anchor_text": "Read More »",
         "score": 131
-      },
-      {
-        "url": "https://insilicominds.com/passage-of-senate-bill-s-5002-fda-modernization-act-2-0-relating-to-animal-testing/",
-        "anchor_text": "Read More »",
-        "score": 98
       },
       {
         "url": "https://insilicominds.com/fda-model-integrated-evidence-mie-industry-meeting-pilot-program-for-generic-drugs/",
@@ -43780,7 +44065,7 @@
       },
       {
         "url": "https://www.takeda.com/newsroom/press-releases/",
-        "anchor_text": "Press Releases",
+        "anchor_text": "Do not sell or share my personal information",
         "score": 41
       },
       {
@@ -46908,11 +47193,6 @@
         "url": "https://www.immunocore.com/clinical-trials",
         "anchor_text": "Clinical Trials",
         "score": 28
-      },
-      {
-        "url": "https://www.immunocore.com/privacy-policy",
-        "anchor_text": "Privacy Policy",
-        "score": 27
       },
       {
         "url": "https://www.immunocore.com/science/publications",
@@ -54722,12 +55002,12 @@
       },
       {
         "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260327_2.html",
-        "anchor_text": "27 MAR 2026NewPharmaceuticalsOtsuka Pharmaceutical to Acquire Transcend Therapeutics - Expands Otsuka portfolio in psychiatric and neurological fields and aims to accelerate development of Transcend’s portfolio, including the TSND-201 program for post-traumatic stress disorder (PTSD) -",
+        "anchor_text": "27 MAR 2026PharmaceuticalsOtsuka Pharmaceutical to Acquire Transcend Therapeutics - Expands Otsuka portfolio in psychiatric and neurological fields and aims to accelerate development of Transcend’s portfolio, including the TSND-201 program for post-traumatic stress disorder (PTSD) -",
         "score": 80
       },
       {
         "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260327_1.html",
-        "anchor_text": "27 MAR 2026NewPharmaceuticalsOtsuka Submits Application in Japan for Iclusig®for First-Line Treatment of Philadelphia Chromosome-Positive Acute Lymphoblastic Leukemia",
+        "anchor_text": "27 MAR 2026PharmaceuticalsOtsuka Submits Application in Japan for Iclusig®for First-Line Treatment of Philadelphia Chromosome-Positive Acute Lymphoblastic Leukemia",
         "score": 80
       },
       {
