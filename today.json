@@ -1,1 +1,16 @@
-[]
+[
+    {
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260406153000_1240.html?year=2026&category=",
+        "score": 53,
+        "date_added": "2026-04-06",
+        "article_like": true
+    },
+    {
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260406eIFReC_Blood.pdf&src=[%0],[%1]&rep=130,1240",
+        "score": 26,
+        "date_added": "2026-04-06",
+        "article_like": true
+    }
+]
