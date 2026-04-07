@@ -1,16 +1,72 @@
 [
     {
-        "company": "Chugai Pharmaceutical",
-        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260406153000_1240.html?year=2026&category=",
-        "score": 53,
-        "date_added": "2026-04-06",
+        "company": "Sanofi",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-07-05-00-00-3268809",
+        "score": 107,
+        "date_added": "2026-04-07",
         "article_like": true
     },
     {
-        "company": "Chugai Pharmaceutical",
-        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260406eIFReC_Blood.pdf&src=[%0],[%1]&rep=130,1240",
-        "score": 26,
-        "date_added": "2026-04-06",
+        "company": "Amgen",
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-announces-positive-topline-phase-3-results-for-subcutaneous-tepezza-in-adults-living-with-moderate-to-severe-active-thyroid-eye-disease",
+        "score": 219,
+        "date_added": "2026-04-07",
+        "article_like": true
+    },
+    {
+        "company": "Sai Life Sciences",
+        "url": "https://www.sailife.com/sai-life-sciences-recognized-as-a-best-organization-for-women-bow-2026-by-et-edge/",
+        "score": 97,
+        "date_added": "2026-04-07",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/04/ey-launches-enterprise-scale-agentic-ai-to-redefine-the-audit-experience-for-the-ai-era",
+        "score": 156,
+        "date_added": "2026-04-07",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/04/ey-named-a-horizon-3-market-leader-in-agentic-services",
+        "score": 123,
+        "date_added": "2026-04-07",
+        "article_like": true
+    },
+    {
+        "company": "Rx Propellant",
+        "url": "https://rxpropellant.com/designing-labs-for-the-unknown/",
+        "score": 46,
+        "date_added": "2026-04-07",
+        "article_like": true
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/media/press-releases/lupin-earns-great-place-to-work-certification-tm-for-2026-27",
+        "score": 98,
+        "date_added": "2026-04-07",
+        "article_like": true
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/resources/content/case-studies/accelerating-a-phase-1-oncology-trial-the-time-networks-impact-on-patient-enrollment/?utm_source=nav-bar&utm_medium=website&utm_campaign=time-phase-1-case-study",
+        "score": 137,
+        "date_added": "2026-04-07",
+        "article_like": true
+    },
+    {
+        "company": "Immunocore",
+        "url": "https://www.immunocore.com/investors/news/press-releases/detail/128/immunocore-to-present-at-the-25th-annual-needham-virtual-healthcare-conference",
+        "score": 142,
+        "date_added": "2026-04-07",
+        "article_like": true
+    },
+    {
+        "company": "Affinia Therapeutics",
+        "url": "https://affiniatx.com/affinia-therapeutics-receives-approval-from-health-canada-to-initiate-the-upbeat-trial-a-phase-1-2-clinical-trial-to-investigate-aftx-201-as-a-treatment-for-bag3-associated-dilated-cardiomyopat/",
+        "score": 209,
+        "date_added": "2026-04-07",
         "article_like": true
     }
 ]

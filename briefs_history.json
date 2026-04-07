@@ -1,4 +1,54 @@
 {
+  "2026-04-07": {
+    "bispecific antibodies": [
+      {
+        "company": "Sanofi",
+        "modality": "bispecific antibodies",
+        "news": "Sanofi announced that its bispecific Nanobody lunsekimig met primary and key secondary endpoints in Phase 2 studies for moderate-to-severe asthma (AIRCULES) and chronic rhinosinusitis with nasal polyps (DUET). However, the drug failed to meet its primary endpoint in an exploratory Phase 2 study for atopic dermatitis (VELVET).",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-07-05-00-00-3268809",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Immunocore",
+        "modality": "bispecific antibodies",
+        "news": "Immunocore announced that its management team will present at the 25th Annual Needham Virtual Healthcare Conference to discuss its pipeline of TCR bispecific immunotherapies (ImmTAX), including its approved product KIMMTRAK for uveal melanoma.",
+        "url": "https://www.immunocore.com/investors/news/press-releases/detail/128/immunocore-to-present-at-the-25th-annual-needham-virtual-healthcare-conference",
+        "query": "bispecific antibodies"
+      }
+    ],
+    "monoclonal antibodies": [
+      {
+        "company": "Sanofi",
+        "modality": "monoclonal antibodies",
+        "news": "Sanofi announced that lunsekimig, a novel bispecific Nanobody (VHH) targeting TSLP and IL-13, met primary and key secondary endpoints in Phase 2 studies for asthma and chronic rhinosinusitis with nasal polyps (CRSwNP), though it failed to meet the primary endpoint in atopic dermatitis.",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-07-05-00-00-3268809",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Amgen",
+        "modality": "monoclonal antibodies",
+        "news": "Amgen reported positive topline results from a Phase 3 trial for subcutaneous TEPEZZA (teprotumumab), a monoclonal antibody for Thyroid Eye Disease, which met its primary endpoint with a 77% proptosis response rate and demonstrated efficacy comparable to the intravenous formulation.",
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-announces-positive-topline-phase-3-results-for-subcutaneous-tepezza-in-adults-living-with-moderate-to-severe-active-thyroid-eye-disease",
+        "query": "monoclonal antibodies"
+      }
+    ],
+    "gene editing": [
+      {
+        "company": "Affinia Therapeutics",
+        "modality": "gene editing",
+        "news": "Affinia Therapeutics received approval from Health Canada to initiate the UPBEAT trial, a Phase 1/2 clinical study investigating AFTX-201, an AAV gene therapy for BAG3-associated dilated cardiomyopathy. This follows FDA acceptance of the IND and Fast Track designation for the investigational medicine.",
+        "url": "https://affiniatx.com/affinia-therapeutics-receives-approval-from-health-canada-to-initiate-the-upbeat-trial-a-phase-1-2-clinical-trial-to-investigate-aftx-201-as-a-treatment-for-bag3-associated-dilated-cardiomyopat/",
+        "query": "molecular glues"
+      },
+      {
+        "company": "Affinia Therapeutics",
+        "modality": "gene editing",
+        "news": "Affinia Therapeutics received approval from Health Canada to initiate the UPBEAT trial, a Phase 1/2 clinical study investigating AFTX-201, an AAV gene therapy for BAG3-associated dilated cardiomyopathy. This follows FDA acceptance of the IND application and Fast Track designation for the investigational medicine.",
+        "url": "https://affiniatx.com/affinia-therapeutics-receives-approval-from-health-canada-to-initiate-the-upbeat-trial-a-phase-1-2-clinical-trial-to-investigate-aftx-201-as-a-treatment-for-bag3-associated-dilated-cardiomyopat/",
+        "query": "gene editing"
+      }
+    ]
+  },
   "2026-04-04": {
     "monoclonal antibodies": [
       {

@@ -4,6 +4,11 @@
     "press_url": "https://www.sanofi.com/en/media-room/press-releases",
     "candidate_links": [
       {
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-07-05-00-00-3268809",
+        "anchor_text": "Read the Press Release",
+        "score": 107
+      },
+      {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-03-31-05-00-00-3265145",
         "anchor_text": "Read the Press Release",
         "score": 107
@@ -95,11 +100,6 @@
       },
       {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-02-03-06-00-00-3230719",
-        "anchor_text": "Read the Press Release",
-        "score": 107
-      },
-      {
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-02-02-06-00-00-3229947",
         "anchor_text": "Read the Press Release",
         "score": 107
       },
@@ -1125,6 +1125,11 @@
     "company": "Amgen",
     "press_url": "https://www.amgen.com/newsroom/press-releases",
     "candidate_links": [
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-announces-positive-topline-phase-3-results-for-subcutaneous-tepezza-in-adults-living-with-moderate-to-severe-active-thyroid-eye-disease",
+        "anchor_text": "AMGEN ANNOUNCES POSITIVE TOPLINE PHASE 3 RESULTS FOR SUBCUTANEOUS TEPEZZA® IN ADULTS LIVING WITH MODERATE-TO-SEVERE ACTIVE THYROID EYE DISEASE",
+        "score": 219
+      },
       {
         "url": "https://www.amgen.com/newsroom/press-releases/2026/03/repatha-cuts-risk-of-first-major-cardiovascular-events-by-31-in-highrisk-patients-without-known-significant-atherosclerosis",
         "anchor_text": "REPATHA® CUTS RISK OF FIRST MAJOR CARDIOVASCULAR EVENTS BY 31% IN HIGH-RISK PATIENTS WITHOUT KNOWN SIGNIFICANT ATHEROSCLEROSIS",
@@ -5707,34 +5712,14 @@
         "score": 137
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-and-sarah-cannon-research-institute-form-strategic-collaboration-to-advance-oncology-clinical-trials/",
-        "anchor_text": "Read Press Release",
-        "score": 134
-      },
-      {
         "url": "https://www.veeva.com/resources/iqvia-and-veeva-announce-long-term-clinical-and-commercial-partnerships-and-resolution-of-all-disputes/",
         "anchor_text": "Learn More",
-        "score": 130
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-hcp-access-improves-segmentation-and-targeting-with-brick-level-hcp-access-data-for-20-countries/",
-        "anchor_text": "Read Press Release",
         "score": 130
       },
       {
         "url": "https://www.veeva.com/resources/veeva-opendata-and-veeva-network-mdm-enable-coordinated-customer-engagement-for-boehringer-ingelheim/",
         "anchor_text": "Read Press Release",
         "score": 128
-      },
-      {
-        "url": "https://www.veeva.com/medtech/news/new-study-finds-88-of-medtechs-prioritizing-postmarket-quality-modernization-within-next-3-years",
-        "anchor_text": "Read Press Release",
-        "score": 126
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-pulse-report-finds-content-driven-engagement-lags-despite-proven-boost-to-treatment-adoption/",
-        "anchor_text": "Read Press Release",
-        "score": 126
       },
       {
         "url": "https://www.veeva.com/resources/veeva-announces-collaboration-with-global-biotech-to-further-accelerate-clinical-trial-innovation/",
@@ -5762,42 +5747,7 @@
         "score": 119
       },
       {
-        "url": "https://www.veeva.com/resources/a-growing-number-of-biopharmas-leverage-veeva-compass-patient-to-improve-commercialization/",
-        "anchor_text": "Read Press Release",
-        "score": 118
-      },
-      {
-        "url": "https://www.veeva.com/resources/new-veeva-china-campaign-manager-drives-precision-omnichannel-marketing-for-life-sciences/",
-        "anchor_text": "Read Press Release",
-        "score": 117
-      },
-      {
-        "url": "https://www.veeva.com/medtech/news/report-reveals-70-of-medtechs-use-manual-processes-for-managing-content-and-claims/",
-        "anchor_text": "Read Press Release",
-        "score": 115
-      },
-      {
-        "url": "https://www.veeva.com/resources/more-than-75-emerging-biotechs-use-veeva-basics-across-clinical-regulatory-and-quality/",
-        "anchor_text": "Read Press Release",
-        "score": 114
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-new-digital-hazard-analysis-and-critical-control-point-haccp-solution/",
-        "anchor_text": "Read Press Release",
-        "score": 113
-      },
-      {
-        "url": "https://www.veeva.com/medtech/news/medtech-industry-establishes-foundation-for-clinical-trials-with-veeva-medtech/",
-        "anchor_text": "Read Press Release",
-        "score": 111
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-ai-agents-now-available-to-increase-productivity-and-customer-centricity/",
-        "anchor_text": "Read Press Release",
-        "score": 106
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-direct-data-api-now-included-with-vault-platform-to-enable-ai-innovation/",
         "anchor_text": "Read Press Release",
         "score": 106
       },
@@ -5807,17 +5757,7 @@
         "score": 105
       },
       {
-        "url": "https://www.veeva.com/resources/life-sciences-leaders-advance-unified-engagement-at-veeva-commercial-summit/",
-        "anchor_text": "Read Press Release",
-        "score": 103
-      },
-      {
         "url": "https://www.veeva.com/resources/13-of-the-top-20-biopharmas-standardize-globally-on-veeva-link-key-people/",
-        "anchor_text": "Read Press Release",
-        "score": 101
-      },
-      {
-        "url": "https://www.veeva.com/medtech/news/veeva-vault-qms-adds-field-actions-and-recall-management-for-medtech/",
         "anchor_text": "Read Press Release",
         "score": 101
       },
@@ -5827,44 +5767,9 @@
         "score": 100
       },
       {
-        "url": "https://www.veeva.com/resources/boehringer-ingelheim-partners-with-veeva-to-launch-one-medicine-platform/",
-        "anchor_text": "Read Press Release",
-        "score": 100
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-pulse-data-shows-new-science-calls-for-more-connected-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 98
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-and-zifo-partner-to-accelerate-quality-control-modernization/",
-        "anchor_text": "Read Press Release",
-        "score": 94
-      },
-      {
         "url": "https://www.veeva.com/resources/novo-nordisk-international-operations-commits-to-veeva-vault-crm/",
         "anchor_text": "Read Press Release",
         "score": 92
-      },
-      {
-        "url": "https://www.veeva.com/resources/more-than-200-companies-advance-trial-management-with-veeva-ctms/",
-        "anchor_text": "Read Press Release",
-        "score": 92
-      },
-      {
-        "url": "https://www.veeva.com/medtech/news/18-of-the-top-20-medtech-companies-partner-with-veeva-medtech",
-        "anchor_text": "Read Press Release",
-        "score": 91
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-research-site-clinical-trial-management-system/",
-        "anchor_text": "Read Press Release",
-        "score": 90
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-delivers-vault-crm-suite-with-vault-crm-campaign-manager/",
-        "anchor_text": "Read Press Release",
-        "score": 90
       },
       {
         "url": "https://www.veeva.com/resources/leaders-come-together-to-advance-the-industry-at-veeva-summit/",
@@ -5887,16 +5792,6 @@
         "score": 87
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-announces-fourth-quarter-and-fiscal-year-2025-results/",
-        "anchor_text": "Read Press Release",
-        "score": 87
-      },
-      {
-        "url": "https://www.veeva.com/resources/top-global-biopharmas-standardize-on-veeva-china-crm-suite/",
-        "anchor_text": "Read Press Release",
-        "score": 86
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-and-biomarin-form-long-term-strategic-partnership/",
         "anchor_text": "Read Press Release",
         "score": 83
@@ -5905,11 +5800,6 @@
         "url": "https://www.veeva.com/resources/openevidence-and-veeva-announce-open-vista-partnership/",
         "anchor_text": "Learn More",
         "score": 82
-      },
-      {
-        "url": "https://www.veeva.com/resources/astellas-chooses-veeva-vault-crm-as-global-standard/",
-        "anchor_text": "Read Press Release",
-        "score": 79
       },
       {
         "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2026-second-quarter-results/",
@@ -5927,16 +5817,6 @@
         "score": 77
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2026-first-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 77
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2025-third-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 77
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-announces-expanded-partnership-with-roche/",
         "anchor_text": "Read Press Release",
         "score": 75
@@ -5945,21 +5825,6 @@
         "url": "https://www.veeva.com/resources/bristol-myers-squibb-commits-to-veeva-vault-crm/",
         "anchor_text": "Read Press Release",
         "score": 75
-      },
-      {
-        "url": "https://www.veeva.com/resources/boehringer-ingelheim-commits-to-veeva-vault-crm/",
-        "anchor_text": "Read Press Release",
-        "score": 75
-      },
-      {
-        "url": "https://www.veeva.com/resources/walgreens-and-veeva-form-strategic-partnership/",
-        "anchor_text": "Learn More",
-        "score": 74
-      },
-      {
-        "url": "https://www.veeva.com/resources/indero-marks-40th-study-live-with-veeva-rtsm/",
-        "anchor_text": "Read Press Release",
-        "score": 72
       },
       {
         "url": "https://www.veeva.com/resources/gilead-sciences-commits-to-veeva-vault-crm/",
@@ -6004,11 +5869,6 @@
       {
         "url": "https://www.veeva.com/products/vault-medical/veeva-medinquiry/",
         "anchor_text": "Veeva MedInquiryStreamline inquiry intake and fulfillment",
-        "score": 59
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-ai-in-vault-crm/",
-        "anchor_text": "Read Press Release",
         "score": 59
       },
       {
@@ -6169,11 +6029,6 @@
       {
         "url": "https://www.veeva.com/eu/compliant-content-at-scale/",
         "anchor_text": "Tailor Content at Scale",
-        "score": 47
-      },
-      {
-        "url": "https://www.veeva.com/resources/announcing-veeva-ai/",
-        "anchor_text": "Read Press Release",
         "score": 47
       },
       {
@@ -7592,6 +7447,132 @@
         "url": "https://www.solix.com/",
         "anchor_text": "English",
         "score": 3
+      }
+    ]
+  },
+  {
+    "company": "Thermo Fisher Scientific",
+    "press_url": "https://www.thermofisher.com/blog/",
+    "candidate_links": [
+      {
+        "url": "https://www.thermofisher.com/blog/accelerating-science-blog-subscribe/",
+        "anchor_text": "subscribe",
+        "score": 58
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/clinical-conversations/",
+        "anchor_text": "Clinical Conversations",
+        "score": 45
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/identifying-threats/",
+        "anchor_text": "Identifying Threats",
+        "score": 42
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/atomic-resolution/",
+        "anchor_text": "Life in Atomic Resolution",
+        "score": 40
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/new-thermo-fisher/",
+        "anchor_text": "New on ThermoFisher.com",
+        "score": 40
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/ask-a-scientist/",
+        "anchor_text": "Ask a Scientist",
+        "score": 38
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/life-in-the-lab/",
+        "anchor_text": "Life in the Lab",
+        "score": 38
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/contact-us/",
+        "anchor_text": "Contact",
+        "score": 33
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/about-us/",
+        "anchor_text": "About Us",
+        "score": 31
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/behindthebench/",
+        "anchor_text": "Behind the Bench",
+        "score": 27
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/semiconductors/",
+        "anchor_text": "Illuminating Semiconductors",
+        "score": 27
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/biotechnology/",
+        "anchor_text": "Biotech at Scale",
+        "score": 26
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/connectedlab/",
+        "anchor_text": "The Connected Lab",
+        "score": 25
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/analyteguru/",
+        "anchor_text": "AnalyteGuru",
+        "score": 24
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/oempowered/",
+        "anchor_text": "OEMpowered",
+        "score": 23
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/materials/",
+        "anchor_text": "Advancing Materials",
+        "score": 22
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/locations/",
+        "anchor_text": "Locations",
+        "score": 22
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/sitemap/",
+        "anchor_text": "Sitemap",
+        "score": 20
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/mining/",
+        "anchor_text": "Advancing Mining",
+        "score": 19
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/metals/",
+        "anchor_text": "Analyzing Metals",
+        "score": 19
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/food/",
+        "anchor_text": "Examining Food",
+        "score": 17
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/",
+        "anchor_text": "___",
+        "score": 10
+      },
+      {
+        "url": "https://www.thermofisher.com/",
+        "anchor_text": "Thermo Fisher Scientific",
+        "score": 3
+      },
+      {
+        "url": "https://www.thermofisher.com",
+        "anchor_text": "Thermo Fisher Scientific",
+        "score": 0
       }
     ]
   },
@@ -18275,6 +18256,292 @@
     ]
   },
   {
+    "company": "Biocon Biologics",
+    "press_url": "https://www.bioconbiologics.com/media/",
+    "candidate_links": [
+      {
+        "url": "https://www.bioconbiologics.com/our-capabilities/global-scale-manufacturing/",
+        "anchor_text": "India",
+        "score": 61
+      },
+      {
+        "url": "https://www.bioconbiologics.com/our-business/global-biosimilars-portfolio/",
+        "anchor_text": "Global Biosimilars Portfolio",
+        "score": 59
+      },
+      {
+        "url": "https://www.bioconbiologics.com/our-capabilities/research-and-development/",
+        "anchor_text": "Research & Development",
+        "score": 59
+      },
+      {
+        "url": "https://www.bioconbiologics.com/our-capabilities/quality-and-compliance/",
+        "anchor_text": "Quality & Compliance",
+        "score": 57
+      },
+      {
+        "url": "https://www.bioconbiologics.com/about-us/our-work-in-biosimilars/",
+        "anchor_text": "Overview",
+        "score": 50
+      },
+      {
+        "url": "https://www.bioconbiologics.com/about-us/scientific-publications/",
+        "anchor_text": "Scientific Publications",
+        "score": 50
+      },
+      {
+        "url": "https://www.bioconbiologics.com/biocon-biologics-pharmacovigilance/",
+        "anchor_text": "Report adverse events/side effects/product complaints and/or to submit medical inquiries for Biocon Biologics Limited & BBL Affiliate products.",
+        "score": 50
+      },
+      {
+        "url": "https://www.bioconbiologics.com/ms-my/biocon-biologics-malaysia/",
+        "anchor_text": "Malaysia",
+        "score": 49
+      },
+      {
+        "url": "https://www.bioconbiologics.com/our-business/global-footprint/",
+        "anchor_text": "Global Footprint",
+        "score": 47
+      },
+      {
+        "url": "https://www.bioconbiologics.com/our-business/emerging-markets/",
+        "anchor_text": "Emerging Markets",
+        "score": 47
+      },
+      {
+        "url": "https://www.bioconbiologics.com/commitment/ehs-certifications/",
+        "anchor_text": "EHS Certifications",
+        "score": 47
+      },
+      {
+        "url": "https://www.bioconbiologics.com/about-us/board-of-directors/",
+        "anchor_text": "Board of Directors",
+        "score": 45
+      },
+      {
+        "url": "https://www.bioconbiologics.com/about-us/awards-recognition/",
+        "anchor_text": "Awards & Recognition",
+        "score": 45
+      },
+      {
+        "url": "https://www.bioconbiologics.com/news/company-statements/",
+        "anchor_text": "Company Statements",
+        "score": 41
+      },
+      {
+        "url": "https://www.bioconbiologics.com/careers/working-with-us/",
+        "anchor_text": "Careers",
+        "score": 41
+      },
+      {
+        "url": "https://www.bioconbiologics.com/our-business/partners/",
+        "anchor_text": "Partners",
+        "score": 39
+      },
+      {
+        "url": "https://www.bioconbiologics.com/news/resource-center/",
+        "anchor_text": "Resource Center",
+        "score": 38
+      },
+      {
+        "url": "https://www.bioconbiologics.com/news/press-releases/",
+        "anchor_text": "News",
+        "score": 37
+      },
+      {
+        "url": "https://www.bioconbiologics.com/news/media-stories/",
+        "anchor_text": "Media Stories",
+        "score": 36
+      },
+      {
+        "url": "https://www.bioconbiologics.com/news/media-contact/",
+        "anchor_text": "Media Contacts",
+        "score": 36
+      },
+      {
+        "url": "https://www.bioconbiologics.com/news/video-gallery/",
+        "anchor_text": "Video Gallery",
+        "score": 36
+      },
+      {
+        "url": "https://www.bioconbiologics.com/privacy-policy-bbl/",
+        "anchor_text": "| Privacy Policy",
+        "score": 34
+      },
+      {
+        "url": "https://www.bioconbiologics.com/products-locator/",
+        "anchor_text": "Product Locator",
+        "score": 32
+      },
+      {
+        "url": "https://www.bioconbiologics.com/working-with-us/",
+        "anchor_text": "Working With Us",
+        "score": 31
+      },
+      {
+        "url": "https://www.bioconbiologics.com/cookie-policy/",
+        "anchor_text": "* Cookie Policy",
+        "score": 29
+      },
+      {
+        "url": "https://www.bioconbiologics.com/cookie-notice/",
+        "anchor_text": "More information",
+        "score": 29
+      },
+      {
+        "url": "https://www.bioconbiologics.com/terms-of-use/",
+        "anchor_text": "| Terms of Use",
+        "score": 28
+      },
+      {
+        "url": "https://www.bioconbiologics.com/our-stories/",
+        "anchor_text": "Our Stories",
+        "score": 27
+      },
+      {
+        "url": "https://www.bioconbiologics.com/our-stories/#BrandStories",
+        "anchor_text": "Brand Stories",
+        "score": 27
+      },
+      {
+        "url": "https://www.bioconbiologics.com/our-stories/#PatientStories",
+        "anchor_text": "Patients’ Stories",
+        "score": 27
+      },
+      {
+        "url": "https://www.bioconbiologics.com/our-stories/#EmployeeStories",
+        "anchor_text": "Employee Stories",
+        "score": 27
+      },
+      {
+        "url": "https://www.bioconbiologics.com/contact-us/",
+        "anchor_text": "Contact Us",
+        "score": 26
+      },
+      {
+        "url": "https://www.bioconbiologics.com/about-us/",
+        "anchor_text": "About Us",
+        "score": 24
+      },
+      {
+        "url": "https://www.bioconbiologics.com/fil-ph/",
+        "anchor_text": "Philippines",
+        "score": 22
+      },
+      {
+        "url": "https://www.bioconbiologics.com/pt-br/",
+        "anchor_text": "Brazil",
+        "score": 21
+      },
+      {
+        "url": "https://www.bioconbiologics.com/ar-eg/",
+        "anchor_text": "Egypt",
+        "score": 21
+      },
+      {
+        "url": "https://www.bioconbiologics.com/zh-hk/",
+        "anchor_text": "Hong Kong",
+        "score": 21
+      },
+      {
+        "url": "https://www.bioconbiologics.com/ms-my/",
+        "anchor_text": "Malaysia",
+        "score": 21
+      },
+      {
+        "url": "https://www.bioconbiologics.com/es-mx/",
+        "anchor_text": "Mexico",
+        "score": 21
+      },
+      {
+        "url": "https://www.bioconbiologics.com/ar-ma/",
+        "anchor_text": "Morocco",
+        "score": 21
+      },
+      {
+        "url": "https://www.bioconbiologics.com/ar-sa/",
+        "anchor_text": "Saudi Arabia",
+        "score": 21
+      },
+      {
+        "url": "https://www.bioconbiologics.com/en-za/",
+        "anchor_text": "South Africa",
+        "score": 21
+      },
+      {
+        "url": "https://www.bioconbiologics.com/zh-tw/",
+        "anchor_text": "Taiwan",
+        "score": 21
+      },
+      {
+        "url": "https://www.bioconbiologics.com/th-th/",
+        "anchor_text": "Thailand",
+        "score": 21
+      },
+      {
+        "url": "https://www.bioconbiologics.com/ar-tn/",
+        "anchor_text": "Tunisia",
+        "score": 21
+      },
+      {
+        "url": "https://www.bioconbiologics.com/tr-tr/",
+        "anchor_text": "Turkey",
+        "score": 21
+      },
+      {
+        "url": "https://www.bioconbiologics.com/ar-ae/",
+        "anchor_text": "UAE",
+        "score": 21
+      },
+      {
+        "url": "https://www.bioconbiologics.com/vi-vn/",
+        "anchor_text": "Vietnam",
+        "score": 21
+      },
+      {
+        "url": "https://www.bioconbiologics.com/commitment/",
+        "anchor_text": "Overview",
+        "score": 16
+      },
+      {
+        "url": "https://www.bioconbiologics.com/products/",
+        "anchor_text": "Overview",
+        "score": 14
+      },
+      {
+        "url": "https://www.bioconbiologics.com/sitemap/",
+        "anchor_text": "Sitemap",
+        "score": 13
+      },
+      {
+        "url": "https://www.bioconbiologics.com/media/",
+        "anchor_text": "",
+        "score": 11
+      },
+      {
+        "url": "https://www.bioconbiologics.com/news/",
+        "anchor_text": "News",
+        "score": 10
+      },
+      {
+        "url": "https://www.bioconbiologics.com/",
+        "anchor_text": "Global HQ",
+        "score": 3
+      },
+      {
+        "url": "https://www.bioconbiologics.com/?page_id=855",
+        "anchor_text": "Investors",
+        "score": 3
+      },
+      {
+        "url": "https://www.bioconbiologics.com",
+        "anchor_text": "Biocon Biologics",
+        "score": 0
+      }
+    ]
+  },
+  {
     "company": "Sai Life Sciences",
     "press_url": "https://www.sailife.com/news",
     "candidate_links": [
@@ -18304,11 +18571,6 @@
         "score": 104
       },
       {
-        "url": "https://www.sailife.com/unlocking-chemical-frontiers-iit-bombay-professor-debabrata-maiti-at-sai-life-sciences/",
-        "anchor_text": "Read more",
-        "score": 102
-      },
-      {
         "url": "https://www.sailife.com/where-nature-inspires-innovation-university-of-kansas-prof-apurba-dutta-visits-sai/",
         "anchor_text": "Read more",
         "score": 98
@@ -18317,6 +18579,11 @@
         "url": "https://www.sailife.com/sai-life-sciences-set-to-double-process-rd-capacity-with-new-facility-in-hyderabad/",
         "anchor_text": "Read more",
         "score": 98
+      },
+      {
+        "url": "https://www.sailife.com/sai-life-sciences-recognized-as-a-best-organization-for-women-bow-2026-by-et-edge/",
+        "anchor_text": "Read more",
+        "score": 97
       },
       {
         "url": "https://www.sailife.com/sai-life-sciences-laboratories-achieve-green-lab-certification-with-98-compliance/",
@@ -20068,7 +20335,7 @@
       },
       {
         "url": "https://www.illumina.com/company/news-center.html",
-        "anchor_text": "Cookie Management Center",
+        "anchor_text": "Share on Linkedin",
         "score": 39
       },
       {
@@ -22395,11 +22662,6 @@
         "score": 197
       },
       {
-        "url": "https://www.ey.com/en_gl/newsroom/2026/01/life-sciences-m-a-spending-accelerates-as-the-industry-faces-growth-gaps-and-looks-to-ai-and-china-for-innovation",
-        "anchor_text": "Life sciences M&A spending accelerates, as the industry faces growth gaps and looks to AI and China for innovation",
-        "score": 182
-      },
-      {
         "url": "https://www.ey.com/en_gl/newsroom/2026/03/ey-recognized-by-nvidia-for-outstanding-innovation-and-technical-excellence-as-well-as-leadership-in-physical-ai",
         "anchor_text": "Media alert: EY recognized by NVIDIA for outstanding innovation and technical excellence as well as leadership in physical AI",
         "score": 181
@@ -22440,13 +22702,13 @@
         "score": 162
       },
       {
-        "url": "https://www.ey.com/en_gl/newsroom/2026/01/ey-named-a-leader-in-idc-ww-supply-chain-overall-ecosystem-services-marketscape",
-        "anchor_text": "EY named a Leader in IDC WW Supply Chain Overall Ecosystem Services MarketScape",
-        "score": 148
+        "url": "https://www.ey.com/en_gl/newsroom/2026/04/ey-launches-enterprise-scale-agentic-ai-to-redefine-the-audit-experience-for-the-ai-era",
+        "anchor_text": "EY launches enterprise-scale agentic AI to redefine the audit experience for the AI era",
+        "score": 156
       },
       {
-        "url": "https://www.ey.com/en_gl/newsroom/2026/01/ey-named-a-verified-leader-in-industrial-cybersecurity-consulting-services-2025",
-        "anchor_text": "EY named a \"Verified Leader” in Industrial Cybersecurity Consulting Services (2025)",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/01/ey-named-a-leader-in-idc-ww-supply-chain-overall-ecosystem-services-marketscape",
+        "anchor_text": "EY named a Leader in IDC WW Supply Chain Overall Ecosystem Services MarketScape",
         "score": 148
       },
       {
@@ -22468,6 +22730,11 @@
         "url": "https://www.ey.com/en_gl/insights/banking-capital-markets/how-can-reimagining-todays-workforce-help-banks-shape-their-future",
         "anchor_text": "How can reimagining today's workforce help banks shape their future?By focusing on four bold imperatives, banks can differentiate in the competition for top talent and drive higher returns on people investments.09 Sep 2025",
         "score": 124
+      },
+      {
+        "url": "https://www.ey.com/en_gl/newsroom/2026/04/ey-named-a-horizon-3-market-leader-in-agentic-services",
+        "anchor_text": "EY named a Horizon 3 Market Leader in Agentic Services",
+        "score": 123
       },
       {
         "url": "https://www.ey.com/en_gl/insights/energy-resources/how-ai-drove-data-optimization-for-oil-and-gas-capital-projects",
@@ -23190,11 +23457,6 @@
         "score": 42
       },
       {
-        "url": "https://www.ey.com/en_gl/people/gigi-o-brien",
-        "anchor_text": "Gigi O’Brien",
-        "score": 42
-      },
-      {
         "url": "https://www.ey.com/en_gl/people/rachel-lloyd",
         "anchor_text": "Rachel LloydDirector, Media Relations and Social Media, Ernst & Young LLP",
         "score": 42
@@ -23863,6 +24125,11 @@
         "url": "https://www.ey.com/en_iq",
         "anchor_text": "IraqEnglish",
         "score": 8
+      },
+      {
+        "url": "https://www.ey.com/en_ie",
+        "anchor_text": "IrelandEnglish",
+        "score": 8
       }
     ]
   },
@@ -24238,11 +24505,6 @@
         "score": 85
       },
       {
-        "url": "https://rxpropellant.com/why-esg-is-critical-to-the-future-of-life-sciences-infrastructure/",
-        "anchor_text": "Why ESG Is Critical to the Future of Life Sciences Infrastructure?",
-        "score": 81
-      },
-      {
         "url": "https://rxpropellant.com/rx-propellant-100m-life-sciences-campus-genome-valley/",
         "anchor_text": "Rx Propellant announces US$ 100 Mn investment to develop an integrated large-format life sciences campus in Genome Valley, Hyderabad",
         "score": 69
@@ -24251,6 +24513,16 @@
         "url": "https://rxpropellant.com/portfolio/navi-mumbai-research-nmr-district/ ",
         "anchor_text": "",
         "score": 62
+      },
+      {
+        "url": "https://rxpropellant.com/designing-labs-for-the-unknown/",
+        "anchor_text": "Designing Labs for the Unknown",
+        "score": 46
+      },
+      {
+        "url": "https://rxpropellant.com/2026/04/",
+        "anchor_text": "April 2026",
+        "score": 40
       },
       {
         "url": "https://rxpropellant.com/2026/03/",
@@ -26727,11 +26999,6 @@
         "score": 109
       },
       {
-        "url": "https://www.lupin.com/media/press-releases/lupin-receives-european-commission-approval-for-biosimilar-ranibizumab",
-        "anchor_text": "Lupin Receives European Commission Approval for Biosimilar Ranibizumab",
-        "score": 108
-      },
-      {
         "url": "https://www.lupin.com/media/press-releases/lupin-receives-tentative-approval-from-u-s-fda-for-pitolisant-tablets",
         "anchor_text": "Lupin Receives Tentative Approval from U.S. FDA for Pitolisant Tablets",
         "score": 107
@@ -26740,6 +27007,11 @@
         "url": "https://www.lupin.com/media/perspectives/redrawing-the-biopharma-map-india-s-rise-in-the-biosimilars-era",
         "anchor_text": "March 10, 2026Redrawing the Biopharma Map: India’s Rise in the Biosimilars Era",
         "score": 99
+      },
+      {
+        "url": "https://www.lupin.com/media/press-releases/lupin-earns-great-place-to-work-certification-tm-for-2026-27",
+        "anchor_text": "Lupin Earns Great Place To Work® Certification™ for 2026-27",
+        "score": 98
       },
       {
         "url": "https://www.lupin.com/media/press-releases/lupin-receives-eir-from-us-fda-for-its-goa-facility",
@@ -32417,6 +32689,11 @@
         "url": "https://www.tempus.com/news/pr/tempus-announces-collaboration-with-median-technologies-to-integrate-ai-powered-lung-cancer-screening-into-the-pixel-platform/",
         "anchor_text": "Tempus Announces Collaboration with Median Technologies to Integrate AI-Powered Lung Cancer Screening into the Pixel Platform",
         "score": 153
+      },
+      {
+        "url": "https://www.tempus.com/resources/content/case-studies/accelerating-a-phase-1-oncology-trial-the-time-networks-impact-on-patient-enrollment/?utm_source=nav-bar&utm_medium=website&utm_campaign=time-phase-1-case-study",
+        "anchor_text": "Read now",
+        "score": 137
       },
       {
         "url": "https://www.tempus.com/news/pr/tempus-announces-strategic-collaboration-agreement-with-merck-to-accelerate-ai-driven-precision-medicine/",
@@ -39321,7 +39598,7 @@
       },
       {
         "url": "https://www.roche.com/investors/bonds",
-        "anchor_text": "Share price318.00CHF- 0.30(-0.09%)Today",
+        "anchor_text": "Share price318.00CHF0.00(0.00%)Today",
         "score": 20
       },
       {
@@ -43869,7 +44146,7 @@
       },
       {
         "url": "https://www.takeda.com/newsroom/press-releases/",
-        "anchor_text": "Do not sell or share my personal information",
+        "anchor_text": "Press Releases",
         "score": 41
       },
       {
@@ -46714,17 +46991,17 @@
         "score": 145
       },
       {
+        "url": "https://www.immunocore.com/investors/news/press-releases/detail/128/immunocore-to-present-at-the-25th-annual-needham-virtual-healthcare-conference",
+        "anchor_text": "Immunocore to present at the 25th Annual Needham Virtual Healthcare Conference",
+        "score": 142
+      },
+      {
         "url": "https://www.immunocore.com/investors/news/press-releases/detail/126/immunocore-to-present-at-upcoming-investor-conferences",
         "anchor_text": "Immunocore to present at upcoming investor conferences",
         "score": 118
       },
       {
         "url": "https://www.immunocore.com/investors/news/press-releases/detail/121/immunocore-to-present-at-upcoming-investor-conferences",
-        "anchor_text": "Immunocore to present at upcoming investor conferences",
-        "score": 118
-      },
-      {
-        "url": "https://www.immunocore.com/investors/news/press-releases/detail/118/immunocore-to-present-at-upcoming-investor-conferences",
         "anchor_text": "Immunocore to present at upcoming investor conferences",
         "score": 118
       },
@@ -46997,6 +47274,11 @@
         "url": "https://www.immunocore.com/clinical-trials",
         "anchor_text": "Clinical Trials",
         "score": 28
+      },
+      {
+        "url": "https://www.immunocore.com/privacy-policy",
+        "anchor_text": "Privacy Policy",
+        "score": 27
       },
       {
         "url": "https://www.immunocore.com/science/publications",
@@ -54739,6 +55021,11 @@
         "score": 18
       },
       {
+        "url": "https://www.sumitomo-pharma.com/profile/dx/",
+        "anchor_text": "Sumitomo Pharma's DX",
+        "score": 18
+      },
+      {
         "url": "https://www.sumitomo-pharma.com/news/ir/",
         "anchor_text": "IR News",
         "score": 15
@@ -56063,11 +56350,6 @@
       {
         "url": "https://www.shionogi.com/global/en/sustainability/amr.html",
         "anchor_text": "Address the problem of\n                                antimicrobial resistance (AMR)",
-        "score": 42
-      },
-      {
-        "url": "https://www.shionogi.com/us/en/privacy-policy.html#Collection",
-        "anchor_text": "Privacy Policy",
         "score": 42
       },
       {
@@ -72153,6 +72435,11 @@
         "score": 153
       },
       {
+        "url": "https://www.tempus.com/resources/content/case-studies/accelerating-a-phase-1-oncology-trial-the-time-networks-impact-on-patient-enrollment/?utm_source=nav-bar&utm_medium=website&utm_campaign=time-phase-1-case-study",
+        "anchor_text": "Read now",
+        "score": 137
+      },
+      {
         "url": "https://www.tempus.com/news/pr/tempus-announces-strategic-collaboration-agreement-with-merck-to-accelerate-ai-driven-precision-medicine/",
         "anchor_text": "Tempus Announces Strategic Collaboration Agreement with Merck to Accelerate AI-Driven Precision Medicine",
         "score": 132
@@ -77512,6 +77799,11 @@
     "press_url": "https://www.sanofi.com/en/media-room/press-releases",
     "candidate_links": [
       {
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-07-05-00-00-3268809",
+        "anchor_text": "Read the Press Release",
+        "score": 107
+      },
+      {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-03-31-05-00-00-3265145",
         "anchor_text": "Read the Press Release",
         "score": 107
@@ -77603,11 +77895,6 @@
       },
       {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-02-03-06-00-00-3230719",
-        "anchor_text": "Read the Press Release",
-        "score": 107
-      },
-      {
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-02-02-06-00-00-3229947",
         "anchor_text": "Read the Press Release",
         "score": 107
       },
@@ -83006,6 +83293,11 @@
     "press_url": "https://www.sanofi.com/en/media-room/press-releases",
     "candidate_links": [
       {
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-07-05-00-00-3268809",
+        "anchor_text": "Read the Press Release",
+        "score": 107
+      },
+      {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-03-31-05-00-00-3265145",
         "anchor_text": "Read the Press Release",
         "score": 107
@@ -83097,11 +83389,6 @@
       },
       {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-02-03-06-00-00-3230719",
-        "anchor_text": "Read the Press Release",
-        "score": 107
-      },
-      {
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-02-02-06-00-00-3229947",
         "anchor_text": "Read the Press Release",
         "score": 107
       },
@@ -84079,9 +84366,9 @@
     "press_url": "https://affiniatx.com/our-news/",
     "candidate_links": [
       {
-        "url": "https://affiniatx.com/affinia-therapeutics-and-dcm-foundation-announce-partnership-to-increase-awareness-about-bag3-dilated-cardiomyopathy-and-critical-need-for-genetic-testing-to-help-save-lives/",
+        "url": "https://affiniatx.com/affinia-therapeutics-receives-approval-from-health-canada-to-initiate-the-upbeat-trial-a-phase-1-2-clinical-trial-to-investigate-aftx-201-as-a-treatment-for-bag3-associated-dilated-cardiomyopat/",
         "anchor_text": "Read More",
-        "score": 189
+        "score": 209
       },
       {
         "url": "https://affiniatx.com/affinia-therapeutics-announces-fda-acceptance-of-ind-application-to-advance-aftx-201-to-a-phase-1-2-trial-for-the-treatment-of-bag3-associated-dilated-cardiomyopathy-dcm/",
@@ -84124,6 +84411,11 @@
         "score": 41
       },
       {
+        "url": "https://affiniatx.com/2026/04/",
+        "anchor_text": "Apr 6, 2026",
+        "score": 40
+      },
+      {
         "url": "https://affiniatx.com/2026/03/",
         "anchor_text": "Mar 4, 2026",
         "score": 40
@@ -84136,11 +84428,6 @@
       {
         "url": "https://affiniatx.com/2025/10/",
         "anchor_text": "Oct 7, 2025",
-        "score": 40
-      },
-      {
-        "url": "https://affiniatx.com/2025/06/",
-        "anchor_text": "Jun 3, 2025",
         "score": 40
       },
       {
@@ -84713,416 +85000,9 @@
     "candidate_links": []
   },
   {
-    "company": "Thermo Fisher Scientific",
-    "press_url": "https://www.thermofisher.com/blog/",
-    "candidate_links": [
-      {
-        "url": "https://www.thermofisher.com/blog/accelerating-science-blog-subscribe/",
-        "anchor_text": "subscribe",
-        "score": 58
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/clinical-conversations/",
-        "anchor_text": "Clinical Conversations",
-        "score": 45
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/identifying-threats/",
-        "anchor_text": "Identifying Threats",
-        "score": 42
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/atomic-resolution/",
-        "anchor_text": "Life in Atomic Resolution",
-        "score": 40
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/new-thermo-fisher/",
-        "anchor_text": "New on ThermoFisher.com",
-        "score": 40
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/ask-a-scientist/",
-        "anchor_text": "Ask a Scientist",
-        "score": 38
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/life-in-the-lab/",
-        "anchor_text": "Life in the Lab",
-        "score": 38
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/contact-us/",
-        "anchor_text": "Contact",
-        "score": 33
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/about-us/",
-        "anchor_text": "About Us",
-        "score": 31
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/behindthebench/",
-        "anchor_text": "Behind the Bench",
-        "score": 27
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/semiconductors/",
-        "anchor_text": "Illuminating Semiconductors",
-        "score": 27
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/biotechnology/",
-        "anchor_text": "Biotech at Scale",
-        "score": 26
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/connectedlab/",
-        "anchor_text": "The Connected Lab",
-        "score": 25
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/analyteguru/",
-        "anchor_text": "AnalyteGuru",
-        "score": 24
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/oempowered/",
-        "anchor_text": "OEMpowered",
-        "score": 23
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/materials/",
-        "anchor_text": "Advancing Materials",
-        "score": 22
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/locations/",
-        "anchor_text": "Locations",
-        "score": 22
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/sitemap/",
-        "anchor_text": "Sitemap",
-        "score": 20
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/mining/",
-        "anchor_text": "Advancing Mining",
-        "score": 19
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/metals/",
-        "anchor_text": "Analyzing Metals",
-        "score": 19
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/food/",
-        "anchor_text": "Examining Food",
-        "score": 17
-      },
-      {
-        "url": "https://www.thermofisher.com/",
-        "anchor_text": "Thermo Fisher Scientific",
-        "score": 3
-      },
-      {
-        "url": "https://www.thermofisher.com",
-        "anchor_text": "Thermo Fisher Scientific",
-        "score": 0
-      }
-    ]
-  },
-  {
     "company": "T-Hub",
     "press_url": "https://t-hub.co/media/",
     "candidate_links": []
-  },
-  {
-    "company": "Biocon Biologics",
-    "press_url": "https://www.bioconbiologics.com/media/",
-    "candidate_links": [
-      {
-        "url": "https://www.bioconbiologics.com/our-capabilities/global-scale-manufacturing/",
-        "anchor_text": "India",
-        "score": 61
-      },
-      {
-        "url": "https://www.bioconbiologics.com/our-business/global-biosimilars-portfolio/",
-        "anchor_text": "Global Biosimilars Portfolio",
-        "score": 59
-      },
-      {
-        "url": "https://www.bioconbiologics.com/our-capabilities/research-and-development/",
-        "anchor_text": "Research & Development",
-        "score": 59
-      },
-      {
-        "url": "https://www.bioconbiologics.com/our-capabilities/quality-and-compliance/",
-        "anchor_text": "Quality & Compliance",
-        "score": 57
-      },
-      {
-        "url": "https://www.bioconbiologics.com/about-us/our-work-in-biosimilars/",
-        "anchor_text": "Overview",
-        "score": 50
-      },
-      {
-        "url": "https://www.bioconbiologics.com/about-us/scientific-publications/",
-        "anchor_text": "Scientific Publications",
-        "score": 50
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-pharmacovigilance/",
-        "anchor_text": "Report adverse events/side effects/product complaints and/or to submit medical inquiries for Biocon Biologics Limited & BBL Affiliate products.",
-        "score": 50
-      },
-      {
-        "url": "https://www.bioconbiologics.com/ms-my/biocon-biologics-malaysia/",
-        "anchor_text": "Malaysia",
-        "score": 49
-      },
-      {
-        "url": "https://www.bioconbiologics.com/our-business/global-footprint/",
-        "anchor_text": "Global Footprint",
-        "score": 47
-      },
-      {
-        "url": "https://www.bioconbiologics.com/our-business/emerging-markets/",
-        "anchor_text": "Emerging Markets",
-        "score": 47
-      },
-      {
-        "url": "https://www.bioconbiologics.com/commitment/ehs-certifications/",
-        "anchor_text": "EHS Certifications",
-        "score": 47
-      },
-      {
-        "url": "https://www.bioconbiologics.com/about-us/board-of-directors/",
-        "anchor_text": "Board of Directors",
-        "score": 45
-      },
-      {
-        "url": "https://www.bioconbiologics.com/about-us/awards-recognition/",
-        "anchor_text": "Awards & Recognition",
-        "score": 45
-      },
-      {
-        "url": "https://www.bioconbiologics.com/news/company-statements/",
-        "anchor_text": "Company Statements",
-        "score": 41
-      },
-      {
-        "url": "https://www.bioconbiologics.com/careers/working-with-us/",
-        "anchor_text": "Careers",
-        "score": 41
-      },
-      {
-        "url": "https://www.bioconbiologics.com/our-business/partners/",
-        "anchor_text": "Partners",
-        "score": 39
-      },
-      {
-        "url": "https://www.bioconbiologics.com/news/resource-center/",
-        "anchor_text": "Resource Center",
-        "score": 38
-      },
-      {
-        "url": "https://www.bioconbiologics.com/news/press-releases/",
-        "anchor_text": "News",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/news/media-stories/",
-        "anchor_text": "Media Stories",
-        "score": 36
-      },
-      {
-        "url": "https://www.bioconbiologics.com/news/media-contact/",
-        "anchor_text": "Media Contacts",
-        "score": 36
-      },
-      {
-        "url": "https://www.bioconbiologics.com/news/video-gallery/",
-        "anchor_text": "Video Gallery",
-        "score": 36
-      },
-      {
-        "url": "https://www.bioconbiologics.com/privacy-policy-bbl/",
-        "anchor_text": "| Privacy Policy",
-        "score": 34
-      },
-      {
-        "url": "https://www.bioconbiologics.com/products-locator/",
-        "anchor_text": "Product Locator",
-        "score": 32
-      },
-      {
-        "url": "https://www.bioconbiologics.com/working-with-us/",
-        "anchor_text": "Working With Us",
-        "score": 31
-      },
-      {
-        "url": "https://www.bioconbiologics.com/cookie-policy/",
-        "anchor_text": "* Cookie Policy",
-        "score": 29
-      },
-      {
-        "url": "https://www.bioconbiologics.com/cookie-notice/",
-        "anchor_text": "More information",
-        "score": 29
-      },
-      {
-        "url": "https://www.bioconbiologics.com/terms-of-use/",
-        "anchor_text": "| Terms of Use",
-        "score": 28
-      },
-      {
-        "url": "https://www.bioconbiologics.com/our-stories/",
-        "anchor_text": "Our Stories",
-        "score": 27
-      },
-      {
-        "url": "https://www.bioconbiologics.com/our-stories/#BrandStories",
-        "anchor_text": "Brand Stories",
-        "score": 27
-      },
-      {
-        "url": "https://www.bioconbiologics.com/our-stories/#PatientStories",
-        "anchor_text": "Patients’ Stories",
-        "score": 27
-      },
-      {
-        "url": "https://www.bioconbiologics.com/our-stories/#EmployeeStories",
-        "anchor_text": "Employee Stories",
-        "score": 27
-      },
-      {
-        "url": "https://www.bioconbiologics.com/contact-us/",
-        "anchor_text": "Contact Us",
-        "score": 26
-      },
-      {
-        "url": "https://www.bioconbiologics.com/about-us/",
-        "anchor_text": "About Us",
-        "score": 24
-      },
-      {
-        "url": "https://www.bioconbiologics.com/fil-ph/",
-        "anchor_text": "Philippines",
-        "score": 22
-      },
-      {
-        "url": "https://www.bioconbiologics.com/pt-br/",
-        "anchor_text": "Brazil",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/ar-eg/",
-        "anchor_text": "Egypt",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/zh-hk/",
-        "anchor_text": "Hong Kong",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/ms-my/",
-        "anchor_text": "Malaysia",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/es-mx/",
-        "anchor_text": "Mexico",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/ar-ma/",
-        "anchor_text": "Morocco",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/ar-sa/",
-        "anchor_text": "Saudi Arabia",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/en-za/",
-        "anchor_text": "South Africa",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/zh-tw/",
-        "anchor_text": "Taiwan",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/th-th/",
-        "anchor_text": "Thailand",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/ar-tn/",
-        "anchor_text": "Tunisia",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/tr-tr/",
-        "anchor_text": "Turkey",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/ar-ae/",
-        "anchor_text": "UAE",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/vi-vn/",
-        "anchor_text": "Vietnam",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/commitment/",
-        "anchor_text": "Overview",
-        "score": 16
-      },
-      {
-        "url": "https://www.bioconbiologics.com/products/",
-        "anchor_text": "Overview",
-        "score": 14
-      },
-      {
-        "url": "https://www.bioconbiologics.com/sitemap/",
-        "anchor_text": "Sitemap",
-        "score": 13
-      },
-      {
-        "url": "https://www.bioconbiologics.com/media/",
-        "anchor_text": "",
-        "score": 11
-      },
-      {
-        "url": "https://www.bioconbiologics.com/news/",
-        "anchor_text": "News",
-        "score": 10
-      },
-      {
-        "url": "https://www.bioconbiologics.com/",
-        "anchor_text": "Global HQ",
-        "score": 3
-      },
-      {
-        "url": "https://www.bioconbiologics.com/?page_id=855",
-        "anchor_text": "Investors",
-        "score": 3
-      },
-      {
-        "url": "https://www.bioconbiologics.com",
-        "anchor_text": "Biocon Biologics",
-        "score": 0
-      }
-    ]
   },
   {
     "company": "Waters Corporation",
@@ -85530,7 +85410,7 @@
       },
       {
         "url": "https://www.cipla.com/privacy-policy",
-        "anchor_text": "More info",
+        "anchor_text": "Privacy Policy",
         "score": 27
       },
       {

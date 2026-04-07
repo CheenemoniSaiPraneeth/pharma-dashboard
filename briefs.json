@@ -1,10 +1,17 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 1,
-    "items_extracted": 0,
+    "articles_used": 10,
+    "items_extracted": 1,
     "items_dropped": 0,
-    "generated_at": "2026-04-06 07:42:48"
+    "generated_at": "2026-04-07 07:25:23"
   },
-  "news": []
+  "news": [
+    {
+      "company": "Affinia Therapeutics",
+      "modality": "gene editing",
+      "news": "Affinia Therapeutics received approval from Health Canada to initiate the UPBEAT trial, a Phase 1/2 clinical study investigating AFTX-201, an AAV gene therapy for BAG3-associated dilated cardiomyopathy. This follows FDA acceptance of the IND application and Fast Track designation for the investigational medicine.",
+      "url": "https://affiniatx.com/affinia-therapeutics-receives-approval-from-health-canada-to-initiate-the-upbeat-trial-a-phase-1-2-clinical-trial-to-investigate-aftx-201-as-a-treatment-for-bag3-associated-dilated-cardiomyopat/"
+    }
+  ]
 }
