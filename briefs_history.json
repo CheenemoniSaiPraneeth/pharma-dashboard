@@ -1,4 +1,61 @@
 {
+  "2026-04-08": {
+    "monoclonal antibodies": [
+      {
+        "company": "GSK",
+        "modality": "monoclonal antibodies",
+        "news": "GSK announced that China's NMPA approved Exdensur (depemokimab), an ultra-long-acting IL-5 monoclonal antibody, for the treatment of chronic rhinosinusitis with nasal polyps (CRSwNP). The approval is based on data from the ANCHOR-1 and ANCHOR-2 phase III trials.",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/exdensur-depemokimab-approved-in-china/",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "GSK",
+        "modality": "monoclonal antibodies",
+        "news": "GSK announced that China's National Medical Products Administration (NMPA) has approved Exdensur (depemokimab), an ultra-long-acting anti-IL-5 monoclonal antibody, for the treatment of chronic rhinosinusitis with nasal polyps (CRSwNP). The approval is based on data from the ANCHOR-1 and ANCHOR-2 phase III trials showing significant improvements in nasal polyp size and obstruction.",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/exdensur-depemokimab-approved-in-china/",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Gilead Sciences",
+        "modality": "monoclonal antibodies",
+        "news": "Gilead Sciences entered into a definitive agreement to acquire Tubulis GmbH for $3.15 billion in upfront cash and up to $1.85 billion in milestone payments. The acquisition adds Tubulis' next-generation antibody-drug conjugate (ADC) platform and clinical-stage assets, including TUB-040 and TUB-030, to Gilead's oncology pipeline.",
+        "url": "https://www.gilead.com/news/news-details/2026/gilead-to-acquire-tubulis-adding-potentially-best-in-class-antibody-drug-conjugate-and-next-generation-platform-to-further-strengthen-oncology-pipeline",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Evotec",
+        "modality": "monoclonal antibodies",
+        "news": "Evotec secured a multi-year BioMaP-Consortium award from BARDA valued at up to $10 million to optimize the biomanufacturing of monoclonal antibodies against Ebola and Sudan viruses using its continuous manufacturing platform.",
+        "url": "https://www.evotec.com/news/evotec-announces-fourth-quarter-and-full-year-2025-results-foundation-for-profitable-growth",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Evotec",
+        "modality": "monoclonal antibodies",
+        "news": "Evotec received a new Gates Foundation grant to advance global access to affordable biotherapeutics by applying its AI-driven J.MD molecular design platform to improve monoclonal antibody developability for high-priority global health indications.",
+        "url": "https://www.evotec.com/news/evotec-announces-fourth-quarter-and-full-year-2025-results-foundation-for-profitable-growth",
+        "query": "monoclonal antibodies"
+      }
+    ],
+    "molecular glues": [
+      {
+        "company": "Evotec",
+        "modality": "molecular glues",
+        "news": "Evotec's CELMoD molecular glue candidate BMS-986506 progressed from IND acceptance in November 2025 into a Phase 1 clinical study in March 2026 for renal cell carcinoma, in collaboration with Bristol Myers Squibb.",
+        "url": "https://www.evotec.com/news/evotec-announces-fourth-quarter-and-full-year-2025-results-foundation-for-profitable-growth",
+        "query": "molecular glues"
+      }
+    ],
+    "gene editing": [
+      {
+        "company": "CRISPR Therapeutics",
+        "modality": "gene editing",
+        "news": "CRISPR Therapeutics announced that senior management will present at the 25th Annual Needham Virtual Healthcare Conference on April 13, 2026. The company highlighted its leadership in gene editing, including the approved CASGEVY therapy and its proprietary SyNTase editing platform.",
+        "url": "https://crisprtx.com/about-us/press-releases-and-presentations/crispr-therapeutics-to-present-at-the-25th-annual-needham-virtual-healthcare-conference",
+        "query": "gene editing"
+      }
+    ]
+  },
   "2026-04-07": {
     "bispecific antibodies": [
       {

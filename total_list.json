@@ -1126,61 +1126,6 @@
     "press_url": "https://www.amgen.com/newsroom/press-releases",
     "candidate_links": [
       {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-announces-positive-topline-phase-3-results-for-subcutaneous-tepezza-in-adults-living-with-moderate-to-severe-active-thyroid-eye-disease",
-        "anchor_text": "AMGEN ANNOUNCES POSITIVE TOPLINE PHASE 3 RESULTS FOR SUBCUTANEOUS TEPEZZA® IN ADULTS LIVING WITH MODERATE-TO-SEVERE ACTIVE THYROID EYE DISEASE",
-        "score": 219
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/03/repatha-cuts-risk-of-first-major-cardiovascular-events-by-31-in-highrisk-patients-without-known-significant-atherosclerosis",
-        "anchor_text": "REPATHA® CUTS RISK OF FIRST MAJOR CARDIOVASCULAR EVENTS BY 31% IN HIGH-RISK PATIENTS WITHOUT KNOWN SIGNIFICANT ATHEROSCLEROSIS",
-        "score": 201
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/01/amgen-announces-webcast-of-2025-fourth-quarter-and-full-year-financial-results",
-        "anchor_text": "AMGEN ANNOUNCES WEBCAST OF 2025 FOURTH QUARTER AND FULL YEAR FINANCIAL RESULTS",
-        "score": 156
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/european-commission-approves-amgens-uplizna-for-generalized-myasthenia-gravis",
-        "anchor_text": "EUROPEAN COMMISSION APPROVES AMGEN'S UPLIZNA® FOR GENERALIZED MYASTHENIA GRAVIS",
-        "score": 155
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/03/amgen-to-present-at-the-leerink-partners-2026-global-healthcare-conference",
-        "anchor_text": "AMGEN TO PRESENT AT THE LEERINK PARTNERS 2026 GLOBAL HEALTHCARE CONFERENCE",
-        "score": 152
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/01/amgen-to-present-at-the-44th-annual-j-p--morgan-healthcare-conference",
-        "anchor_text": "AMGEN TO PRESENT AT THE 44TH ANNUAL J.P. MORGAN HEALTHCARE CONFERENCE",
-        "score": 147
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/amgen-to-present-at-the-46th-annual-td-cowen-health-care-conference",
-        "anchor_text": "AMGEN TO PRESENT AT THE 46TH ANNUAL TD COWEN HEALTH CARE CONFERENCE",
-        "score": 145
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/01/amgen-acquires-dark-blue-therapeutics-bolstering-oncology-pipeline",
-        "anchor_text": "AMGEN ACQUIRES DARK BLUE THERAPEUTICS, BOLSTERING ONCOLOGY PIPELINE",
-        "score": 144
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/amgen-to-present-at-citis-2026-virtual-oncology-leadership-summit",
-        "anchor_text": "AMGEN TO PRESENT AT CITI'S 2026 VIRTUAL ONCOLOGY LEADERSHIP SUMMIT",
-        "score": 143
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/amgen-reports-fourth-quarter-and-full-year-2025-financial-results",
-        "anchor_text": "AMGEN REPORTS FOURTH QUARTER AND FULL YEAR 2025 FINANCIAL RESULTS",
-        "score": 143
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/03/amgen-announces-2026-second-quarter-dividend",
-        "anchor_text": "AMGEN ANNOUNCES 2026 SECOND QUARTER DIVIDEND",
-        "score": 122
-      },
-      {
         "url": "https://www.amgen.com/about/how-we-operate/policies-practices-and-disclosures/business-conduct/quality",
         "anchor_text": "Product Quality",
         "score": 101
@@ -5251,6 +5196,11 @@
         "score": 162
       },
       {
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/USA-Reliable-Ultra-Trace-Metals-Analysis-of-Marine-and-Estuarine-Waters-and-Brines",
+        "anchor_text": "Reliable Ultra-Trace Metals Analysis for Seawater and Brines – Now Available to…",
+        "score": 161
+      },
+      {
         "url": "https://www.alsglobal.com/en/News-and-publications/2025/11/The-power-of-curiosity-to-shape-the-science-we-need-for-2050",
         "anchor_text": "READ MORE",
         "score": 139
@@ -5261,34 +5211,29 @@
         "score": 125
       },
       {
-        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/Copy-of-dresser-140M-haul-truck",
-        "anchor_text": "Excavator Diesel Engine",
-        "score": 110
-      },
-      {
-        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/peterbilt-89e-diesel-engine",
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/case-study-peterbilt-89e-diesel-engine",
         "anchor_text": "Peterbilt 89e Diesel Engine",
-        "score": 106
+        "score": 117
       },
       {
-        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/dresser-140M-haul-truck",
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/case-study-excavator-diesel-engine",
+        "anchor_text": "Excavator Diesel Engine",
+        "score": 113
+      },
+      {
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/case-study-dresser-140M-haul-truck",
         "anchor_text": "Dresser 140M haul truck",
-        "score": 102
+        "score": 113
       },
       {
-        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/marine-reduction-gear",
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/case-study-marine-reduction-gear",
         "anchor_text": "Marine Reduction Gear",
-        "score": 100
+        "score": 111
       },
       {
-        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/crawler-tractor",
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/case-study-crawler-tractor",
         "anchor_text": "Crawler Tractor",
-        "score": 94
-      },
-      {
-        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/cone-crusher",
-        "anchor_text": "Cone Crusher",
-        "score": 91
+        "score": 105
       },
       {
         "url": "https://www.alsglobal.com/en/investor-relations/ASX-announcements-archive",
@@ -5712,14 +5657,34 @@
         "score": 137
       },
       {
+        "url": "https://www.veeva.com/resources/veeva-and-sarah-cannon-research-institute-form-strategic-collaboration-to-advance-oncology-clinical-trials/",
+        "anchor_text": "Read Press Release",
+        "score": 134
+      },
+      {
         "url": "https://www.veeva.com/resources/iqvia-and-veeva-announce-long-term-clinical-and-commercial-partnerships-and-resolution-of-all-disputes/",
         "anchor_text": "Learn More",
+        "score": 130
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-hcp-access-improves-segmentation-and-targeting-with-brick-level-hcp-access-data-for-20-countries/",
+        "anchor_text": "Read Press Release",
         "score": 130
       },
       {
         "url": "https://www.veeva.com/resources/veeva-opendata-and-veeva-network-mdm-enable-coordinated-customer-engagement-for-boehringer-ingelheim/",
         "anchor_text": "Read Press Release",
         "score": 128
+      },
+      {
+        "url": "https://www.veeva.com/medtech/news/new-study-finds-88-of-medtechs-prioritizing-postmarket-quality-modernization-within-next-3-years",
+        "anchor_text": "Read Press Release",
+        "score": 126
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-pulse-report-finds-content-driven-engagement-lags-despite-proven-boost-to-treatment-adoption/",
+        "anchor_text": "Read Press Release",
+        "score": 126
       },
       {
         "url": "https://www.veeva.com/resources/veeva-announces-collaboration-with-global-biotech-to-further-accelerate-clinical-trial-innovation/",
@@ -5747,7 +5712,42 @@
         "score": 119
       },
       {
+        "url": "https://www.veeva.com/resources/a-growing-number-of-biopharmas-leverage-veeva-compass-patient-to-improve-commercialization/",
+        "anchor_text": "Read Press Release",
+        "score": 118
+      },
+      {
+        "url": "https://www.veeva.com/resources/new-veeva-china-campaign-manager-drives-precision-omnichannel-marketing-for-life-sciences/",
+        "anchor_text": "Read Press Release",
+        "score": 117
+      },
+      {
+        "url": "https://www.veeva.com/medtech/news/report-reveals-70-of-medtechs-use-manual-processes-for-managing-content-and-claims/",
+        "anchor_text": "Read Press Release",
+        "score": 115
+      },
+      {
+        "url": "https://www.veeva.com/resources/more-than-75-emerging-biotechs-use-veeva-basics-across-clinical-regulatory-and-quality/",
+        "anchor_text": "Read Press Release",
+        "score": 114
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-announces-new-digital-hazard-analysis-and-critical-control-point-haccp-solution/",
+        "anchor_text": "Read Press Release",
+        "score": 113
+      },
+      {
+        "url": "https://www.veeva.com/medtech/news/medtech-industry-establishes-foundation-for-clinical-trials-with-veeva-medtech/",
+        "anchor_text": "Read Press Release",
+        "score": 111
+      },
+      {
         "url": "https://www.veeva.com/resources/veeva-ai-agents-now-available-to-increase-productivity-and-customer-centricity/",
+        "anchor_text": "Read Press Release",
+        "score": 106
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-direct-data-api-now-included-with-vault-platform-to-enable-ai-innovation/",
         "anchor_text": "Read Press Release",
         "score": 106
       },
@@ -5757,7 +5757,17 @@
         "score": 105
       },
       {
+        "url": "https://www.veeva.com/resources/life-sciences-leaders-advance-unified-engagement-at-veeva-commercial-summit/",
+        "anchor_text": "Read Press Release",
+        "score": 103
+      },
+      {
         "url": "https://www.veeva.com/resources/13-of-the-top-20-biopharmas-standardize-globally-on-veeva-link-key-people/",
+        "anchor_text": "Read Press Release",
+        "score": 101
+      },
+      {
+        "url": "https://www.veeva.com/medtech/news/veeva-vault-qms-adds-field-actions-and-recall-management-for-medtech/",
         "anchor_text": "Read Press Release",
         "score": 101
       },
@@ -5767,9 +5777,44 @@
         "score": 100
       },
       {
+        "url": "https://www.veeva.com/resources/boehringer-ingelheim-partners-with-veeva-to-launch-one-medicine-platform/",
+        "anchor_text": "Read Press Release",
+        "score": 100
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-pulse-data-shows-new-science-calls-for-more-connected-engagement/",
+        "anchor_text": "Read Press Release",
+        "score": 98
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-and-zifo-partner-to-accelerate-quality-control-modernization/",
+        "anchor_text": "Read Press Release",
+        "score": 94
+      },
+      {
         "url": "https://www.veeva.com/resources/novo-nordisk-international-operations-commits-to-veeva-vault-crm/",
         "anchor_text": "Read Press Release",
         "score": 92
+      },
+      {
+        "url": "https://www.veeva.com/resources/more-than-200-companies-advance-trial-management-with-veeva-ctms/",
+        "anchor_text": "Read Press Release",
+        "score": 92
+      },
+      {
+        "url": "https://www.veeva.com/medtech/news/18-of-the-top-20-medtech-companies-partner-with-veeva-medtech",
+        "anchor_text": "Read Press Release",
+        "score": 91
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-announces-research-site-clinical-trial-management-system/",
+        "anchor_text": "Read Press Release",
+        "score": 90
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-delivers-vault-crm-suite-with-vault-crm-campaign-manager/",
+        "anchor_text": "Read Press Release",
+        "score": 90
       },
       {
         "url": "https://www.veeva.com/resources/leaders-come-together-to-advance-the-industry-at-veeva-summit/",
@@ -5792,6 +5837,16 @@
         "score": 87
       },
       {
+        "url": "https://www.veeva.com/resources/veeva-announces-fourth-quarter-and-fiscal-year-2025-results/",
+        "anchor_text": "Read Press Release",
+        "score": 87
+      },
+      {
+        "url": "https://www.veeva.com/resources/top-global-biopharmas-standardize-on-veeva-china-crm-suite/",
+        "anchor_text": "Read Press Release",
+        "score": 86
+      },
+      {
         "url": "https://www.veeva.com/resources/veeva-and-biomarin-form-long-term-strategic-partnership/",
         "anchor_text": "Read Press Release",
         "score": 83
@@ -5800,6 +5855,11 @@
         "url": "https://www.veeva.com/resources/openevidence-and-veeva-announce-open-vista-partnership/",
         "anchor_text": "Learn More",
         "score": 82
+      },
+      {
+        "url": "https://www.veeva.com/resources/astellas-chooses-veeva-vault-crm-as-global-standard/",
+        "anchor_text": "Read Press Release",
+        "score": 79
       },
       {
         "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2026-second-quarter-results/",
@@ -5817,6 +5877,16 @@
         "score": 77
       },
       {
+        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2026-first-quarter-results/",
+        "anchor_text": "Read Press Release",
+        "score": 77
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2025-third-quarter-results/",
+        "anchor_text": "Read Press Release",
+        "score": 77
+      },
+      {
         "url": "https://www.veeva.com/resources/veeva-announces-expanded-partnership-with-roche/",
         "anchor_text": "Read Press Release",
         "score": 75
@@ -5825,6 +5895,21 @@
         "url": "https://www.veeva.com/resources/bristol-myers-squibb-commits-to-veeva-vault-crm/",
         "anchor_text": "Read Press Release",
         "score": 75
+      },
+      {
+        "url": "https://www.veeva.com/resources/boehringer-ingelheim-commits-to-veeva-vault-crm/",
+        "anchor_text": "Read Press Release",
+        "score": 75
+      },
+      {
+        "url": "https://www.veeva.com/resources/walgreens-and-veeva-form-strategic-partnership/",
+        "anchor_text": "Learn More",
+        "score": 74
+      },
+      {
+        "url": "https://www.veeva.com/resources/indero-marks-40th-study-live-with-veeva-rtsm/",
+        "anchor_text": "Read Press Release",
+        "score": 72
       },
       {
         "url": "https://www.veeva.com/resources/gilead-sciences-commits-to-veeva-vault-crm/",
@@ -5869,6 +5954,11 @@
       {
         "url": "https://www.veeva.com/products/vault-medical/veeva-medinquiry/",
         "anchor_text": "Veeva MedInquiryStreamline inquiry intake and fulfillment",
+        "score": 59
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-announces-ai-in-vault-crm/",
+        "anchor_text": "Read Press Release",
         "score": 59
       },
       {
@@ -6029,6 +6119,11 @@
       {
         "url": "https://www.veeva.com/eu/compliant-content-at-scale/",
         "anchor_text": "Tailor Content at Scale",
+        "score": 47
+      },
+      {
+        "url": "https://www.veeva.com/resources/announcing-veeva-ai/",
+        "anchor_text": "Read Press Release",
         "score": 47
       },
       {
@@ -6583,11 +6678,6 @@
     "press_url": "https://www.sartorius.com/en/company/newsroom",
     "candidate_links": [
       {
-        "url": "https://www.sartorius.com/en/company/newsroom/product-news/sartorius-launches-rational-design-cho-host-cell-line-with-up-to-three-fold-increase-in-productivity-1801322",
-        "anchor_text": "Read More",
-        "score": 162
-      },
-      {
         "url": "https://www.sartorius.com/en/company/newsroom/corporate-news/resolutions-of-the-combined-annual-shareholders-meeting-of-sartorius-stedim-biotech-s-a-1808686",
         "anchor_text": "Read More",
         "score": 151
@@ -6600,6 +6690,11 @@
       {
         "url": "https://www.sartorius.com/en/company/newsroom/corporate-news/sartorius-expands-bio-circular-product-offering-for-more-sustainable-bioprocesses-1791846",
         "anchor_text": "Sartorius expands bio-circular product offering for more sustainable bioprocessesRead Media Release",
+        "score": 145
+      },
+      {
+        "url": "https://www.sartorius.com/en/company/newsroom/product-news/new-cellcelector-cld-takes-you-from-thousands-of-candidates-to-the-top-clone-faster-1816014",
+        "anchor_text": "Read More",
         "score": 145
       },
       {
@@ -11900,7 +11995,7 @@
       },
       {
         "url": "https://www.instem.com/privacy-policy",
-        "anchor_text": "Privacy Policy",
+        "anchor_text": "Privacy Policy ↗",
         "score": 27
       },
       {
@@ -13305,6 +13400,11 @@
       {
         "url": "https://www.cas.org/es-es/press-releases",
         "anchor_text": "Spanish",
+        "score": 35
+      },
+      {
+        "url": "https://www.cas.org/solutions/cas-newton",
+        "anchor_text": "CAS Newton",
         "score": 35
       },
       {
@@ -16557,16 +16657,6 @@
     "press_url": "https://deepmind.google/discover/blog/",
     "candidate_links": [
       {
-        "url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/                                ",
-        "anchor_text": "SIMA 2An agent that plays, reasons, and learns with you",
-        "score": 130
-      },
-      {
-        "url": "https://deepmind.google/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/                                ",
-        "anchor_text": "AlphaMissenseFind root causes of rare genetic diseases",
-        "score": 126
-      },
-      {
         "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
         "anchor_text": "Learn more",
         "score": 124
@@ -16577,19 +16667,9 @@
         "score": 124
       },
       {
-        "url": "https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/                                ",
-        "anchor_text": "AlphaEarth FoundationsMap our planet in unprecedented detail",
-        "score": 122
-      },
-      {
         "url": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
         "anchor_text": "Learn more",
         "score": 110
-      },
-      {
-        "url": "https://deepmind.google/blog/alphagenome-ai-for-better-understanding-the-genome/                                ",
-        "anchor_text": "AlphaGenomeDecode genetics to pinpoint diseases",
-        "score": 105
       },
       {
         "url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
@@ -16632,19 +16712,9 @@
         "score": 77
       },
       {
-        "url": "https://deepmind.google/national-partnerships-for-ai/                                ",
-        "anchor_text": "Our National Partnerships for AIWorking with governments worldwide to benefit people through frontier AI",
-        "score": 76
-      },
-      {
         "url": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
         "anchor_text": "Learn more",
         "score": 75
-      },
-      {
-        "url": "https://deepmind.google/responsibility-and-safety/                                ",
-        "anchor_text": "ResponsibilityEnsuring AI safety through proactive security, even against evolving threats",
-        "score": 73
       },
       {
         "url": "https://deepmind.google/blog/alphagenome-ai-for-better-understanding-the-genome/",
@@ -16652,104 +16722,14 @@
         "score": 73
       },
       {
-        "url": "https://deepmind.google/models/gemini-robotics/                                ",
-        "anchor_text": "Gemini RoboticsPerceive, reason, use tools and interact",
-        "score": 72
-      },
-      {
-        "url": "https://deepmind.google/models/gemini-image/                                ",
-        "anchor_text": "Nano BananaCreate and edit detailed images",
-        "score": 69
-      },
-      {
-        "url": "https://deepmind.google/models/gemini-audio/                                ",
-        "anchor_text": "Gemini AudioTalk, create and control audio",
-        "score": 69
-      },
-      {
         "url": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
         "anchor_text": "Learn more",
         "score": 66
       },
       {
-        "url": "https://deepmind.google/research/publications/                                ",
-        "anchor_text": "Publications",
-        "score": 61
-      },
-      {
-        "url": "https://deepmind.google/science/weathernext/                                ",
-        "anchor_text": "WeatherNextFast and accurate AI weather forecasting",
-        "score": 59
-      },
-      {
-        "url": "https://deepmind.google/the-podcast/                                ",
-        "anchor_text": "The PodcastJoin Professor Hannah Fry as she uncovers the extraordinary way AI is transforming our world",
-        "score": 59
-      },
-      {
-        "url": "https://deepmind.google/science/alphafold/                                ",
-        "anchor_text": "AlphaFoldPredict protein structures with high accuracy",
-        "score": 57
-      },
-      {
-        "url": "https://deepmind.google/research/alphago/                                ",
-        "anchor_text": "AlphaGoMastering the game of Go",
-        "score": 56
-      },
-      {
-        "url": "https://deepmind.google/research/evals/                                ",
-        "anchor_text": "Evals",
-        "score": 54
-      },
-      {
-        "url": "https://deepmind.google/models/gemini/                                ",
-        "anchor_text": "GeminiLearn, build, and plan anything",
-        "score": 53
-      },
-      {
-        "url": "https://deepmind.google/models/imagen/                                ",
-        "anchor_text": "ImagenGenerate high-quality images from text",
-        "score": 53
-      },
-      {
-        "url": "https://deepmind.google/models/lyria/                                ",
-        "anchor_text": "LyriaGenerate high fidelity music and audio",
-        "score": 52
-      },
-      {
-        "url": "https://deepmind.google/models/genie/                                ",
-        "anchor_text": "Genie 3Generate and explore interactive worlds",
-        "score": 52
-      },
-      {
-        "url": "https://deepmind.google/models/gemma/                                ",
-        "anchor_text": "GemmaBuild responsible AI applications at scale",
-        "score": 52
-      },
-      {
-        "url": "https://deepmind.google/models/veo/                                ",
-        "anchor_text": "VeoGenerate cinematic video with audio",
-        "score": 50
-      },
-      {
-        "url": "https://deepmind.google/education/                                ",
-        "anchor_text": "EducationWe work to make AI more accessible to the next generation",
-        "score": 47
-      },
-      {
-        "url": "https://deepmind.google/careers/                                ",
-        "anchor_text": "CareersWe’re looking for people who want to make a real, positive impact on the world",
-        "score": 45
-      },
-      {
         "url": "https://deepmind.google/national-partnerships-for-ai/",
         "anchor_text": "National Partnerships for AI",
         "score": 44
-      },
-      {
-        "url": "https://deepmind.google/blog/                                ",
-        "anchor_text": "NewsDiscover our latest AI breakthroughs, projects, and updates",
-        "score": 42
       },
       {
         "url": "https://deepmind.google/blog/10-years-of-alphago/",
@@ -17034,1224 +17014,14 @@
     "press_url": "https://www.bioconbiologics.com/news/press-releases/",
     "candidate_links": [
       {
-        "url": "https://www.bioconbiologics.com/biocon-and-mylan-to-present-final-overall-survival-data-for-ogivritmtrastuzumab-dkst-a-biosimilar-to-herceptin-at-the-american-society-of-clinical-oncology-asco-annual-meeting-2/",
-        "anchor_text": "Biocon and Mylan to Present Final Overall Survival Data for OgivriTM(trastuzumab-dkst), a biosimilar to Herceptin®, at the American Society of Clinical Oncology (ASCO) Annual Meeting",
-        "score": 193
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-first-ever-interchangeable-biosimilar-insulin-glargine-co-developed-with-commercial-partner-viatris-preferred-on-express-scripts-largest-formulary-in-us/",
-        "anchor_text": "Biocon Biologics’ First-Ever Interchangeable Biosimilar Insulin Glargine, Co-Developed with Commercial Partner Viatris, Preferred on Express Scripts’ Largest Formulary  in US",
-        "score": 185
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-and-viatris-inc-receive-historic-approval-for-first-interchangeable-biosimilar-semglee-insulin-glargine-yfgn-injection-for-the-treatment-of-diabetes/",
-        "anchor_text": "Biocon Biologics and Viatris Inc. Receive Historic Approval for First Interchangeable Biosimilar Semglee® (insulin glargine-yfgn injection) for the Treatment of Diabetes",
-        "score": 181
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q1fy21-revenue-at-rs-1690-cr-up-14-ebitda-at-rs-432-cr-net-profit-from-continuing-ops-at-rs-153-cr-generics-up-16-at-rs-599-cr-biosimilars-up-19-at-rs-692-cr/",
-        "anchor_text": "Biocon Q1FY21 Revenue at Rs 1,690 Cr, Up 14%;  EBITDA at Rs 432 Cr; Net Profit (from continuing ops) at Rs 153 Cr  Generics up 16% at Rs 599 Cr, Biosimilars up 19% at Rs 692 Cr",
-        "score": 180
-      },
-      {
-        "url": "https://www.bioconbiologics.com/tata-capital-growth-fund-to-invest-usd-30-million-rs-225-crore-in-biocon-biologics-for-an-equity-stake-of-0-85-deal-values-biocon-biologics-at-usd-3-5-billion/",
-        "anchor_text": "Tata Capital Growth Fund to Invest ~USD 30 million (Rs 225 Crore) in Biocon Biologics for an Equity Stake of 0.85% Deal Values Biocon Biologics at USD 3.5 Billion.",
-        "score": 174
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q4fy19-revenue-rs-1557-cr-up-26-ebitda-up-43-at-rs-431-cr-net-profit-up-64-at-rs-214-cr-fy19-revenue-up-31-at-rs-5659-cr-net-profit-up-143-at-rs-905-cr/",
-        "anchor_text": "Biocon Q4FY19 Revenue Rs 1,557 Cr, Up 26%;  EBITDA Up 43% at Rs 431 Cr; Net Profit Up 64% at Rs 214 Cr  FY19 Revenue Up 31% at Rs 5,659 Cr; Net Profit Up 143% at Rs 905 Cr",
-        "score": 174
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-and-viatris-announce-launch-of-interchangeable-semglee-insulin-glargine-yfgn-injection-and-insulin-glargine-insulin-glargine-yfgn-injection/",
-        "anchor_text": "Biocon Biologics and Viatris Announce Launch of Interchangeable SEMGLEE® (insulin glargine-yfgn) Injection and Insulin Glargine (insulin glargine-yfgn) Injection",
-        "score": 172
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-to-roll-out-mission-10-cents-in-philippines-signs-mou-with-2-municipal-governments-reach52-to-enable-affordable-access-to-quality-insulins/",
-        "anchor_text": "Biocon Biologics to Roll Out ‘Mission 10 cents’ in Philippines; Signs MoU with 2 Municipal Governments & reach52 to enable Affordable Access to Quality Insulins",
-        "score": 171
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-expands-diabetes-portfolio-with-fda-approval-of-kirsty-the-first-and-only-interchangeable-rapid-acting-insulin-aspart-in-the-united-states",
-        "anchor_text": "Biocon Biologics Expands Diabetes Portfolio with FDA Approval of Kirsty™, the First and Only Interchangeable Rapid-Acting Insulin Aspart in the United States",
-        "score": 168
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-and-viatris-announce-insulin-glargine-insulin-glargine-yfgn-injection-will-be-offered-through-the-walgreens-prescription-savings-club/",
-        "anchor_text": "Biocon Biologics  and Viatris Announce Insulin Glargine (insulin glargine-yfgn) Injection Will Be Offered Through the Walgreens Prescription Savings Club",
-        "score": 166
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-symposium-on-100-years-of-insulin-delivering-on-universal-access-equitable-care-resonates-well-with-leading-kols-at-idf-congress-2019/",
-        "anchor_text": "Biocon Biologics Symposium on ‘100 years of Insulin – Delivering on Universal Access & Equitable Care’ Resonates Well with Leading KOLs at IDF Congress 2019",
-        "score": 166
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-receives-eu-gmp-certification-for-multiple-biosimilars-manufacturing-facilities-in-bengaluru-expands-its-manufacturing-capacity/",
-        "anchor_text": "Biocon Biologics Receives EU GMP Certification for Multiple Biosimilars Manufacturing Facilities in Bengaluru; Expands its Manufacturing Capacity",
-        "score": 160
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-continues-to-expand-global-footprint-completes-integration-of-viatris-biosimilars-business-in-north-america-ahead-of-schedule/",
-        "anchor_text": "Biocon Biologics Continues to Expand Global Footprint,  Completes Integration of Viatris Biosimilars’ Business In North America, Ahead of Schedule",
-        "score": 158
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-and-mylan-announce-launch-of-semglee-insulin-glargine-injection-in-the-u-s-to-expand-access-for-patients-living-with-diabetes/",
-        "anchor_text": "Biocon Biologics and Mylan Announce Launch of Semglee™ (insulin glargine injection) in the U.S. to Expand Access for Patients Living with Diabetes",
-        "score": 158
-      },
-      {
-        "url": "https://www.bioconbiologics.com/health-canada-approves-biocon-and-mylans-ogivri-the-first-trastuzumab-biosimilar-for-the-treatment-of-her2-positive-breast-and-gastric-cancers/",
-        "anchor_text": "Health Canada Approves Biocon and Mylan’s Ogivri™, the First Trastuzumab Biosimilar, for the Treatment of HER2-Positive Breast and Gastric Cancers",
-        "score": 158
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-expands-footprint-in-emerging-markets-takes-over-the-commercialization-of-biosimilars-business-from-viatris-in-70-countries/",
-        "anchor_text": "Biocon Biologics Expands Footprint in Emerging Markets Takes Over the Commercialization of Biosimilars Business from Viatris in 70+ countries",
-        "score": 156
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-group-concluded-the-month-long-sustainability-initiatives-commemorating-world-environment-day-initiated-with-nature-positive-campaign/",
-        "anchor_text": "Biocon Group concluded the month-long sustainability initiatives commemorating ‘World Environment Day’ initiated with ‘Nature Positive’ Campaign",
-        "score": 156
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-yesafili-aflibercept-now-publicly-funded-in-ontario-canada-for-the-advanced-treatment-of-patients-with-retinal-diseases/",
-        "anchor_text": "Biocon Biologics’ Yesafili® (aflibercept) Now Publicly Funded in Ontario, Canada for the Advanced Treatment of Patients with Retinal Diseases",
-        "score": 152
-      },
-      {
-        "url": "https://www.bioconbiologics.com/after-five-years-of-successful-experience-internationally-biocon-biologics-hulio-biosimilar-to-humira-now-available-in-the-united-states/",
-        "anchor_text": "After Five Years of Successful Experience Internationally, Biocon Biologics’ Hulio® Biosimilar to Humira®, Now Available in the United States",
-        "score": 152
-      },
-      {
-        "url": "https://www.bioconbiologics.com/kiran-mazumdar-shaw-recognized-among-worlds-top-20-inspirational-leaders-in-biopharmaceuticals-in-the-medicine-maker-power-list-2020/",
-        "anchor_text": "Kiran Mazumdar-Shaw Recognized among World’s Top 20 Inspirational Leaders in Biopharmaceuticals in The Medicine Maker ‘Power List 2020’",
-        "score": 148
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q2fy20-earnings-revenue-at-rs-1611-cr-up-17-ebitda-at-rs-441-cr-up-12-net-profit-excluding-exceptional-item-at-rs-189-cr-up-3/",
-        "anchor_text": "Biocon Q2FY20 Earnings Revenue at Rs 1,611 Cr, Up 17 %; EBITDA at Rs 441 Cr, Up 12%; Net Profit (excluding exceptional item) at Rs 189 Cr, Up 3%",
-        "score": 148
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-and-civica-expand-partnership-and-launch-private-label-insulin-glargine-to-broaden-u-s-diabetes-treatment-options/",
-        "anchor_text": "Biocon Biologics and Civica Expand Partnership and Launch Private-Label Insulin Glargine to Broaden U.S. Diabetes Treatment Options",
-        "score": 146
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-collaborates-with-rssdi-to-expand-access-to-its-insulins-for-children-with-type-1-diabetes-on-world-diabetes-day/",
-        "anchor_text": "Biocon Biologics Collaborates with RSSDI to Expand Access to its Insulins for Children with Type 1 Diabetes on World Diabetes Day",
-        "score": 145
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q3fy20-earnings-revenue-at-rs-1784-cr-up-14-ebitda-at-rs-480-cr-up-18-net-profit-before-exceptional-item-at-rs-225-cr-up-6/",
-        "anchor_text": "Biocon Q3FY20 Earnings  Revenue at Rs 1,784 Cr, Up 14%; EBITDA at Rs 480 Cr, Up 18%; Net Profit (before exceptional item) at Rs 225 Cr, Up 6%",
-        "score": 145
-      },
-      {
-        "url": "https://www.bioconbiologics.com/kiran-mazumdar-shaw-promises-to-enable-universal-access-to-rh-insulin-by-reducing-prices-to-less-than-10-us-cents-day-for-lmics/",
-        "anchor_text": "Kiran Mazumdar-Shaw Promises to Enable Universal Access to rh-Insulin by Reducing Prices to Less than 10 US cents /Day for LMICs",
-        "score": 143
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-announces-positive-results-from-phase-3-study-of-yesintek-biosimilar-to-ustekinumab-for-chronic-plaque-psoriasis",
-        "anchor_text": "Biocon Biologics Announces Positive Results from Phase 3 Study of Yesintek™ Biosimilar to Ustekinumab for Chronic Plaque Psoriasis",
-        "score": 142
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-new-monoclonal-antibodies-manufacturing-facility-wins-ispes-2021-facility-of-the-year-honorable-mention-award/",
-        "anchor_text": "Biocon Biologics’ New Monoclonal Antibodies Manufacturing Facility Wins ISPE’s 2021 Facility of the Year Honorable Mention Award",
-        "score": 142
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-foundation-honored-with-doing-good-for-bharat-awards-2024-in-healthcare-category-for-elaj-smart-clinics-by-the-csr-box/",
-        "anchor_text": "Biocon Foundation Honored with ‘Doing Good for Bharat Awards 2024’ in ‘Healthcare Category’ for ‘eLAJ Smart Clinics’ by the CSR Box",
-        "score": 141
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-recognized-as-a-company-with-great-managers-two-managers-conferred-with-individual-great-managers-award-2022/",
-        "anchor_text": "Biocon Biologics Recognized as a Company with Great Managers; Two Managers conferred with individual  ‘Great Managers Award 2022’",
-        "score": 141
-      },
-      {
-        "url": "https://www.bioconbiologics.com/oral-cancer-task-forces-consensus-guidelines-for-head-neck-cancer-recognized-among-13-worldwide-clinical-practice-guidelines/",
-        "anchor_text": "Oral Cancer Task Force's Consensus Guidelines for Head & Neck Cancer Recognized Among 13 Worldwide Clinical Practice Guidelines",
-        "score": 140
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-to-expand-biosimilar-oncology-portfolio-outline-strategic-vision-at-the-2026-j-p-morgan-healthcare-conference",
-        "anchor_text": "Biocon Biologics to Expand Biosimilar Oncology Portfolio, Outline Strategic Vision at the 2026 J.P. Morgan Healthcare Conference",
-        "score": 139
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-joins-hands-with-idf-in-its-mission-to-promote-diabetes-care-prevention-and-effective-management-worldwide/",
-        "anchor_text": "Biocon Biologics Joins Hands with IDF in its Mission to Promote Diabetes Care, Prevention and effective Management Worldwide",
-        "score": 139
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q1fy20-revenue-rs-1490-cr-up-25-ebitda-up-51-at-rs-462-cr-net-profit-excluding-exceptional-item-up-86-at-rs-223-cr/",
-        "anchor_text": "Biocon Q1FY20 Revenue Rs 1,490 Cr, Up 25%;  EBITDA Up 51% at Rs 462 Cr;  Net Profit (excluding exceptional item) Up 86% at Rs 223 Cr",
-        "score": 137
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-supports-diabetes-africa-to-drive-progress-in-embedding-specialist-nurses-in-diabetes-care-in-ethiopia/",
-        "anchor_text": "Biocon Biologics Supports Diabetes Africa to Drive Progress in Embedding Specialist Nurses in Diabetes Care in Ethiopia",
-        "score": 135
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-refinances-usd-1-1-billion-inr-93468-million-long-term-debt-through-usd-bonds-and-new-syndicated-facility",
-        "anchor_text": "Biocon Biologics Refinances USD 1.1 Billion (INR 93,468 million) Long Term Debt through USD Bonds and New Syndicated Facility",
-        "score": 135
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-limited-concludes-rs-4150-crore-usd-460-million-equity-fundraise-through-a-ǫualified-institutions-placement-ǫip/",
-        "anchor_text": "Biocon Limited Concludes Rs 4,150 Crore (~USD 460 million) Equity Fundraise through a Ǫualified Institutions Placement (ǪIP)",
-        "score": 134
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-and-viatris-announce-prime-therapeutics-prefers-first-ever-interchangeable-insulin-biosimilar-semglee/",
-        "anchor_text": "Biocon Biologics and Viatris Announce Prime Therapeutics Prefers First-Ever Interchangeable Insulin Biosimilar Semglee® (insulin glargine-yfgn) Injection and Insulin Glargine (insulin glargine-yfgn) Injection on its National Formularies",
-        "score": 134
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocons-malaysia-insulin-glargine-manufacturing-facility-receives-eu-gmp-certification-provides-fillip-to-its-capacity/",
-        "anchor_text": "Biocon’s Malaysia Insulin Glargine Manufacturing Facility Receives EU GMP Certification, Provides Fillip to its Capacity",
-        "score": 134
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-receives-health-canada-approval-for-yesafili-aflibercept-first-global-launch-scheduled-for-july-2025/",
-        "anchor_text": "Biocon Biologics Receives Health Canada Approval for Yesafili™ (aflibercept); First Global Launch Scheduled for July 2025",
-        "score": 133
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-announces-results-of-aflibercept-switching-study-at-american-academy-of-ophthalmology-annual-meeting/",
-        "anchor_text": "Biocon Biologics Announces Results of Aflibercept Switching Study at American Academy of Ophthalmology Annual Meeting",
-        "score": 133
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-enters-a-long-term-commercial-collaboration-with-eris-lifesciences-to-expand-patient-access-in-india/",
-        "anchor_text": "Biocon Biologics Enters a Long-term Commercial Collaboration with Eris Lifesciences to Expand Patient Access in India",
-        "score": 133
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-celebrates-46th-founders-day-with-anthem-launch-walkathon-leadership-talk-and-experience-center-inauguration/",
-        "anchor_text": "Biocon Celebrates 46th Founder’s Day with Anthem Launch, Walkathon, Leadership Talk and Experience Center Inauguration",
-        "score": 131
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-partners-with-adagio-therapeutics-to-advance-antibody-for-the-prevention-and-treatment-of-covid-19/",
-        "anchor_text": "Biocon Biologics Partners with Adagio Therapeutics to Advance Antibody for the Prevention and Treatment of COVID-19",
-        "score": 131
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-receives-health-canada-approval-for-yesintek-and-yesintek-i-v-ustekinumab-a-biosimilar-to-stelara/",
-        "anchor_text": "Biocon Biologics Receives Health Canada Approval for Yesintek™ and Yesintek™ I.V. (ustekinumab), a Biosimilar to Stelara®",
-        "score": 130
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-recognized-as-asia-ip-elite-for-2024-by-iam-cementing-leadership-in-intellectual-property-excellence",
-        "anchor_text": "Biocon Biologics Recognized as Asia IP Elite for 2024 by IAM, Cementing Leadership in Intellectual Property Excellence",
-        "score": 130
-      },
-      {
-        "url": "https://www.bioconbiologics.com/u-s-fda-accepts-biologics-license-application-bla-for-mylan-and-biocons-proposed-biosimilar-bevacizumab-for-review/",
-        "anchor_text": "U.S. FDA Accepts Biologics License Application (BLA) for Mylan and Biocon’s Proposed Biosimilar Bevacizumab for Review",
-        "score": 130
-      },
-      {
-        "url": "https://www.bioconbiologics.com/edelgive-and-hurun-india-recognizes-kiran-mazumdar-shaw-as-the-second-most-generous-women-philanthropist-in-india/",
-        "anchor_text": "EdelGive and Hurun India recognizes Kiran Mazumdar-Shaw as the Second most generous women philanthropist in India",
-        "score": 129
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-sdn-bhd-enters-malaysia-book-of-records-as-the-first-the-largest-integrated-insulin-manufacturing-facility/",
-        "anchor_text": "Biocon Sdn. Bhd. Enters Malaysia Book of Records as the First & the Largest Integrated Insulin Manufacturing Facility",
-        "score": 129
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocons-partner-mylan-receives-favourable-ruling-from-u-s-ptab-on-sanofis-four-device-patents-for-lantus-solostar/",
-        "anchor_text": "Biocon’s* Partner Mylan Receives Favourable Ruling from U.S. PTAB on Sanofi’s Four Device Patents for Lantus® SoloSTAR®",
-        "score": 129
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-receives-u-s-food-and-drug-administration-approval-for-bosaya-and-aukelso-denosumab-biosimilars/",
-        "anchor_text": "Biocon Biologics Receives U.S. Food and Drug Administration Approval for Bosaya™ and Aukelso™, Denosumab Biosimilars",
-        "score": 128
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-secures-strong-market-access-coverage-for-yesintek-in-the-united-states-covering-100-million-lives",
-        "anchor_text": "Biocon Biologics Secures Strong Market Access Coverage for Yesintek™ in the United States Covering 100+ Million Lives",
-        "score": 128
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocons-breakthrough-drug-itolizumab-receives-dcgi-nod-for-emergency-use-in-moderate-to-severe-covid-19-patients/",
-        "anchor_text": "Biocon’s Breakthrough Drug Itolizumab Receives DCGI Nod for Emergency Use in Moderate to Severe COVID-19 Patients",
-        "score": 128
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-secures-market-entry-for-bmab-1200-a-proposed-biosimilar-to-stelara-in-europe-uk-canada-and-japan",
-        "anchor_text": "Biocon Biologics Secures Market Entry for Bmab 1200, a Proposed Biosimilar to Stelara®, in Europe, UK, Canada, and Japan",
-        "score": 127
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-partners-with-sandoz-for-the-distribution-of-adalimumab-bs-subcutaneous-injection-fkb-in-japan/",
-        "anchor_text": "Biocon Biologics Partners with Sandoz for the  Distribution  of “Adalimumab BS Subcutaneous Injection [FKB]” in Japan",
-        "score": 127
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-obtains-u-s-fda-approval-for-biosimilar-aflibercept-for-yesafili-enters-u-s-ophthalmology-market",
-        "anchor_text": "Biocon Biologics Obtains U.S. FDA Approval for Biosimilar Aflibercept for Yesafili™. Enters U.S. Ophthalmology Market",
-        "score": 126
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-secures-full-global-rights-to-biosimilar-adalimumab-through-expanded-fkb-in-licensing-agreement",
-        "anchor_text": "Biocon Biologics Secures Full Global Rights to Biosimilar Adalimumab through Expanded FKB In-Licensing Agreement",
-        "score": 125
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-earnings-q4fy20-revenue-up-6-at-rs-1644-cr-ebitda-down-11-at-rs-382-cr-net-profit-down-42-at-rs-123-cr/",
-        "anchor_text": "Biocon Earnings Q4FY20 Revenue Up 6% at Rs 1,644 Cr; EBITDA Down 11% at Rs 382 Cr; Net Profit Down 42% at Rs 123 Cr",
-        "score": 125
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-announces-u-s-fda-approval-for-jobevne-biosimilar-bevacizumab-expanding-its-oncology-portfolio",
-        "anchor_text": "Biocon Biologics Announces U.S. FDA Approval for Jobevne™, Biosimilar Bevacizumab, Expanding Its Oncology Portfolio",
-        "score": 124
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-successfully-completes-integration-of-viatris-biosimilar-business-in-31-countries-in-europe/",
-        "anchor_text": "Biocon Biologics Successfully Completes Integration of Viatris’ Biosimilar Business in 31 Countries in Europe",
-        "score": 124
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-foundation-supports-government-high-school-kicks-off-construction-of-a-new-building-for-250-students/",
-        "anchor_text": "Biocon Foundation Supports Government High School, Kicks off Construction of a New Building for 250 Students",
-        "score": 123
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biocon-biologics-ensuring-manufacturing-of-life-saving-medicines-for-patients-partners-and-customers/",
-        "anchor_text": "Biocon & Biocon Biologics Ensuring Manufacturing of Life-Saving Medicines for Patients, Partners and Customers",
-        "score": 123
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q3fy19-earnings-revenue-at-rs-1566-cr-up-43-net-profit-at-rs-217-cr-up-136-ebitda-at-rs-406-cr-up-59/",
-        "anchor_text": "Biocon Q3FY19 Earnings Revenue at Rs 1,566 Cr, Up 43%; Net Profit at Rs 217 Cr, Up 136% EBITDA at Rs 406 Cr, Up 59%",
-        "score": 123
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-foundation-in-partnership-with-ncbs-and-best-cluster-launches-biowise-program-to-empower-women-in-stem",
-        "anchor_text": "Biocon Foundation in Partnership with NCBS and BeST Cluster Launches BioWISE Program - to Empower Women in STEM",
-        "score": 122
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-foundation-signs-mou-with-bangalore-metro-to-contribute-towards-building-metro-station-in-hebbagodi/",
-        "anchor_text": "Biocon Foundation Signs MoU with Bangalore Metro to Contribute Towards Building Metro Station in Hebbagodi",
-        "score": 122
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-signs-settlement-and-license-agreement-to-commercialize-biosimilar-aflibercept-worldwide/",
-        "anchor_text": "Biocon Biologics Signs Settlement and License Agreement to Commercialize Biosimilar Aflibercept Worldwide",
-        "score": 121
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-to-offer-its-oncology-biosimilars-through-cancer-access-partnership-in-over-30-countries/",
-        "anchor_text": "Biocon Biologics to offer its Oncology Biosimilars through Cancer Access Partnership in over 30 countries",
-        "score": 121
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-receives-dcgi-approval-for-emergency-use-of-cytosorb-to-treat-critical-covid-19-patients/",
-        "anchor_text": "Biocon Biologics Receives DCGI Approval for Emergency Use of CytoSorb® to Treat Critical COVID-19 Patients",
-        "score": 121
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-limited-to-integrate-biocon-biologics-limited-to-create-a-unified-global-biopharmaceutical-leader/",
-        "anchor_text": "Biocon Limited to Integrate Biocon Biologics Limited to Create a Unified Global Biopharmaceutical Leader (Translations Available)",
-        "score": 120
-      },
-      {
-        "url": "https://www.bioconbiologics.com/kiran-mazumdar-shaw-honored-by-isq-with-jamsetji-tata-award-for-pioneering-biosciences-movement-in-india/",
-        "anchor_text": "Kiran Mazumdar-Shaw Honored by ISQ with ‘Jamsetji Tata Award’  for Pioneering Biosciences Movement in India",
-        "score": 120
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-partner-receives-positive-eu-chmp-opinion-for-biosimilar-human-insulin-for-iv-infusion/",
-        "anchor_text": "Biocon Biologics’ Partner Receives Positive EU CHMP Opinion for Biosimilar Human Insulin for IV Infusion",
-        "score": 119
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-secures-market-entry-date-for-yesafili-an-interchangeable-biosimilar-to-eylea-in-the-u-s",
-        "anchor_text": "Biocon Biologics Secures Market Entry Date for Yesafili™, an Interchangeable Biosimilar to Eylea®, in the U.S.",
-        "score": 118
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-and-voluntis-join-hands-for-global-collaboration-on-digital-therapeutics-for-insulins/",
-        "anchor_text": "Biocon Biologics and Voluntis Join Hands for Global Collaboration on Digital Therapeutics for Insulins",
-        "score": 118
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-commissioned-report-highlights-pathways-to-increase-adoption-of-biosimilars-in-lmics/",
-        "anchor_text": "Biocon Biologics’ Commissioned Report Highlights Pathways to Increase Adoption of Biosimilars in LMICs",
-        "score": 117
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-partner-viatris-wins-u-s-court-decisions-on-sanofi-appeals-for-lantus-device-patents/",
-        "anchor_text": "Biocon Biologics* Partner Viatris Wins U.S. Court Decisions on Sanofi Appeals for Lantus® Device Patents",
-        "score": 117
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-secures-market-entry-date-for-denosumab-biosimilars-in-europe-and-rest-of-the-world/",
-        "anchor_text": "Biocon Biologics Secures Market Entry Date for Denosumab Biosimilars in Europe and Rest of the World",
-        "score": 116
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-to-acquire-viatris-biosimilars-assets-for-up-to-usd-3-335-billion-in-stock-and-cash/",
-        "anchor_text": "Biocon Biologics to Acquire Viatris’ Biosimilars Assets for up to USD 3.335 billion in Stock and Cash",
-        "score": 116
-      },
-      {
-        "url": "https://www.bioconbiologics.com/kiran-mazumdar-shaw-conferred-with-lifetime-achievement-award-by-indian-council-of-medical-research/",
-        "anchor_text": "Kiran Mazumdar-Shaw Conferred with Lifetime Achievement Award by Indian Council of Medical Research",
-        "score": 115
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-recognized-as-an-asia-ip-elite-for-2023-ipr-team-adjudged-as-the-team-of-the-year/",
-        "anchor_text": "Biocon Biologics Recognized as an Asia IP Elite for 2023, IPR Team adjudged as the Team of the Year",
-        "score": 114
-      },
-      {
-        "url": "https://www.bioconbiologics.com/university-of-glasgow-names-their-flagship-research-centre-after-john-shaw-and-kiran-mazumdar-shaw/",
-        "anchor_text": "University of Glasgow Names their Flagship Research Centre After John Shaw and Kiran Mazumdar-Shaw",
-        "score": 114
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-presented-insights-into-clinical-study-that-enabled-dcgi-approval-of-itolizumab-for-covid19/",
-        "anchor_text": "Biocon Presented Insights into Clinical Study That Enabled DCGI Approval of Itolizumab for COVID-19",
-        "score": 114
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-and-civica-inc-collaborate-to-expand-insulin-aspart-access-in-the-united-states/",
-        "anchor_text": "Biocon Biologics and Civica, Inc. Collaborate to Expand  Insulin Aspart Access in the United States",
-        "score": 112
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-and-viatris-inc-receive-chmp-nod-for-abevmy-a-biosimilar-to-avastin-bevacizumab/",
-        "anchor_text": "Biocon Biologics and Viatris Inc. Receive CHMP Nod for Abevmy®, a Biosimilar to Avastin® (Bevacizumab)",
-        "score": 112
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-moves-up-to-rank-no-6-on-science-careers-top-20-global-pharma-biotech-employers-list-2019/",
-        "anchor_text": "Biocon Moves Up to Rank No. 6 on Science Careers’ Top 20 Global Pharma & Biotech Employers List 2019",
-        "score": 112
-      },
-      {
-        "url": "https://www.bioconbiologics.com/sp-global-places-biocon-biologics-on-positive-creditwatch-on-account-of-accelerated-debt-reduction",
-        "anchor_text": "S&P Global Places Biocon Biologics on Positive CreditWatch On Account of Accelerated Debt Reduction",
-        "score": 111
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-foundation-dedicates-metro-pillars-public-art-project-to-everyday-champions-of-bengaluru/",
-        "anchor_text": "Biocon Foundation Dedicates Metro Pillars Public Art Project to ‘Everyday Champions’ of Bengaluru",
-        "score": 111
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-announces-divestment-of-two-non-core-branded-formulations-india-business-units/",
-        "anchor_text": "Biocon Biologics Announces Divestment of Two Non-Core Branded Formulations – India Business Units",
-        "score": 111
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-mylan-win-patent-litigation-asserted-by-sanofi-for-insulin-glargine-device-patent-in-u-s/",
-        "anchor_text": "Biocon & Mylan Win Patent Litigation Asserted by Sanofi for Insulin Glargine Device Patent in U.S.",
-        "score": 111
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-out-licenses-two-biosimilar-assets-to-yoshindo-for-commercialization-in-japan/",
-        "anchor_text": "Biocon Biologics Out-Licenses Two Biosimilar Assets to Yoshindo for Commercialization in Japan",
-        "score": 110
-      },
-      {
-        "url": "https://www.bioconbiologics.com/deepali-naair-appointed-as-the-global-head-brand-corporate-communications-at-biocon-biologics/",
-        "anchor_text": "Deepali Naair Appointed as the Global Head - Brand & Corporate Communications at Biocon Biologics",
-        "score": 109
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-academy-achieves-100-placement-within-2-5-hours-for-quality-control-analytical-program/",
-        "anchor_text": "Biocon Academy Achieves 100% Placement within 2.5 hours for Quality Control Analytical Program & Biocon Academy also Concludes 5th edition of MCADDI – 5-day Residential Program for Industry Experts",
-        "score": 109
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-ranked-no-8-among-science-magazines-best-employers-in-global-biotech-and-pharma-sector/",
-        "anchor_text": "Biocon Ranked No. 8 Among Science Magazine’s Best Employers in Global Biotech and Pharma Sector",
-        "score": 109
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-secures-us-market-entry-date-for-bmab-1200-a-proposed-biosimilar-to-stelara/",
-        "anchor_text": "Biocon Biologics Secures US Market Entry Date for Bmab 1200, a Proposed Biosimilar to Stelara®",
-        "score": 108
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-secures-u-s-market-entry-date-for-bosaya-and-aukelso-denosumab-biosimilars/",
-        "anchor_text": "Biocon Biologics Secures U.S. Market Entry Date for Bosaya™ and Aukelso™, Denosumab Biosimilars",
-        "score": 107
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-launches-yesintek-ustekinumab-kfce-biosimilar-to-stelara-in-the-united-states",
-        "anchor_text": "Biocon Biologics Launches Yesintek™ (ustekinumab-kfce) Biosimilar to Stelara® in the United States",
-        "score": 107
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-partners-with-sandoz-australia-for-biosimilars-trastuzumab-and-bevacizumab/",
-        "anchor_text": "Biocon Biologics Partners with Sandoz Australia for Biosimilars Trastuzumab and Bevacizumab",
-        "score": 107
-      },
-      {
-        "url": "https://www.bioconbiologics.com/professor-peter-piot-joins-the-board-of-biocon-biologics-limited-as-an-independent-director/",
-        "anchor_text": "Professor Peter Piot Joins the Board of Biocon Biologics Limited as an Independent Director",
-        "score": 107
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-foundation-and-iisc-organize-octf-conference-on-artificial-intelligence-in-oral-cancer",
-        "anchor_text": "Biocon Foundation and IISc organize OCTF Conference on Artificial Intelligence in Oral Cancer",
-        "score": 106
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-takes-forward-its-mission-to-unlock-universal-access-to-insulins-globally/",
-        "anchor_text": "Biocon Biologics Takes Forward Its Mission to Unlock Universal Access to Insulins Globally",
-        "score": 106
-      },
-      {
-        "url": "https://www.bioconbiologics.com/advancing-bone-health-european-commission-approves-biocon-biologics-denosumab-biosimilars/",
-        "anchor_text": "Advancing Bone Health: European Commission Approves Biocon Biologics’ Denosumab Biosimilars",
-        "score": 105
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-concludes-integration-of-acquired-biosimilars-business-in-120-countries/",
-        "anchor_text": "Biocon Biologics Concludes Integration  of Acquired Biosimilars Business in ~120 countries",
-        "score": 104
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-appoints-susheel-umesh-as-chief-commercial-officer-for-emerging-markets/",
-        "anchor_text": "Biocon Biologics Appoints Susheel Umesh as Chief Commercial Officer for Emerging Markets",
-        "score": 104
-      },
-      {
-        "url": "https://www.bioconbiologics.com/shreehas-tambe-appointed-ceo-managing-director-of-biocon-limited-effective-april-1-2026/",
-        "anchor_text": "Shreehas Tambe Appointed CEO & Managing Director of Biocon Limited, Effective April 1, 2026",
-        "score": 103
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-pharma-partners-with-libbs-farmaceutica-to-launch-generic-formulations-in-brazil/",
-        "anchor_text": "Biocon Pharma partners with Libbs Farmaceutica to launch generic formulations in Brazil",
-        "score": 103
-      },
-      {
-        "url": "https://www.bioconbiologics.com/kiran-mazumdar-shaw-honoured-with-order-of-australia-australias-highest-civilian-honour/",
-        "anchor_text": "Kiran Mazumdar-Shaw Honoured with Order of Australia, Australia’s Highest Civilian Honour",
-        "score": 103
-      },
-      {
-        "url": "https://www.bioconbiologics.com/clinical-study-for-itolizumab-in-lupus-nephritis-initiated-in-india-post-dcgi-approval/",
-        "anchor_text": "Clinical Study for Itolizumab in Lupus Nephritis Initiated in India, Post DCGI Approval",
-        "score": 102
-      },
-      {
-        "url": "https://www.bioconbiologics.com/kiran-mazumdar-shaw-conferred-with-honorary-doctorate-from-deakin-university-australia/",
-        "anchor_text": "Kiran Mazumdar-Shaw Conferred With Honorary Doctorate from Deakin University, Australia",
-        "score": 102
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-moves-into-new-north-american-headquarters-in-bridgewater-new-jersey/",
-        "anchor_text": "Biocon Biologics Moves into New North American Headquarters in Bridgewater, New Jersey",
-        "score": 101
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-insugen-awarded-a-three-year-contract-by-ministry-of-health-malaysia/",
-        "anchor_text": "Biocon Biologics’ Insugen® Awarded a Three-Year Contract by Ministry of Health, Malaysia",
-        "score": 101
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-features-in-the-prestigious-asia-ip-elite-list-for-the-fourth-consecutive-year/",
-        "anchor_text": "Biocon Features in the Prestigious ASIA IP ELITE List for the Fourth Consecutive Year",
-        "score": 101
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-announces-positive-chmp-opinion-for-yesafili-biosimilar-aflibercept/",
-        "anchor_text": "Biocon Biologics Announces Positive CHMP Opinion for YESAFILI®, Biosimilar Aflibercept",
-        "score": 100
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-announces-new-dermatology-data-to-be-presented-at-eadv-congress-2024",
-        "anchor_text": "Biocon Biologics Announces New Dermatology Data to Be Presented at EADV Congress 2024",
-        "score": 98
-      },
-      {
-        "url": "https://www.bioconbiologics.com/sp-global-upgrades-biocon-biologics-credit-rating-to-bb-revises-outlook-to-stable/",
-        "anchor_text": "S&P Global Upgrades Biocon Biologics Credit Rating To ‘BB+’ Revises Outlook to “Stable”",
-        "score": 97
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-and-mylan-launch-trastuzumab-biosimilar-ogivri-trastuzumab-dkst-in-the-u-s/",
-        "anchor_text": "Biocon and Mylan Launch Trastuzumab Biosimilar, Ogivri™ (trastuzumab-dkst), in the U.S.",
-        "score": 97
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-just-evotec-biologics-sign-licensing-deal-for-a-biosimilar-asset/",
-        "anchor_text": "Biocon Biologics & Just – Evotec Biologics Sign Licensing Deal for a Biosimilar Asset",
-        "score": 97
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-awarded-a-silver-medal-by-ecovadis-for-its-sustainability-accomplishments/",
-        "anchor_text": "Biocon Awarded a Silver Medal by EcoVadis for its Sustainability Accomplishments",
-        "score": 96
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-and-mylan-announce-u-s-fda-approval-of-semglee-insulin-glargine-injection/",
-        "anchor_text": "Biocon and Mylan Announce U.S. FDA Approval of Semglee™ (insulin glargine injection)",
-        "score": 96
-      },
-      {
-        "url": "https://www.bioconbiologics.com/kiran-mazumdar-shaw-elected-as-member-of-the-national-academy-of-engineering-u-s/",
-        "anchor_text": "Kiran Mazumdar-Shaw elected as Member of the National Academy of Engineering, U.S.",
-        "score": 96
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-to-present-at-the-43rd-annual-j-p-morgan-healthcare-conference/",
-        "anchor_text": "Biocon Biologics to Present at the 43rd Annual J.P. Morgan Healthcare Conference",
-        "score": 95
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-completes-one-year-as-an-integrated-global-biosimilars-enterprise",
-        "anchor_text": "Biocon Biologics Completes One Year as an Integrated  Global Biosimilars Enterprise",
-        "score": 95
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocons-biologics-drug-products-facility-in-bengaluru-receives-eir-from-u-s-fda/",
-        "anchor_text": "Biocon’s Biologics Drug Products Facility in Bengaluru Receives EIR from U.S. FDA",
-        "score": 95
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-appoints-dr-christiane-hamacher-as-ceo-of-biocon-biologics-india-limited/",
-        "anchor_text": "Biocon Appoints Dr. Christiane Hamacher as CEO Of Biocon Biologics India Limited",
-        "score": 95
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-and-serum-institute-life-sciences-announce-strategic-alliance/",
-        "anchor_text": "Biocon Biologics and Serum Institute Life Sciences Announce Strategic Alliance",
-        "score": 94
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-receives-usd-150-million-capital-injection-from-goldman-sachs/",
-        "anchor_text": "Biocon Biologics Receives USD 150 Million Capital Injection from Goldman Sachs",
-        "score": 94
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-and-mylan-launch-first-insulin-glargine-biosimilar-semglee-in-australia/",
-        "anchor_text": "Biocon and Mylan Launch First Insulin Glargine Biosimilar, Semglee®, in Australia",
-        "score": 94
-      },
-      {
-        "url": "https://www.bioconbiologics.com/shreehas-tambe-appointed-as-managing-director-ceo-of-biocon-biologics-limited/",
-        "anchor_text": "Shreehas Tambe Appointed as  Managing Director & CEO of Biocon Biologics Limited",
-        "score": 93
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-completes-acquisition-of-viatris-global-biosimilars-business/",
-        "anchor_text": "Biocon Biologics Completes Acquisition of Viatris’ Global Biosimilars Business",
-        "score": 93
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-ranks-at-no-8-in-global-top-employers-list-by-the-u-s-science-magazine/",
-        "anchor_text": "Biocon Ranks at No. 8 in ‘Global Top Employers’ List by the U.S. Science Magazine",
-        "score": 93
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-receives-rs-555-cr-usd-75-million-capital-injection-from-adq/",
-        "anchor_text": "Biocon Biologics Receives Rs 555 Cr (USD  75 Million) Capital Injection from ADQ",
-        "score": 93
-      },
-      {
-        "url": "https://www.bioconbiologics.com/university-of-glasgow-officially-opens-mazumdar-shaw-advance-research-centre/",
-        "anchor_text": "University of Glasgow officially Opens Mazumdar-Shaw Advance Research Centre",
-        "score": 92
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-wins-the-abea-bioprocessing-excellence-in-south-asia-award/",
-        "anchor_text": "Biocon Biologics Wins the ‘ABEA : Bioprocessing Excellence in South Asia’ Award",
-        "score": 91
-      },
-      {
-        "url": "https://www.bioconbiologics.com/kiran-mazumdar-shaw-elected-as-the-fellow-of-royal-society-of-edinburgh-rse/",
-        "anchor_text": "Kiran Mazumdar-Shaw Elected as  the Fellow of Royal Society of Edinburgh (RSE)",
-        "score": 91
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-promotes-shreehas-tambe-to-deputy-chief-executive-officerz/",
-        "anchor_text": "Biocon Biologics Promotes Shreehas Tambe to Deputy Chief Executive Officer",
-        "score": 91
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-enters-prestigious-dow-jones-sustainability-emerging-markets-index/",
-        "anchor_text": "Biocon Enters Prestigious Dow Jones Sustainability  Emerging Markets Index",
-        "score": 89
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-continues-to-be-among-science-magazines-top-10-global-employers-list",
-        "anchor_text": "Biocon Continues to be Among Science Magazine’s Top 10 Global Employers List",
-        "score": 88
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-features-in-the-prestigious-asia-ip-elite-list-for-2022/",
-        "anchor_text": "Biocon Biologics Features in the Prestigious ASIA IP ELITE List for 2022",
-        "score": 88
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-signs-an-mou-with-cssc-in-tanzania-for-mission-10-cents/",
-        "anchor_text": "Biocon Biologics signs an MoU with CSSC in Tanzania for Mission 10 cents",
-        "score": 88
-      },
-      {
-        "url": "https://www.bioconbiologics.com/usfda-approves-biocons-sbla-for-pegfilgrastim-new-manufacturing-facility/",
-        "anchor_text": "USFDA Approves Biocon’s sBLA for Pegfilgrastim New Manufacturing Facility",
-        "score": 88
-      },
-      {
-        "url": "https://www.bioconbiologics.com/mylan-and-biocon-launch-first-trastuzumab-biosimilar-ogivri-in-australia/",
-        "anchor_text": "Mylan and Biocon Launch First Trastuzumab Biosimilar, Ogivri™, in Australia",
-        "score": 88
-      },
-      {
-        "url": "https://www.bioconbiologics.com/true-north-to-invest-rs-536-25-crore-in-biocon-biologics-for-2-44-stake/",
-        "anchor_text": "True North to Invest Rs 536.25 Crore in Biocon Biologics for 2.44% Stake",
-        "score": 87
-      },
-      {
-        "url": "https://www.bioconbiologics.com/fitch-ratings-revises-biocon-biologics-outlook-from-stable-to-positive/",
-        "anchor_text": "Fitch Ratings Revises Biocon Biologics Outlook from ‘Stable’ to ‘Positive’",
-        "score": 86
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-and-mylan-launch-fulphila-biosimilar-pegfilgrastim-in-australia/",
-        "anchor_text": "Biocon and Mylan Launch Fulphila®, Biosimilar Pegfilgrastim, in Australia",
-        "score": 86
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-foundation-conducts-awareness-session-in-14-government-schools/",
-        "anchor_text": "Biocon Foundation conducts awareness session in 14 Government Schools",
-        "score": 85
-      },
-      {
-        "url": "https://www.bioconbiologics.com/kiran-mazumdar-shaw-wins-ey-world-entrepreneur-of-the-year-2020-award/",
-        "anchor_text": "Kiran Mazumdar-Shaw Wins EY World Entrepreneur of the Year™ 2020 Award",
-        "score": 85
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-and-mylan-launch-fulphila-biosimilar-pegfilgrastim-in-canada/",
-        "anchor_text": "Biocon and Mylan Launch Fulphila®, Biosimilar Pegfilgrastim, in Canada",
-        "score": 83
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-appoints-m-b-chinappa-as-chief-financial-officer/",
-        "anchor_text": "Biocon Biologics Appoints M.B. Chinappa as Chief Financial Officer",
-        "score": 81
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-collaborates-with-national-cancer-society-malaysia",
-        "anchor_text": "Biocon Biologics Collaborates with National Cancer Society Malaysia",
-        "score": 80
-      },
-      {
-        "url": "https://www.bioconbiologics.com/kiran-mazumdar-shaw-named-ey-entrepreneur-of-the-year-india-2019/",
-        "anchor_text": "Kiran Mazumdar-Shaw Named EY Entrepreneur of the Year India 2019",
-        "score": 80
-      },
-      {
-        "url": "https://www.bioconbiologics.com/serum-biocon-biologics-agree-to-restructure-equity-investment/",
-        "anchor_text": "Serum & Biocon Biologics Agree to Restructure Equity Investment",
-        "score": 77
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-expands-its-rd-footprint-through-acquisition/",
-        "anchor_text": "Biocon Biologics Expands its R&D Footprint Through Acquisition",
-        "score": 77
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-recognized-as-asia-ip-elite-for-2025-by-iam",
-        "anchor_text": "Biocon Biologics Recognized as Asia IP Elite for 2025 by IAM",
-        "score": 73
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-included-in-sp-global-sustainability-yearbook-2024/",
-        "anchor_text": "Biocon Included in S&P Global Sustainability Yearbook 2024",
-        "score": 73
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-and-viatris-launch-abevmy-bbevacizumab/",
-        "anchor_text": "Biocon Biologics and Viatris Launch Abevmy® (bBevacizumab), Their Third Oncology Biosimilar, in Canada",
-        "score": 71
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-announces-key-leadership-appointments/",
-        "anchor_text": "Biocon Biologics Announces Key Leadership Appointments",
-        "score": 70
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-ranked-among-top-5-biotech-employers-globally/",
-        "anchor_text": "Biocon Ranked Among Top 5 Biotech Employers Globally",
-        "score": 68
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-expands-insulin-access-in-malaysia",
-        "anchor_text": "Biocon Biologics Expands Insulin Access in Malaysia",
-        "score": 64
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocons-sp-global-esg-score-improves-to-69-for-2024",
-        "anchor_text": "Biocon’s S&P Global ESG Score Improves to 69 for 2024; Biocon Biologics Debuts with S&P Global ESG Score of 53",
-        "score": 64
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-academy-conducts-its-9th-graduation-day/",
-        "anchor_text": "Biocon Academy Conducts its 9th Graduation Day",
-        "score": 62
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-board-appoints-peter-bains-as-group-ceo/",
-        "anchor_text": "Biocon Board Appoints Peter Bains as Group CEO",
-        "score": 62
-      },
-      {
-        "url": "https://www.bioconbiologics.com/our-capabilities/global-scale-manufacturing/",
-        "anchor_text": "India",
-        "score": 61
-      },
-      {
-        "url": "https://www.bioconbiologics.com/finance-leadership-update-at-biocon-biologics/",
-        "anchor_text": "Kedar Upadhye Appointed as New CFO of Biocon Biologics Current CFO MB Chinappa to take on a Strategic Finance role at Biocon Group",
-        "score": 61
-      },
-      {
-        "url": "https://www.bioconbiologics.com/our-business/global-biosimilars-portfolio/",
-        "anchor_text": "Global Biosimilars Portfolio",
-        "score": 59
-      },
-      {
-        "url": "https://www.bioconbiologics.com/our-capabilities/research-and-development/",
-        "anchor_text": "Research & Development",
-        "score": 59
-      },
-      {
-        "url": "https://www.bioconbiologics.com/our-capabilities/quality-and-compliance/",
-        "anchor_text": "Quality & Compliance",
-        "score": 57
-      },
-      {
-        "url": "https://www.bioconbiologics.com/about-us/our-work-in-biosimilars/",
-        "anchor_text": "Overview",
-        "score": 50
-      },
-      {
-        "url": "https://www.bioconbiologics.com/about-us/scientific-publications/",
-        "anchor_text": "Scientific Publications",
-        "score": 50
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-biologics-pharmacovigilance/",
-        "anchor_text": "Report adverse events/side effects/product complaints and/or to submit medical inquiries for Biocon Biologics Limited & BBL Affiliate products.",
-        "score": 50
-      },
-      {
-        "url": "https://www.bioconbiologics.com/ms-my/biocon-biologics-malaysia/",
-        "anchor_text": "Malaysia",
-        "score": 49
-      },
-      {
-        "url": "https://www.bioconbiologics.com/our-business/global-footprint/",
-        "anchor_text": "Global Footprint",
-        "score": 47
-      },
-      {
-        "url": "https://www.bioconbiologics.com/our-business/emerging-markets/",
-        "anchor_text": "Emerging Markets",
-        "score": 47
-      },
-      {
-        "url": "https://www.bioconbiologics.com/commitment/ehs-certifications/",
-        "anchor_text": "EHS Certifications",
-        "score": 47
-      },
-      {
-        "url": "https://www.bioconbiologics.com/about-us/board-of-directors/",
-        "anchor_text": "Board of Directors",
-        "score": 45
-      },
-      {
-        "url": "https://www.bioconbiologics.com/about-us/awards-recognition/",
-        "anchor_text": "Awards & Recognition",
-        "score": 45
-      },
-      {
-        "url": "https://www.bioconbiologics.com/news/company-statements/",
-        "anchor_text": "Company Statements",
-        "score": 41
-      },
-      {
-        "url": "https://www.bioconbiologics.com/careers/working-with-us/",
-        "anchor_text": "Careers",
-        "score": 41
-      },
-      {
-        "url": "https://www.bioconbiologics.com/our-business/partners/",
-        "anchor_text": "Partners",
-        "score": 39
-      },
-      {
-        "url": "https://www.bioconbiologics.com/news/resource-center/",
-        "anchor_text": "Resource Center",
-        "score": 38
-      },
-      {
-        "url": "https://www.bioconbiologics.com/news/press-releases/",
-        "anchor_text": "News",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/news/press-releases/#PR2026",
-        "anchor_text": "2026",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/news/press-releases/#1767696083936-75599d0d-e7cf",
-        "anchor_text": "2025",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/news/press-releases/#1736231898010-69926f45-fe43",
-        "anchor_text": "2024",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/news/press-releases/#1707134753855-13c57879-c428",
-        "anchor_text": "2023",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/news/press-releases/#1678336731994-ae9fc9ff-e1a6",
-        "anchor_text": "2022",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/news/press-releases/#1642700485849-6aad3408-b854",
-        "anchor_text": "2021",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/news/press-releases/#1610024518011-0d8f43f2-68e6",
-        "anchor_text": "2020",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/news/press-releases/#1591680379388-6351928a-36c8",
-        "anchor_text": "2019",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q3fy26-revenue/",
-        "anchor_text": "Biocon Q3FY26 Operating Revenue at Rs 4,173 Cr; Q3FY26 EBITDA at Rs 951 Cr; Q3FY26 Net Profit at Rs 144 Cr",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q2fy26-revenue/",
-        "anchor_text": "Biocon Q2FY26 Operating Revenue at Rs 4,296 Cr, Up 20%",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q1fy26-revenue/",
-        "anchor_text": "Biocon Q1FY26 Operating Revenue at Rs 3,942 Cr, Up 15%",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q4fy25-revenue/",
-        "anchor_text": "Biocon Q4FY25 Revenue at Rs 4,454 Cr, Up 15%** EBITDA at Rs 1,115 Cr; Up 16%; Net Profit at Rs 344 Cr, Up 153%",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q2fy25-revenue/",
-        "anchor_text": "Biocon Q2FY25 Revenue at Rs 3,623 Cr, EBITDA at Rs 718 Cr",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q4fy24-revenue/",
-        "anchor_text": "Biocon Q4FY24 Revenue at Rs 3,966 Cr, EBITDA at Rs 964 Cr;  Net Profit (before exceptional items) at Rs 144 Cr",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q3fy24-revenue/",
-        "anchor_text": "Biocon Q3FY24 Revenue at Rs 4,519 Cr, Up 50%; Biosimilars Up 65%; Research Services Up 9%; EBITDA at Rs 1,492 Cr, Up 106%; Net Profit at Rs 660 Cr Pre-Paid USD 200 Mn towards Debt Reduction",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q2fy24-revenue/",
-        "anchor_text": "Biocon Q2FY24 Revenue at Rs 3,620 Cr, Up 52%; Biosimilars Up 97%; Research Services Up 18% EBITDA at Rs 900 Cr, Up 68%; Core EBITDA at Rs 1,100 Cr, Up 35% Net Profit at Rs 126 Cr, Up 168%",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q1fy24-revenue/",
-        "anchor_text": "Biocon Q1FY24 Revenue at Rs 3,516 Cr, Up 59%; Biosimilars Up 106%; Research Services Up 25%",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q4fy23-revenue/",
-        "anchor_text": "Biocon Q4FY23 Revenue at Rs 3,929 Cr, Up 59%; Biosimilars Up 114%; Research Services Up 31%",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q3fy23-revenue/",
-        "anchor_text": "Biocon Q3FY23 Revenue at Rs 3,020 Cr, Up 36%; Biosimilars Up 54%; Research Services Up 23%; Generics Up 18%",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q2fy23-revenue/",
-        "anchor_text": "Biocon Q2FY23 Revenue at Rs 2,384 Cr, Up 23%; Core EBITDA at Rs 816 Cr, Up 34% Gross R&D Spend at Rs 252 Crore, Up 52%",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q1fy23-revenue/",
-        "anchor_text": "Biocon Q1FY23 Revenue at Rs 2,217 Cr, Up 23%; Net Profit at Rs 144 Cr, Up 71%; Core EBITDA at Rs 660 Cr Up 25%",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q4fy22-revenue/",
-        "anchor_text": "Biocon Q4FY22 Revenue at Rs 2,476 Cr, Up 21%;  Core EBITDA at Rs 815 Cr, Up 37% ;  PBT(before Exceptional Items) at Rs 384 Cr, Up 9%",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q3fy22-results/",
-        "anchor_text": "Biocon Q3FY22 Revenue at Rs 2,223 Cr, Up 18%; EBITDA at Rs 537 Cr, Up 25%; Biosimilars Up 28% at Rs 981 Cr; Research Services Up 10% at Rs 641 Cr; Generics Up 7% at Rs 607 Cr",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q2fy22-results/",
-        "anchor_text": "Biocon Q2FY22 Revenue up 10% at Rs 1,945 Cr; EBITDA up 35% at Rs 551 Cr; Net Profit (before exceptional items) up 11% at Rs 188 Cr;",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q1fy22-results/",
-        "anchor_text": "Biocon Q1FY22 Revenue at Rs 1,808 Cr, Up 6%; EBITDA at Rs 437 Cr; Biosimilars Up 10 % at Rs 758 Cr; Research Services Up 41 % at Rs 595 Cr;",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q4fy21-results/",
-        "anchor_text": "Biocon Q4FY21 Revenue at Rs 2,044 Cr, Up 26%; EBITDA at Rs 641 Cr; Up 68%",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q3fy21-results/",
-        "anchor_text": "Biocon Q3FY21 Revenue at ₹ 1,879 Crore, Up 7%; EBITDA at ₹427 Crore; Net Profit at ₹169 Crore;  Biosimilars up 11% at ₹769 Crore; Research Services up 13% at  ₹585 Crore; Generics down 3% at ₹561 Crore",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q2fy21-results/",
-        "anchor_text": "Biocon Q2FY21 Revenue at Rs 1,760 Cr, Up 10%; EBITDA at Rs 407 Cr;  Net Profit (before exceptional item & discontinuing operations) at Rs 174 Cr;  Generics Up 8% at Rs 599 Cr; Biosimilars Up 11% at Rs 676 Cr; Research Services Up 12% at Rs 520 Cr.",
-        "score": 37
-      },
-      {
-        "url": "https://www.bioconbiologics.com/news/media-stories/",
-        "anchor_text": "Media Stories",
-        "score": 36
-      },
-      {
-        "url": "https://www.bioconbiologics.com/news/media-contact/",
-        "anchor_text": "Media Contacts",
-        "score": 36
-      },
-      {
-        "url": "https://www.bioconbiologics.com/news/video-gallery/",
-        "anchor_text": "Video Gallery",
-        "score": 36
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q3fy25-revenue",
-        "anchor_text": "Biocon Q3FY25 Revenue at Rs 3,856 Cr, Up 7%#EBITDA at Rs 787 Cr, Up 16%#; Net Profit at Rs 25 Cr",
-        "score": 34
-      },
-      {
-        "url": "https://www.bioconbiologics.com/biocon-q1fy25-revenue",
-        "anchor_text": "Biocon Q1FY25 Revenue up 30% at Rs 4,567 Cr EBITDA up 117% at Rs 1,755 Cr Net Profit at Rs 660 Cr",
-        "score": 34
-      },
-      {
-        "url": "https://www.bioconbiologics.com/privacy-policy-bbl/",
-        "anchor_text": "| Privacy Policy",
-        "score": 34
-      },
-      {
-        "url": "https://www.bioconbiologics.com/products-locator/",
-        "anchor_text": "Product Locator",
-        "score": 32
-      },
-      {
-        "url": "https://www.bioconbiologics.com/working-with-us/",
-        "anchor_text": "Working With Us",
-        "score": 31
-      },
-      {
-        "url": "https://www.bioconbiologics.com/cookie-policy/",
-        "anchor_text": "* Cookie Policy",
-        "score": 29
-      },
-      {
         "url": "https://www.bioconbiologics.com/cookie-notice/",
         "anchor_text": "More information",
         "score": 29
       },
       {
-        "url": "https://www.bioconbiologics.com/terms-of-use/",
-        "anchor_text": "| Terms of Use",
-        "score": 28
-      },
-      {
-        "url": "https://www.bioconbiologics.com/our-stories/",
-        "anchor_text": "Our Stories",
-        "score": 27
-      },
-      {
-        "url": "https://www.bioconbiologics.com/our-stories/#BrandStories",
-        "anchor_text": "Brand Stories",
-        "score": 27
-      },
-      {
-        "url": "https://www.bioconbiologics.com/our-stories/#PatientStories",
-        "anchor_text": "Patients’ Stories",
-        "score": 27
-      },
-      {
-        "url": "https://www.bioconbiologics.com/our-stories/#EmployeeStories",
-        "anchor_text": "Employee Stories",
-        "score": 27
-      },
-      {
-        "url": "https://www.bioconbiologics.com/contact-us/",
-        "anchor_text": "Contact Us",
-        "score": 26
-      },
-      {
-        "url": "https://www.bioconbiologics.com/about-us/",
-        "anchor_text": "About Us",
-        "score": 24
-      },
-      {
-        "url": "https://www.bioconbiologics.com/fil-ph/",
-        "anchor_text": "Philippines",
-        "score": 22
-      },
-      {
-        "url": "https://www.bioconbiologics.com/pt-br/",
-        "anchor_text": "Brazil",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/ar-eg/",
-        "anchor_text": "Egypt",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/zh-hk/",
-        "anchor_text": "Hong Kong",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/ms-my/",
-        "anchor_text": "Malaysia",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/es-mx/",
-        "anchor_text": "Mexico",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/ar-ma/",
-        "anchor_text": "Morocco",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/ar-sa/",
-        "anchor_text": "Saudi Arabia",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/en-za/",
-        "anchor_text": "South Africa",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/zh-tw/",
-        "anchor_text": "Taiwan",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/th-th/",
-        "anchor_text": "Thailand",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/ar-tn/",
-        "anchor_text": "Tunisia",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/tr-tr/",
-        "anchor_text": "Turkey",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/ar-ae/",
-        "anchor_text": "UAE",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/vi-vn/",
-        "anchor_text": "Vietnam",
-        "score": 21
-      },
-      {
-        "url": "https://www.bioconbiologics.com/commitment/",
-        "anchor_text": "Overview",
-        "score": 16
-      },
-      {
-        "url": "https://www.bioconbiologics.com/investors/",
-        "anchor_text": "Investors",
-        "score": 15
-      },
-      {
-        "url": "https://www.bioconbiologics.com/products/",
-        "anchor_text": "Overview",
-        "score": 14
-      },
-      {
-        "url": "https://www.bioconbiologics.com/sitemap/",
-        "anchor_text": "Sitemap",
-        "score": 13
-      },
-      {
-        "url": "https://www.bioconbiologics.com/news/",
-        "anchor_text": "News",
-        "score": 10
-      },
-      {
         "url": "https://www.bioconbiologics.com/",
-        "anchor_text": "Global HQ",
+        "anchor_text": "Go back to homepage",
         "score": 3
-      },
-      {
-        "url": "https://www.bioconbiologics.com",
-        "anchor_text": "Biocon Biologics",
-        "score": 0
       }
     ]
   },
@@ -18530,11 +17300,6 @@
         "score": 3
       },
       {
-        "url": "https://www.bioconbiologics.com/?page_id=855",
-        "anchor_text": "Investors",
-        "score": 3
-      },
-      {
         "url": "https://www.bioconbiologics.com",
         "anchor_text": "Biocon Biologics",
         "score": 0
@@ -18546,19 +17311,9 @@
     "press_url": "https://www.sailife.com/news",
     "candidate_links": [
       {
-        "url": "https://www.sailife.com/sai-life-sciences-agility-life-sciences-and-centrix-pharma-solutions-announce-an-integrated-cmc-partnership-to-accelerate-drug-development-for-innovators/",
-        "anchor_text": "Read more",
-        "score": 169
-      },
-      {
         "url": "https://www.sailife.com/mabtech-and-sai-life-sciences-announce-strategic-collaboration-to-advance-immunology-research-with-eyra-platform-at-sai-boston-site/",
         "anchor_text": "Read more",
         "score": 147
-      },
-      {
-        "url": "https://www.sailife.com/sai-life-sciences-launches-child-safety-awareness-program-in-government-schools-in-hyderabad-with-sankalp-foundation/",
-        "anchor_text": "Read more",
-        "score": 132
       },
       {
         "url": "https://www.sailife.com/pushing-boundaries-in-organic-chemistry-iisc-prof-santanu-mukherjee-at-sai-life-sciences/",
@@ -18569,16 +17324,6 @@
         "url": "https://www.sailife.com/india-is-evolving-from-being-a-tactical-supplier-to-a-strategic-partner-to-global-pharma/",
         "anchor_text": "Read more",
         "score": 104
-      },
-      {
-        "url": "https://www.sailife.com/where-nature-inspires-innovation-university-of-kansas-prof-apurba-dutta-visits-sai/",
-        "anchor_text": "Read more",
-        "score": 98
-      },
-      {
-        "url": "https://www.sailife.com/sai-life-sciences-set-to-double-process-rd-capacity-with-new-facility-in-hyderabad/",
-        "anchor_text": "Read more",
-        "score": 98
       },
       {
         "url": "https://www.sailife.com/sai-life-sciences-recognized-as-a-best-organization-for-women-bow-2026-by-et-edge/",
@@ -18594,11 +17339,6 @@
         "url": "https://www.sailife.com/kudikunta-lake-restoration-completed-marking-the-revival-of-an-urban-water-body/",
         "anchor_text": "Read more",
         "score": 95
-      },
-      {
-        "url": "https://www.sailife.com/sai-life-sciences-becomes-a-signatory-to-the-un-womens-empowerment-principles/",
-        "anchor_text": "Read more",
-        "score": 93
       },
       {
         "url": "https://www.sailife.com/inside-sai-life-sciences-integrated-rd-campus-accelerating-drug-development/",
@@ -18647,11 +17387,6 @@
       },
       {
         "url": "https://www.sailife.com/ai-driven-retrosynthesis-integrated-into-discovery-chemistry/",
-        "anchor_text": "Read more",
-        "score": 76
-      },
-      {
-        "url": "https://www.sailife.com/sai-life-sciences-limited-sustains-growth-momentum-in-q2fy26/",
         "anchor_text": "Read more",
         "score": 76
       },
@@ -18826,7 +17561,7 @@
         "score": 21
       },
       {
-        "url": "https://www.sailife.com/news/page/5/?ajax=true",
+        "url": "https://www.sailife.com/news/page/4/?ajax=true",
         "anchor_text": "next page",
         "score": 21
       },
@@ -19729,11 +18464,6 @@
         "score": 125
       },
       {
-        "url": "https://www.illumina.com/company/news-center/feature-articles/how-singapore-is-solidifying-its-role-at-the-forefront-of-global.html",
-        "anchor_text": "How Singapore is solidifying its role at the forefront of global genomics",
-        "score": 125
-      },
-      {
         "url": "https://www.illumina.com/techniques/sequencing/rna-sequencing/ultra-low-input-single-cell-rna-seq/pip-seq-chemistry.html",
         "anchor_text": "Learn more",
         "score": 116
@@ -19752,6 +18482,11 @@
         "url": "https://www.illumina.com/services/instrument-services-training/product-support-services/instrument-monitoring.html",
         "anchor_text": "Proactive Instrument Monitoring",
         "score": 108
+      },
+      {
+        "url": "https://www.illumina.com/company/news-center/feature-articles/new-zealand-gains-genomic-testing-independence.html",
+        "anchor_text": "New Zealand gains genomic testing independence",
+        "score": 107
       },
       {
         "url": "https://www.illumina.com/company/about-us/corporate-social-responsibility/environmental-social-governance.html",
@@ -20335,7 +19070,7 @@
       },
       {
         "url": "https://www.illumina.com/company/news-center.html",
-        "anchor_text": "Share on Linkedin",
+        "anchor_text": "Remove my preference",
         "score": 39
       },
       {
@@ -20375,7 +19110,7 @@
       },
       {
         "url": "https://www.illumina.com/company/legal/privacy.html",
-        "anchor_text": "Privacy Policy",
+        "anchor_text": "Privacy Policy.",
         "score": 33
       },
       {
@@ -24138,11 +22873,6 @@
     "press_url": "https://kpmg.com/xx/en/media.html",
     "candidate_links": [
       {
-        "url": "https://kpmg.com/xx/en/media/press-releases/2026/03/kpmg-named-the-2026-servicenow-worldwide-core-business-partner-of-the-year.html",
-        "anchor_text": "",
-        "score": 164
-      },
-      {
         "url": "https://kpmg.com/xx/en/media/press-releases/2026/03/kpmg-announces-appointment-of-gary-wingrove-as-global-chairman-and-ceo.html",
         "anchor_text": "",
         "score": 160
@@ -24151,6 +22881,11 @@
         "url": "https://kpmg.com/xx/en/media/press-releases/2026/03/kpmg-survey-of-global-dealmakers-reveals-rising-m-and-a-expectations.html",
         "anchor_text": "",
         "score": 158
+      },
+      {
+        "url": "https://kpmg.com/xx/en/media/press-releases/2026/04/managed-services-recognized-as-strategic-engine-for-ai-acceleration.html",
+        "anchor_text": "",
+        "score": 157
       },
       {
         "url": "https://kpmg.com/content/experience-fragments/kpmgpublic/xx/en/site/rfp-form-location-selector-overlay/master.html",
@@ -24265,11 +23000,6 @@
       {
         "url": "https://kpmg.com/xx/en/contacts/c/daniel-caines.html",
         "anchor_text": "Daniel Caines",
-        "score": 56
-      },
-      {
-        "url": "https://kpmg.com/xx/en/contacts/o/brian-o-neill.html",
-        "anchor_text": "Brian O’Neill",
         "score": 56
       },
       {
@@ -26135,7 +24865,7 @@
       },
       {
         "url": "https://www.aurobindo.com/media/press-releases",
-        "anchor_text": "I Accept",
+        "anchor_text": "Media",
         "score": 35
       },
       {
@@ -26166,11 +24896,6 @@
       {
         "url": "https://www.aurobindo.com/privacy-policy",
         "anchor_text": "Privacy Policy",
-        "score": 27
-      },
-      {
-        "url": "https://www.aurobindo.com/privacy-policy#cookies",
-        "anchor_text": "Cookie policy",
         "score": 27
       },
       {
@@ -26959,11 +25684,6 @@
         "score": 130
       },
       {
-        "url": "https://www.lupin.com/media/press-releases/lupin-announces-the-approval-and-launch-of-brivaracetam-oral-solution-in-the-united-states",
-        "anchor_text": "Lupin Announces the Approval and Launch of Brivaracetam Oral Solution in the United States",
-        "score": 128
-      },
-      {
         "url": "https://www.lupin.com/media/perspectives/how-india-s-pharma-sector-is-redefining-global-healthcare-with-technology-and-agility",
         "anchor_text": "February 22, 2026How India’s Pharma Sector Is Redefining Global Healthcare with Technology and Agility",
         "score": 121
@@ -26987,6 +25707,11 @@
         "url": "https://www.lupin.com/media/perspectives/integrating-esg-performance-into-long-term-capital-strategy-for-indian-pharma",
         "anchor_text": "March 13, 2026Integrating ESG Performance into Long-Term Capital Strategy for Indian Pharma",
         "score": 113
+      },
+      {
+        "url": "https://www.lupin.com/media/press-releases/lupin-announces-the-approval-of-dapagliflozin-tablets-in-the-united-states",
+        "anchor_text": "Lupin Announces the Approval of Dapagliflozin Tablets in the United States",
+        "score": 112
       },
       {
         "url": "https://www.lupin.com/media/perspectives/speak-pharma-with-dr-abdelaziz-toumi-ceo-lupin-manufacturing-solutions-lms",
@@ -28760,11 +27485,6 @@
         "score": 122
       },
       {
-        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-delivers-strong-2025-performance-and-re-affirms-long-term-outlooks/",
-        "anchor_text": "04 February 2026GSK delivers strong 2025 performance and re-affirms long-term outlooksFull year and Q4 2025 highlights",
-        "score": 119
-      },
-      {
         "url": "https://www.gsk.com/en-gb/responsibility/global-health-and-health-security/using-our-science-for-global-health/",
         "anchor_text": "Using our science for global health",
         "score": 112
@@ -28927,6 +27647,11 @@
       {
         "url": "https://www.gsk.com/en-gb/investors/shareholder-information/annual-governance-meeting/",
         "anchor_text": "Annual Governance Meeting",
+        "score": 87
+      },
+      {
+        "url": "https://www.gsk.com/en-gb/media/press-releases/exdensur-depemokimab-approved-in-china/",
+        "anchor_text": "08 April 2026Exdensur (depemokimab) approved in China for the treatment of chronic rhinosinusitis with nasal polyps (CRSwNP)Exdensur is the first and only ultra-long-acting biologic in China for CRSwNP",
         "score": 87
       },
       {
@@ -39598,7 +38323,7 @@
       },
       {
         "url": "https://www.roche.com/investors/bonds",
-        "anchor_text": "Share price318.00CHF0.00(0.00%)Today",
+        "anchor_text": "Share price317.60CHF+ 6.30(+2.02%)Today",
         "score": 20
       },
       {
@@ -40079,7 +38804,7 @@
       },
       {
         "url": "https://www.astrazeneca.com/media-centre/press-releases.html",
-        "anchor_text": "Select Preferences",
+        "anchor_text": "Set Preferences",
         "score": 47
       },
       {
@@ -40324,9 +39049,9 @@
         "score": 168
       },
       {
-        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-therapy-nipocalimab-granted-u-s-fda-fast-track-designation-in-systemic-lupus-erythematosus-sle",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-advances-pulsed-field-ablation-portfolio-with-the-launch-of-varipulse-pro-in-europe",
         "anchor_text": "Read more",
-        "score": 155
+        "score": 144
       },
       {
         "url": "https://www.jnj.com/our-societal-impact/global-environmental-sustainability",
@@ -41226,11 +39951,6 @@
         "score": 167
       },
       {
-        "url": "https://news.abbvie.com/2026-03-09-AbbVie-Announces-Positive-Topline-Results-from-a-Phase-1-Multiple-Ascending-Dose-Study-of-ABBV-295,-a-Long-Acting-Amylin-Analog,-in-Adults",
-        "anchor_text": "AbbVie Announces Positive Topline Results from a Phase 1 Multiple Ascending Dose Study of ABBV-295, a Long-Acting Amylin Analog, in Adults",
-        "score": 162
-      },
-      {
         "url": "https://news.abbvie.com/2026-03-26-Allergan-Aesthetics-Ushers-in-a-New-Age-of-Hyaluronic-Acid-HA-Injectables-with-JUVEDERM-R-at-AMWC-Monaco",
         "anchor_text": "Allergan Aesthetics Ushers in a New Age of Hyaluronic Acid (HA) Injectables with JUVÉDERM® at AMWC Monaco",
         "score": 128
@@ -41254,6 +39974,16 @@
         "url": "https://news.abbvie.com/2026-03-16-Allergan-Aesthetics-Redefines-Skin-Quality-Communication-with-Launch-of-Skin-Quality-Index#assets_2429_124760-147",
         "anchor_text": "Video1",
         "score": 114
+      },
+      {
+        "url": "https://news.abbvie.com/2026-04-07-Allergan-Aesthetics-Third-State-of-the-Art-AMI-Center-Opens-in-Austin",
+        "anchor_text": "Allergan Aesthetics Third State-of-the-Art AMI Center Opens in Austin",
+        "score": 93
+      },
+      {
+        "url": "https://news.abbvie.com/2026-04-07-Allergan-Aesthetics-Third-State-of-the-Art-AMI-Center-Opens-in-Austin#assets_2429_124769-149",
+        "anchor_text": "Photos1",
+        "score": 93
       },
       {
         "url": "https://news.abbvie.com/2026-03-24-AbbVie-Named-Official-Pharmaceutical-Partner-of-Major-League-Baseball",
@@ -41397,9 +40127,9 @@
         "score": 222
       },
       {
-        "url": "https://www.gilead.com/news/news-details/2026/gileads-single-tablet-regimen-of-bictegravir-and-lenacapavir-maintained-virological-suppression-in-people-with-hiv-who-switched-antiretroviral-therapy",
-        "anchor_text": "February 25, 2026Gilead’s Single-Tablet Regimen of Bictegravir and Lenacapavir Maintained Virological Suppression in People With HIV Who Switched Antiretroviral Therapy",
-        "score": 217
+        "url": "https://www.gilead.com/news/news-details/2026/gilead-to-acquire-tubulis-adding-potentially-best-in-class-antibody-drug-conjugate-and-next-generation-platform-to-further-strengthen-oncology-pipeline",
+        "anchor_text": "April 7, 2026Gilead to Acquire Tubulis Adding Potentially Best-in-Class Antibody-Drug Conjugate and Next Generation Platform to Further Strengthen Oncology Pipeline",
+        "score": 218
       },
       {
         "url": "https://www.gilead.com/news/news-details/2026/gilead-sciences-to-acquire-ouro-medicines-to-advance-first-in-class-t-cell-engager-program-for-autoimmune-diseases",
@@ -44146,7 +42876,7 @@
       },
       {
         "url": "https://www.takeda.com/newsroom/press-releases/",
-        "anchor_text": "Press Releases",
+        "anchor_text": "Do not sell or share my personal information",
         "score": 41
       },
       {
@@ -45747,6 +44477,11 @@
         "score": 147
       },
       {
+        "url": "https://crisprtx.com/about-us/press-releases-and-presentations/crispr-therapeutics-to-present-at-the-25th-annual-needham-virtual-healthcare-conference",
+        "anchor_text": "CRISPR Therapeutics to Present at the 25th Annual Needham Virtual Healthcare Conference",
+        "score": 146
+      },
+      {
         "url": "https://crisprtx.com/about-us/press-releases-and-presentations/crispr-therapeutics-to-present-at-the-24th-annual-needham-virtual-healthcare-conference",
         "anchor_text": "CRISPR Therapeutics to Present at the 24th Annual Needham Virtual Healthcare Conference",
         "score": 146
@@ -46328,7 +45063,7 @@
       },
       {
         "url": "https://crisprtx.com/about-us/privacy-policy",
-        "anchor_text": "Privacy & cookie policy",
+        "anchor_text": "privacy policy",
         "score": 38
       },
       {
@@ -46375,11 +45110,6 @@
         "url": "https://crisprtx.com/therapies",
         "anchor_text": "Therapies",
         "score": 12
-      },
-      {
-        "url": "https://crisprtx.com/pipeline",
-        "anchor_text": "Pipeline",
-        "score": 11
       }
     ]
   },
@@ -47559,6 +46289,11 @@
     "press_url": "https://insilico.com/news",
     "candidate_links": [
       {
+        "url": "https://insilico.com/news/zvgyb6jo11-insilico-medicine-nominates-ism6200-a-po",
+        "anchor_text": "Insilico Medicine Nominates ISM6200, a Potential Best-in-class Selective NR3C1 Inhibitor for Ovarian cancer, Cushing’s Syndrome, Hypercortisolism-associated obesity and Glaucoma",
+        "score": 71
+      },
+      {
         "url": "https://insilico.com/news/uiy12zcjg1-insilico-medicine-announces-global-rampd",
         "anchor_text": "Insilico Medicine Announces Global R&D Collaboration with Lilly",
         "score": 71
@@ -47576,11 +46311,6 @@
       {
         "url": "https://insilico.com/news/2fx40la551-insilico-medicine-and-aska-pharmaceutica",
         "anchor_text": "Insilico Medicine and ASKA Pharmaceutical Expand Partnership to Discover Novel Targets for Women’s Health",
-        "score": 71
-      },
-      {
-        "url": "https://insilico.com/news/spjz8fzmb1-insilico-medicine-launches-pandaclaw-emp",
-        "anchor_text": "Insilico Medicine Launches PandaClaw: Empowering Biologists with Agentic AI for Therapeutic Discovery",
         "score": 71
       },
       {
@@ -50938,6 +49668,11 @@
         "score": 112
       },
       {
+        "url": "https://www.evotec.com/news/evotec-announces-fourth-quarter-and-full-year-2025-results-foundation-for-profitable-growth",
+        "anchor_text": "Learn more",
+        "score": 111
+      },
+      {
         "url": "https://www.evotec.com/news/evotec-appoints-dr.-sarah-fakih-as-evp-head-of-global-communications-and-investor-relations",
         "anchor_text": "Learn more",
         "score": 111
@@ -50969,11 +49704,6 @@
       },
       {
         "url": "https://www.evotec.com/news/ad-hoc-positive-phase-ii-data-for-p2x3-antagonist-in-patients-with-refractory-chronic-cough",
-        "anchor_text": "Learn more",
-        "score": 111
-      },
-      {
-        "url": "https://www.evotec.com/news/evotec-fiscal-year-results-2016-leading-innovation-efficiency-first-in-class-drug-discovery",
         "anchor_text": "Learn more",
         "score": 111
       }
@@ -51207,6 +49937,11 @@
       {
         "url": "https://www.iconplc.com/therapeutics/internal-medicine-immunology",
         "anchor_text": "Internal Medicine & Immunology",
+        "score": 56
+      },
+      {
+        "url": "https://www.iconplc.com/news-events/events/industry/asco-2026",
+        "anchor_text": "ASCO 2026",
         "score": 56
       },
       {
@@ -52743,7 +51478,7 @@
       },
       {
         "url": "https://www.catalent.com/news-and-events/",
-        "anchor_text": "Cookies Settings",
+        "anchor_text": "Do Not Sell My Personal Information",
         "score": 31
       },
       {
@@ -52938,11 +51673,6 @@
         "score": 122
       },
       {
-        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-delivers-strong-2025-performance-and-re-affirms-long-term-outlooks/",
-        "anchor_text": "04 February 2026GSK delivers strong 2025 performance and re-affirms long-term outlooksFull year and Q4 2025 highlights",
-        "score": 119
-      },
-      {
         "url": "https://www.gsk.com/en-gb/responsibility/global-health-and-health-security/using-our-science-for-global-health/",
         "anchor_text": "Using our science for global health",
         "score": 112
@@ -53105,6 +51835,11 @@
       {
         "url": "https://www.gsk.com/en-gb/investors/shareholder-information/annual-governance-meeting/",
         "anchor_text": "Annual Governance Meeting",
+        "score": 87
+      },
+      {
+        "url": "https://www.gsk.com/en-gb/media/press-releases/exdensur-depemokimab-approved-in-china/",
+        "anchor_text": "08 April 2026Exdensur (depemokimab) approved in China for the treatment of chronic rhinosinusitis with nasal polyps (CRSwNP)Exdensur is the first and only ultra-long-acting biologic in China for CRSwNP",
         "score": 87
       },
       {
@@ -54766,6 +53501,16 @@
         "score": 36
       },
       {
+        "url": "https://www.sumitomo-pharma.com/news/20260408-2.html",
+        "anchor_text": "Notice Regarding Issuance of New Shares and Secondary Offering of Shares",
+        "score": 35
+      },
+      {
+        "url": "https://www.sumitomo-pharma.com/news/20260408-1.html",
+        "anchor_text": "Notice Regarding Refinancing of Existing Borrowings through a Bridge Loan",
+        "score": 35
+      },
+      {
         "url": "https://www.sumitomo-pharma.com/news/20260302-3.html",
         "anchor_text": "Announcement of Filing of Shelf Registration Statement  for Issuance of New Shares",
         "score": 35
@@ -54943,11 +53688,6 @@
       {
         "url": "https://www.sumitomo-pharma.com/news/20260213.html",
         "anchor_text": "Regarding the Scheduled Review in Japan of the Allogeneic iPS Cell-Derived dopaminergic neural progenitor cells (AMCHEPRY)",
-        "score": 23
-      },
-      {
-        "url": "https://www.sumitomo-pharma.com/news/20251222.html",
-        "anchor_text": "Sumitomo Pharma Selected as “Best Website” for the Third Consecutive Year in Both All Markets and Pharmaceuticals Sector Categories of Nikko Investor Relations’ FY2025 All-Listed-Companies Website Ranking",
         "score": 23
       },
       {
@@ -55999,7 +54739,7 @@
       },
       {
         "url": "https://www.shionogi.com/global/en/investors/ir-library/annual-report-integrated-report.html",
-        "anchor_text": "Annual\n                                Report / Integrated Report / Environment Report",
+        "anchor_text": "Integrated Report / Environment Report / Response to CDP",
         "score": 88
       },
       {
@@ -56063,6 +54803,11 @@
         "score": 77
       },
       {
+        "url": "https://www.shionogi.com/global/en/news/2026/04/20260408_04.html",
+        "anchor_text": "Shionogi Receives Contract with U.S. Government Through BARDA's Project BioShield to Enhance National Preparedness for Drug-Resistant Bacterial Threats",
+        "score": 77
+      },
+      {
         "url": "https://www.shionogi.com/global/en/news/2026/04/20260401_12.html",
         "anchor_text": "GSK, Pfizer and Shionogi complete changes to ViiV Healthcare shareholding",
         "score": 77
@@ -56123,6 +54868,11 @@
         "score": 75
       },
       {
+        "url": "https://www.shionogi.com/global/en/news/2026/04/20260408.html",
+        "anchor_text": "ESCMID Global 2026: Shionogi presents new real-world data highlighting clinical effectiveness of Fetroja®/Fetcroja® (cefiderocol) in MBL-producing Enterobacterales infections",
+        "score": 74
+      },
+      {
         "url": "https://www.shionogi.com/global/en/news/2026/04/20260401.html",
         "anchor_text": "SHIONOGI Group’s Efforts to Address AMR Highly Rated -Ranked No. 2 Among Global R&D-Based Pharmaceutical Companies in the Antimicrobial Resistance Benchmark 2026-",
         "score": 74
@@ -56174,12 +54924,12 @@
       },
       {
         "url": "https://www.shionogi.com/global/en/company/strategy/important-issues.html",
-        "anchor_text": "Material\n                        Issues",
+        "anchor_text": "Material issues",
         "score": 69
       },
       {
         "url": "https://www.shionogi.com/global/en/sustainability/external-evaluation.html",
-        "anchor_text": "External\n                                evaluation",
+        "anchor_text": "External evaluations",
         "score": 68
       },
       {
@@ -56203,8 +54953,23 @@
         "score": 66
       },
       {
+        "url": "https://www.shionogi.com/global/en/sustainability/overview/sus_governance.html",
+        "anchor_text": "Sustainability Governance Framework",
+        "score": 64
+      },
+      {
+        "url": "https://www.shionogi.com/content/shionogi/global/en/sustainability/library",
+        "anchor_text": "Sustainability Information Index",
+        "score": 62
+      },
+      {
         "url": "https://www.shionogi.com/global/en/company/infectious-diseases.html",
         "anchor_text": "ID Weeks Page",
+        "score": 61
+      },
+      {
+        "url": "https://www.shionogi.com/global/en/sustainability/overview/initiatives.html",
+        "anchor_text": "Sustainability-related Initiatives and memberships",
         "score": 61
       },
       {
@@ -56298,6 +55063,11 @@
         "score": 48
       },
       {
+        "url": "https://www.shionogi.com/global/en/sustainability/overview.html",
+        "anchor_text": "SHIONOGI’s Sustainability",
+        "score": 47
+      },
+      {
         "url": "https://www.shionogi.com/global/en/sustainability/amr/pp.html",
         "anchor_text": "Shionogi AMR Position\n                                Paper",
         "score": 47
@@ -56353,8 +55123,13 @@
         "score": 42
       },
       {
+        "url": "https://www.shionogi.com/us/en/privacy-policy.html#Collection",
+        "anchor_text": "Privacy Policy",
+        "score": 42
+      },
+      {
         "url": "https://www.shionogi.com/global/en/company/greeting.html",
-        "anchor_text": "Message from Top\n                                Management",
+        "anchor_text": "Top Commitment",
         "score": 40
       },
       {
@@ -57181,7 +55956,7 @@
       },
       {
         "url": "https://www.kyowakirin.com/privacy_policy/index.html",
-        "anchor_text": "More information",
+        "anchor_text": "Privacy Policy.",
         "score": 30
       },
       {
@@ -61316,14 +60091,14 @@
         "score": 238
       },
       {
-        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/ICOTYDE-icotrokinra-one-year-results-confirm-lasting-skin-clearance-and-favorable-safety-profile-in-oncedaily-pill-for-plaque-psoriasis/default.aspx",
-        "anchor_text": "Read article",
-        "score": 226
-      },
-      {
         "url": "https://ir.intracellulartherapies.com/events-and-presentations/events/event-details/2026/Johnson--Johnson-to-Participate-in-the-Barclays-28th-Annual-Global-Healthcare-Conference/default.aspx",
         "anchor_text": "See details(opens in new window)",
         "score": 200
+      },
+      {
+        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/Johnson--Johnson-Advances-Pulsed-Field-Ablation-Portfolio-with-the-Launch-of-VARIPULSE-Pro-in-Europe/default.aspx",
+        "anchor_text": "Read article",
+        "score": 191
       },
       {
         "url": "https://ir.intracellulartherapies.com/events-and-presentations/events/event-details/2026/Johnson--Johnson-First-Quarter-2026-Earnings-Call/default.aspx",
@@ -62906,11 +61681,6 @@
         "score": 27
       },
       {
-        "url": "https://ir.novavax.com/cookies-policy",
-        "anchor_text": "More information",
-        "score": 27
-      },
-      {
         "url": "https://ir.novavax.com/investor-hub",
         "anchor_text": "Investors hub",
         "score": 25
@@ -63052,6 +61822,11 @@
         "score": 30
       },
       {
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7489",
+        "anchor_text": "Bavarian Nordic – Transactions in Connection with Share Buy-Back Program",
+        "score": 30
+      },
+      {
         "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7487",
         "anchor_text": "Bavarian Nordic – Transactions in Connection with Share Buy-Back Program",
         "score": 30
@@ -63169,11 +61944,6 @@
       {
         "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7378",
         "anchor_text": "Bavarian Nordic Announces Changes to the Board of Directors",
-        "score": 30
-      },
-      {
-        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7376",
-        "anchor_text": "Bavarian Nordic Announces Major Shareholder Notification from Morgan Stanley",
         "score": 30
       },
       {
@@ -63718,6 +62488,16 @@
         "url": "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-to-attend-TD-Cowen-46th-Annual-Healthcare-Conference-in-Boston-MA-from-March-2-4-2026/default.aspx",
         "anchor_text": "Compass Pathways to attend TD Cowen 46th Annual Healthcare Conference in Boston, MA from March 2-4, 2026",
         "score": 200
+      },
+      {
+        "url": "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-Announces-New-Employee-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635c4/default.aspx",
+        "anchor_text": "Compass Pathways Announces New Employee Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+        "score": 188
+      },
+      {
+        "url": "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-to-Attend-Needham-Virtual-Healthcare-Conference-on-April-14-2026/default.aspx",
+        "anchor_text": "Compass Pathways to Attend Needham Virtual Healthcare Conference on April 14, 2026",
+        "score": 179
       },
       {
         "url": "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-to-Announce-New-Clinical-Data-from-Two-Ongoing-Phase-3-Trials/default.aspx",
@@ -69397,6 +68177,11 @@
         "score": 156
       },
       {
+        "url": "https://enamine.net/news-press-releases/press-releases/chemspace-enamine-and-paul-scherrer-institute-launch-a-joint-service-for-fragment-based-lead-discovery",
+        "anchor_text": "Chemspace, Enamine, and Paul Scherrer Institute Launch a Joint Service for Fragment-Based Lead Discovery",
+        "score": 154
+      },
+      {
         "url": "https://enamine.net/news-press-releases/press-releases/enamine-establishes-enamine-scientific-research-institute-to-accelerate-breakthroughs-in-science",
         "anchor_text": "Enamine Establishes Enamine Scientific Research Institute to Accelerate Breakthroughs in Science",
         "score": 148
@@ -69435,11 +68220,6 @@
         "url": "https://enamine.net/news-press-releases/press-releases/peapod-bio-inc-and-enamine-ltd-announce-strategic-collaboration",
         "anchor_text": "Peapod Bio Inc. and Enamine Ltd. Announce Strategic Collaboration",
         "score": 115
-      },
-      {
-        "url": "https://enamine.net/news-press-releases/press-releases/enamine-and-chempass-collaborate-to-accelerate-hit-discovery",
-        "anchor_text": "Enamine and ChemPass Collaborate to Accelerate Hit Discovery",
-        "score": 112
       },
       {
         "url": "https://enamine.net/news-press-releases/press-releases/enamine-joins-the-cache-governing-board",
@@ -71026,6 +69806,11 @@
         "score": 110
       },
       {
+        "url": "https://www.biosolveit.de/2026/04/08/two-projects-win-scientific-challenge-spring-2025/",
+        "anchor_text": "ChallengeTwo Projects Win Scientific Challenge Spring 2025!April 8, 2026 13:18 CEST",
+        "score": 107
+      },
+      {
         "url": "https://www.biosolveit.de/2025/10/15/recordings-of-the-biosolveit-day-2025-available/",
         "anchor_text": "Read on",
         "score": 105
@@ -71036,18 +69821,13 @@
         "score": 104
       },
       {
-        "url": "https://www.biosolveit.de/2025/08/27/chemical-space-exploration-with-enamine-porto/",
-        "anchor_text": "Read on",
-        "score": 103
-      },
-      {
         "url": "https://www.biosolveit.de/2026/03/11/new-resource-master-your-own-chemical-space/",
         "anchor_text": "Read on",
         "score": 101
       },
       {
         "url": "https://www.biosolveit.de/2026/03/31/seesar-15-apollo-is-here-download-now/",
-        "anchor_text": "SeeSAR 15 Apollo is here! – Download Now!March 31, 2026 09:00 CEST",
+        "anchor_text": "Read on",
         "score": 95
       },
       {
@@ -73116,6 +71896,11 @@
         "score": 153
       },
       {
+        "url": "https://grail.com/press-releases/grail-announces-integration-of-the-galleri-test-into-epic-electronic-health-record-platform-to-expand-access-nationwide/",
+        "anchor_text": "GRAIL Announces Integration of the Galleri® Test into Epic Electronic Health Record Platform to Expand Access NationwideView Press Release04/07/2026",
+        "score": 152
+      },
+      {
         "url": "https://grail.com/press-releases/grail-to-present-final-multi-cancer-early-detection-data-from-the-interventional-pathfinder-study-at-esmo-congress-2022/",
         "anchor_text": "GRAIL to Present Final Multi-Cancer Early Detection Data from the Interventional PATHFINDER Study at ESMO Congress 2022View Press Release09/08/2022",
         "score": 152
@@ -74938,13 +73723,13 @@
         "score": 28
       },
       {
-        "url": "https://www.nuclera.com/latest-news/#fl-main-content",
-        "anchor_text": "Skip to content",
+        "url": "https://www.nuclera.com/latest-news/",
+        "anchor_text": "News",
         "score": 27
       },
       {
-        "url": "https://www.nuclera.com/latest-news/",
-        "anchor_text": "News",
+        "url": "https://www.nuclera.com/latest-news/#fl-main-content",
+        "anchor_text": "Skip to content",
         "score": 27
       },
       {
@@ -75190,11 +73975,6 @@
         "score": 122
       },
       {
-        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-delivers-strong-2025-performance-and-re-affirms-long-term-outlooks/",
-        "anchor_text": "04 February 2026GSK delivers strong 2025 performance and re-affirms long-term outlooksFull year and Q4 2025 highlights",
-        "score": 119
-      },
-      {
         "url": "https://www.gsk.com/en-gb/responsibility/global-health-and-health-security/using-our-science-for-global-health/",
         "anchor_text": "Using our science for global health",
         "score": 112
@@ -75357,6 +74137,11 @@
       {
         "url": "https://www.gsk.com/en-gb/investors/shareholder-information/annual-governance-meeting/",
         "anchor_text": "Annual Governance Meeting",
+        "score": 87
+      },
+      {
+        "url": "https://www.gsk.com/en-gb/media/press-releases/exdensur-depemokimab-approved-in-china/",
+        "anchor_text": "08 April 2026Exdensur (depemokimab) approved in China for the treatment of chronic rhinosinusitis with nasal polyps (CRSwNP)Exdensur is the first and only ultra-long-acting biologic in China for CRSwNP",
         "score": 87
       },
       {
@@ -81243,7 +80028,7 @@
       },
       {
         "url": "https://alexion.com/media-center/press-releases",
-        "anchor_text": "Select Preferences",
+        "anchor_text": "Cookie Settings",
         "score": 42
       },
       {
@@ -81443,7 +80228,7 @@
       },
       {
         "url": "https://alexion.com/Legal#privacynotice",
-        "anchor_text": "cookie notice web page",
+        "anchor_text": "More information",
         "score": 8
       },
       {
@@ -82379,6 +81164,11 @@
         "url": "https://grail.com/press-releases/new-research-suggests-multi-cancer-early-detection-blood-test-could-reduce-late-stage-cancer-diagnoses-by-more-than-half/",
         "anchor_text": "New Research Suggests Multi-Cancer Early Detection Blood Test Could Reduce Late-Stage Cancer Diagnoses by More Than HalfView Press Release12/16/2020",
         "score": 153
+      },
+      {
+        "url": "https://grail.com/press-releases/grail-announces-integration-of-the-galleri-test-into-epic-electronic-health-record-platform-to-expand-access-nationwide/",
+        "anchor_text": "GRAIL Announces Integration of the Galleri® Test into Epic Electronic Health Record Platform to Expand Access NationwideView Press Release04/07/2026",
+        "score": 152
       },
       {
         "url": "https://grail.com/press-releases/grail-to-present-final-multi-cancer-early-detection-data-from-the-interventional-pathfinder-study-at-esmo-congress-2022/",
@@ -84110,11 +82900,6 @@
         "score": 211
       },
       {
-        "url": "https://ir.kiorapharma.com/news-events/news-releases/detail/237/kiora-pharmaceuticals-reports-second-quarter-2025-results-company-advances-pipeline-with-two-active-phase-2-clinical-trials-for-retinal-diseases",
-        "anchor_text": "Kiora Pharmaceuticals Reports Second Quarter 2025 Results; Company Advances Pipeline with Two Active Phase 2 Clinical Trials for Retinal Diseases",
-        "score": 202
-      },
-      {
         "url": "https://ir.kiorapharma.com/news-events/news-releases/detail/240/kiora-pharmaceuticals-joins-rare-x-vision-consortium-promoting-collaboration-and-development-of-new-treatments-for-rare-ocular-disorders",
         "anchor_text": "Kiora Pharmaceuticals Joins RARE-X Vision Consortium Promoting Collaboration and Development of New Treatments for Rare Ocular Disorders",
         "score": 194
@@ -84128,6 +82913,11 @@
         "url": "https://ir.kiorapharma.com/news-events/news-releases/detail/238/kiora-pharmaceuticals-to-webcast-on-demand-presentation-at-the-h-c-wainwright-27th-annual-global-investment-conference",
         "anchor_text": "Kiora Pharmaceuticals to Webcast On-Demand Presentation at The H.C. Wainwright 27th Annual Global Investment Conference",
         "score": 176
+      },
+      {
+        "url": "https://ir.kiorapharma.com/news-events/news-releases/detail/247/kiora-pharmaceuticals-announces-private-placement-for-up-to-24-million-led-by-perceptive-advisors",
+        "anchor_text": "Kiora Pharmaceuticals Announces Private Placement for Up to $24 Million Led by Perceptive Advisors",
+        "score": 155
       },
       {
         "url": "https://ir.kiorapharma.com/news-events/news-releases/detail/244/kiora-pharmaceuticals-to-present-at-oppenheimers-36th-annual-healthcare-life-sciences-conference",
@@ -85410,7 +84200,7 @@
       },
       {
         "url": "https://www.cipla.com/privacy-policy",
-        "anchor_text": "Privacy Policy",
+        "anchor_text": "More info",
         "score": 27
       },
       {

@@ -1,72 +1,198 @@
 [
     {
-        "company": "Sanofi",
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-07-05-00-00-3268809",
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/USA-Reliable-Ultra-Trace-Metals-Analysis-of-Marine-and-Estuarine-Waters-and-Brines",
+        "score": 161,
+        "date_added": "2026-04-08",
+        "article_like": true
+    },
+    {
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/case-study-peterbilt-89e-diesel-engine",
+        "score": 117,
+        "date_added": "2026-04-08",
+        "article_like": true
+    },
+    {
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/case-study-excavator-diesel-engine",
+        "score": 113,
+        "date_added": "2026-04-08",
+        "article_like": true
+    },
+    {
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/case-study-dresser-140M-haul-truck",
+        "score": 113,
+        "date_added": "2026-04-08",
+        "article_like": true
+    },
+    {
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/case-study-marine-reduction-gear",
+        "score": 111,
+        "date_added": "2026-04-08",
+        "article_like": true
+    },
+    {
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/case-study-crawler-tractor",
+        "score": 105,
+        "date_added": "2026-04-08",
+        "article_like": true
+    },
+    {
+        "company": "Sartorius Stedim India Pvt Ltd",
+        "url": "https://www.sartorius.com/en/company/newsroom/product-news/new-cellcelector-cld-takes-you-from-thousands-of-candidates-to-the-top-clone-faster-1816014",
+        "score": 145,
+        "date_added": "2026-04-08",
+        "article_like": true
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/feature-articles/new-zealand-gains-genomic-testing-independence.html",
         "score": 107,
-        "date_added": "2026-04-07",
+        "date_added": "2026-04-08",
         "article_like": true
     },
     {
-        "company": "Amgen",
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-announces-positive-topline-phase-3-results-for-subcutaneous-tepezza-in-adults-living-with-moderate-to-severe-active-thyroid-eye-disease",
-        "score": 219,
-        "date_added": "2026-04-07",
-        "article_like": true
-    },
-    {
-        "company": "Sai Life Sciences",
-        "url": "https://www.sailife.com/sai-life-sciences-recognized-as-a-best-organization-for-women-bow-2026-by-et-edge/",
-        "score": 97,
-        "date_added": "2026-04-07",
-        "article_like": true
-    },
-    {
-        "company": "EY-Parthenon",
-        "url": "https://www.ey.com/en_gl/newsroom/2026/04/ey-launches-enterprise-scale-agentic-ai-to-redefine-the-audit-experience-for-the-ai-era",
-        "score": 156,
-        "date_added": "2026-04-07",
-        "article_like": true
-    },
-    {
-        "company": "EY-Parthenon",
-        "url": "https://www.ey.com/en_gl/newsroom/2026/04/ey-named-a-horizon-3-market-leader-in-agentic-services",
-        "score": 123,
-        "date_added": "2026-04-07",
-        "article_like": true
-    },
-    {
-        "company": "Rx Propellant",
-        "url": "https://rxpropellant.com/designing-labs-for-the-unknown/",
-        "score": 46,
-        "date_added": "2026-04-07",
+        "company": "KPMG",
+        "url": "https://kpmg.com/xx/en/media/press-releases/2026/04/managed-services-recognized-as-strategic-engine-for-ai-acceleration.html",
+        "score": 157,
+        "date_added": "2026-04-08",
         "article_like": true
     },
     {
         "company": "Lupin",
-        "url": "https://www.lupin.com/media/press-releases/lupin-earns-great-place-to-work-certification-tm-for-2026-27",
-        "score": 98,
-        "date_added": "2026-04-07",
+        "url": "https://www.lupin.com/media/press-releases/lupin-announces-the-approval-of-dapagliflozin-tablets-in-the-united-states",
+        "score": 112,
+        "date_added": "2026-04-08",
         "article_like": true
     },
     {
-        "company": "Tempus",
-        "url": "https://www.tempus.com/resources/content/case-studies/accelerating-a-phase-1-oncology-trial-the-time-networks-impact-on-patient-enrollment/?utm_source=nav-bar&utm_medium=website&utm_campaign=time-phase-1-case-study",
-        "score": 137,
-        "date_added": "2026-04-07",
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/exdensur-depemokimab-approved-in-china/",
+        "score": 87,
+        "date_added": "2026-04-08",
         "article_like": true
     },
     {
-        "company": "Immunocore",
-        "url": "https://www.immunocore.com/investors/news/press-releases/detail/128/immunocore-to-present-at-the-25th-annual-needham-virtual-healthcare-conference",
-        "score": 142,
-        "date_added": "2026-04-07",
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-advances-pulsed-field-ablation-portfolio-with-the-launch-of-varipulse-pro-in-europe",
+        "score": 144,
+        "date_added": "2026-04-08",
         "article_like": true
     },
     {
-        "company": "Affinia Therapeutics",
-        "url": "https://affiniatx.com/affinia-therapeutics-receives-approval-from-health-canada-to-initiate-the-upbeat-trial-a-phase-1-2-clinical-trial-to-investigate-aftx-201-as-a-treatment-for-bag3-associated-dilated-cardiomyopat/",
-        "score": 209,
-        "date_added": "2026-04-07",
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-04-07-Allergan-Aesthetics-Third-State-of-the-Art-AMI-Center-Opens-in-Austin",
+        "score": 93,
+        "date_added": "2026-04-08",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-04-07-Allergan-Aesthetics-Third-State-of-the-Art-AMI-Center-Opens-in-Austin#assets_2429_124769-149",
+        "score": 93,
+        "date_added": "2026-04-08",
+        "article_like": true
+    },
+    {
+        "company": "Gilead Sciences",
+        "url": "https://www.gilead.com/news/news-details/2026/gilead-to-acquire-tubulis-adding-potentially-best-in-class-antibody-drug-conjugate-and-next-generation-platform-to-further-strengthen-oncology-pipeline",
+        "score": 218,
+        "date_added": "2026-04-08",
+        "article_like": true
+    },
+    {
+        "company": "CRISPR Therapeutics",
+        "url": "https://crisprtx.com/about-us/press-releases-and-presentations/crispr-therapeutics-to-present-at-the-25th-annual-needham-virtual-healthcare-conference",
+        "score": 146,
+        "date_added": "2026-04-08",
+        "article_like": true
+    },
+    {
+        "company": "Insilico Medicine",
+        "url": "https://insilico.com/news/zvgyb6jo11-insilico-medicine-nominates-ism6200-a-po",
+        "score": 71,
+        "date_added": "2026-04-08",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/news/evotec-announces-fourth-quarter-and-full-year-2025-results-foundation-for-profitable-growth",
+        "score": 111,
+        "date_added": "2026-04-08",
+        "article_like": true
+    },
+    {
+        "company": "Sumitomo Pharma",
+        "url": "https://www.sumitomo-pharma.com/news/20260408-2.html",
+        "score": 35,
+        "date_added": "2026-04-08",
+        "article_like": true
+    },
+    {
+        "company": "Sumitomo Pharma",
+        "url": "https://www.sumitomo-pharma.com/news/20260408-1.html",
+        "score": 35,
+        "date_added": "2026-04-08",
+        "article_like": true
+    },
+    {
+        "company": "Shionogi",
+        "url": "https://www.shionogi.com/global/en/news/2026/04/20260408_04.html",
+        "score": 77,
+        "date_added": "2026-04-08",
+        "article_like": true
+    },
+    {
+        "company": "Shionogi",
+        "url": "https://www.shionogi.com/global/en/sustainability/overview/sus_governance.html",
+        "score": 64,
+        "date_added": "2026-04-08",
+        "article_like": true
+    },
+    {
+        "company": "Shionogi",
+        "url": "https://www.shionogi.com/global/en/sustainability/overview/initiatives.html",
+        "score": 61,
+        "date_added": "2026-04-08",
+        "article_like": true
+    },
+    {
+        "company": "Bavarian Nordic",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7489",
+        "score": 30,
+        "date_added": "2026-04-08",
+        "article_like": true
+    },
+    {
+        "company": "Enamine",
+        "url": "https://enamine.net/news-press-releases/press-releases/chemspace-enamine-and-paul-scherrer-institute-launch-a-joint-service-for-fragment-based-lead-discovery",
+        "score": 154,
+        "date_added": "2026-04-08",
+        "article_like": true
+    },
+    {
+        "company": "BioSolveIT",
+        "url": "https://www.biosolveit.de/2026/04/08/two-projects-win-scientific-challenge-spring-2025/",
+        "score": 107,
+        "date_added": "2026-04-08",
+        "article_like": true
+    },
+    {
+        "company": "Grail",
+        "url": "https://grail.com/press-releases/grail-announces-integration-of-the-galleri-test-into-epic-electronic-health-record-platform-to-expand-access-nationwide/",
+        "score": 152,
+        "date_added": "2026-04-08",
+        "article_like": true
+    },
+    {
+        "company": "Kiora Pharmaceuticals",
+        "url": "https://ir.kiorapharma.com/news-events/news-releases/detail/247/kiora-pharmaceuticals-announces-private-placement-for-up-to-24-million-led-by-perceptive-advisors",
+        "score": 155,
+        "date_added": "2026-04-08",
         "article_like": true
     }
 ]
