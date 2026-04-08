@@ -5,6 +5,11 @@ Reads extracted article text (text.json), calls the LLM with guaranteed
 JSON output, validates the schema, and writes structured news items to
 a clean JSON file.
 
+Pipeline:
+1. Chunk articles (CHUNK_SIZE each) → per-chunk news items
+2. Merge all chunk results into one unified list (zero signal loss)
+3. Validate schema and write output
+
 After each run, results are also appended to briefs_history.json:
 
   {
@@ -30,16 +35,15 @@ from datetime import datetime
 from pathlib import Path
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
-import os
-
 INVOKE_URL      = "https://integrate.api.nvidia.com/v1/chat/completions"
 API_KEY         = "Bearer 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"
 MODEL           = "qwen/qwen3.5-122b-a10b"
 MAX_RETRIES     = 3
 BACKOFF_BASE    = 1      # seconds — attempt 1: no wait, 2: 1s, 3: 2s, 4: 4s
 REQUEST_TIMEOUT = 180    # seconds per attempt
+CHUNK_SIZE      = 5      # articles per chunk
 
-BRIEFS_HISTORY_FILE = "briefs_history.json"   # ← datewise store
+BRIEFS_HISTORY_FILE = "briefs_history.json"
 
 HEADERS = {
     "Authorization": API_KEY,
@@ -89,9 +93,41 @@ OUTPUT FORMAT (strict JSON, nothing else):
 }
 """
 
-# ── PROMPT BUILDER ────────────────────────────────────────────────────────────
+# ── MERGE SYSTEM PROMPT ───────────────────────────────────────────────────────
 
-def build_prompt(articles: list, query: str) -> str | None:
+MERGE_SYSTEM_PROMPT = """You are merging multiple structured pharmaceutical news JSON outputs into one unified list.
+
+STRICT MERGE RULES:
+- Return ONLY JSON in the exact same schema as the input chunks.
+- ZERO signal loss — preserve ALL news items from ALL chunks.
+- Combine all "news" arrays into a single flat list.
+- Remove only exact duplicates (same company + same news text).
+- Do NOT summarise, compress, or rewrite any news item.
+- Do NOT hallucinate new content.
+- The output must contain every unique item from every input chunk.
+
+OUTPUT FORMAT (strict JSON, nothing else):
+{
+  "news": [
+    {
+      "company": "string",
+      "modality": "one of the four predefined modalities",
+      "news": "2-3 line description of the event",
+      "url": "source article URL or null"
+    }
+  ]
+}
+"""
+
+# ── CHUNKING ──────────────────────────────────────────────────────────────────
+
+def chunk_articles(articles, chunk_size=CHUNK_SIZE):
+    for i in range(0, len(articles), chunk_size):
+        yield articles[i:i + chunk_size]
+
+# ── PROMPT BUILDERS ───────────────────────────────────────────────────────────
+
+def build_chunk_prompt(articles: list, query: str) -> str | None:
     sections = []
 
     for i, art in enumerate(articles, 1):
@@ -121,13 +157,26 @@ def build_prompt(articles: list, query: str) -> str | None:
         + "\n\n".join(sections)
     )
 
+
+def build_merge_prompt(chunk_results: list, query: str) -> str:
+    """Build a prompt to merge multiple chunk JSON outputs into one unified list."""
+    all_chunks = "\n\n".join(chunk_results)
+    return (
+        f"Query focus: {query}\n\n"
+        f"Below are {len(chunk_results)} structured pharmaceutical news outputs "
+        f"from different article chunks.\n"
+        f"Merge them into ONE unified news list with ZERO signal loss — "
+        f"preserve every unique item, remove only exact duplicates.\n\n"
+        f"{all_chunks}"
+    )
+
 # ── LLM CALL ─────────────────────────────────────────────────────────────────
 
-def call_llm(user_prompt: str) -> str:
+def call_llm(system_prompt: str, user_prompt: str) -> str:
     payload = {
         "model":   MODEL,
         "messages": [
-            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "system", "content": system_prompt},
             {"role": "user",   "content": user_prompt},
         ],
         "max_tokens":      16384,
@@ -203,6 +252,58 @@ def call_llm(user_prompt: str) -> str:
     raise RuntimeError(
         f"LLM call failed after {MAX_RETRIES} attempts. Last error: {last_error}"
     )
+
+# ── CHUNK PROCESSING ──────────────────────────────────────────────────────────
+
+def generate_chunk_results(articles: list, query: str) -> list[str]:
+    """Process articles in chunks of CHUNK_SIZE, return list of raw JSON strings."""
+    chunks = list(chunk_articles(articles, CHUNK_SIZE))
+    print(f"[INFO] Total article chunks : {len(chunks)}")
+
+    results = []
+    for idx, chunk in enumerate(chunks, 1):
+        print(f"\n[INFO] Processing chunk {idx}/{len(chunks)} ({len(chunk)} articles)...")
+        print("─" * 60)
+
+        prompt = build_chunk_prompt(chunk, query)
+        if not prompt:
+            print(f"[WARN] Chunk {idx}: no valid article bodies — skipping")
+            continue
+
+        try:
+            raw = call_llm(SYSTEM_PROMPT, prompt)
+            if raw:
+                results.append(raw)
+        except RuntimeError as e:
+            print(f"[ERROR] Chunk {idx} failed: {e} — skipping")
+
+    return results
+
+
+def merge_chunk_results(chunk_results: list[str], query: str) -> str:
+    """
+    If only one chunk result exists, return it directly.
+    Otherwise send all chunk results to the LLM for lossless merging.
+    """
+    if len(chunk_results) == 1:
+        print("\n[INFO] Single chunk — skipping merge step.")
+        return chunk_results[0]
+
+    print(f"\n[INFO] Merging {len(chunk_results)} chunk results...\n")
+    print("─" * 60)
+
+    merge_prompt = build_merge_prompt(chunk_results, query)
+
+    try:
+        merged = call_llm(MERGE_SYSTEM_PROMPT, merge_prompt)
+        return merged
+    except RuntimeError as e:
+        print(f"[ERROR] Merge failed: {e} — falling back to concatenating all chunk items")
+        # Fallback: manually concatenate all parsed items from every chunk
+        all_items = []
+        for raw in chunk_results:
+            all_items.extend(parse_llm_response(raw))
+        return json.dumps({"news": all_items})
 
 # ── JSON PARSER ───────────────────────────────────────────────────────────────
 
@@ -311,7 +412,6 @@ def append_to_history(
     """
     today = datetime.now().strftime("%Y-%m-%d")
 
-    # ── Load existing history ─────────────────────────────────────────────────
     p = Path(history_file)
     if p.exists():
         try:
@@ -321,11 +421,9 @@ def append_to_history(
     else:
         history = {}
 
-    # ── Ensure today's slot exists ────────────────────────────────────────────
     if today not in history:
         history[today] = {}
 
-    # ── Append items, grouped by modality ─────────────────────────────────────
     added = 0
     for item in news_items:
         modality = item.get("modality", "unknown")
@@ -334,7 +432,6 @@ def append_to_history(
         if modality not in history[today]:
             history[today][modality] = []
 
-        # Skip exact URL duplicates within the same date+modality
         existing_sigs = {
             (r.get("company"), r.get("news")) for r in history[today][modality]
         }
@@ -346,14 +443,12 @@ def append_to_history(
             "modality": modality,
             "news":     item.get("news"),
             "url":      url,
-            "query":    query,           # which query surfaced this item
+            "query":    query,
         })
         added += 1
 
-    # ── Sort dates newest-first ───────────────────────────────────────────────
     history = dict(sorted(history.items(), reverse=True))
 
-    # ── Save ──────────────────────────────────────────────────────────────────
     p.write_text(json.dumps(history, indent=2, ensure_ascii=False), encoding="utf-8")
 
     print(f"[HISTORY] Appended {added} items → {history_file}")
@@ -436,32 +531,37 @@ def main():
     if skipped:
         print(f"[INFO] Skipped  : {skipped} (no body text)")
     print(f"[INFO] Query    : {args.query}")
+    print(f"[INFO] Chunk sz : {CHUNK_SIZE} articles per chunk\n")
 
     if not valid_articles:
         sys.exit("[WARN] No valid articles found.")
 
-    # ── Build prompt ──────────────────────────────────────────────────────────
-    prompt = build_prompt(valid_articles, args.query)
-    if not prompt:
-        sys.exit("[WARN] Prompt generation failed.")
+    # ── STEP 1: Process articles in chunks ────────────────────────────────────
+    print("[INFO] Generating per-chunk news items...\n")
+    print("─" * 60)
 
-    # ── Call LLM ─────────────────────────────────────────────────────────────
-    print(f"[INFO] Sending {len(valid_articles)} articles to LLM...")
-    try:
-        raw_response = call_llm(prompt)
-    except RuntimeError as e:
-        sys.exit(f"[FATAL] {e}")
+    chunk_results = generate_chunk_results(valid_articles, args.query)
 
-    # ── Parse + validate ──────────────────────────────────────────────────────
+    if not chunk_results:
+        sys.exit("[WARN] No chunk results generated.")
+
+    # ── STEP 2: Merge all chunk results into one ──────────────────────────────
+    raw_response = merge_chunk_results(chunk_results, args.query)
+
+    if not raw_response:
+        sys.exit("[WARN] Empty response from merge step.")
+
+    # ── STEP 3: Parse + validate ──────────────────────────────────────────────
     raw_items            = parse_llm_response(raw_response)
     news_items, dropped  = validate_items(raw_items)
 
-    print(f"[INFO] Raw items parsed   : {len(raw_items)}")
-    print(f"[INFO] Passed validation  : {len(news_items)}")
+    print(f"\n[INFO] Chunk results         : {len(chunk_results)}")
+    print(f"[INFO] Raw items parsed      : {len(raw_items)}")
+    print(f"[INFO] Passed validation     : {len(news_items)}")
     if dropped:
-        print(f"[WARN] Dropped bad items  : {dropped}")
+        print(f"[WARN] Dropped bad items     : {dropped}")
 
-    # ── Write briefs.json (unchanged behaviour) ───────────────────────────────
+    # ── STEP 4: Write briefs.json ─────────────────────────────────────────────
     output_data = build_output(news_items, args.query, len(valid_articles), dropped)
     out_path    = Path(args.output)
 
@@ -470,7 +570,7 @@ def main():
 
     print(f"[INFO] Saved → {out_path}")
 
-    # ── Append to datewise history ← NEW ─────────────────────────────────────
+    # ── STEP 5: Append to datewise history ────────────────────────────────────
     if not args.no_history and news_items:
         append_to_history(news_items, args.query)
         print_history_summary()
