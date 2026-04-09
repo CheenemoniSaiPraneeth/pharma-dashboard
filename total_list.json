@@ -1126,6 +1126,61 @@
     "press_url": "https://www.amgen.com/newsroom/press-releases",
     "candidate_links": [
       {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-announces-positive-topline-phase-3-results-for-subcutaneous-tepezza-in-adults-living-with-moderate-to-severe-active-thyroid-eye-disease",
+        "anchor_text": "AMGEN ANNOUNCES POSITIVE TOPLINE PHASE 3 RESULTS FOR SUBCUTANEOUS TEPEZZA® IN ADULTS LIVING WITH MODERATE-TO-SEVERE ACTIVE THYROID EYE DISEASE",
+        "score": 219
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/03/repatha-cuts-risk-of-first-major-cardiovascular-events-by-31-in-highrisk-patients-without-known-significant-atherosclerosis",
+        "anchor_text": "REPATHA® CUTS RISK OF FIRST MAJOR CARDIOVASCULAR EVENTS BY 31% IN HIGH-RISK PATIENTS WITHOUT KNOWN SIGNIFICANT ATHEROSCLEROSIS",
+        "score": 201
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/01/amgen-announces-webcast-of-2025-fourth-quarter-and-full-year-financial-results",
+        "anchor_text": "AMGEN ANNOUNCES WEBCAST OF 2025 FOURTH QUARTER AND FULL YEAR FINANCIAL RESULTS",
+        "score": 156
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/european-commission-approves-amgens-uplizna-for-generalized-myasthenia-gravis",
+        "anchor_text": "EUROPEAN COMMISSION APPROVES AMGEN'S UPLIZNA® FOR GENERALIZED MYASTHENIA GRAVIS",
+        "score": 155
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/03/amgen-to-present-at-the-leerink-partners-2026-global-healthcare-conference",
+        "anchor_text": "AMGEN TO PRESENT AT THE LEERINK PARTNERS 2026 GLOBAL HEALTHCARE CONFERENCE",
+        "score": 152
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/01/amgen-to-present-at-the-44th-annual-j-p--morgan-healthcare-conference",
+        "anchor_text": "AMGEN TO PRESENT AT THE 44TH ANNUAL J.P. MORGAN HEALTHCARE CONFERENCE",
+        "score": 147
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/amgen-to-present-at-the-46th-annual-td-cowen-health-care-conference",
+        "anchor_text": "AMGEN TO PRESENT AT THE 46TH ANNUAL TD COWEN HEALTH CARE CONFERENCE",
+        "score": 145
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/01/amgen-acquires-dark-blue-therapeutics-bolstering-oncology-pipeline",
+        "anchor_text": "AMGEN ACQUIRES DARK BLUE THERAPEUTICS, BOLSTERING ONCOLOGY PIPELINE",
+        "score": 144
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/amgen-to-present-at-citis-2026-virtual-oncology-leadership-summit",
+        "anchor_text": "AMGEN TO PRESENT AT CITI'S 2026 VIRTUAL ONCOLOGY LEADERSHIP SUMMIT",
+        "score": 143
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/amgen-reports-fourth-quarter-and-full-year-2025-financial-results",
+        "anchor_text": "AMGEN REPORTS FOURTH QUARTER AND FULL YEAR 2025 FINANCIAL RESULTS",
+        "score": 143
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/03/amgen-announces-2026-second-quarter-dividend",
+        "anchor_text": "AMGEN ANNOUNCES 2026 SECOND QUARTER DIVIDEND",
+        "score": 122
+      },
+      {
         "url": "https://www.amgen.com/about/how-we-operate/policies-practices-and-disclosures/business-conduct/quality",
         "anchor_text": "Product Quality",
         "score": 101
@@ -1888,6 +1943,11 @@
         "score": 175
       },
       {
+        "url": "https://www.novartis.com/news/media-releases/novartis-announces-expansion-community-health-programs-close-gaps-heart-disease-and-cancer-care-targeting-more-30-countries-2030",
+        "anchor_text": "Press releaseApr 09, 2026Novartis announces expansion of community health programs to close gaps in heart disease and cancer care, targeting more than 30 countries by 2030Strengthens three community health models spanning community‑embedded care, earlier intervention and data‑driven population healthScales program footprint from 11 countries to more than 30 by 2030,…",
+        "score": 165
+      },
+      {
         "url": "https://www.novartis.com/news/media-releases/novartis-reports-strong-q2-double-digit-sales-growth-and-core-margin-expansion-raises-fy-2025-core-operating-income-guidance",
         "anchor_text": "Ad hoc releaseJul 17, 2025Novartis reports strong Q2 with double-digit sales growth and core margin expansion; raises FY 2025 core operating income guidanceAd hoc announcement pursuant to Art. 53 LRQ2 net sales grew +11% (cc1, +12% USD) with core operating income1 up +21% (cc, +20% USD) Sales growth driven by continued strong performance from Kisqali (+…",
         "score": 161
@@ -1916,11 +1976,6 @@
         "url": "https://www.novartis.com/news/media-releases/new-real-world-data-reinforce-earlier-use-pluvictotm-chemotherapy-metastatic-castration-resistant-prostate-cancer",
         "anchor_text": "Press releaseFeb 24, 2026New real‑world data reinforce earlier use of Pluvicto™ before chemotherapy in metastatic castration-resistant prostate cancerIn the real-world, Pluvicto™ showed 13.5 months median PFS in chemo-naïve patients with PSMA-positive mCRPCReal‑world evidence showed Pluvicto achieved longer PFS when initiated after one ARPI…",
         "score": 150
-      },
-      {
-        "url": "https://www.novartis.com/news/media-releases/novartis-presents-rhapsido-remibrutinib-data-aaaai-showing-potential-beyond-chronic-spontaneous-urticaria-csu",
-        "anchor_text": "Press releaseFeb 23, 2026Novartis presents Rhapsido® (remibrutinib) data at AAAAI, showing potential beyond chronic spontaneous urticaria (CSU)Analyses from REMIX-1 & -2 studies on CSU disease control and early symptom relief will be presented Phase II data evaluating safety and efficacy results of remibrutinib for treatment of peanut…",
-        "score": 146
       },
       {
         "url": "https://www.novartis.com/news/media-releases/novartis-projects-5-6-cc-sales-cagr-2025-2030-long-term-growth-backed-30-potential-high-value-pipeline-assets",
@@ -2100,6 +2155,11 @@
       {
         "url": "https://www.novartis.com/investors/shareholder-information/american-depositary-receipts-adr",
         "anchor_text": "American Depositary Receipts (ADR)",
+        "score": 83
+      },
+      {
+        "url": "https://www.novartis.com/stories/working-communities-close-gaps-heart-disease-and-cancer-care",
+        "anchor_text": "StoryApr 09, 2026Access to HealthcareWorking with communities to close gaps in heart disease and cancer careOur innovations matter only when they reach the people who need them. Yet millions live with heart disease or cancer without knowing it or have limited access to care – especially those in low-income, rural or other hard-to-reach communities.",
         "score": 83
       },
       {
@@ -2385,11 +2445,6 @@
       {
         "url": "https://www.novartis.com/esg/ethics-risk-and-compliance/human-rights",
         "anchor_text": "Human rights",
-        "score": 60
-      },
-      {
-        "url": "https://www.novartis.com/stories/parental-leave-leadership-opportunity",
-        "anchor_text": "StoryFeb 28, 2025People and CultureParental leave – A leadership opportunityAt Novartis, we believe in the importance of balancing professional and personal responsibilities. This belief is embodied through our inclusive parental leave policy, which supports all our people in taking the time they need to be with their families during significant life events. To understand how this truly supports our colleagues we invited Sumeet, Global Head of Service Enablement & Governance, People Services & Solutions to share his story with us.",
         "score": 60
       },
       {
@@ -13033,6 +13088,11 @@
         "score": 75
       },
       {
+        "url": "https://www.cas.org/press-releases/meet-cas-newton-agentic-ai-built-for-science",
+        "anchor_text": "Read press release",
+        "score": 74
+      },
+      {
         "url": "https://www.cas.org/solutions/cas-scifinder-discovery-platform/cas-scifinder",
         "anchor_text": "CAS SciFinder",
         "score": 73
@@ -16140,9 +16200,9 @@
         "score": 151
       },
       {
-        "url": "https://news.medtronic.com/2025-11-18-Medtronic-reports-strong-second-quarter-fiscal-2026-financial-results,-enterprise-growth-drivers-accelerate-momentum",
+        "url": "https://news.medtronic.com/meeting-patients-where-they-are-how-collaboration-built-a-replicable-model-for-community-based-healthcare-delivery-newsroom",
         "anchor_text": "Read More",
-        "score": 140
+        "score": 136
       },
       {
         "url": "https://news.medtronic.com/2026-02-17-Medtronic-reports-strong-third-quarter-fiscal-2026-results-with-highest-enterprise-revenue-growth-in-10-quarters",
@@ -16158,11 +16218,6 @@
         "url": "https://news.medtronic.com/geoff-martha-recognized-among-modern-healthcares-100-most-influential-people-in-healthcare-2025-newsroom",
         "anchor_text": "Read More",
         "score": 117
-      },
-      {
-        "url": "https://news.medtronic.com/how-collaboration-built-a-replicable-model-for-community-based-healthcare-delivery-newsroom",
-        "anchor_text": "Learn more",
-        "score": 104
       },
       {
         "url": "https://news.medtronic.com/balancing-act-why-healthcare-cant-choose-between-ai-innovation-and-sustainability-newsroom",
@@ -16193,11 +16248,6 @@
         "url": "https://news.medtronic.com/what-its-like-to-grow-up-with-a-trach-newsroom",
         "anchor_text": "Read More",
         "score": 59
-      },
-      {
-        "url": "https://news.medtronic.com/benefits-are-built-for-every-chapter-newsroom",
-        "anchor_text": "Read More",
-        "score": 58
       },
       {
         "url": "https://news.medtronic.com/leadership-perspectives",
@@ -16321,11 +16371,6 @@
         "score": 54
       },
       {
-        "url": "https://www.olympus-global.com/news/2026/nr02963.html",
-        "anchor_text": "Feb. 03, 2026MedicalEAGLE Trial Shows Olympus® CADDIE™ AI Solution Aids in the Detection of High-Risk and Hard-to-Detect Colorectal Lesions",
-        "score": 54
-      },
-      {
         "url": "https://www.olympus-global.com/ir/data/investor-events.html?page=ir",
         "anchor_text": "Investor Events",
         "score": 45
@@ -16364,6 +16409,11 @@
         "url": "https://www.olympus-global.com/csr/esg-data/?page=csr",
         "anchor_text": "ESG Data",
         "score": 30
+      },
+      {
+        "url": "https://www.olympus-global.com/ir/data/medical.html",
+        "anchor_text": "Apr. 09, 2026IRUpdate: IR Library \"Olympus Business\"",
+        "score": 27
       },
       {
         "url": "https://www.olympus-global.com/products/support.html",
@@ -17311,9 +17361,19 @@
     "press_url": "https://www.sailife.com/news",
     "candidate_links": [
       {
+        "url": "https://www.sailife.com/sai-life-sciences-agility-life-sciences-and-centrix-pharma-solutions-announce-an-integrated-cmc-partnership-to-accelerate-drug-development-for-innovators/",
+        "anchor_text": "Read more",
+        "score": 169
+      },
+      {
         "url": "https://www.sailife.com/mabtech-and-sai-life-sciences-announce-strategic-collaboration-to-advance-immunology-research-with-eyra-platform-at-sai-boston-site/",
         "anchor_text": "Read more",
         "score": 147
+      },
+      {
+        "url": "https://www.sailife.com/sai-life-sciences-launches-child-safety-awareness-program-in-government-schools-in-hyderabad-with-sankalp-foundation/",
+        "anchor_text": "Read more",
+        "score": 132
       },
       {
         "url": "https://www.sailife.com/pushing-boundaries-in-organic-chemistry-iisc-prof-santanu-mukherjee-at-sai-life-sciences/",
@@ -17324,6 +17384,16 @@
         "url": "https://www.sailife.com/india-is-evolving-from-being-a-tactical-supplier-to-a-strategic-partner-to-global-pharma/",
         "anchor_text": "Read more",
         "score": 104
+      },
+      {
+        "url": "https://www.sailife.com/where-nature-inspires-innovation-university-of-kansas-prof-apurba-dutta-visits-sai/",
+        "anchor_text": "Read more",
+        "score": 98
+      },
+      {
+        "url": "https://www.sailife.com/sai-life-sciences-set-to-double-process-rd-capacity-with-new-facility-in-hyderabad/",
+        "anchor_text": "Read more",
+        "score": 98
       },
       {
         "url": "https://www.sailife.com/sai-life-sciences-recognized-as-a-best-organization-for-women-bow-2026-by-et-edge/",
@@ -17339,6 +17409,11 @@
         "url": "https://www.sailife.com/kudikunta-lake-restoration-completed-marking-the-revival-of-an-urban-water-body/",
         "anchor_text": "Read more",
         "score": 95
+      },
+      {
+        "url": "https://www.sailife.com/sai-life-sciences-becomes-a-signatory-to-the-un-womens-empowerment-principles/",
+        "anchor_text": "Read more",
+        "score": 93
       },
       {
         "url": "https://www.sailife.com/inside-sai-life-sciences-integrated-rd-campus-accelerating-drug-development/",
@@ -17387,6 +17462,11 @@
       },
       {
         "url": "https://www.sailife.com/ai-driven-retrosynthesis-integrated-into-discovery-chemistry/",
+        "anchor_text": "Read more",
+        "score": 76
+      },
+      {
+        "url": "https://www.sailife.com/sai-life-sciences-limited-sustains-growth-momentum-in-q2fy26/",
         "anchor_text": "Read more",
         "score": 76
       },
@@ -17561,7 +17641,7 @@
         "score": 21
       },
       {
-        "url": "https://www.sailife.com/news/page/4/?ajax=true",
+        "url": "https://www.sailife.com/news/page/5/?ajax=true",
         "anchor_text": "next page",
         "score": 21
       },
@@ -19070,7 +19150,7 @@
       },
       {
         "url": "https://www.illumina.com/company/news-center.html",
-        "anchor_text": "Remove my preference",
+        "anchor_text": "Cookie Management Center",
         "score": 39
       },
       {
@@ -19110,7 +19190,7 @@
       },
       {
         "url": "https://www.illumina.com/company/legal/privacy.html",
-        "anchor_text": "Privacy Policy.",
+        "anchor_text": "Privacy Policy",
         "score": 33
       },
       {
@@ -24865,7 +24945,7 @@
       },
       {
         "url": "https://www.aurobindo.com/media/press-releases",
-        "anchor_text": "Media",
+        "anchor_text": "I Accept",
         "score": 35
       },
       {
@@ -24896,6 +24976,11 @@
       {
         "url": "https://www.aurobindo.com/privacy-policy",
         "anchor_text": "Privacy Policy",
+        "score": 27
+      },
+      {
+        "url": "https://www.aurobindo.com/privacy-policy#cookies",
+        "anchor_text": "Cookie policy",
         "score": 27
       },
       {
@@ -25664,9 +25749,9 @@
     "press_url": "https://www.lupin.com/media/",
     "candidate_links": [
       {
-        "url": "https://www.lupin.com/media/press-releases/vinita-gupta-lupin-ceo-named-to-the-2026-cnbc-changemakers-list-of-women-transforming-business-for-making-medicines-accessible-and-affordable-for-americans",
-        "anchor_text": "Vinita Gupta, Lupin CEO, Named to the 2026 CNBC Changemakers List of Women Transforming Business for Making Medicines Accessible and Affordable for Americans",
-        "score": 193
+        "url": "https://www.lupin.com/media/press-releases/lupin-announces-approval-of-dapagliflozin-and-metformin-hydrochloride-extended-release-tablets-in-the-united-states",
+        "anchor_text": "Lupin Announces Approval of Dapagliflozin and Metformin Hydrochloride Extended-Release Tablets in the United States",
+        "score": 153
       },
       {
         "url": "https://www.lupin.com/media/press-releases/lupin-and-zydus-sign-licensing-agreement-for-co-marketing-innovative-semaglutide-injection-in-india",
@@ -25676,11 +25761,6 @@
       {
         "url": "https://www.lupin.com/media/press-releases/lupin-manufacturing-solutions-announces-expansion-of-manufacturing-facility-at-dabhasa-india",
         "anchor_text": "Lupin Manufacturing Solutions Announces Expansion of Manufacturing Facility at Dabhasa, India",
-        "score": 130
-      },
-      {
-        "url": "https://www.lupin.com/media/press-releases/lupin-ranks-no-1-globally-in-pharma-tops-all-sectors-in-india-in-s-and-p-esg-assessment-2025",
-        "anchor_text": "Lupin Ranks No. 1 Globally in Pharma; Tops All Sectors in India in S&P ESG Assessment 2025",
         "score": 130
       },
       {
@@ -25702,6 +25782,11 @@
         "url": "https://www.lupin.com/media/perspectives/lupin-banks-on-complex-generics-speciality-products-to-sustain-growth-in-fy26-27",
         "anchor_text": "November 12, 2025Lupin banks on complex generics, speciality products to sustain growth in FY26–27",
         "score": 116
+      },
+      {
+        "url": "https://www.lupin.com/media/press-releases/lupin-foundation-inaugurates-two-ncd-corners-in-karauli-and-hindaun-rajasthan",
+        "anchor_text": "Lupin Foundation Inaugurates Two NCD Corners in Karauli and Hindaun, Rajasthan",
+        "score": 115
       },
       {
         "url": "https://www.lupin.com/media/perspectives/integrating-esg-performance-into-long-term-capital-strategy-for-indian-pharma",
@@ -31426,14 +31511,14 @@
         "score": 132
       },
       {
-        "url": "https://www.tempus.com/news/pr/tempus-to-report-fourth-quarter-and-full-year-2025-financial-results-on-february-24/",
-        "anchor_text": "Tempus to Report Fourth Quarter and Full Year 2025 Financial Results on February 24",
-        "score": 111
-      },
-      {
         "url": "https://www.tempus.com/news/pr/tempus-to-participate-in-the-morgan-stanley-technology-media-telecom-conference/",
         "anchor_text": "Tempus to Participate in the Morgan Stanley Technology, Media & Telecom Conference",
         "score": 107
+      },
+      {
+        "url": "https://www.tempus.com/news/pr/tempus-to-present-at-the-25th-annual-needham-virtual-healthcare-conference/",
+        "anchor_text": "Tempus to Present at the 25th Annual Needham Virtual Healthcare Conference",
+        "score": 102
       },
       {
         "url": "https://www.tempus.com/news/pr/tempus-reports-fourth-quarter-and-full-year-2025-results/",
@@ -32841,6 +32926,11 @@
         "score": 48
       },
       {
+        "url": "https://www.siemens-healthineers.com/press/releases/new-artis-family",
+        "anchor_text": "Learn more",
+        "score": 48
+      },
+      {
         "url": "https://www.siemens-healthineers.com/business-opportunities/suppliers",
         "anchor_text": "Suppliers",
         "score": 47
@@ -32993,11 +33083,6 @@
       {
         "url": "https://www.siemens-healthineers.com/company/sustainability",
         "anchor_text": "SustainabilityLearn more",
-        "score": 27
-      },
-      {
-        "url": "https://www.siemens-healthineers.com/press/releases/fast3",
-        "anchor_text": "Learn more",
         "score": 27
       },
       {
@@ -36739,9 +36824,9 @@
         "score": 148
       },
       {
-        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-to-showcase-five-studies-at-the-2026-uscap-annual-meeting/",
-        "anchor_text": "Read more: Caris Life Sciences to Showcase Five Studies at the 2026 USCAP Annual Meeting",
-        "score": 118
+        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-introduces-ai-powered-molecular-insights-for-nsclc-patients/",
+        "anchor_text": "Read more: Caris Life Sciences Introduces Multimodal AI-Powered Molecular Insight to Identify the Benefit or Harm from the Addition of Chemotherapy for NSCLC Patients",
+        "score": 120
       },
       {
         "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-to-present-at-aacr-annual-meeting-2026/",
@@ -38323,7 +38408,7 @@
       },
       {
         "url": "https://www.roche.com/investors/bonds",
-        "anchor_text": "Share price317.60CHF+ 6.30(+2.02%)Today",
+        "anchor_text": "Share price314.10CHF0.00(0.00%)Today",
         "score": 20
       },
       {
@@ -38804,7 +38889,7 @@
       },
       {
         "url": "https://www.astrazeneca.com/media-centre/press-releases.html",
-        "anchor_text": "Set Preferences",
+        "anchor_text": "Select Preferences",
         "score": 47
       },
       {
@@ -39946,9 +40031,14 @@
         "score": 172
       },
       {
-        "url": "https://news.abbvie.com/2026-03-19-Allergan-Aesthetics-Reveals-Evolution-in-Approach-to-Modern-Aesthetic-Treatments-with-Comprehensive-Global-Survey-and-New-Educational-Solutions",
-        "anchor_text": "Allergan Aesthetics Reveals Evolution in Approach to Modern Aesthetic Treatments with Comprehensive Global Survey and New Educational Solutions",
-        "score": 167
+        "url": "https://news.abbvie.com/2026-04-08-BOTOX-R-Cosmetic-onabotulinumtoxinA-Empowers-Women-Entrepreneurs-Through-The-Confidence-Collective-for-Fourth-Year",
+        "anchor_text": "BOTOX® Cosmetic (onabotulinumtoxinA) Empowers Women Entrepreneurs Through \"The Confidence Collective\" for Fourth Year",
+        "score": 138
+      },
+      {
+        "url": "https://news.abbvie.com/2026-04-08-BOTOX-R-Cosmetic-onabotulinumtoxinA-Empowers-Women-Entrepreneurs-Through-The-Confidence-Collective-for-Fourth-Year#assets_2429_124771-149",
+        "anchor_text": "Photos1",
+        "score": 138
       },
       {
         "url": "https://news.abbvie.com/2026-03-26-Allergan-Aesthetics-Ushers-in-a-New-Age-of-Hyaluronic-Acid-HA-Injectables-with-JUVEDERM-R-at-AMWC-Monaco",
@@ -39966,14 +40056,9 @@
         "score": 119
       },
       {
-        "url": "https://news.abbvie.com/2026-03-16-Allergan-Aesthetics-Redefines-Skin-Quality-Communication-with-Launch-of-Skin-Quality-Index",
-        "anchor_text": "Allergan Aesthetics Redefines Skin Quality Communication with Launch of Skin Quality Index",
-        "score": 114
-      },
-      {
-        "url": "https://news.abbvie.com/2026-03-16-Allergan-Aesthetics-Redefines-Skin-Quality-Communication-with-Launch-of-Skin-Quality-Index#assets_2429_124760-147",
-        "anchor_text": "Video1",
-        "score": 114
+        "url": "https://news.abbvie.com/2026-04-08-AbbVie-moves-to-close-loopholes-and-strengthen-accountability-in-340B-program",
+        "anchor_text": "AbbVie moves to close loopholes and strengthen accountability in 340B program",
+        "score": 101
       },
       {
         "url": "https://news.abbvie.com/2026-04-07-Allergan-Aesthetics-Third-State-of-the-Art-AMI-Center-Opens-in-Austin",
@@ -40071,8 +40156,8 @@
         "score": 12
       },
       {
-        "url": "https://news.abbvie.com/index.php?s=2429&o=2300#news_anchor",
-        "anchor_text": "231",
+        "url": "https://news.abbvie.com/index.php?s=2429&o=2310#news_anchor",
+        "anchor_text": "232",
         "score": 12
       },
       {
@@ -45063,7 +45148,7 @@
       },
       {
         "url": "https://crisprtx.com/about-us/privacy-policy",
-        "anchor_text": "privacy policy",
+        "anchor_text": "Privacy & cookie policy",
         "score": 38
       },
       {
@@ -46004,11 +46089,6 @@
         "url": "https://www.immunocore.com/clinical-trials",
         "anchor_text": "Clinical Trials",
         "score": 28
-      },
-      {
-        "url": "https://www.immunocore.com/privacy-policy",
-        "anchor_text": "Privacy Policy",
-        "score": 27
       },
       {
         "url": "https://www.immunocore.com/science/publications",
@@ -51478,7 +51558,7 @@
       },
       {
         "url": "https://www.catalent.com/news-and-events/",
-        "anchor_text": "Do Not Sell My Personal Information",
+        "anchor_text": "Cookies Settings",
         "score": 31
       },
       {
@@ -53828,7 +53908,7 @@
       },
       {
         "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260401_1.html",
-        "anchor_text": "1 APR 2026NewCorporateOtsuka Pharmaceutical Recognized as a \"Food and Nutrition Education Practice Excellent Corporation 2026\" by the MAFFLeveraging Proprietary Expertise and Services to Promote Health through Nutrition",
+        "anchor_text": "1 APR 2026CorporateOtsuka Pharmaceutical Recognized as a \"Food and Nutrition Education Practice Excellent Corporation 2026\" by the MAFFLeveraging Proprietary Expertise and Services to Promote Health through Nutrition",
         "score": 80
       },
       {
@@ -55314,6 +55394,11 @@
         "score": 56
       },
       {
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260409153000_1239.html?year=2026&category=",
+        "anchor_text": "Announcement of Termination of Co-Promotion of Rituxan®in Japan (Anti-CD20 Monoclonal Antibody)",
+        "score": 53
+      },
+      {
         "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260406153000_1240.html?year=2026&category=",
         "anchor_text": "Research Results on Immune Thrombocytopenia from a Joint Study with Osaka University’s IFReC Published in Blood",
         "score": 53
@@ -55679,6 +55764,11 @@
         "score": 26
       },
       {
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260409_eRituxan.pdf&src=[%0],[%1]&rep=130,1239",
+        "anchor_text": "[PDF\n                            83KB]",
+        "score": 26
+      },
+      {
         "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260406eIFReC_Blood.pdf&src=[%0],[%1]&rep=130,1240",
         "anchor_text": "[PDF\n                            237KB]",
         "score": 26
@@ -55956,7 +56046,7 @@
       },
       {
         "url": "https://www.kyowakirin.com/privacy_policy/index.html",
-        "anchor_text": "Privacy Policy.",
+        "anchor_text": "More information",
         "score": 30
       },
       {
@@ -60278,24 +60368,24 @@
     "press_url": "https://ir.proqr.com/press-releases",
     "candidate_links": [
       {
+        "url": "https://ir.proqr.com/press-releases/proqr-highlights-pipeline-expansion-and-multiple-upcoming-clinical-catalysts-at-investor-and-analyst-event",
+        "anchor_text": "Internal linkProQR Highlights Pipeline Expansion and Multiple Upcoming Clinical Catalysts at Investor and Analyst Event",
+        "score": 136
+      },
+      {
         "url": "https://ir.proqr.com/press-releases/proqr-to-host-virtual-investor-and-analyst-event-highlighting-pipeline-on-april-8-2026",
         "anchor_text": "Internal linkProQR to Host Virtual Investor and Analyst Event Highlighting Pipeline on April 8, 2026",
         "score": 116
       },
       {
-        "url": "https://ir.proqr.com/press-releases/proqr-announces-webcast-of-presentation-at-the-2026-citizens-life-sciences-conference",
-        "anchor_text": "Internal linkProQR Announces Webcast of Presentation at the 2026 Citizens Life Sciences Conference",
-        "score": 115
+        "url": "https://ir.proqr.com/press-releases/proqr-announces-partnership-with-ginkgo-bioworks-and-formation-of-ai-advisory-board",
+        "anchor_text": "Internal linkProQR Announces Partnership with Ginkgo Bioworks and Formation of AI Advisory Board",
+        "score": 113
       },
       {
         "url": "https://ir.proqr.com/developing-potentially-life-changing-medicines-for-patients-with-high-unmet-medical-need",
         "anchor_text": "AX-0810 cholestatic diseases (NTCP)",
         "score": 101
-      },
-      {
-        "url": "https://ir.proqr.com/press-releases/proqr-announces-year-end-2025-operating-and-financial-results",
-        "anchor_text": "Internal linkProQR Announces Year End 2025 Operating and Financial Results",
-        "score": 91
       },
       {
         "url": "https://ir.proqr.com/science/axiomer-technology/axiomer-technology-explained",
@@ -60433,7 +60523,7 @@
         "score": 13
       },
       {
-        "url": "https://ir.proqr.com/Disclaimer",
+        "url": "https://ir.proqr.com/disclaimer",
         "anchor_text": "Disclaimer",
         "score": 13
       },
@@ -60449,7 +60539,7 @@
       },
       {
         "url": "https://ir.proqr.com/privacy",
-        "anchor_text": "More information",
+        "anchor_text": "Privacy",
         "score": 10
       },
       {
@@ -60465,16 +60555,6 @@
       {
         "url": "https://ir.proqr.com/careers",
         "anchor_text": "Working at ProQR",
-        "score": 10
-      },
-      {
-        "url": "https://ir.proqr.com/Contact",
-        "anchor_text": "Contact",
-        "score": 10
-      },
-      {
-        "url": "https://ir.proqr.com/Privacy",
-        "anchor_text": "Privacy",
         "score": 10
       },
       {
@@ -61678,6 +61758,11 @@
       {
         "url": "https://ir.novavax.com/press-releases#ot-preferences-link",
         "anchor_text": "Your Privacy Choices",
+        "score": 27
+      },
+      {
+        "url": "https://ir.novavax.com/cookies-policy",
+        "anchor_text": "More information",
         "score": 27
       },
       {
@@ -71225,14 +71310,14 @@
         "score": 132
       },
       {
-        "url": "https://www.tempus.com/news/pr/tempus-to-report-fourth-quarter-and-full-year-2025-financial-results-on-february-24/",
-        "anchor_text": "Tempus to Report Fourth Quarter and Full Year 2025 Financial Results on February 24",
-        "score": 111
-      },
-      {
         "url": "https://www.tempus.com/news/pr/tempus-to-participate-in-the-morgan-stanley-technology-media-telecom-conference/",
         "anchor_text": "Tempus to Participate in the Morgan Stanley Technology, Media & Telecom Conference",
         "score": 107
+      },
+      {
+        "url": "https://www.tempus.com/news/pr/tempus-to-present-at-the-25th-annual-needham-virtual-healthcare-conference/",
+        "anchor_text": "Tempus to Present at the 25th Annual Needham Virtual Healthcare Conference",
+        "score": 102
       },
       {
         "url": "https://www.tempus.com/news/pr/tempus-reports-fourth-quarter-and-full-year-2025-results/",
@@ -73723,13 +73808,13 @@
         "score": 28
       },
       {
-        "url": "https://www.nuclera.com/latest-news/",
-        "anchor_text": "News",
+        "url": "https://www.nuclera.com/latest-news/#fl-main-content",
+        "anchor_text": "Skip to content",
         "score": 27
       },
       {
-        "url": "https://www.nuclera.com/latest-news/#fl-main-content",
-        "anchor_text": "Skip to content",
+        "url": "https://www.nuclera.com/latest-news/",
+        "anchor_text": "News",
         "score": 27
       },
       {
@@ -77568,11 +77653,6 @@
         "score": 216
       },
       {
-        "url": "https://crinetics.com/crinetics-pharmaceuticals-to-provide-palsonify-business-update-and-announce-topline-results-from-fourth-cohort-of-phase-2-trial-of-atumelnant-in-congenital-adrenal-hyperplasia/",
-        "anchor_text": "READ MORE",
-        "score": 191
-      },
-      {
         "url": "https://crinetics.com/crinetics-pharmaceuticals-announces-submission-of-marketing-authorization-application-in-brazil-for-palsonify-paltusotine-in-acromegaly/",
         "anchor_text": "READ MORE",
         "score": 151
@@ -77596,6 +77676,11 @@
         "url": "https://crinetics.com/crinetics-pharmaceuticals-announces-january-2026-inducement-grants-under-nasdaq-listing-rule-5635c4/",
         "anchor_text": "READ MORE",
         "score": 115
+      },
+      {
+        "url": "https://crinetics.com/crinetics-pharmaceuticals-to-report-first-quarter-2026-financial-results-on-may-7-2026/",
+        "anchor_text": "READ MORE",
+        "score": 102
       },
       {
         "url": "https://crinetics.com/crinetics-pharmaceuticals-to-participate-in-two-upcoming-investor-conferences-in-march/",

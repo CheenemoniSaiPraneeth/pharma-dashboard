@@ -1,17 +1,10 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 27,
-    "items_extracted": 1,
+    "articles_used": 15,
+    "items_extracted": 0,
     "items_dropped": 0,
-    "generated_at": "2026-04-08 12:45:09"
+    "generated_at": "2026-04-09 07:28:54"
   },
-  "news": [
-    {
-      "company": "CRISPR Therapeutics",
-      "modality": "gene editing",
-      "news": "CRISPR Therapeutics announced that senior management will present at the 25th Annual Needham Virtual Healthcare Conference on April 13, 2026. The company highlighted its leadership in gene editing, including the approved CASGEVY therapy and its proprietary SyNTase editing platform.",
-      "url": "https://crisprtx.com/about-us/press-releases-and-presentations/crispr-therapeutics-to-present-at-the-25th-annual-needham-virtual-healthcare-conference"
-    }
-  ]
+  "news": []
 }

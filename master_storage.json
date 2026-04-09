@@ -95911,5 +95911,138 @@
         "score": 155,
         "date_added": "2026-04-08",
         "article_like": true
+    },
+    {
+        "company": "Novartis",
+        "url": "https://www.novartis.com/news/media-releases/novartis-announces-expansion-community-health-programs-close-gaps-heart-disease-and-cancer-care-targeting-more-30-countries-2030",
+        "score": 165,
+        "date_added": "2026-04-09",
+        "article_like": true
+    },
+    {
+        "company": "Novartis",
+        "url": "https://www.novartis.com/stories/working-communities-close-gaps-heart-disease-and-cancer-care",
+        "score": 83,
+        "date_added": "2026-04-09",
+        "article_like": true
+    },
+    {
+        "company": "CAS (ACS International India Pvt Ltd.)",
+        "url": "https://www.cas.org/press-releases/meet-cas-newton-agentic-ai-built-for-science",
+        "score": 74,
+        "date_added": "2026-04-09",
+        "article_like": true
+    },
+    {
+        "company": "Medtronic",
+        "url": "https://news.medtronic.com/meeting-patients-where-they-are-how-collaboration-built-a-replicable-model-for-community-based-healthcare-delivery-newsroom",
+        "score": 136,
+        "date_added": "2026-04-09",
+        "article_like": true
+    },
+    {
+        "company": "Olympus Corporation",
+        "url": "https://www.olympus-global.com/ir/data/medical.html",
+        "score": 27,
+        "date_added": "2026-04-09",
+        "article_like": false
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/media/press-releases/lupin-announces-approval-of-dapagliflozin-and-metformin-hydrochloride-extended-release-tablets-in-the-united-states",
+        "score": 153,
+        "date_added": "2026-04-09",
+        "article_like": true
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/media/press-releases/lupin-foundation-inaugurates-two-ncd-corners-in-karauli-and-hindaun-rajasthan",
+        "score": 115,
+        "date_added": "2026-04-09",
+        "article_like": true
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/news/pr/tempus-to-present-at-the-25th-annual-needham-virtual-healthcare-conference/",
+        "score": 102,
+        "date_added": "2026-04-09",
+        "article_like": true
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-introduces-ai-powered-molecular-insights-for-nsclc-patients/",
+        "score": 120,
+        "date_added": "2026-04-09",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-04-08-BOTOX-R-Cosmetic-onabotulinumtoxinA-Empowers-Women-Entrepreneurs-Through-The-Confidence-Collective-for-Fourth-Year",
+        "score": 138,
+        "date_added": "2026-04-09",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-04-08-BOTOX-R-Cosmetic-onabotulinumtoxinA-Empowers-Women-Entrepreneurs-Through-The-Confidence-Collective-for-Fourth-Year#assets_2429_124771-149",
+        "score": 138,
+        "date_added": "2026-04-09",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-04-08-AbbVie-moves-to-close-loopholes-and-strengthen-accountability-in-340B-program",
+        "score": 101,
+        "date_added": "2026-04-09",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/index.php?s=2429&o=2310#news_anchor",
+        "score": 12,
+        "date_added": "2026-04-09",
+        "article_like": true
+    },
+    {
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260409153000_1239.html?year=2026&category=",
+        "score": 53,
+        "date_added": "2026-04-09",
+        "article_like": true
+    },
+    {
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260409_eRituxan.pdf&src=[%0],[%1]&rep=130,1239",
+        "score": 26,
+        "date_added": "2026-04-09",
+        "article_like": true
+    },
+    {
+        "company": "ProQR Therapeutics",
+        "url": "https://ir.proqr.com/press-releases/proqr-highlights-pipeline-expansion-and-multiple-upcoming-clinical-catalysts-at-investor-and-analyst-event",
+        "score": 136,
+        "date_added": "2026-04-09",
+        "article_like": true
+    },
+    {
+        "company": "ProQR Therapeutics",
+        "url": "https://ir.proqr.com/press-releases/proqr-announces-partnership-with-ginkgo-bioworks-and-formation-of-ai-advisory-board",
+        "score": 113,
+        "date_added": "2026-04-09",
+        "article_like": true
+    },
+    {
+        "company": "ProQR Therapeutics",
+        "url": "https://ir.proqr.com/disclaimer",
+        "score": 13,
+        "date_added": "2026-04-09",
+        "article_like": false
+    },
+    {
+        "company": "Crinetics Pharmaceuticals",
+        "url": "https://crinetics.com/crinetics-pharmaceuticals-to-report-first-quarter-2026-financial-results-on-may-7-2026/",
+        "score": 102,
+        "date_added": "2026-04-09",
+        "article_like": true
     }
 ]
