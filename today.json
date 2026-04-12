@@ -1,121 +1,828 @@
 [
     {
-        "company": "Novartis",
-        "url": "https://www.novartis.com/news/media-releases/novartis-announces-expansion-community-health-programs-close-gaps-heart-disease-and-cancer-care-targeting-more-30-countries-2030",
-        "score": 165,
-        "date_added": "2026-04-09",
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/case-study-cone-crusher",
+        "score": 102,
+        "date_added": "2026-04-12",
         "article_like": true
     },
     {
-        "company": "Novartis",
-        "url": "https://www.novartis.com/stories/working-communities-close-gaps-heart-disease-and-cancer-care",
-        "score": 83,
-        "date_added": "2026-04-09",
+        "company": "BIRAC",
+        "url": "https://www.birac.nic.in/desc_new.php?id=1323",
+        "score": 15,
+        "date_added": "2026-04-12",
         "article_like": true
     },
     {
-        "company": "CAS (ACS International India Pvt Ltd.)",
-        "url": "https://www.cas.org/press-releases/meet-cas-newton-agentic-ai-built-for-science",
-        "score": 74,
-        "date_added": "2026-04-09",
+        "company": "BIRAC",
+        "url": "https://www.birac.nic.in/desc_new.php?id=1324",
+        "score": 15,
+        "date_added": "2026-04-12",
         "article_like": true
     },
     {
-        "company": "Medtronic",
-        "url": "https://news.medtronic.com/meeting-patients-where-they-are-how-collaboration-built-a-replicable-model-for-community-based-healthcare-delivery-newsroom",
-        "score": 136,
-        "date_added": "2026-04-09",
+        "company": "Nucleome Informatics Private Limited",
+        "url": "https://www.nucleomeinfo.com/tag/genetic-testing/",
+        "score": 37,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Abiogenesis Clinpharm Private Limited",
+        "url": "https://abiogenesisclinpharm.com/semaglutide-clinical-trials-generics/",
+        "score": 52,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=4161fc45-d8a5-43ad-918f-0c96bfcc4561",
+        "score": 80,
+        "date_added": "2026-04-12",
         "article_like": true
     },
     {
         "company": "Lupin",
-        "url": "https://www.lupin.com/media/press-releases/lupin-announces-approval-of-dapagliflozin-and-metformin-hydrochloride-extended-release-tablets-in-the-united-states",
-        "score": 153,
-        "date_added": "2026-04-09",
+        "url": "https://www.lupin.com/media/press-releases/lupin-launches-dapagliflozin-tablets-in-the-united-states",
+        "score": 95,
+        "date_added": "2026-04-12",
         "article_like": true
     },
     {
-        "company": "Lupin",
-        "url": "https://www.lupin.com/media/press-releases/lupin-foundation-inaugurates-two-ncd-corners-in-karauli-and-hindaun-rajasthan",
-        "score": 115,
-        "date_added": "2026-04-09",
+        "company": "Mylan (Viatris)",
+        "url": "https://newsroom.viatris.com/2026-04-10-Viatris-Announces-Multiple-Data-Presentations-at-the-2026-American-Society-of-Cataract-and-Refractive-Surgery-Annual-Meeting",
+        "score": 148,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/2026-04-09-New-survey-finds-most-Americans-believe-chronic-diseases-are-preventable,-but-only-1-in-4-feel-confident-in-how-to-care-for-their-health",
+        "score": 160,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/2026-04-09-New-survey-finds-most-Americans-believe-chronic-diseases-are-preventable,-but-only-1-in-4-feel-confident-in-how-to-care-for-their-health#assets_2429_124744-111",
+        "score": 160,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/media/gsks-position-on-flovent/",
+        "score": 56,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/talking-precision-medicine-meeting-clinicians-and-patients-where-they-are.html",
+        "score": 151,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-declares-quarterly-dividend-14.html",
+        "score": 122,
+        "date_added": "2026-04-12",
         "article_like": true
     },
     {
         "company": "Tempus",
-        "url": "https://www.tempus.com/news/pr/tempus-to-present-at-the-25th-annual-needham-virtual-healthcare-conference/",
-        "score": 102,
-        "date_added": "2026-04-09",
+        "url": "https://www.tempus.com/news/pr/tempus-announces-strategic-collaboration-with-gilead-to-advance-oncology-rd-through-rwe/",
+        "score": 115,
+        "date_added": "2026-04-12",
         "article_like": true
     },
     {
-        "company": "Caris Life Sciences",
-        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-introduces-ai-powered-molecular-insights-for-nsclc-patients/",
-        "score": 120,
-        "date_added": "2026-04-09",
+        "company": "Pfizer",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-invites-shareholders-view-and-listen-webcast-april",
+        "score": 116,
+        "date_added": "2026-04-12",
         "article_like": true
     },
     {
-        "company": "AbbVie",
-        "url": "https://news.abbvie.com/2026-04-08-BOTOX-R-Cosmetic-onabotulinumtoxinA-Empowers-Women-Entrepreneurs-Through-The-Confidence-Collective-for-Fourth-Year",
-        "score": 138,
-        "date_added": "2026-04-09",
+        "company": "Roche",
+        "url": "https://www.roche.com/about/roche-global-citizenship/community-disaster-relief",
+        "score": 73,
+        "date_added": "2026-04-12",
         "article_like": true
     },
     {
-        "company": "AbbVie",
-        "url": "https://news.abbvie.com/2026-04-08-BOTOX-R-Cosmetic-onabotulinumtoxinA-Empowers-Women-Entrepreneurs-Through-The-Confidence-Collective-for-Fourth-Year#assets_2429_124771-149",
-        "score": 138,
-        "date_added": "2026-04-09",
+        "company": "Roche",
+        "url": "https://www.roche.com/about/roche-global-citizenship/rebuilding-communities",
+        "score": 70,
+        "date_added": "2026-04-12",
         "article_like": true
     },
     {
-        "company": "AbbVie",
-        "url": "https://news.abbvie.com/2026-04-08-AbbVie-moves-to-close-loopholes-and-strengthen-accountability-in-340B-program",
-        "score": 101,
-        "date_added": "2026-04-09",
+        "company": "Roche",
+        "url": "https://www.roche.com/about/philanthropy/humanitarian-social-development",
+        "score": 67,
+        "date_added": "2026-04-12",
         "article_like": true
     },
     {
-        "company": "AbbVie",
-        "url": "https://news.abbvie.com/index.php?s=2429&o=2310#news_anchor",
-        "score": 12,
-        "date_added": "2026-04-09",
+        "company": "Roche",
+        "url": "https://www.roche.com/about/sustainability/safety-health-and-well-being",
+        "score": 66,
+        "date_added": "2026-04-12",
         "article_like": true
     },
     {
-        "company": "Chugai Pharmaceutical",
-        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260409153000_1239.html?year=2026&category=",
+        "company": "Roche",
+        "url": "https://www.roche.com/solutions/focus-areas/inflammatory-bowel-diseases",
+        "score": 66,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/about/roche-global-citizenship/science-education",
+        "score": 65,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/about/roche-global-citizenship/arts-and-culture",
+        "score": 64,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/innovation/ethical-standards/animal-research",
+        "score": 61,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/solutions/focus-areas/infectious-diseases",
+        "score": 58,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/about/governance/annual-general-meetings",
+        "score": 57,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/innovation/partnering/areas-of-interest",
+        "score": 56,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/about/sustainability/goals-performance",
+        "score": 55,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/solutions/focus-areas/cardiometabolic",
+        "score": 54,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/solutions/diagnostics/safety-officers",
+        "score": 54,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/about/governance/executive-committee",
         "score": 53,
-        "date_added": "2026-04-09",
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/about/governance/board-of-directors",
+        "score": 52,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/solutions/pharma/safety-reporting",
+        "score": 50,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/about/governance/code-of-conduct",
+        "score": 49,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/about/roche-global-citizenship",
+        "score": 45,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/about/business/pharmaceuticals",
+        "score": 37,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "AstraZeneca",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/alexion-data-2026-aan-annual-meeting-reflects-industry-leading-portfolio-commitment-enhancing-care-across-rare-diseases.html",
+        "score": 220,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-showcases-new-clinical-data-for-tecnis-puresee-iol-at-ascrs-2026-demonstrating-excellent-contrast-sensitivity-and-extended-range-of-vision",
+        "score": 199,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Takeda Pharmaceutical",
+        "url": "https://www.takeda.com/newsroom/press-releases/2026/innovators-in-science-grand-prize-myriam-chalabi/",
+        "score": 124,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "BeiGene",
+        "url": "https://ir.beonemedicines.com/media/custom-news/996381cb-8f58-4329-910f-96b542389a37/assets/740302c6-d016-492c-9526-6ee94638c39a/2025_AR_en.pdf?disposition=inline",
+        "score": 136,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Insilico Medicine",
+        "url": "https://insilico.com/news/bnj09h4811-pharmaai-spring-kickoff-2026-drive-the-f",
+        "score": 71,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Catalent",
+        "url": "https://www.catalent.com/catalent-news/cartherics-and-catalent-expand-commercial-license-agreement/",
+        "score": 91,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "UCB",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/acquisition-of-own-shares-43",
+        "score": 79,
+        "date_added": "2026-04-12",
         "article_like": true
     },
     {
         "company": "Chugai Pharmaceutical",
-        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260409_eRituxan.pdf&src=[%0],[%1]&rep=130,1239",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260410170000_1241.html?year=2026&category=",
+        "score": 53,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260410_eDXstock.pdf&src=[%0],[%1]&rep=130,1241",
         "score": 26,
-        "date_added": "2026-04-09",
+        "date_added": "2026-04-12",
         "article_like": true
     },
     {
         "company": "ProQR Therapeutics",
-        "url": "https://ir.proqr.com/press-releases/proqr-highlights-pipeline-expansion-and-multiple-upcoming-clinical-catalysts-at-investor-and-analyst-event",
-        "score": 136,
-        "date_added": "2026-04-09",
+        "url": "https://ir.proqr.com/pipeline/ax-0810-cholestatic-diseases-ntcp/biliary-atresia",
+        "score": 75,
+        "date_added": "2026-04-12",
         "article_like": true
     },
     {
-        "company": "ProQR Therapeutics",
-        "url": "https://ir.proqr.com/press-releases/proqr-announces-partnership-with-ginkgo-bioworks-and-formation-of-ai-advisory-board",
-        "score": 113,
-        "date_added": "2026-04-09",
+        "company": "HitGen",
+        "url": "https://www.hitgen.com/news/news-details-510.html",
+        "score": 41,
+        "date_added": "2026-04-12",
         "article_like": true
     },
     {
-        "company": "Crinetics Pharmaceuticals",
-        "url": "https://crinetics.com/crinetics-pharmaceuticals-to-report-first-quarter-2026-financial-results-on-may-7-2026/",
-        "score": 102,
-        "date_added": "2026-04-09",
+        "company": "Genethon",
+        "url": "https://www.genethon.fr/crispr-cas9-genethon-devoile-une-strategie-innovante-pour-augmenter-lutrophine-dans-la-myopathie-de-duchenne/",
+        "score": 124,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Oxford Nanopore Technologies",
+        "url": "https://nanoporetech.com/blog/news-blog-pioneering-single-cell-sequencing-approaches-understand-dark-matter-our-genome",
+        "score": 108,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/research/science-space/envisioning-tomorrow/smart-manufacturing-transforming-the-factory-shopfloor.html",
+        "score": 127,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/research/our-approach-to-research-and-development/healthcare/clinical-trials.html",
+        "score": 105,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/expertise/electronics/technologies/delivery-systems-and-services.html",
+        "score": 93,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/sustainability/reports-and-guidelines/sustainability-statement.html",
+        "score": 89,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/sustainability/business-ethics/compliance/compliance-hotline.html",
+        "score": 89,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/expertise/electronics/technologies/metrology-and-inspection.html",
+        "score": 88,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/expertise/semiconductors/custom-innovation/intermolecular.html",
+        "score": 86,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/investors/events-and-presentations/annual-general-meeting.html",
+        "score": 84,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/research/open-innovation/futureinsightprize_streaming.html",
+        "score": 80,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/expertise/electronics/technologies/specialty-gases.html",
+        "score": 79,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/the-future-transformation/ai-economically-meaningful.html",
+        "score": 77,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/the-future-transformation/what-the-crisis-taught-us.html",
+        "score": 76,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/expertise/electronics/technologies/thin-films.html",
+        "score": 74,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/research/our-approach-to-research-and-development.html",
+        "score": 74,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/sustainability/business-ethics/digital-ethics.html",
+        "score": 72,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/research/open-innovation/research-challenges.html",
+        "score": 71,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/research/science-space/envisioning-tomorrow.html",
+        "score": 70,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/research/open-innovation/research-grants.html",
+        "score": 67,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/expertise/electronics/technologies/formulations.html",
+        "score": 66,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/research/open-innovation/innovation-cup.html",
+        "score": 66,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/sustainability/products-and-innovation.html",
+        "score": 63,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/sustainability/sustainability-strategy.html",
+        "score": 63,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/company/periodic-table-of-elements-app.html",
+        "score": 63,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/sustainability/reports-and-guidelines.html",
+        "score": 62,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/stories/potential-of-mrna-technology.html",
+        "score": 61,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/sustainability/community-engagement.html",
+        "score": 60,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/expertise/neurology-and-immunology.html",
+        "score": 59,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/news-stories/events-and-highlights.html",
+        "score": 59,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/investors/events-and-presentations.html",
+        "score": 59,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/investors/reports-and-financials.html",
+        "score": 57,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/sustainability/business-ethics.html",
+        "score": 55,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/investors/corporate-governance.html",
+        "score": 55,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/sustainability/health-for-all.html",
+        "score": 54,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/expertise/discovery-solutions.html",
+        "score": 54,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/media-center/download-gallery.html",
+        "score": 54,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/expertise/advanced-solutions.html",
+        "score": 53,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/research/healthcare-pipeline.html",
+        "score": 53,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/research/global-r-and-d-hubs.html",
+        "score": 53,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/investors/creditor-relations.html",
+        "score": 53,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/company/strategy-and-values.html",
+        "score": 52,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/expertise/process-solutions.html",
+        "score": 52,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/media-center/press-contacts.html",
+        "score": 52,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/company/building-belonging.html",
+        "score": 51,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/expertise/general-medicine.html",
+        "score": 51,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/expertise/vibrant-thoughts.html",
+        "score": 51,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/investors/shares-and-bonds.html",
+        "score": 51,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/investors/contact-services.html",
+        "score": 51,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/research/open-innovation.html",
+        "score": 49,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/the-future-transformation.html",
+        "score": 48,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/media-center/press-kits.html",
+        "score": 48,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/expertise/life-science.html",
+        "score": 47,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/research/science-space.html",
+        "score": 47,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/research/ai-research.html",
+        "score": 45,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/stories/what-is-mrna.html",
+        "score": 45,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/investors/why-invest.html",
+        "score": 45,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/company/our-impact.html",
+        "score": 43,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/company/contact-us.html",
+        "score": 43,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/supplier-information.html",
+        "score": 43,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/sustainability/environment.html",
+        "score": 41,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/privacy-statement.html",
+        "score": 40,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/legal-disclaimer.html",
+        "score": 39,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/company/ourheadquarters.html",
+        "score": 38,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/expertise/electronics.html",
+        "score": 36,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/expertise/healthcare.html",
+        "score": 35,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/news-stories.html",
+        "score": 35,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/terms-of-use.html",
+        "score": 35,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/company/management.html",
+        "score": 33,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/sustainability.html",
+        "score": 27,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/partnering.html",
+        "score": 23,
+        "date_added": "2026-04-12",
+        "article_like": true
+    },
+    {
+        "company": "Merck KGaA",
+        "url": "https://www.merckgroup.com/en/careers/job-search.html",
+        "score": 43,
+        "date_added": "2026-04-12",
         "article_like": true
     }
 ]

@@ -1,4 +1,40 @@
 {
+  "2026-04-12": {
+    "bispecific antibodies": [
+      {
+        "company": "Alexion",
+        "modality": "bispecific antibodies",
+        "news": "Alexion presented new data from the PREVAIL Phase III trial evaluating gefurulimab, a novel dual-binding nanobody, for the treatment of adults with anti-acetylcholine receptor antibody-positive generalized myasthenia gravis at the 2026 AAN Annual Meeting.",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/alexion-data-2026-aan-annual-meeting-reflects-industry-leading-portfolio-commitment-enhancing-care-across-rare-diseases.html",
+        "query": "bispecific antibodies"
+      }
+    ],
+    "monoclonal antibodies": [
+      {
+        "company": "Alexion",
+        "modality": "monoclonal antibodies",
+        "news": "Alexion presented new data at the 2026 AAN Annual Meeting from the PREVAIL Phase III trial, showing statistically significant improvements with the investigational C5 inhibitor gefurulimab for adults with generalized myasthenia gravis. The company also shared results on ravulizumab (Ultomiris) in neuromyelitis optica spectrum disorder and selumetinib (Koselugo) for neurofibromatosis type 1.",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/alexion-data-2026-aan-annual-meeting-reflects-industry-leading-portfolio-commitment-enhancing-care-across-rare-diseases.html",
+        "query": "monoclonal antibodies"
+      }
+    ],
+    "gene editing": [
+      {
+        "company": "Cartherics",
+        "modality": "gene editing",
+        "news": "Cartherics and Catalent expanded their commercial license agreement to utilize a Catalent cGMP-compliant induced pluripotent stem cell (iPSC) line for manufacturing CAR-NK cell therapies. The partnership leverages Catalent's validated workflows for gene editing to support the development of Cartherics' lead product, CTH-401, for ovarian cancer and endometriosis.",
+        "url": "https://www.catalent.com/catalent-news/cartherics-and-catalent-expand-commercial-license-agreement/",
+        "query": "gene editing"
+      },
+      {
+        "company": "Généthon",
+        "modality": "gene editing",
+        "news": "Généthon scientists published a study in Molecular Therapy detailing a CRISPR/Cas9 strategy to increase utrophin expression in Duchenne muscular dystrophy by disabling a microRNA binding site. The approach demonstrated improved muscle function and reduced fibrosis in preclinical models, offering a potential universal therapy independent of specific DMD mutations.",
+        "url": "https://www.genethon.fr/crispr-cas9-genethon-devoile-une-strategie-innovante-pour-augmenter-lutrophine-dans-la-myopathie-de-duchenne/",
+        "query": "gene editing"
+      }
+    ]
+  },
   "2026-04-09": {
     "monoclonal antibodies": [
       {
