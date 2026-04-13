@@ -97164,5 +97164,40 @@
         "score": 16,
         "date_added": "2026-04-12",
         "article_like": false
+    },
+    {
+        "company": "Sanofi",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-13-05-00-00-3272182",
+        "score": 107,
+        "date_added": "2026-04-13",
+        "article_like": true
+    },
+    {
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-presents-positive-data-for-b7-h4-targeted-adc-in-gynaecological-cancers/",
+        "score": 124,
+        "date_added": "2026-04-13",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-04-13",
+        "score": 50,
+        "date_added": "2026-04-13",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-04-12-AbbVie-Showcases-Late-Breaking-Phase-2-Data-for-Mirvetuximab-Soravtansine-gynx-ELAHERE-R-in-Platinum-Sensitive-Ovarian-Cancer-PSOC-at-SGO-2026",
+        "score": 166,
+        "date_added": "2026-04-13",
+        "article_like": true
+    },
+    {
+        "company": "Bavarian Nordic",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7491",
+        "score": 30,
+        "date_added": "2026-04-13",
+        "article_like": true
     }
 ]

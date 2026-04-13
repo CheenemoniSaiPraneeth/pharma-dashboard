@@ -4,6 +4,11 @@
     "press_url": "https://www.sanofi.com/en/media-room/press-releases",
     "candidate_links": [
       {
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-13-05-00-00-3272182",
+        "anchor_text": "Read the Press Release",
+        "score": 107
+      },
+      {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-07-05-00-00-3268809",
         "anchor_text": "Read the Press Release",
         "score": 107
@@ -95,11 +100,6 @@
       },
       {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-02-09-06-00-00-3234232",
-        "anchor_text": "Read the Press Release",
-        "score": 107
-      },
-      {
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-02-03-06-00-00-3230719",
         "anchor_text": "Read the Press Release",
         "score": 107
       },
@@ -549,61 +549,6 @@
     "company": "Amgen",
     "press_url": "https://www.amgen.com/newsroom/press-releases",
     "candidate_links": [
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-announces-positive-topline-phase-3-results-for-subcutaneous-tepezza-in-adults-living-with-moderate-to-severe-active-thyroid-eye-disease",
-        "anchor_text": "AMGEN ANNOUNCES POSITIVE TOPLINE PHASE 3 RESULTS FOR SUBCUTANEOUS TEPEZZA® IN ADULTS LIVING WITH MODERATE-TO-SEVERE ACTIVE THYROID EYE DISEASE",
-        "score": 219
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/03/repatha-cuts-risk-of-first-major-cardiovascular-events-by-31-in-highrisk-patients-without-known-significant-atherosclerosis",
-        "anchor_text": "REPATHA® CUTS RISK OF FIRST MAJOR CARDIOVASCULAR EVENTS BY 31% IN HIGH-RISK PATIENTS WITHOUT KNOWN SIGNIFICANT ATHEROSCLEROSIS",
-        "score": 201
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/01/amgen-announces-webcast-of-2025-fourth-quarter-and-full-year-financial-results",
-        "anchor_text": "AMGEN ANNOUNCES WEBCAST OF 2025 FOURTH QUARTER AND FULL YEAR FINANCIAL RESULTS",
-        "score": 156
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/european-commission-approves-amgens-uplizna-for-generalized-myasthenia-gravis",
-        "anchor_text": "EUROPEAN COMMISSION APPROVES AMGEN'S UPLIZNA® FOR GENERALIZED MYASTHENIA GRAVIS",
-        "score": 155
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/03/amgen-to-present-at-the-leerink-partners-2026-global-healthcare-conference",
-        "anchor_text": "AMGEN TO PRESENT AT THE LEERINK PARTNERS 2026 GLOBAL HEALTHCARE CONFERENCE",
-        "score": 152
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/01/amgen-to-present-at-the-44th-annual-j-p--morgan-healthcare-conference",
-        "anchor_text": "AMGEN TO PRESENT AT THE 44TH ANNUAL J.P. MORGAN HEALTHCARE CONFERENCE",
-        "score": 147
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/amgen-to-present-at-the-46th-annual-td-cowen-health-care-conference",
-        "anchor_text": "AMGEN TO PRESENT AT THE 46TH ANNUAL TD COWEN HEALTH CARE CONFERENCE",
-        "score": 145
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/01/amgen-acquires-dark-blue-therapeutics-bolstering-oncology-pipeline",
-        "anchor_text": "AMGEN ACQUIRES DARK BLUE THERAPEUTICS, BOLSTERING ONCOLOGY PIPELINE",
-        "score": 144
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/amgen-to-present-at-citis-2026-virtual-oncology-leadership-summit",
-        "anchor_text": "AMGEN TO PRESENT AT CITI'S 2026 VIRTUAL ONCOLOGY LEADERSHIP SUMMIT",
-        "score": 143
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/amgen-reports-fourth-quarter-and-full-year-2025-financial-results",
-        "anchor_text": "AMGEN REPORTS FOURTH QUARTER AND FULL YEAR 2025 FINANCIAL RESULTS",
-        "score": 143
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/03/amgen-announces-2026-second-quarter-dividend",
-        "anchor_text": "AMGEN ANNOUNCES 2026 SECOND QUARTER DIVIDEND",
-        "score": 122
-      },
       {
         "url": "https://www.amgen.com/about/how-we-operate/policies-practices-and-disclosures/business-conduct/quality",
         "anchor_text": "Product Quality",
@@ -9322,12 +9267,12 @@
         "score": 153
       },
       {
-        "url": "https://insilicominds.com/fda-works-through-ich-to-support-global-drug-development-creating-harmonized-technical-standards-through-guidelines/",
+        "url": "https://insilicominds.com/fda-launches-general-principles-of-model-integrated-evidence-mie-industry-meeting-pilot-for-generic-drug-applicants/",
         "anchor_text": "Read More »",
         "score": 131
       },
       {
-        "url": "https://insilicominds.com/fda-launches-general-principles-of-model-integrated-evidence-mie-industry-meeting-pilot-for-generic-drug-applicants/",
+        "url": "https://insilicominds.com/fda-works-through-ich-to-support-global-drug-development-creating-harmonized-technical-standards-through-guidelines/",
         "anchor_text": "Read More »",
         "score": 131
       },
@@ -17566,7 +17511,7 @@
       },
       {
         "url": "https://www.illumina.com/company/news-center.html",
-        "anchor_text": "Share on Linkedin",
+        "anchor_text": "Cookie Management Center",
         "score": 39
       },
       {
@@ -17606,7 +17551,7 @@
       },
       {
         "url": "https://www.illumina.com/company/legal/privacy.html",
-        "anchor_text": "Privacy Policy.",
+        "anchor_text": "Privacy Policy",
         "score": 33
       },
       {
@@ -25986,6 +25931,11 @@
         "score": 148
       },
       {
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-presents-positive-data-for-b7-h4-targeted-adc-in-gynaecological-cancers/",
+        "anchor_text": "12 April 2026GSK presents positive data for B7-H4-targeted ADC in gynaecological cancersPromising efficacy and safety profile supports start of five pivotal phase III trials in 2026.",
+        "score": 124
+      },
+      {
         "url": "https://www.gsk.com/en-gb/media/press-releases/exdensur-depemokimab-approved-in-china-for-the-treatment-of-severe-asthma/",
         "anchor_text": "30 March 2026Exdensur (depemokimab) approved in China for the treatment of severe asthmaExdensur is the first and only ultra-long-acting biologic in China for the treatment of severe asthma with an eosinophilic phenotype.",
         "score": 122
@@ -26023,11 +25973,6 @@
       {
         "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-tops-antimicrobial-resistance-amr-benchmark-report/",
         "anchor_text": "10 March 2026GSK tops Antimicrobial Resistance (AMR) Benchmark ReportGSK welcomes independent recognition of our leadership in addressing the urgent global threat of antimicrobial resistance (AMR).",
-        "score": 103
-      },
-      {
-        "url": "https://www.gsk.com/en-gb/media/press-releases/nucala-mepolizumab-approved-by-the-european-commission/",
-        "anchor_text": "06 February 2026Nucala (mepolizumab) approved by the European Commission for the treatment of chronic obstructive pulmonary disease (COPD)Approval based on results from MATINEE showing significant reduction in the rate of moderate/severe exacerbations versus placebo",
         "score": 103
       },
       {
@@ -36778,6 +36723,11 @@
         "score": 50
       },
       {
+        "url": "https://www.roche.com/media/releases/med-cor-2026-04-13",
+        "anchor_text": "Roche receives CE mark for new Elecsys NfL blood test to detect neuroinflammation in multiple sclerosisApril 13, 2026",
+        "score": 50
+      },
+      {
         "url": "https://www.roche.com/media/releases/med-cor-2026-03-30",
         "anchor_text": "Roche launches the cobas MPX-E assay, a new 4-in-1 donor screening test to further safeguard the global blood supplyMarch 30, 2026",
         "score": 50
@@ -36820,11 +36770,6 @@
       {
         "url": "https://www.roche.com/media/releases/med-cor-2026-02-20",
         "anchor_text": "FDA accepts New Drug Application for Roche’s giredestrant in ESR1-mutated, ER-positive advanced breast cancerFebruary 20, 2026",
-        "score": 50
-      },
-      {
-        "url": "https://www.roche.com/media/releases/med-cor-2026-02-17",
-        "anchor_text": "Change to the Roche Enlarged Corporate Executive CommitteeFebruary 17, 2026",
         "score": 50
       },
       {
@@ -37034,7 +36979,7 @@
       },
       {
         "url": "https://www.roche.com/investors/bonds",
-        "anchor_text": "Share price315.60CHF- 1.10(-0.35%)Today",
+        "anchor_text": "Share price315.60CHF0.00(0.00%)Today",
         "score": 20
       },
       {
@@ -37515,7 +37460,7 @@
       },
       {
         "url": "https://www.astrazeneca.com/media-centre/press-releases.html",
-        "anchor_text": "Set Preferences",
+        "anchor_text": "Select Preferences",
         "score": 47
       },
       {
@@ -38657,6 +38602,11 @@
         "score": 172
       },
       {
+        "url": "https://news.abbvie.com/2026-04-12-AbbVie-Showcases-Late-Breaking-Phase-2-Data-for-Mirvetuximab-Soravtansine-gynx-ELAHERE-R-in-Platinum-Sensitive-Ovarian-Cancer-PSOC-at-SGO-2026",
+        "anchor_text": "AbbVie Showcases Late‑Breaking Phase 2 Data for Mirvetuximab Soravtansine-gynx (ELAHERE®) in Platinum‑Sensitive Ovarian Cancer (PSOC) at SGO 2026",
+        "score": 166
+      },
+      {
         "url": "https://news.abbvie.com/2026-04-08-BOTOX-R-Cosmetic-onabotulinumtoxinA-Empowers-Women-Entrepreneurs-Through-The-Confidence-Collective-for-Fourth-Year",
         "anchor_text": "BOTOX® Cosmetic (onabotulinumtoxinA) Empowers Women Entrepreneurs Through \"The Confidence Collective\" for Fourth Year",
         "score": 138
@@ -38694,11 +38644,6 @@
       {
         "url": "https://news.abbvie.com/2026-04-07-Allergan-Aesthetics-Third-State-of-the-Art-AMI-Center-Opens-in-Austin#assets_2429_124769-149",
         "anchor_text": "Photos1",
-        "score": 93
-      },
-      {
-        "url": "https://news.abbvie.com/2026-03-24-AbbVie-Named-Official-Pharmaceutical-Partner-of-Major-League-Baseball",
-        "anchor_text": "AbbVie Named Official Pharmaceutical Partner of Major League Baseball",
         "score": 93
       },
       {
@@ -41587,7 +41532,7 @@
       },
       {
         "url": "https://www.takeda.com/newsroom/press-releases/",
-        "anchor_text": "Do not sell or share my personal information",
+        "anchor_text": "Press Releases",
         "score": 41
       },
       {
@@ -43774,7 +43719,7 @@
       },
       {
         "url": "https://crisprtx.com/about-us/privacy-policy",
-        "anchor_text": "privacy policy",
+        "anchor_text": "Privacy & cookie policy",
         "score": 38
       },
       {
@@ -50189,7 +50134,7 @@
       },
       {
         "url": "https://www.catalent.com/news-and-events/",
-        "anchor_text": "Do Not Sell My Personal Information",
+        "anchor_text": "Cookies Settings",
         "score": 31
       },
       {
@@ -50379,6 +50324,11 @@
         "score": 148
       },
       {
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-presents-positive-data-for-b7-h4-targeted-adc-in-gynaecological-cancers/",
+        "anchor_text": "12 April 2026GSK presents positive data for B7-H4-targeted ADC in gynaecological cancersPromising efficacy and safety profile supports start of five pivotal phase III trials in 2026.",
+        "score": 124
+      },
+      {
         "url": "https://www.gsk.com/en-gb/media/press-releases/exdensur-depemokimab-approved-in-china-for-the-treatment-of-severe-asthma/",
         "anchor_text": "30 March 2026Exdensur (depemokimab) approved in China for the treatment of severe asthmaExdensur is the first and only ultra-long-acting biologic in China for the treatment of severe asthma with an eosinophilic phenotype.",
         "score": 122
@@ -50416,11 +50366,6 @@
       {
         "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-tops-antimicrobial-resistance-amr-benchmark-report/",
         "anchor_text": "10 March 2026GSK tops Antimicrobial Resistance (AMR) Benchmark ReportGSK welcomes independent recognition of our leadership in addressing the urgent global threat of antimicrobial resistance (AMR).",
-        "score": 103
-      },
-      {
-        "url": "https://www.gsk.com/en-gb/media/press-releases/nucala-mepolizumab-approved-by-the-european-commission/",
-        "anchor_text": "06 February 2026Nucala (mepolizumab) approved by the European Commission for the treatment of chronic obstructive pulmonary disease (COPD)Approval based on results from MATINEE showing significant reduction in the rate of moderate/severe exacerbations versus placebo",
         "score": 103
       },
       {
@@ -54697,7 +54642,7 @@
       },
       {
         "url": "https://www.kyowakirin.com/privacy_policy/index.html",
-        "anchor_text": "Privacy Policy.",
+        "anchor_text": "More information",
         "score": 30
       },
       {
@@ -60417,6 +60362,11 @@
         "score": 27
       },
       {
+        "url": "https://ir.novavax.com/cookies-policy",
+        "anchor_text": "More information",
+        "score": 27
+      },
+      {
         "url": "https://ir.novavax.com/investor-hub",
         "anchor_text": "Investors hub",
         "score": 25
@@ -60558,6 +60508,11 @@
         "score": 30
       },
       {
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7491",
+        "anchor_text": "Bavarian Nordic – Transactions in Connection with Share Buy-Back Program",
+        "score": 30
+      },
+      {
         "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7489",
         "anchor_text": "Bavarian Nordic – Transactions in Connection with Share Buy-Back Program",
         "score": 30
@@ -60675,11 +60630,6 @@
       {
         "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7380",
         "anchor_text": "Bavarian Nordic Announces Interim Results for the First Nine Months of 2025",
-        "score": 30
-      },
-      {
-        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7378",
-        "anchor_text": "Bavarian Nordic Announces Changes to the Board of Directors",
         "score": 30
       },
       {
@@ -61534,732 +61484,6 @@
       {
         "url": "https://ir.mindmed.co/",
         "anchor_text": "Definium Therapeutics",
-        "score": 3
-      }
-    ]
-  },
-  {
-    "company": "Mirati Therapeutics",
-    "press_url": "https://ir.mirati.com/press-releases",
-    "candidate_links": [
-      {
-        "url": "https://ir.mirati.com/patient-and-caregivers/patient-resources-by-condition/immunology-resources/psoriasis-around-the-world.html",
-        "anchor_text": "Psoriasis around the world",
-        "score": 125
-      },
-      {
-        "url": "https://ir.mirati.com/life-and-science/news-and-perspectives/c2c4c-2024-raises-millions-for-global-cancer-research.html",
-        "anchor_text": "United across 30 nations for a cause",
-        "score": 114
-      },
-      {
-        "url": "https://ir.mirati.com/healthcare-providers/doctorx-unscripted-bold-conversations-about-patient-driven-science.html",
-        "anchor_text": "DoctoRx Unscripted",
-        "score": 107
-      },
-      {
-        "url": "https://ir.mirati.com/life-and-science/people/personal-experience-inspires-development-new-medicines.html",
-        "anchor_text": "Voices from R&D: personal experience inspires the development of new medicines",
-        "score": 100
-      },
-      {
-        "url": "https://ir.mirati.com/investors/global-strategic-license-and-collaboration-agreement-with-systimmune.html",
-        "anchor_text": "Learn More",
-        "score": 98
-      },
-      {
-        "url": "https://ir.mirati.com/researchers-and-partners/clinical-trials-and-research/disclosure-commitment.html",
-        "anchor_text": "Disclosure commitment",
-        "score": 97
-      },
-      {
-        "url": "https://ir.mirati.com/about-us/global-diversity-and-inclusion/people-and-business-resource-groups.html",
-        "anchor_text": "Resource groups",
-        "score": 97
-      },
-      {
-        "url": "https://ir.mirati.com/patient-and-caregivers/patient-resources-by-condition/immunology-resources.html",
-        "anchor_text": "Immunology patient resources",
-        "score": 96
-      },
-      {
-        "url": "https://ir.mirati.com/researchers-and-partners/independent-research/data-sharing-request-process.html",
-        "anchor_text": "Data sharing request process",
-        "score": 96
-      },
-      {
-        "url": "https://ir.mirati.com/healthcare-providers/time-back-campaign-honoring-oncologists-in-cancer-care.html",
-        "anchor_text": "Time Back",
-        "score": 95
-      },
-      {
-        "url": "https://ir.mirati.com/researchers-and-partners/independent-research/competitive-research-grants.html",
-        "anchor_text": "Areas of interest & research grants",
-        "score": 95
-      },
-      {
-        "url": "https://ir.mirati.com/about-us/global-diversity-and-inclusion/diversity-and-inclusion-report.html",
-        "anchor_text": "Global inclusion and diversity report",
-        "score": 92
-      },
-      {
-        "url": "https://ir.mirati.com/healthcare-providers/early-patient-access-to-investigational-medicine.html",
-        "anchor_text": "Learn about pre-approval access",
-        "score": 89
-      },
-      {
-        "url": "https://ir.mirati.com/researchers-and-partners/our-r-and-d-team/research-publications.html",
-        "anchor_text": "Research publications",
-        "score": 85
-      },
-      {
-        "url": "https://ir.mirati.com/patient-and-caregivers/risk-evaluation-and-mitigation-strategies.html",
-        "anchor_text": "Risk evaluation and mitigation strategies (REMS)",
-        "score": 84
-      },
-      {
-        "url": "https://ir.mirati.com/business-development/science-and-technology-areas-of-interest.html",
-        "anchor_text": "Areas of interest",
-        "score": 81
-      },
-      {
-        "url": "https://ir.mirati.com/patient-and-caregivers/car-t-cell-therapy-patient-resources.html",
-        "anchor_text": "CAR T cell therapy patient resources",
-        "score": 79
-      },
-      {
-        "url": "https://ir.mirati.com/about-us/responsibility/position-on-key-issues/generics.html",
-        "anchor_text": "Our position on generic drugs",
-        "score": 79
-      },
-      {
-        "url": "https://ir.mirati.com/about-us/our-company/doing-business-with-us-as-a-supplier.html",
-        "anchor_text": "Doing business with us as a supplier",
-        "score": 79
-      },
-      {
-        "url": "https://ir.mirati.com/about-us/responsibility/position-on-key-issues/pricing.html",
-        "anchor_text": "Our position on drug pricing",
-        "score": 78
-      },
-      {
-        "url": "https://ir.mirati.com/investors/stock-information/investment-return-calculator.html",
-        "anchor_text": "Investment return calculator",
-        "score": 78
-      },
-      {
-        "url": "https://ir.mirati.com/patient-and-caregivers/get-help-paying-for-your-medicines.html",
-        "anchor_text": "Get help paying for your medicines",
-        "score": 77
-      },
-      {
-        "url": "https://ir.mirati.com/about-us/responsibility/bristol-myers-squibb-foundation.html",
-        "anchor_text": "The Bristol Myers Squibb Foundation",
-        "score": 77
-      },
-      {
-        "url": "https://ir.mirati.com/life-and-science/science/predictive-molecule-invention.html",
-        "anchor_text": "Science Firsthand: Predicting new possibilities in drug discovery",
-        "score": 76
-      },
-      {
-        "url": "https://ir.mirati.com/investors/investor-contacts/investor-alerts-subscribe.html",
-        "anchor_text": "Investor alerts",
-        "score": 75
-      },
-      {
-        "url": "https://ir.mirati.com/investors/shareholder-services/cost-basis-calculator.html",
-        "anchor_text": "Cost basis calculator",
-        "score": 74
-      },
-      {
-        "url": "https://ir.mirati.com/patient-and-caregivers/patient-resources-by-condition.html",
-        "anchor_text": "Patient resources",
-        "score": 73
-      },
-      {
-        "url": "https://ir.mirati.com/researchers-and-partners/clinical-trials-and-research.html",
-        "anchor_text": "Clinical trials & research",
-        "score": 73
-      },
-      {
-        "url": "https://ir.mirati.com/media/press-releases/press-release-alerts-subscribe.html",
-        "anchor_text": "Press release alerts",
-        "score": 73
-      },
-      {
-        "url": "https://ir.mirati.com/investors/financial-reporting/quarterly-results.html",
-        "anchor_text": "Quarterly results",
-        "score": 69
-      },
-      {
-        "url": "https://ir.mirati.com/investors/celgene-acquisition-investor-resources.html",
-        "anchor_text": "Acquisition-related information for Celgene shareholders",
-        "score": 68
-      },
-      {
-        "url": "https://ir.mirati.com/media/media-library/scientific-media-resources.html",
-        "anchor_text": "Scientific media resources",
-        "score": 68
-      },
-      {
-        "url": "https://ir.mirati.com/media/media-library/disease-state-infographics.html",
-        "anchor_text": "Disease state resources",
-        "score": 68
-      },
-      {
-        "url": "https://ir.mirati.com/about-us/responsibility/position-on-key-issues.html",
-        "anchor_text": "Our positions",
-        "score": 68
-      },
-      {
-        "url": "https://ir.mirati.com/investors/shareholder-services/shareholder-faq.html",
-        "anchor_text": "Learn More",
-        "score": 68
-      },
-      {
-        "url": "https://ir.mirati.com/researchers-and-partners/translational-medicine.html",
-        "anchor_text": "Translational medicine",
-        "score": 67
-      },
-      {
-        "url": "https://ir.mirati.com/business-development/partnering-leadership-team.html",
-        "anchor_text": "Business development leadership team",
-        "score": 67
-      },
-      {
-        "url": "https://ir.mirati.com/investors/financial-reporting/annual-reports.html",
-        "anchor_text": "View past annual reports",
-        "score": 66
-      },
-      {
-        "url": "https://ir.mirati.com/investors/stock-information/dividend-history.html",
-        "anchor_text": "Dividend history",
-        "score": 66
-      },
-      {
-        "url": "https://ir.mirati.com/patient-and-caregivers/plain-language-summary.html",
-        "anchor_text": "Plain language summaries of clinical trial results",
-        "score": 65
-      },
-      {
-        "url": "https://ir.mirati.com/researchers-and-partners/independent-research.html",
-        "anchor_text": "Independent research",
-        "score": 65
-      },
-      {
-        "url": "https://ir.mirati.com/investors/shareholder-services/mirati-faqs.html",
-        "anchor_text": "Learn More",
-        "score": 64
-      },
-      {
-        "url": "https://ir.mirati.com/healthcare-providers/post-study-drug-access.html",
-        "anchor_text": "Learn about post study drug access",
-        "score": 63
-      },
-      {
-        "url": "https://ir.mirati.com/investors/financial-reporting/sec-filings.html",
-        "anchor_text": "SEC filings",
-        "score": 63
-      },
-      {
-        "url": "https://ir.mirati.com/about-us/our-company/worldwide-facilities.html",
-        "anchor_text": "Worldwide locations",
-        "score": 63
-      },
-      {
-        "url": "https://ir.mirati.com/about-us/our-company/global-patient-week.html",
-        "anchor_text": "Global Patient Week",
-        "score": 62
-      },
-      {
-        "url": "https://ir.mirati.com/patient-and-caregivers/survivorship-today.html",
-        "anchor_text": "Survivorship Today",
-        "score": 61
-      },
-      {
-        "url": "https://ir.mirati.com/researchers-and-partners/our-r-and-d-team.html",
-        "anchor_text": "",
-        "score": 61
-      },
-      {
-        "url": "https://ir.mirati.com/media/media-library/corporate-resources.html",
-        "anchor_text": "Corporate resources",
-        "score": 61
-      },
-      {
-        "url": "https://ir.mirati.com/researchers-and-partners/in-the-pipeline.html",
-        "anchor_text": "Our R&D pipeline",
-        "score": 60
-      },
-      {
-        "url": "https://ir.mirati.com/business-development/why-partner-with-us.html",
-        "anchor_text": "Why partner with us",
-        "score": 60
-      },
-      {
-        "url": "https://ir.mirati.com/researchers-and-partners/areas-of-focus.html",
-        "anchor_text": "Areas of focus",
-        "score": 59
-      },
-      {
-        "url": "https://ir.mirati.com/researchers-and-partners/patient-safety.html",
-        "anchor_text": "Patient safety",
-        "score": 59
-      },
-      {
-        "url": "https://ir.mirati.com/about-us/global-diversity-and-inclusion.html",
-        "anchor_text": "Global Inclusion",
-        "score": 59
-      },
-      {
-        "url": "https://ir.mirati.com/about-us/our-company/our-technologies.html",
-        "anchor_text": "Our technologies",
-        "score": 59
-      },
-      {
-        "url": "https://ir.mirati.com/about-us/our-company/history-timeline.html",
-        "anchor_text": "Our history",
-        "score": 59
-      },
-      {
-        "url": "https://ir.mirati.com/healthcare-providers/champions-in-care.html",
-        "anchor_text": "Champions in Care",
-        "score": 58
-      },
-      {
-        "url": "https://ir.mirati.com/business-development/existing-partners.html",
-        "anchor_text": "Our partnerships",
-        "score": 58
-      },
-      {
-        "url": "https://ir.mirati.com/business-development/early-innovation.html",
-        "anchor_text": "Early innovation at BMS",
-        "score": 57
-      },
-      {
-        "url": "https://ir.mirati.com/business-development/begin-discussion.html",
-        "anchor_text": "Contact Business Development",
-        "score": 57
-      },
-      {
-        "url": "https://ir.mirati.com/patient-and-caregivers/our-medicines.html",
-        "anchor_text": "Our medicines",
-        "score": 56
-      },
-      {
-        "url": "https://ir.mirati.com/investors/events-and-presentations.html",
-        "anchor_text": "View all",
-        "score": 54
-      },
-      {
-        "url": "https://ir.mirati.com/investors/shareholder-services.html",
-        "anchor_text": "Buy shares",
-        "score": 50
-      },
-      {
-        "url": "https://ir.mirati.com/investors/shareholder-services.html#faq",
-        "anchor_text": "Read FAQs for BMY shareholders",
-        "score": 50
-      },
-      {
-        "url": "https://ir.mirati.com/investors/financial-reporting.html",
-        "anchor_text": "Financial reporting",
-        "score": 49
-      },
-      {
-        "url": "https://ir.mirati.com/life-and-science/all-articles.html",
-        "anchor_text": "View all",
-        "score": 49
-      },
-      {
-        "url": "https://ir.mirati.com/investors/stock-information.html",
-        "anchor_text": "Stock information",
-        "score": 47
-      },
-      {
-        "url": "https://ir.mirati.com/investors/investor-contacts.html",
-        "anchor_text": "Investor contacts",
-        "score": 47
-      },
-      {
-        "url": "https://ir.mirati.com/investors/analyst-coverage.html",
-        "anchor_text": "Analyst coverage",
-        "score": 46
-      },
-      {
-        "url": "https://ir.mirati.com/about-us/working-at-bms.html",
-        "anchor_text": "Working at BMS",
-        "score": 43
-      },
-      {
-        "url": "https://ir.mirati.com/forward-looking-statement.html",
-        "anchor_text": "Forward-looking statement",
-        "score": 43
-      },
-      {
-        "url": "https://ir.mirati.com/researchers-and-partners.html",
-        "anchor_text": "Researchers",
-        "score": 42
-      },
-      {
-        "url": "https://ir.mirati.com/about-us/our-science.html",
-        "anchor_text": "Our science",
-        "score": 40
-      },
-      {
-        "url": "https://ir.mirati.com/patient-and-caregivers.html",
-        "anchor_text": "Patients & caregivers",
-        "score": 40
-      },
-      {
-        "url": "https://ir.mirati.com/media/press-releases.html",
-        "anchor_text": "View more",
-        "score": 40
-      },
-      {
-        "url": "https://ir.mirati.com/media/media-contacts.html",
-        "anchor_text": "Media contacts",
-        "score": 40
-      },
-      {
-        "url": "https://ir.mirati.com/about-us/our-company.html",
-        "anchor_text": "Our company",
-        "score": 40
-      },
-      {
-        "url": "https://ir.mirati.com/about-us/contact-us.html",
-        "anchor_text": "Contact us",
-        "score": 39
-      },
-      {
-        "url": "https://ir.mirati.com/media/media-library.html",
-        "anchor_text": "Media library",
-        "score": 39
-      },
-      {
-        "url": "https://ir.mirati.com/about-us/leadership.html",
-        "anchor_text": "Leadership",
-        "score": 39
-      },
-      {
-        "url": "https://ir.mirati.com/about-us/our-impact.html",
-        "anchor_text": "Our impact",
-        "score": 39
-      },
-      {
-        "url": "https://ir.mirati.com/healthcare-providers.html",
-        "anchor_text": "Healthcare providers",
-        "score": 38
-      },
-      {
-        "url": "https://ir.mirati.com/business-development.html",
-        "anchor_text": "Business development",
-        "score": 38
-      },
-      {
-        "url": "https://ir.mirati.com/life-and-science.html",
-        "anchor_text": "Our stories",
-        "score": 34
-      },
-      {
-        "url": "https://ir.mirati.com/privacy-policy.html",
-        "anchor_text": "Privacy notice center",
-        "score": 32
-      },
-      {
-        "url": "https://ir.mirati.com/other-markets.html",
-        "anchor_text": "Distributor\t\t\t\t\t\t\t\t\t\tMarkets",
-        "score": 31
-      },
-      {
-        "url": "https://ir.mirati.com/legal-notice.html",
-        "anchor_text": "Legal notice",
-        "score": 30
-      },
-      {
-        "url": "https://ir.mirati.com/press-releases#main-content",
-        "anchor_text": "Skip to main content",
-        "score": 27
-      },
-      {
-        "url": "https://ir.mirati.com/press-releases",
-        "anchor_text": "Your privacy choices",
-        "score": 27
-      },
-      {
-        "url": "https://ir.mirati.com/about-us.html",
-        "anchor_text": "About us",
-        "score": 26
-      },
-      {
-        "url": "https://ir.mirati.com/site-map.html",
-        "anchor_text": "Sitemap",
-        "score": 26
-      },
-      {
-        "url": "https://ir.mirati.com/trademarks.html",
-        "anchor_text": "Trademarks",
-        "score": 18
-      },
-      {
-        "url": "https://ir.mirati.com/investors.html",
-        "anchor_text": "Investors",
-        "score": 17
-      },
-      {
-        "url": "https://ir.mirati.com/media.html",
-        "anchor_text": "News & media",
-        "score": 13
-      },
-      {
-        "url": "https://ir.mirati.com/ca/en",
-        "anchor_text": "English",
-        "score": 10
-      },
-      {
-        "url": "https://ir.mirati.com/ca/fr",
-        "anchor_text": "French",
-        "score": 10
-      },
-      {
-        "url": "https://ir.mirati.com/th/en",
-        "anchor_text": "English",
-        "score": 10
-      },
-      {
-        "url": "https://ir.mirati.com/th/th",
-        "anchor_text": "Thai",
-        "score": 10
-      },
-      {
-        "url": "https://ir.mirati.com/be/nl",
-        "anchor_text": "Dutch",
-        "score": 10
-      },
-      {
-        "url": "https://ir.mirati.com/be/fr",
-        "anchor_text": "French",
-        "score": 10
-      },
-      {
-        "url": "https://ir.mirati.com/nl/en",
-        "anchor_text": "English",
-        "score": 10
-      },
-      {
-        "url": "https://ir.mirati.com/ch/fr",
-        "anchor_text": "French",
-        "score": 10
-      },
-      {
-        "url": "https://ir.mirati.com/sa/en",
-        "anchor_text": "English",
-        "score": 10
-      },
-      {
-        "url": "https://ir.mirati.com/sa/ar",
-        "anchor_text": "Arabic",
-        "score": 10
-      },
-      {
-        "url": "https://ir.mirati.com/ae/en",
-        "anchor_text": "English",
-        "score": 10
-      },
-      {
-        "url": "https://ir.mirati.com/ae/ar",
-        "anchor_text": "Arabic",
-        "score": 10
-      },
-      {
-        "url": "https://ir.mirati.com/ar",
-        "anchor_text": "Spanish",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/br",
-        "anchor_text": "Portuguese",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/cl",
-        "anchor_text": "Spanish",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/co",
-        "anchor_text": "Spanish",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/mx",
-        "anchor_text": "Spanish",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/pe",
-        "anchor_text": "Spanish",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/au",
-        "anchor_text": "English",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/cn",
-        "anchor_text": "Simplified\t\t\t\t\t\t\t\t\t\tChinese",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/in",
-        "anchor_text": "English",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/jp",
-        "anchor_text": "Japanese",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/kr",
-        "anchor_text": "Korean",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/nz",
-        "anchor_text": "English",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/sg",
-        "anchor_text": "English",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/tw",
-        "anchor_text": "Traditional\t\t\t\t\t\t\t\t\t\tChinese",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/at",
-        "anchor_text": "German",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/be",
-        "anchor_text": "English",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/cz",
-        "anchor_text": "Czech",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/dk",
-        "anchor_text": "Danish",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/fi",
-        "anchor_text": "Finnish",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/fr",
-        "anchor_text": "French",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/de",
-        "anchor_text": "German",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/gr",
-        "anchor_text": "Greek",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/hu",
-        "anchor_text": "Hungarian",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/ie",
-        "anchor_text": "English",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/it",
-        "anchor_text": "Italian",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/lu",
-        "anchor_text": "English",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/nl",
-        "anchor_text": "Dutch",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/no",
-        "anchor_text": "Norwegian",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/pl",
-        "anchor_text": "Polish",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/pt",
-        "anchor_text": "Portuguese",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/ro",
-        "anchor_text": "Romanian",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/es",
-        "anchor_text": "Spanish",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/se",
-        "anchor_text": "Swedish",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/ch",
-        "anchor_text": "German",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/gb",
-        "anchor_text": "English",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/il",
-        "anchor_text": "Hebrew",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/tr",
-        "anchor_text": "Turkish",
-        "score": 5
-      },
-      {
-        "url": "https://ir.mirati.com/",
-        "anchor_text": "Home",
         "score": 3
       }
     ]
@@ -66733,7 +65957,7 @@
       },
       {
         "url": "https://chem-space.com/privacy-policy",
-        "anchor_text": "Privacy Policy",
+        "anchor_text": "More...",
         "score": 27
       },
       {
@@ -72454,13 +71678,13 @@
         "score": 28
       },
       {
-        "url": "https://www.nuclera.com/latest-news/",
-        "anchor_text": "News",
+        "url": "https://www.nuclera.com/latest-news/#fl-main-content",
+        "anchor_text": "Skip to content",
         "score": 27
       },
       {
-        "url": "https://www.nuclera.com/latest-news/#fl-main-content",
-        "anchor_text": "Skip to content",
+        "url": "https://www.nuclera.com/latest-news/",
+        "anchor_text": "News",
         "score": 27
       },
       {
@@ -72701,6 +71925,11 @@
         "score": 148
       },
       {
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-presents-positive-data-for-b7-h4-targeted-adc-in-gynaecological-cancers/",
+        "anchor_text": "12 April 2026GSK presents positive data for B7-H4-targeted ADC in gynaecological cancersPromising efficacy and safety profile supports start of five pivotal phase III trials in 2026.",
+        "score": 124
+      },
+      {
         "url": "https://www.gsk.com/en-gb/media/press-releases/exdensur-depemokimab-approved-in-china-for-the-treatment-of-severe-asthma/",
         "anchor_text": "30 March 2026Exdensur (depemokimab) approved in China for the treatment of severe asthmaExdensur is the first and only ultra-long-acting biologic in China for the treatment of severe asthma with an eosinophilic phenotype.",
         "score": 122
@@ -72738,11 +71967,6 @@
       {
         "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-tops-antimicrobial-resistance-amr-benchmark-report/",
         "anchor_text": "10 March 2026GSK tops Antimicrobial Resistance (AMR) Benchmark ReportGSK welcomes independent recognition of our leadership in addressing the urgent global threat of antimicrobial resistance (AMR).",
-        "score": 103
-      },
-      {
-        "url": "https://www.gsk.com/en-gb/media/press-releases/nucala-mepolizumab-approved-by-the-european-commission/",
-        "anchor_text": "06 February 2026Nucala (mepolizumab) approved by the European Commission for the treatment of chronic obstructive pulmonary disease (COPD)Approval based on results from MATINEE showing significant reduction in the rate of moderate/severe exacerbations versus placebo",
         "score": 103
       },
       {
@@ -75320,6 +74544,11 @@
     "press_url": "https://www.sanofi.com/en/media-room/press-releases",
     "candidate_links": [
       {
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-13-05-00-00-3272182",
+        "anchor_text": "Read the Press Release",
+        "score": 107
+      },
+      {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-07-05-00-00-3268809",
         "anchor_text": "Read the Press Release",
         "score": 107
@@ -75411,11 +74640,6 @@
       },
       {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-02-09-06-00-00-3234232",
-        "anchor_text": "Read the Press Release",
-        "score": 107
-      },
-      {
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-02-03-06-00-00-3230719",
         "anchor_text": "Read the Press Release",
         "score": 107
       },
@@ -80819,6 +80043,11 @@
     "press_url": "https://www.sanofi.com/en/media-room/press-releases",
     "candidate_links": [
       {
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-13-05-00-00-3272182",
+        "anchor_text": "Read the Press Release",
+        "score": 107
+      },
+      {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-07-05-00-00-3268809",
         "anchor_text": "Read the Press Release",
         "score": 107
@@ -80910,11 +80139,6 @@
       },
       {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-02-09-06-00-00-3234232",
-        "anchor_text": "Read the Press Release",
-        "score": 107
-      },
-      {
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-02-03-06-00-00-3230719",
         "anchor_text": "Read the Press Release",
         "score": 107
       },
@@ -82272,713 +81496,7 @@
   {
     "company": "Simson Pharma Limited",
     "press_url": "https://www.simsonpharma.com/blog",
-    "candidate_links": [
-      {
-        "url": "https://www.simsonpharma.com/blog-details/The-Powerhouse-of-Innovation-Understanding-Custom-Synthesis-Laboratories-in-the-Pharmaceutical-Research-Sector",
-        "anchor_text": "The Powerhouse of Innovation: Understanding Custom Synthesis Laboratories in the Pharmaceutical Research Sector",
-        "score": 138
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/certified-vs-working-reference-standards-the-ultimate-guide-to-key-differences-explained-2026-edition",
-        "anchor_text": "Certified vs Working Reference Standards: The Ultimate Guide to Key Differences Explained (2026 Edition)",
-        "score": 129
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/analytical-methods-for-nitrosamine-detection-lod-loq-and-validation-a-complete-scientific-guide-2026",
-        "anchor_text": "Analytical Methods for Nitrosamine Detection: LOD, LOQ, and Validation – A Complete Scientific Guide (2026)",
-        "score": 128
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/difference-between-deuterated-d-and-13c-labelled-standards-7-critical-facts-scientists-must-know",
-        "anchor_text": "Difference Between Deuterated (D) and 13C-Labelled Standards: 7 Critical Facts Scientists Must Know",
-        "score": 124
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/common-mistakes-when-using-reference-standards-in-lc-ms-analysis-17-costly-errors-to-avoid",
-        "anchor_text": "Common Mistakes When Using Reference Standards in LC-MS Analysis: 17 Costly Errors to Avoid",
-        "score": 118
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/isolation-of-impurities-using-preparative-liquid-chromatography-in-pharmaceutical-industry",
-        "anchor_text": "Isolation of impurities using preparative liquid chromatography in pharmaceutical industry",
-        "score": 118
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/faqs-related-to-understanding-isotope-labels-compounds-for-bio-analytical-studies",
-        "anchor_text": "FAQs related to understanding isotope labels compounds for bio analytical studies",
-        "score": 109
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/complex-isotope-labelled-products-metabolites-the-future-of-analytical-chemistry",
-        "anchor_text": "Complex Isotope Labelled Products & Metabolites: The Future of Analytical Chemistry",
-        "score": 108
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/Unveiling-the-Significance-of-Reference-Standards-in-the-Pharmaceutical-Industry",
-        "anchor_text": "Unveiling the Significance of Reference Standards in the Pharmaceutical Industry",
-        "score": 108
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/how-certified-reference-materials-help-labs-meet-their-regulatory-requirements",
-        "anchor_text": "How Certified Reference Materials Help Labs Meet Their Regulatory Requirements?",
-        "score": 106
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/labelled-reagent-products-the-ultimate-guide-for-researchers-and-laboratories",
-        "anchor_text": "Labelled Reagent Products: The Ultimate Guide for Researchers and Laboratories",
-        "score": 105
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/stable-isotope-labelled-products-a-key-resource-in-modern-scientific-research",
-        "anchor_text": "Stable Isotope Labelled Products: A Key Resource in Modern Scientific Research",
-        "score": 105
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/reasons-to-use-deuterated-solvents-in-nuclear-magnetic-resonance-spectroscopy",
-        "anchor_text": "Reasons to use Deuterated Solvents in Nuclear Magnetic Resonance Spectroscopy",
-        "score": 105
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/simson-pharma-limited-trusted-partner-for-pharmaceutical-reference-materials",
-        "anchor_text": "Simson Pharma Limited: Trusted Partner for Pharmaceutical Reference Materials",
-        "score": 104
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/analytical-standards-for-usp-how-certified-reference-material-suppliers-work",
-        "anchor_text": "Analytical standards for usp: How certified reference material suppliers work?",
-        "score": 104
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/deconstructing-crucial-questions-regarding-pharma-impurities-standards-today",
-        "anchor_text": "Deconstructing crucial questions regarding pharma impurities standards today",
-        "score": 104
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/pharmaceutical-reference-standards-essential-guide-for-quality-drug-testing",
-        "anchor_text": "Pharmaceutical Reference Standards: Essential Guide for Quality Drug Testing",
-        "score": 103
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/the-crucial-role-of-reference-standards-in-the-pharmaceutical-industry",
-        "anchor_text": "The Crucial Role of Reference Standards in the Pharmaceutical Industry!",
-        "score": 98
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/neostigmine-is-used-for-the-symptomatic-treatment-of-myasthenia-gravis",
-        "anchor_text": "Neostigmine is used for the symptomatic treatment of myasthenia gravis",
-        "score": 98
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/stable-isotope-labelled-compounds-in-metabolism-and-analytical-tools",
-        "anchor_text": "Stable Isotope Labelled Compounds in Metabolism and Analytical tools",
-        "score": 96
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/complex-impurity-products-the-hidden-challenge-in-modern-chemistry",
-        "anchor_text": "Complex Impurity Products: The Hidden Challenge in Modern Chemistry",
-        "score": 94
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/exploring-the-versatile-applications-and-advantages-of-aceclofenac",
-        "anchor_text": "Exploring the Versatile Applications and Advantages of Aceclofenac",
-        "score": 94
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/A-Comprehensive-Look-at-Abemaciclib's-Advantages-and-Applications",
-        "anchor_text": "A Comprehensive Look at Abemaciclib's Advantages and Applications",
-        "score": 93
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/understanding-nitrosamine-impurities-formation-Sources-and-risks",
-        "anchor_text": "Understanding Nitrosamine Impurities: Formation, Sources, and Risks",
-        "score": 92
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/qualitative-and-quantitative-analysis-in-pharmaceutical-analysis",
-        "anchor_text": "Qualitative And Quantitative Analysis In Pharmaceutical Analysis",
-        "score": 92
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/top-10-powerful-benefits-of-pyridoxine-hydrochloride-for-health",
-        "anchor_text": "Top 10 Powerful Benefits of Pyridoxine Hydrochloride for Health",
-        "score": 91
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/diethyl-ether-uses-properties-and-safety-precautions-explained",
-        "anchor_text": "Diethyl Ether: Uses, Properties, and Safety Precautions Explained",
-        "score": 90
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/leading-nitrosamine-impurities-manufacturer-supplier-worldwide",
-        "anchor_text": "Simson Pharma Limited - Leading Nitrosamine Impurities Manufacturer & Supplier Worldwide",
-        "score": 90
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/Nitrosamine-Compounds-Impurities-Manufacturers-Suppliers-India",
-        "anchor_text": "Nitrosamine Compounds: An In-Depth Overview for Pharmaceutical Excellence",
-        "score": 90
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/recent-trends-in-nitrosamines-in-pharmaceutical-industry-2025",
-        "anchor_text": "Recent trends in Nitrosamines in pharmaceutical industry 2025",
-        "score": 89
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/drospirenone-understanding-its-uses-benefits-and-side-effects",
-        "anchor_text": "Drospirenone: Understanding its Uses, Benefits, and Side Effects",
-        "score": 89
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/difference-between-working-standards-and-reference-standards",
-        "anchor_text": "Difference Between Working Standards And Reference Standards",
-        "score": 88
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/applications-of-13C-15N-d-labelled-compounds-in-bioanalysis",
-        "anchor_text": "Applications of 13C, 15N, D-Labelled Compounds in Bioanalysis",
-        "score": 87
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/how-reference-standards-help-in-therapeutic-drug-monitoring",
-        "anchor_text": "How Reference Standards Help in Therapeutic Drug Monitoring",
-        "score": 87
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/why-bioanalysis-is-critical-for-emerging-biologics-peptides",
-        "anchor_text": "Why Bioanalysis is Critical for Emerging Biologics & Peptides",
-        "score": 87
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/future-trends-in-nitrosamine-research-and-global-compliance",
-        "anchor_text": "Future Trends in Nitrosamine Research and Global Compliance",
-        "score": 87
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/green-chemistry-a-sustainable-path-towards-a-greener-future",
-        "anchor_text": "Green Chemistry: A Sustainable Path towards a Greener Future",
-        "score": 87
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/the-role-of-spectroscopy-in-modern-pharmaceutical-industry",
-        "anchor_text": "The Role of Spectroscopy in Modern Pharmaceutical Industry",
-        "score": 86
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/what-are-active-pharmaceutical-ingredients-apis-excipients",
-        "anchor_text": "What are Active Pharmaceutical Ingredients (APIs) & Excipients?",
-        "score": 86
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/identifying-and-controlling-impurities-in-api-formulation",
-        "anchor_text": "Identifying and controlling impurities in API formulation",
-        "score": 85
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/exploring-baricitinib-applications-advantages-mechanisms",
-        "anchor_text": "Exploring Baricitinib : Applications, Advantages & Mechanisms",
-        "score": 84
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/mass-spectrometry-techniques-in-pharmaceutical-analysis",
-        "anchor_text": "Mass Spectrometry Techniques in Pharmaceutical Analysis",
-        "score": 83
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/current-overview-of-pharmaceuticals-reference-standards",
-        "anchor_text": "Current overview of pharmaceuticals reference standards",
-        "score": 83
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/overview-of-forensic-isotope-analysis-and-applications",
-        "anchor_text": "Overview of forensic isotope analysis and applications",
-        "score": 82
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/total-structure-confirmation-service-at-simson-pharma",
-        "anchor_text": "Total structure confirmation service at Simson pharma",
-        "score": 81
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/understanding-the-world-of-isotope-labelled-compounds",
-        "anchor_text": "Understanding the World of Isotope Labelled Compounds and Why They Matter?",
-        "score": 81
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/what-is-chromatography-how-does-chromatography-work",
-        "anchor_text": "What Is Chromatography? How Does Chromatography Work?",
-        "score": 79
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/bortezomib-was-originally-made-in-1995-at-myogenics",
-        "anchor_text": "Bortezomib was originally made in 1995 at Myogenics",
-        "score": 79
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/faqs-regarding-working-standards-in-pharma-industry",
-        "anchor_text": "FAQs regarding working standards in Pharma industry",
-        "score": 79
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/peptide-solutions-what-to-know-uses-and-Advantages",
-        "anchor_text": "Peptide Solutions : What to know, uses,  and Advantages",
-        "score": 78
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/Supply-Chain-Management-In-Pharmaceutical-Industry",
-        "anchor_text": "Supply Chain Management In Pharmaceutical Industry",
-        "score": 78
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/sources-of-impurities-in-pharmaceutical-substances",
-        "anchor_text": "Sources Of Impurities In Pharmaceutical Substances",
-        "score": 78
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/learn-about-bio-analysis-for-new-chemical-entities",
-        "anchor_text": "Learn about bio analysis for new chemical entities",
-        "score": 78
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/types-of-raw-materials-in-pharmaceutical-industry",
-        "anchor_text": "Types Of Raw Materials In Pharmaceutical Industry",
-        "score": 77
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/remdesivir-what-makes-it-work-against-coronavirus",
-        "anchor_text": "Remdesivir: What Makes It Work Against Coronavirus?",
-        "score": 77
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/control-of-nitrosamine-impurities-in-human-drugs",
-        "anchor_text": "Control Of Nitrosamine Impurities In Human Drugs",
-        "score": 76
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/application-of-chromatography-in-various-aspects",
-        "anchor_text": "Application of Chromatography in various aspects",
-        "score": 76
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/you-should-know-about-covid-19-strain-delta-plus",
-        "anchor_text": "You should know about Covid-19 Strain “Delta Plus”",
-        "score": 76
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/what-is-a-cro-complete-guide-for-pharma-biotech",
-        "anchor_text": "What is a CRO? Complete Guide for Pharma & Biotech",
-        "score": 75
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/the-general-pharmaceutical-industry-an-overview",
-        "anchor_text": "The General Pharmaceutical Industry: An Overview",
-        "score": 75
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/supply-chain-issues-in-pharmaceutical-industry",
-        "anchor_text": "Supply Chain Issues In Pharmaceutical Industry",
-        "score": 74
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/types-of-impurities-in-pharmaceutical-industry",
-        "anchor_text": "Types Of Impurities In Pharmaceutical Industry",
-        "score": 74
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/anticoagulations-in-the-management-of-covid-19",
-        "anchor_text": "Anticoagulations in the Management of Covid-19",
-        "score": 74
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/everything-you-need-to-know-about-propranolol",
-        "anchor_text": "Everything You Need to Know About Propranolol",
-        "score": 73
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/difference-between-calibration-and-validation",
-        "anchor_text": "Difference Between Calibration And Validation",
-        "score": 73
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/why-are-patents-important-to-drug-development",
-        "anchor_text": "Why Are Patents Important To Drug Development?",
-        "score": 73
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/what-are-deuterated-drugs-everything-to-know",
-        "anchor_text": "What are Deuterated Drugs: Everything to know",
-        "score": 72
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/purification-techniques-in-organic-chemistry",
-        "anchor_text": "Purification Techniques in Organic Chemistry: A Comprehensive Guide",
-        "score": 72
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/importance-of-vitamin-b12-in-human-body",
-        "anchor_text": "Importance of Vitamin B12 in Human Body",
-        "score": 67
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/rosuvastatin-acid-action-on-cholesterol",
-        "anchor_text": "Rosuvastatin Acid Action on Cholesterol",
-        "score": 67
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/remdesivir-synthesis-and-its-impurities",
-        "anchor_text": "Remdesivir synthesis and its impurities",
-        "score": 67
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/what-is-analytical-testing-in-pharma",
-        "anchor_text": "What Is Analytical Testing in Pharma?",
-        "score": 64
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/difference-between-drug-and-medicine",
-        "anchor_text": "Difference Between Drug And Medicine",
-        "score": 64
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/types-of-suspension-in-pharmaceutics",
-        "anchor_text": "Types Of Suspension In Pharmaceutics",
-        "score": 64
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/oseltamivir-uses-and-its-impurities",
-        "anchor_text": "Oseltamivir Uses and its Impurities",
-        "score": 63
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/all-you-need-to-know-about-covid-19",
-        "anchor_text": "All you need to know about Covid-19",
-        "score": 63
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/what-are-intermediates-in-pharma",
-        "anchor_text": "What Are Intermediates in Pharma |  APIs vs Intermediates",
-        "score": 60
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/what-exactly-are-nitrosamines",
-        "anchor_text": "What exactly are Nitrosamines?",
-        "score": 57
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/impurities-in-pharmaceuticals",
-        "anchor_text": "Impurities in pharmaceuticals",
-        "score": 57
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/what-is-metaldehyde-used-for",
-        "anchor_text": "What is metaldehyde used for?",
-        "score": 56
-      },
-      {
-        "url": "https://www.simsonpharma.com/expertise-details/reference-standards",
-        "anchor_text": "Reference Standards Suppliers",
-        "score": 52
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/deuterated-compounds",
-        "anchor_text": "Deuterated Compounds",
-        "score": 48
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/atracurium-besilate",
-        "anchor_text": "Atracurium besilate",
-        "score": 47
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/impurity-profiling",
-        "anchor_text": "Impurity Profiling",
-        "score": 46
-      },
-      {
-        "url": "https://www.simsonpharma.com/nitrosamine-impurities-suppliers",
-        "anchor_text": "Nitrosamine Impurities Suppliers",
-        "score": 45
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/Desloratadine-d4",
-        "anchor_text": "Applications of Desloratadine D4",
-        "score": 44
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/Teriflunomide-d4",
-        "anchor_text": "Teriflunomide-D4",
-        "score": 44
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/Paliperidone-d4",
-        "anchor_text": "Paliperidone-D4",
-        "score": 43
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/Robenacoxib-D5",
-        "anchor_text": "Applications of Robenacoxib D5",
-        "score": 42
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/bilastine-blog",
-        "anchor_text": "Bilastine",
-        "score": 42
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/acebrophylline",
-        "anchor_text": "Acebrophylline",
-        "score": 42
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/ciprofloxacin",
-        "anchor_text": "Ciprofloxacin",
-        "score": 41
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/Eberconazole",
-        "anchor_text": "Eberconazole",
-        "score": 40
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/Lansoprazole",
-        "anchor_text": "Lansoprazole",
-        "score": 40
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/Nitrosamines",
-        "anchor_text": "Nitrosamines",
-        "score": 40
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/Nitrosamine",
-        "anchor_text": "An Overview: Nitrosamine Impurities in Medications and Its Regulations",
-        "score": 39
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/Rabeprazole",
-        "anchor_text": "Rabeprazole",
-        "score": 39
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/Sitagliptin",
-        "anchor_text": "Sitagliptin",
-        "score": 39
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/ruxolitinib",
-        "anchor_text": "Ruxolitinib",
-        "score": 39
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/rivaroxaban",
-        "anchor_text": "Rivaroxaban",
-        "score": 39
-      },
-      {
-        "url": "https://www.simsonpharma.com/impurity-standard-products",
-        "anchor_text": "Impurity Standards Suppliers",
-        "score": 39
-      },
-      {
-        "url": "https://www.simsonpharma.com/isotope-labelled-compounds",
-        "anchor_text": "Stable Isotope Labelled Products",
-        "score": 39
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/Tacrolimus",
-        "anchor_text": "Tacrolimus",
-        "score": 38
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/Paclitaxel",
-        "anchor_text": "Paclitaxel",
-        "score": 38
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/Bacitracin",
-        "anchor_text": "Bacitracin",
-        "score": 38
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/Mirabegron",
-        "anchor_text": "Mirabegron",
-        "score": 38
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/Lamivudine",
-        "anchor_text": "Lamivudine",
-        "score": 38
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/ampicillin",
-        "anchor_text": "Ampicillin Medical Uses and Mechansim of Action",
-        "score": 38
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/ticagrelor",
-        "anchor_text": "Ticagrelor",
-        "score": 38
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/paroxetine",
-        "anchor_text": "Paroxetine",
-        "score": 38
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/Acitretin",
-        "anchor_text": "Acitretin",
-        "score": 37
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/gefitinib",
-        "anchor_text": "Gefitinib",
-        "score": 37
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/quinapril",
-        "anchor_text": "Quinapril",
-        "score": 37
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/linezolid",
-        "anchor_text": "Linezolid",
-        "score": 37
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/acyclovir",
-        "anchor_text": "Acyclovir",
-        "score": 37
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog-details/apixaban",
-        "anchor_text": "Apixaban",
-        "score": 36
-      },
-      {
-        "url": "https://www.simsonpharma.com/research-chemicals",
-        "anchor_text": "Research Chemicals",
-        "score": 31
-      },
-      {
-        "url": "https://www.simsonpharma.com/contactus-export",
-        "anchor_text": "For International",
-        "score": 29
-      },
-      {
-        "url": "https://www.simsonpharma.com/board-management",
-        "anchor_text": "Board Management",
-        "score": 29
-      },
-      {
-        "url": "https://www.simsonpharma.com/terms-conditions",
-        "anchor_text": "Terms & Conditions",
-        "score": 29
-      },
-      {
-        "url": "https://www.simsonpharma.com/compare-product",
-        "anchor_text": "",
-        "score": 28
-      },
-      {
-        "url": "https://www.simsonpharma.com/shipping-policy",
-        "anchor_text": "Shipping Policy",
-        "score": 28
-      },
-      {
-        "url": "https://www.simsonpharma.com/privacy-policy",
-        "anchor_text": "Privacy Policy",
-        "score": 27
-      },
-      {
-        "url": "https://www.simsonpharma.com/products-list",
-        "anchor_text": "Add products",
-        "score": 26
-      },
-      {
-        "url": "https://www.simsonpharma.com/sitemap-page",
-        "anchor_text": "Sitemap",
-        "score": 25
-      },
-      {
-        "url": "https://www.simsonpharma.com/retun-policy",
-        "anchor_text": "Return Policy",
-        "score": 25
-      },
-      {
-        "url": "https://www.simsonpharma.com/companyprofile",
-        "anchor_text": "About Us",
-        "score": 17
-      },
-      {
-        "url": "https://www.simsonpharma.com/qualityaspects",
-        "anchor_text": "Quality Aspects",
-        "score": 17
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog/asend",
-        "anchor_text": "",
-        "score": 15
-      },
-      {
-        "url": "https://www.simsonpharma.com/ourfacility",
-        "anchor_text": "Lab Facility",
-        "score": 14
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog/asc",
-        "anchor_text": "",
-        "score": 13
-      },
-      {
-        "url": "https://www.simsonpharma.com/literature",
-        "anchor_text": "Literature",
-        "score": 13
-      },
-      {
-        "url": "https://www.simsonpharma.com/brouchures",
-        "anchor_text": "Download Brochures",
-        "score": 13
-      },
-      {
-        "url": "https://www.simsonpharma.com/contactus",
-        "anchor_text": "For India",
-        "score": 12
-      },
-      {
-        "url": "https://www.simsonpharma.com/checkout",
-        "anchor_text": "Proceed to Enquiry",
-        "score": 11
-      },
-      {
-        "url": "https://www.simsonpharma.com/careers",
-        "anchor_text": "Careers",
-        "score": 10
-      },
-      {
-        "url": "https://www.simsonpharma.com/blog",
-        "anchor_text": "Shed No. 6A, TYPE III, TSIIC, Prashanthi Nagar, Beside Gati-Kwe Lane, Kukatpally, Hyderabad, Telangana - 500072",
-        "score": 7
-      },
-      {
-        "url": "https://www.simsonpharma.com/cart",
-        "anchor_text": "",
-        "score": 7
-      },
-      {
-        "url": "https://www.simsonpharma.com/csr",
-        "anchor_text": "CSR Activities",
-        "score": 6
-      },
-      {
-        "url": "https://www.simsonpharma.com/faq",
-        "anchor_text": "FAQ",
-        "score": 6
-      },
-      {
-        "url": "https://www.simsonpharma.com",
-        "anchor_text": "Back To Home",
-        "score": 0
-      }
-    ]
+    "candidate_links": []
   },
   {
     "company": "T-Hub",
@@ -84621,6 +83139,11 @@
   {
     "company": "Tango Therapeutics",
     "press_url": "https://ir.tangotx.com/press-releases",
+    "candidate_links": []
+  },
+  {
+    "company": "Mirati Therapeutics",
+    "press_url": "https://ir.mirati.com/press-releases",
     "candidate_links": []
   },
   {

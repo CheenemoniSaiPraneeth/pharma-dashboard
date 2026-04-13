@@ -1,4 +1,36 @@
 {
+  "2026-04-13": {
+    "monoclonal antibodies": [
+      {
+        "company": "Sanofi",
+        "modality": "monoclonal antibodies",
+        "news": "The European Commission approved Dupixent (dupilumab), a monoclonal antibody, for treating moderate-to-severe chronic spontaneous urticaria in children aged two to 11 years, based on data from the LIBERTY-CUPID clinical study program.",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-13-05-00-00-3272182",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Sanofi",
+        "modality": "monoclonal antibodies",
+        "news": "The European Commission approved Dupixent (dupilumab), a monoclonal antibody, as the first targeted medicine to treat children aged 2 to 11 with chronic spontaneous urticaria. This approval expands the drug's indication in the EU based on data from the LIBERTY-CUPID clinical study program.",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-13-05-00-00-3272182",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "GSK",
+        "modality": "monoclonal antibodies",
+        "news": "GSK presented positive phase I data for mocertatug rezetecan, an antibody-drug conjugate featuring a fully human anti-B7-H4 monoclonal antibody, showing high response rates in ovarian and endometrial cancers. These results support the initiation of five pivotal phase III trials in 2026.",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-presents-positive-data-for-b7-h4-targeted-adc-in-gynaecological-cancers/",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "AbbVie",
+        "modality": "monoclonal antibodies",
+        "news": "AbbVie showcased late-breaking phase 2 data for mirvetuximab soravtansine-gynx (ELAHERE), an antibody-drug conjugate containing a folate receptor alpha-binding antibody, demonstrating a 62.7% objective response rate in platinum-sensitive ovarian cancer. The data supports further investigation of the drug in combination with carboplatin.",
+        "url": "https://news.abbvie.com/2026-04-12-AbbVie-Showcases-Late-Breaking-Phase-2-Data-for-Mirvetuximab-Soravtansine-gynx-ELAHERE-R-in-Platinum-Sensitive-Ovarian-Cancer-PSOC-at-SGO-2026",
+        "query": "monoclonal antibodies"
+      }
+    ]
+  },
   "2026-04-12": {
     "bispecific antibodies": [
       {
