@@ -97199,5 +97199,166 @@
         "score": 30,
         "date_added": "2026-04-13",
         "article_like": true
+    },
+    {
+        "company": "Novartis",
+        "url": "https://www.novartis.com/investors/reporting-and-transparency-hub/social-impact-and-sustainability-targets",
+        "score": 98,
+        "date_added": "2026-04-14",
+        "article_like": true
+    },
+    {
+        "company": "Novartis",
+        "url": "https://www.novartis.com/stories/new-long-term-social-impact-and-sustainability-targets",
+        "score": 77,
+        "date_added": "2026-04-14",
+        "article_like": true
+    },
+    {
+        "company": "Novartis",
+        "url": "https://www.novartis.com/stories/managing-quality-life-cml",
+        "score": 48,
+        "date_added": "2026-04-14",
+        "article_like": true
+    },
+    {
+        "company": "SCIEX",
+        "url": "https://sciex.com/applications/environmental-testing/pfas-analysis-solutions",
+        "score": 75,
+        "date_added": "2026-04-14",
+        "article_like": true
+    },
+    {
+        "company": "Medtronic",
+        "url": "https://news.medtronic.com/2026-04-13-Medtronic-to-announce-financial-results-for-its-fourth-quarter-and-full-fiscal-year-2026",
+        "score": 112,
+        "date_added": "2026-04-14",
+        "article_like": true
+    },
+    {
+        "company": "Biocon Biologics",
+        "url": "https://www.bioconbiologics.com/about-us/executive-committee/",
+        "score": 46,
+        "date_added": "2026-04-14",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/insights/wealth-asset-management/how-leaders-can-aim-for-success-as-private-markets-change-the-rules",
+        "score": 125,
+        "date_added": "2026-04-14",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/people/gaurav-joshi",
+        "score": 42,
+        "date_added": "2026-04-14",
+        "article_like": false
+    },
+    {
+        "company": "KPMG",
+        "url": "https://kpmg.com/xx/en/media/press-releases/2026/04/kpmg-and-insead-launch-global-ai-board-governance-principles.html",
+        "score": 150,
+        "date_added": "2026-04-14",
+        "article_like": true
+    },
+    {
+        "company": "Mylan (Viatris)",
+        "url": "https://newsroom.viatris.com/2026-04-13-Viatris-to-Report-First-Quarter-2026-Financial-Results-on-May-7,-2026",
+        "score": 93,
+        "date_added": "2026-04-14",
+        "article_like": true
+    },
+    {
+        "company": "WuXi Biologics",
+        "url": "https://www.wuxibiologics.com/featured-platforms/dna-to-ind/?1",
+        "score": 47,
+        "date_added": "2026-04-14",
+        "article_like": false
+    },
+    {
+        "company": "PPD (Thermo Fisher)",
+        "url": "https://www.ppd.com/news-item/thermo-fisher-scientifics-ppd-clinical-research-business-collaborates-with-healthverity-to-expand-real-world-data-capabilities/",
+        "score": 154,
+        "date_added": "2026-04-14",
+        "article_like": true
+    },
+    {
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/childrens-hospital-philadelphia-and-labcorp-announce.html",
+        "score": 136,
+        "date_added": "2026-04-14",
+        "article_like": true
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/news/pr/tempus-launches-automated-active-follow-up-service-to-support-guideline-concordant-care/",
+        "score": 115,
+        "date_added": "2026-04-14",
+        "article_like": true
+    },
+    {
+        "company": "Stryker",
+        "url": "https://www.stryker.com/us/en/about/news/2026/stryker-signs-definitive-agreement-acquire-amplitude-vascular-systems.html",
+        "score": 144,
+        "date_added": "2026-04-14",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/about/roche-global-citizenship/humanitarian-social-development",
+        "score": 79,
+        "date_added": "2026-04-14",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-highlights-favorable-12-month-interim-results-for-the-varipulse-platform-at-ehra-2026",
+        "score": 146,
+        "date_added": "2026-04-14",
+        "article_like": true
+    },
+    {
+        "company": "Immunocore",
+        "url": "https://www.immunocore.com/investors/financials-filings/plc-annual-reports",
+        "score": 64,
+        "date_added": "2026-04-14",
+        "article_like": true
+    },
+    {
+        "company": "Ono Pharmaceutical",
+        "url": "https://www.ono-pharma.com/en/investigator_initiated_study",
+        "score": 36,
+        "date_added": "2026-04-14",
+        "article_like": true
+    },
+    {
+        "company": "OXB (Oxford Biomedica)",
+        "url": "https://oxb.com/news/oxb-launches-fast-track-offering-for-aav-and-lentiviral-vector-platforms-accelerating-viral-vector-development-and-manufacture/",
+        "score": 149,
+        "date_added": "2026-04-14",
+        "article_like": true
+    },
+    {
+        "company": "BigHat Biosciences",
+        "url": "https://www.bighatbio.com/news/behind-the-scenes-the-automation-underneath-bighats-in-house-cfps-manufacturing",
+        "score": 99,
+        "date_added": "2026-04-14",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/newsroom/news/almirall-and-barcelona-supercomputing-center-expand-their-collaboration-to-accelerate-innovation-in-medical-dermatology",
+        "score": 150,
+        "date_added": "2026-04-14",
+        "article_like": true
+    },
+    {
+        "company": "Travere Therapeutics",
+        "url": "https://ir.travere.com/press-releases/news-details/2026/Travere-Therapeutics-Announces-Full-FDA-Approval-of-FILSPARI-sparsentan-the-First-and-Only-Approved-Medicine-for-FSGS/default.aspx",
+        "score": 209,
+        "date_added": "2026-04-14",
+        "article_like": false
     }
 ]
