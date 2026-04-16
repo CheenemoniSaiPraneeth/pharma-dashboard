@@ -1,142 +1,261 @@
 [
     {
-        "company": "Novartis",
-        "url": "https://www.novartis.com/investors/reporting-and-transparency-hub/social-impact-and-sustainability-targets",
-        "score": 98,
-        "date_added": "2026-04-14",
+        "company": "MSD",
+        "url": "https://www.msd.com/research/clinical-trials/diversity-in-clinical-trials/",
+        "score": 73,
+        "date_added": "2026-04-16",
         "article_like": true
     },
     {
-        "company": "Novartis",
-        "url": "https://www.novartis.com/stories/new-long-term-social-impact-and-sustainability-targets",
-        "score": 77,
-        "date_added": "2026-04-14",
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/Crystalline-Silica_-What-RCS-Is-Why-Respirable-Fraction-Matters",
+        "score": 142,
+        "date_added": "2026-04-16",
         "article_like": true
     },
     {
-        "company": "Novartis",
-        "url": "https://www.novartis.com/stories/managing-quality-life-cml",
-        "score": 48,
-        "date_added": "2026-04-14",
+        "company": "Google DeepMind",
+        "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+        "score": 45,
+        "date_added": "2026-04-16",
         "article_like": true
     },
     {
-        "company": "SCIEX",
-        "url": "https://sciex.com/applications/environmental-testing/pfas-analysis-solutions",
-        "score": 75,
-        "date_added": "2026-04-14",
-        "article_like": true
-    },
-    {
-        "company": "Medtronic",
-        "url": "https://news.medtronic.com/2026-04-13-Medtronic-to-announce-financial-results-for-its-fourth-quarter-and-full-fiscal-year-2026",
-        "score": 112,
-        "date_added": "2026-04-14",
-        "article_like": true
-    },
-    {
-        "company": "Biocon Biologics",
-        "url": "https://www.bioconbiologics.com/about-us/executive-committee/",
-        "score": 46,
-        "date_added": "2026-04-14",
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=a6de4a6d-a68c-44e9-9575-b3dcb0a82838",
+        "score": 80,
+        "date_added": "2026-04-16",
         "article_like": true
     },
     {
         "company": "EY-Parthenon",
-        "url": "https://www.ey.com/en_gl/insights/wealth-asset-management/how-leaders-can-aim-for-success-as-private-markets-change-the-rules",
-        "score": 125,
-        "date_added": "2026-04-14",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/04/new-ey-survey-reveals-ai-literacy-training-opportunity-for-baby-boomer-users",
+        "score": 145,
+        "date_added": "2026-04-16",
         "article_like": true
     },
     {
         "company": "KPMG",
-        "url": "https://kpmg.com/xx/en/media/press-releases/2026/04/kpmg-and-insead-launch-global-ai-board-governance-principles.html",
-        "score": 150,
-        "date_added": "2026-04-14",
+        "url": "https://kpmg.com/xx/en/media/press-releases/2026/04/global-vc-investment-surges-to-record-330-9-billion-dollar-in-q1-26.html",
+        "score": 157,
+        "date_added": "2026-04-16",
         "article_like": true
     },
     {
-        "company": "Mylan (Viatris)",
-        "url": "https://newsroom.viatris.com/2026-04-13-Viatris-to-Report-First-Quarter-2026-Financial-Results-on-May-7,-2026",
-        "score": 93,
-        "date_added": "2026-04-14",
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-completes-acquisition-of-35pharma-inc/",
+        "score": 90,
+        "date_added": "2026-04-16",
         "article_like": true
     },
     {
-        "company": "PPD (Thermo Fisher)",
-        "url": "https://www.ppd.com/news-item/thermo-fisher-scientifics-ppd-clinical-research-business-collaborates-with-healthverity-to-expand-real-world-data-capabilities/",
-        "score": 154,
-        "date_added": "2026-04-14",
+        "company": "WuXi Biologics",
+        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-achieves-iso-13485-certification-signifying-strong-capabilities-in-drug-device-combination-product-development-and-manufacturing/",
+        "score": 175,
+        "date_added": "2026-04-16",
         "article_like": true
     },
     {
         "company": "Labcorp Drug Development",
-        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/childrens-hospital-philadelphia-and-labcorp-announce.html",
-        "score": 136,
-        "date_added": "2026-04-14",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-launches-fda-cleared-fentanyl-test-delivering-results-10.html",
+        "score": 148,
+        "date_added": "2026-04-16",
+        "article_like": true
+    },
+    {
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-introduces-ai-powered-real-world-data-platform-aws-and.html",
+        "score": 146,
+        "date_added": "2026-04-16",
+        "article_like": true
+    },
+    {
+        "company": "Benchling",
+        "url": "https://www.benchling.com/news/benchling-launches-ai-connectors-to-power-data-ecosystem",
+        "score": 76,
+        "date_added": "2026-04-16",
         "article_like": true
     },
     {
         "company": "Tempus",
-        "url": "https://www.tempus.com/news/pr/tempus-launches-automated-active-follow-up-service-to-support-guideline-concordant-care/",
-        "score": 115,
-        "date_added": "2026-04-14",
+        "url": "https://www.tempus.com/news/pr/tempus-and-predicta-biosciences-announce-collaboration-to-expand-life-sciences-access-to-ultrasensitive-whole-genome-sequencing-assay-for-hematologic-malignancies-and-mrd-monitoring/",
+        "score": 209,
+        "date_added": "2026-04-16",
         "article_like": true
     },
     {
-        "company": "Stryker",
-        "url": "https://www.stryker.com/us/en/about/news/2026/stryker-signs-definitive-agreement-acquire-amplitude-vascular-systems.html",
-        "score": 144,
-        "date_added": "2026-04-14",
+        "company": "Tempus",
+        "url": "https://www.tempus.com/news/pr/tempus-announces-31-abstracts-for-presentation-at-the-american-association-for-cancer-research-annual-meeting-2026/",
+        "score": 142,
+        "date_added": "2026-04-16",
         "article_like": true
     },
     {
-        "company": "Roche",
-        "url": "https://www.roche.com/about/roche-global-citizenship/humanitarian-social-development",
-        "score": 79,
-        "date_added": "2026-04-14",
+        "company": "Edwards Lifesciences",
+        "url": "https://www.edwards.com/newsroom/news/2026-04-14-edwards-lifesciences-launches-stay-in-the-race",
+        "score": 88,
+        "date_added": "2026-04-16",
+        "article_like": true
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/about/news-and-media/caris-rit-clinical-trial-solutions-expands-access/",
+        "score": 90,
+        "date_added": "2026-04-16",
         "article_like": true
     },
     {
         "company": "Johnson & Johnson",
-        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-highlights-favorable-12-month-interim-results-for-the-varipulse-platform-at-ehra-2026",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-64th-consecutive-year-of-dividend-increase-raises-quarterly-dividend-by-3-1",
         "score": 146,
-        "date_added": "2026-04-14",
+        "date_added": "2026-04-16",
         "article_like": true
     },
     {
-        "company": "Immunocore",
-        "url": "https://www.immunocore.com/investors/financials-filings/plc-annual-reports",
-        "score": 64,
-        "date_added": "2026-04-14",
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-to-participate-in-the-bank-of-america-2026-healthcare-conference",
+        "score": 125,
+        "date_added": "2026-04-16",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-reports-q1-2026-results-raises-2026-outlook",
+        "score": 104,
+        "date_added": "2026-04-16",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-04-14-Erin-Lichy-Gets-Real-About-Her-Natrelle-R-Breast-Augmentation",
+        "score": 85,
+        "date_added": "2026-04-16",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-04-14-Erin-Lichy-Gets-Real-About-Her-Natrelle-R-Breast-Augmentation#assets_2429_124773-149",
+        "score": 85,
+        "date_added": "2026-04-16",
+        "article_like": true
+    },
+    {
+        "company": "Gilead Sciences",
+        "url": "https://www.gilead.com/news/news-details/2026/pepfar-and-the-global-fund-make-additional-investment-in-gileads-lenacapavir-for-hiv-prevention-to-further-expand-access",
+        "score": 187,
+        "date_added": "2026-04-16",
+        "article_like": true
+    },
+    {
+        "company": "Astellas Pharma",
+        "url": "https://newsroom.astellas.com/2026-04-15-astellas-doses-first-patient-in-phase-3-study-of-setidegrasib-for-kras-g12d-mutated-metastatic-pancreatic-ductal-adenocarcinoma",
+        "score": 151,
+        "date_added": "2026-04-16",
+        "article_like": true
+    },
+    {
+        "company": "Iktos",
+        "url": "https://iktos.ai/resources/press/aws-pioneers-project---iktos",
+        "score": 61,
+        "date_added": "2026-04-16",
+        "article_like": true
+    },
+    {
+        "company": "IQVIA",
+        "url": "https://www.iqvia.com/newsroom/2026/04/iqvia-to-announce-first-quarter-2026-results-on-may-5-2026",
+        "score": 119,
+        "date_added": "2026-04-16",
+        "article_like": true
+    },
+    {
+        "company": "UCB",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-presents-new-data-demonstrating-quality-of-life-impacts-for-epilepsy-patients-and-caregivers-at-aan-2026-meeting",
+        "score": 167,
+        "date_added": "2026-04-16",
         "article_like": true
     },
     {
         "company": "Ono Pharmaceutical",
-        "url": "https://www.ono-pharma.com/en/investigator_initiated_study",
-        "score": 36,
-        "date_added": "2026-04-14",
+        "url": "https://www.ono-pharma.com/en/company/strategy/growth_strategy",
+        "score": 44,
+        "date_added": "2026-04-16",
         "article_like": true
     },
     {
-        "company": "OXB (Oxford Biomedica)",
-        "url": "https://oxb.com/news/oxb-launches-fast-track-offering-for-aav-and-lentiviral-vector-platforms-accelerating-viral-vector-development-and-manufacture/",
-        "score": 149,
-        "date_added": "2026-04-14",
+        "company": "Disc Medicine",
+        "url": "https://ir.discmedicine.com/news-releases#main-menu",
+        "score": 26,
+        "date_added": "2026-04-16",
         "article_like": true
     },
     {
-        "company": "BigHat Biosciences",
-        "url": "https://www.bighatbio.com/news/behind-the-scenes-the-automation-underneath-bighats-in-house-cfps-manufacturing",
-        "score": 99,
-        "date_added": "2026-04-14",
+        "company": "Bavarian Nordic",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7492",
+        "score": 30,
+        "date_added": "2026-04-16",
         "article_like": true
     },
     {
-        "company": "Almirall",
-        "url": "https://www.almirall.com/newsroom/news/almirall-and-barcelona-supercomputing-center-expand-their-collaboration-to-accelerate-innovation-in-medical-dermatology",
-        "score": 150,
-        "date_added": "2026-04-14",
+        "company": "BioSolveIT",
+        "url": "https://www.biosolveit.de/2026/04/09/the-95-billion-update-access-the-real-space/",
+        "score": 101,
+        "date_added": "2026-04-16",
+        "article_like": true
+    },
+    {
+        "company": "Dassault Systemes BIOVIA",
+        "url": "https://www.3ds.com/careers/jobs/Press-Relations-Communications-Manager-m-f-d-EuroCentral-546646",
+        "score": 93,
+        "date_added": "2026-04-16",
+        "article_like": true
+    },
+    {
+        "company": "Storm Therapeutics",
+        "url": "https://www.stormtherapeutics.com/news/press-releases/storm-therapeutics-secures-56-million-series-c-financing-and-doses-first-patient-in-phase-2-sarcoma-trial-of-stc-15/",
+        "score": 155,
+        "date_added": "2026-04-16",
+        "article_like": true
+    },
+    {
+        "company": "Abridge",
+        "url": "https://www.abridge.com/blog/abridge-integrates-nejm-jama",
+        "score": 48,
+        "date_added": "2026-04-16",
+        "article_like": true
+    },
+    {
+        "company": "Oxford Nanopore Technologies",
+        "url": "https://nanoporetech.com/news/cepheid-and-oxford-nanopore-expand-partnership-following-successful-phase-one-collaboration",
+        "score": 111,
+        "date_added": "2026-04-16",
+        "article_like": true
+    },
+    {
+        "company": "Oxford Nanopore Technologies",
+        "url": "https://nanoporetech.com/blog/london-calling-2026-whats-coming-and-why-you-should-care-",
+        "score": 77,
+        "date_added": "2026-04-16",
+        "article_like": true
+    },
+    {
+        "company": "Oxford Nanopore Technologies",
+        "url": "https://nanoporetech.com/blog/science-unlocked-publication-picks-from-march-2026",
+        "score": 70,
+        "date_added": "2026-04-16",
+        "article_like": true
+    },
+    {
+        "company": "Kiora Pharmaceuticals",
+        "url": "https://ir.kiorapharma.com/news-events/news-releases/detail/248/kioras-phase-1-abacus-study-of-kio-301-in-retinitis-pigmentosa-published-in-nature-medicine-phase-2-trial-underway",
+        "score": 172,
+        "date_added": "2026-04-16",
+        "article_like": true
+    },
+    {
+        "company": "Hinge Bio",
+        "url": "https://hingebio.com/2026/04/hinge-bio-announces-first-subject-dosed-in-phase-1-trial-of-hb2198-a-novel-b-cell-depleting-agent-for-treating-autoimmune-disease/",
+        "score": 182,
+        "date_added": "2026-04-16",
         "article_like": true
     }
 ]

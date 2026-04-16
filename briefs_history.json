@@ -1,4 +1,40 @@
 {
+  "2026-04-16": {
+    "bispecific antibodies": [
+      {
+        "company": "Hinge Bio",
+        "modality": "bispecific antibodies",
+        "news": "Hinge Bio announced the first subject dosed in a Phase 1 clinical trial of HB2198, a novel multispecific antibody candidate targeting CD19 and CD20 for treating autoimmune diseases. The company has initiated two Phase 1 trials: one in healthy volunteers to assess safety and tolerability, and another in patients with Systemic Lupus Erythematosus (SLE).",
+        "url": "https://hingebio.com/2026/04/hinge-bio-announces-first-subject-dosed-in-phase-1-trial-of-hb2198-a-novel-b-cell-depleting-agent-for-treating-autoimmune-disease/",
+        "query": "bispecific antibodies"
+      }
+    ],
+    "monoclonal antibodies": [
+      {
+        "company": "GSK",
+        "modality": "monoclonal antibodies",
+        "news": "GSK completed the acquisition of 35Pharma Inc. for $950 million, gaining access to HS235, a novel protein-based therapeutic targeting the activin receptor signaling pathway for pulmonary hypertension. While the press release describes HS235 as a protein-based therapeutic, the acquisition expands GSK's respiratory and immunology pipeline with a differentiated mechanism of action.",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-completes-acquisition-of-35pharma-inc/",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Hinge Bio",
+        "modality": "monoclonal antibodies",
+        "news": "Hinge Bio announced the first subject dosed in a Phase 1 clinical trial of HB2198, a novel multispecific antibody candidate targeting CD19 and CD20 for treating autoimmune diseases. The company has initiated two Phase 1 trials, one in healthy volunteers and another in patients with Systemic Lupus Erythematosus (SLE).",
+        "url": "https://hingebio.com/2026/04/hinge-bio-announces-first-subject-dosed-in-phase-1-trial-of-hb2198-a-novel-b-cell-depleting-agent-for-treating-autoimmune-disease/",
+        "query": "monoclonal antibodies"
+      }
+    ],
+    "molecular glues": [
+      {
+        "company": "STORM Therapeutics",
+        "modality": "molecular glues",
+        "news": "STORM Therapeutics secured $56 million in Series C financing and dosed the first patient in a Phase 2 sarcoma trial for STC-15, a first-in-class METTL3 inhibitor that functions as a molecular glue to reprogram malignant progenitor cells.",
+        "url": "https://www.stormtherapeutics.com/news/press-releases/storm-therapeutics-secures-56-million-series-c-financing-and-doses-first-patient-in-phase-2-sarcoma-trial-of-stc-15/",
+        "query": "molecular glues"
+      }
+    ]
+  },
   "2026-04-14": {
     "monoclonal antibodies": [
       {
