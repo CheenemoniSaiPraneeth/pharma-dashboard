@@ -1,4 +1,40 @@
 {
+  "2026-04-19": {
+    "bispecific antibodies": [
+      {
+        "company": "Gilead Sciences",
+        "modality": "bispecific antibodies",
+        "news": "Gilead Sciences received all required regulatory approvals to proceed with its acquisition of Arcellx, a company specializing in cell therapies and bispecific antibodies. The company extended its tender offer for Arcellx shares to $115.00 per share plus contingent value rights, pending the expiration of a 14-day waiting period from Australian competition authorities.",
+        "url": "https://www.gilead.com/news/news-details/2026/gilead-receives-all-required-regulatory-approvals-for-the-acquisition-of-arcellx-and-extends-tender-offer",
+        "query": "bispecific antibodies"
+      }
+    ],
+    "monoclonal antibodies": [
+      {
+        "company": "Gilead Sciences",
+        "modality": "monoclonal antibodies",
+        "news": "Gilead Sciences received all required regulatory approvals to proceed with its acquisition of Arcellx, a company developing bispecific antibodies and CAR-T therapies, and extended the tender offer deadline to April 27, 2026.",
+        "url": "https://www.gilead.com/news/news-details/2026/gilead-receives-all-required-regulatory-approvals-for-the-acquisition-of-arcellx-and-extends-tender-offer",
+        "query": "monoclonal antibodies"
+      }
+    ],
+    "gene editing": [
+      {
+        "company": "Gilead Sciences",
+        "modality": "gene editing",
+        "news": "Gilead Sciences received all required regulatory approvals to proceed with its acquisition of Arcellx, a company developing anito-cel, a CAR-T cell therapy for multiple myeloma. The tender offer was extended to April 27, 2026, with a purchase price of $115.00 per share plus contingent value rights tied to future sales milestones.",
+        "url": "https://www.gilead.com/news/news-details/2026/gilead-receives-all-required-regulatory-approvals-for-the-acquisition-of-arcellx-and-extends-tender-offer",
+        "query": "gene editing"
+      },
+      {
+        "company": "UCB",
+        "modality": "gene editing",
+        "news": "UCB announced a definitive agreement to acquire Neurona Therapeutics for up to $1.15 billion to advance regenerative cell therapies for epilepsy. The deal includes NRTX-1001, a neuronal cell therapy candidate currently in Phase I/II trials, which utilizes pluripotent stem cell technology to restore neural circuitry.",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-to-acquire-neurona-therapeutics-advancing-its-innovative-leadership-in-epilepsy-through-regenerative-science",
+        "query": "gene editing"
+      }
+    ]
+  },
   "2026-04-16": {
     "bispecific antibodies": [
       {
