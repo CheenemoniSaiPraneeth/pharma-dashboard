@@ -1,23 +1,29 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 50,
-    "items_extracted": 2,
+    "articles_used": 9,
+    "items_extracted": 3,
     "items_dropped": 0,
-    "generated_at": "2026-04-19 07:33:33"
+    "generated_at": "2026-04-20 08:09:23"
   },
   "news": [
     {
-      "company": "Gilead Sciences",
-      "modality": "gene editing",
-      "news": "Gilead Sciences received all required regulatory approvals to proceed with its acquisition of Arcellx, a company developing anito-cel, a CAR-T cell therapy for multiple myeloma. The tender offer was extended to April 27, 2026, with a purchase price of $115.00 per share plus contingent value rights tied to future sales milestones.",
-      "url": "https://www.gilead.com/news/news-details/2026/gilead-receives-all-required-regulatory-approvals-for-the-acquisition-of-arcellx-and-extends-tender-offer"
+      "company": "GSK",
+      "modality": "monoclonal antibodies",
+      "news": "GSK announced that the National Medical Products Administration (NMPA) of China has approved Blenrep (belantamab mafodotin), an antibody-drug conjugate targeting BCMA, for the treatment of relapsed or refractory multiple myeloma in combination with bortezomib and dexamethasone.",
+      "url": "https://www.gsk.com/en-gb/media/press-releases/blenrep-belantamab-mafodotin-approved-in-china-for-treatment-of-2lplus-relapsedrefractory-multiple-myeloma/"
     },
     {
-      "company": "UCB",
-      "modality": "gene editing",
-      "news": "UCB announced a definitive agreement to acquire Neurona Therapeutics for up to $1.15 billion to advance regenerative cell therapies for epilepsy. The deal includes NRTX-1001, a neuronal cell therapy candidate currently in Phase I/II trials, which utilizes pluripotent stem cell technology to restore neural circuitry.",
-      "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-to-acquire-neurona-therapeutics-advancing-its-innovative-leadership-in-epilepsy-through-regenerative-science"
+      "company": "AstraZeneca",
+      "modality": "monoclonal antibodies",
+      "news": "AstraZeneca reported positive results from the Phase III MIRANDA trial for tozorakimab, an IL-33-targeting monoclonal antibody, which met its primary endpoint by significantly reducing the annualized rate of moderate-to-severe COPD exacerbations.",
+      "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/third-tozorakimab-positive-phase-iii-in-copd.html"
+    },
+    {
+      "company": "Immunocore",
+      "modality": "bispecific antibodies",
+      "news": "Immunocore presented five-year overall survival data for KIMMTRAK (tebentafusp), a TCR-bispecific protein, at the AACR 2026 meeting, showing it doubled the likelihood of survival at five years compared to the control arm in patients with metastatic uveal melanoma.",
+      "url": "https://www.immunocore.com/investors/news/press-releases/detail/129/kimmtrak-doubles-the-likelihood-of-being-alive-at-five-years-for-first-line-hla-a02-01-patients-with-metastatic-uveal-melanoma"
     }
   ]
 }

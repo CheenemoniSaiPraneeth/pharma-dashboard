@@ -98249,5 +98249,68 @@
         "score": 27,
         "date_added": "2026-04-19",
         "article_like": true
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/press/20april2026-global-economy-four-different-directions-2050",
+        "score": 78,
+        "date_added": "2026-04-20",
+        "article_like": true
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/media/perspectives/why-continuous-learning-is-the-lifeblood-of-the-pharmaceutical-industry",
+        "score": 107,
+        "date_added": "2026-04-20",
+        "article_like": true
+    },
+    {
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/blenrep-belantamab-mafodotin-approved-in-china-for-treatment-of-2lplus-relapsedrefractory-multiple-myeloma/",
+        "score": 155,
+        "date_added": "2026-04-20",
+        "article_like": true
+    },
+    {
+        "company": "AstraZeneca",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/third-tozorakimab-positive-phase-iii-in-copd.html",
+        "score": 145,
+        "date_added": "2026-04-20",
+        "article_like": true
+    },
+    {
+        "company": "Immunocore",
+        "url": "https://www.immunocore.com/investors/news/press-releases/detail/129/kimmtrak-doubles-the-likelihood-of-being-alive-at-five-years-for-first-line-hla-a02-01-patients-with-metastatic-uveal-melanoma",
+        "score": 190,
+        "date_added": "2026-04-20",
+        "article_like": true
+    },
+    {
+        "company": "Kyowa Kirin",
+        "url": "https://www.kyowakirin.com/media_center/news_releases/2026/e20260303_01.html",
+        "score": 83,
+        "date_added": "2026-04-20",
+        "article_like": true
+    },
+    {
+        "company": "Kyowa Kirin",
+        "url": "https://www.kyowakirin.com/media_center/news_releases/2026/e20260216_01.html",
+        "score": 83,
+        "date_added": "2026-04-20",
+        "article_like": true
+    },
+    {
+        "company": "Kyowa Kirin",
+        "url": "https://www.kyowakirin.com/media_center/news_releases/2026/e20260209_01.html",
+        "score": 83,
+        "date_added": "2026-04-20",
+        "article_like": true
+    },
+    {
+        "company": "Kyowa Kirin",
+        "url": "https://www.kyowakirin.com/media_center/news_releases/2026/e20260130_01.html",
+        "score": 83,
+        "date_added": "2026-04-20",
+        "article_like": true
     }
 ]

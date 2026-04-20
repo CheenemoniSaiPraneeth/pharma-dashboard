@@ -1,4 +1,94 @@
 {
+  "2026-04-20": {
+    "monoclonal antibodies": [
+      {
+        "company": "AstraZeneca",
+        "modality": "monoclonal antibodies",
+        "news": "AstraZeneca announced that tozorakimab, a first-in-class IL-33-targeting monoclonal antibody, met its primary endpoint in the Phase III MIRANDA trial for COPD. The drug demonstrated a statistically significant reduction in moderate-to-severe exacerbations in former smokers and the overall population.",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/third-tozorakimab-positive-phase-iii-in-copd.html",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Kyowa Kirin",
+        "modality": "monoclonal antibodies",
+        "news": "Kyowa Kirin announced the discontinuation of all ongoing clinical trials for rocatinlimab, an investigational anti-OX40 monoclonal antibody, due to emerging safety concerns regarding malignancies, including cases of Kaposi's sarcoma.",
+        "url": "https://www.kyowakirin.com/media_center/news_releases/2026/e20260303_01.html",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Kyowa Kirin",
+        "modality": "monoclonal antibodies",
+        "news": "Kyowa Kirin terminated its collaboration with Amgen to regain full control of the global development and commercialization program for rocatinlimab, an anti-OX40 monoclonal antibody for atopic dermatitis, following a strategic portfolio prioritization by Amgen.",
+        "url": "https://www.kyowakirin.com/media_center/news_releases/2026/e20260130_01.html",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "GSK",
+        "modality": "monoclonal antibodies",
+        "news": "GSK announced that the National Medical Products Administration (NMPA) of China approved Blenrep (belantamab mafodotin), a monoclonal antibody-drug conjugate, in combination with bortezomib and dexamethasone for the treatment of adults with relapsed or refractory multiple myeloma who have received at least one prior line of therapy.",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/blenrep-belantamab-mafodotin-approved-in-china-for-treatment-of-2lplus-relapsedrefractory-multiple-myeloma/",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "AstraZeneca",
+        "modality": "monoclonal antibodies",
+        "news": "AstraZeneca reported that tozorakimab, a first-in-class monoclonal antibody targeting IL-33, met its primary endpoint in the Phase III MIRANDA trial, demonstrating a statistically significant reduction in the annualized rate of moderate-to-severe COPD exacerbations in former smokers and the overall population.",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/third-tozorakimab-positive-phase-iii-in-copd.html",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Immunocore",
+        "modality": "monoclonal antibodies",
+        "news": "Immunocore presented five-year overall survival data for KIMMTRAK (tebentafusp-tebn), a bispecific TCR-CD3 protein, at the AACR 2026 meeting, showing it doubled the likelihood of being alive at five years compared to the control arm in first-line HLA-A*02:01-positive patients with metastatic uveal melanoma.",
+        "url": "https://www.immunocore.com/investors/news/press-releases/detail/129/kimmtrak-doubles-the-likelihood-of-being-alive-at-five-years-for-first-line-hla-a02-01-patients-with-metastatic-uveal-melanoma",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Kyowa Kirin",
+        "modality": "monoclonal antibodies",
+        "news": "Kyowa Kirin announced the discontinuation of all ongoing clinical trials for rocatinlimab, an investigational anti-OX40 monoclonal antibody, due to emerging safety concerns regarding malignancies including Kaposi's sarcoma.",
+        "url": "https://www.kyowakirin.com/media_center/news_releases/2026/e20260303_01.html",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Kyowa Kirin",
+        "modality": "monoclonal antibodies",
+        "news": "Kyowa Kirin terminated its collaboration with Amgen to regain full global control of the rocatinlimab development and commercialization program for atopic dermatitis.",
+        "url": "https://www.kyowakirin.com/media_center/news_releases/2026/e20260130_01.html",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "GSK",
+        "modality": "monoclonal antibodies",
+        "news": "GSK announced that the National Medical Products Administration (NMPA) of China has approved Blenrep (belantamab mafodotin), an antibody-drug conjugate targeting BCMA, for the treatment of relapsed or refractory multiple myeloma in combination with bortezomib and dexamethasone.",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/blenrep-belantamab-mafodotin-approved-in-china-for-treatment-of-2lplus-relapsedrefractory-multiple-myeloma/",
+        "query": "gene editing"
+      },
+      {
+        "company": "AstraZeneca",
+        "modality": "monoclonal antibodies",
+        "news": "AstraZeneca reported positive results from the Phase III MIRANDA trial for tozorakimab, an IL-33-targeting monoclonal antibody, which met its primary endpoint by significantly reducing the annualized rate of moderate-to-severe COPD exacerbations.",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/third-tozorakimab-positive-phase-iii-in-copd.html",
+        "query": "gene editing"
+      }
+    ],
+    "bispecific antibodies": [
+      {
+        "company": "Immunocore",
+        "modality": "bispecific antibodies",
+        "news": "Immunocore presented five-year overall survival data for KIMMTRAK (tebentafusp), a TCR-bispecific protein, at the AACR 2026 meeting. The data showed that KIMMTRAK doubled the likelihood of being alive at five years compared to the control arm in patients with metastatic uveal melanoma.",
+        "url": "https://www.immunocore.com/investors/news/press-releases/detail/129/kimmtrak-doubles-the-likelihood-of-being-alive-at-five-years-for-first-line-hla-a02-01-patients-with-metastatic-uveal-melanoma",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Immunocore",
+        "modality": "bispecific antibodies",
+        "news": "Immunocore presented five-year overall survival data for KIMMTRAK (tebentafusp), a TCR-bispecific protein, at the AACR 2026 meeting, showing it doubled the likelihood of survival at five years compared to the control arm in patients with metastatic uveal melanoma.",
+        "url": "https://www.immunocore.com/investors/news/press-releases/detail/129/kimmtrak-doubles-the-likelihood-of-being-alive-at-five-years-for-first-line-hla-a02-01-patients-with-metastatic-uveal-melanoma",
+        "query": "gene editing"
+      }
+    ]
+  },
   "2026-04-19": {
     "bispecific antibodies": [
       {
