@@ -1,65 +1,247 @@
 [
     {
+        "company": "Veeva Systems",
+        "url": "https://www.veeva.com/veeva-safety-for-cros/",
+        "score": 37,
+        "date_added": "2026-04-21",
+        "article_like": true
+    },
+    {
+        "company": "Instem",
+        "url": "https://www.instem.com/instem-taps-ex-novartis-head-of-emerging-technologies-to-put-science-behind-practical-ai-and-nams/",
+        "score": 113,
+        "date_added": "2026-04-21",
+        "article_like": true
+    },
+    {
+        "company": "Medtronic",
+        "url": "https://news.medtronic.com/2026-04-20-Medtronic-completes-acquisition-of-CathWorks,-expanding-its-leadership-in-transforming-care-for-patients-with-cardiovascular-disease",
+        "score": 156,
+        "date_added": "2026-04-21",
+        "article_like": true
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/feature-articles/tsinghua-university-brings-hands-on-multiomics-training-to-young.html",
+        "score": 125,
+        "date_added": "2026-04-21",
+        "article_like": true
+    },
+    {
         "company": "Boston Consulting Group",
-        "url": "https://www.bcg.com/press/20april2026-global-economy-four-different-directions-2050",
-        "score": 78,
-        "date_added": "2026-04-20",
+        "url": "https://www.bcg.com/publications/2026/consumers-are-ready-for-ai-health-care-are-systems",
+        "score": 110,
+        "date_added": "2026-04-21",
         "article_like": true
     },
     {
-        "company": "Lupin",
-        "url": "https://www.lupin.com/media/perspectives/why-continuous-learning-is-the-lifeblood-of-the-pharmaceutical-industry",
-        "score": 107,
-        "date_added": "2026-04-20",
+        "company": "Granules India",
+        "url": "http://granulesindia.com/investors/notice-disclosures/notice-of-board-meetings/",
+        "score": 73,
+        "date_added": "2026-04-21",
         "article_like": true
     },
     {
-        "company": "GSK",
-        "url": "https://www.gsk.com/en-gb/media/press-releases/blenrep-belantamab-mafodotin-approved-in-china-for-treatment-of-2lplus-relapsedrefractory-multiple-myeloma/",
-        "score": 155,
-        "date_added": "2026-04-20",
+        "company": "Granules India",
+        "url": "http://granulesindia.com/investors/investor-resources/investor-presentation/",
+        "score": 70,
+        "date_added": "2026-04-21",
+        "article_like": true
+    },
+    {
+        "company": "Granules India",
+        "url": "http://granulesindia.com/products/pharmaceutical-formulations-intermediates/",
+        "score": 68,
+        "date_added": "2026-04-21",
+        "article_like": true
+    },
+    {
+        "company": "Granules India",
+        "url": "http://granulesindia.com/products/active-pharmaceutical-ingredients-apis/",
+        "score": 65,
+        "date_added": "2026-04-21",
+        "article_like": true
+    },
+    {
+        "company": "Granules India",
+        "url": "http://granulesindia.com/investors/financial-highlights-revenue-break-up/",
+        "score": 65,
+        "date_added": "2026-04-21",
+        "article_like": true
+    },
+    {
+        "company": "Granules India",
+        "url": "http://granulesindia.com/wp-content/uploads/our-purpose-vision-values/",
+        "score": 64,
+        "date_added": "2026-04-21",
+        "article_like": true
+    },
+    {
+        "company": "Granules India",
+        "url": "http://granulesindia.com/investors-relations/notice-disclosures/",
+        "score": 56,
+        "date_added": "2026-04-21",
+        "article_like": true
+    },
+    {
+        "company": "Granules India",
+        "url": "http://granulesindia.com/investors-relations/financial-reports/",
+        "score": 55,
+        "date_added": "2026-04-21",
+        "article_like": true
+    },
+    {
+        "company": "Granules India",
+        "url": "http://granulesindia.com/investors/investor-relation-contact/",
+        "score": 53,
+        "date_added": "2026-04-21",
+        "article_like": true
+    },
+    {
+        "company": "Granules India",
+        "url": "http://granulesindia.com/about-us/operational-excellence/",
+        "score": 49,
+        "date_added": "2026-04-21",
+        "article_like": true
+    },
+    {
+        "company": "Granules India",
+        "url": "http://granulesindia.com/about-us/our-business-segments/",
+        "score": 48,
+        "date_added": "2026-04-21",
+        "article_like": true
+    },
+    {
+        "company": "Granules India",
+        "url": "http://granulesindia.com/about-us/research-development/",
+        "score": 47,
+        "date_added": "2026-04-21",
+        "article_like": true
+    },
+    {
+        "company": "Granules India",
+        "url": "http://granulesindia.com/investors/other-information/",
+        "score": 45,
+        "date_added": "2026-04-21",
+        "article_like": true
+    },
+    {
+        "company": "Granules India",
+        "url": "http://granulesindia.com/investors/corporate-centre/",
+        "score": 44,
+        "date_added": "2026-04-21",
+        "article_like": true
+    },
+    {
+        "company": "Granules India",
+        "url": "http://granulesindia.com/products/finished-dosages/",
+        "score": 43,
+        "date_added": "2026-04-21",
+        "article_like": true
+    },
+    {
+        "company": "Granules India",
+        "url": "http://granulesindia.com/data-privacy-complaint-form/",
+        "score": 43,
+        "date_added": "2026-04-21",
+        "article_like": true
+    },
+    {
+        "company": "Granules India",
+        "url": "http://granulesindia.com/careers/life-at-granules/",
+        "score": 42,
+        "date_added": "2026-04-21",
+        "article_like": true
+    },
+    {
+        "company": "Granules India",
+        "url": "http://granulesindia.com/careers/current-openings/",
+        "score": 42,
+        "date_added": "2026-04-21",
+        "article_like": true
+    },
+    {
+        "company": "Granules India",
+        "url": "http://granulesindia.com/register-as-supplier/",
+        "score": 36,
+        "date_added": "2026-04-21",
+        "article_like": true
+    },
+    {
+        "company": "Granules India",
+        "url": "http://granulesindia.com/register-as-supplier",
+        "score": 33,
+        "date_added": "2026-04-21",
+        "article_like": true
+    },
+    {
+        "company": "Genentech",
+        "url": "https://www.gene.com/media/press-releases/15107/2026-04-20/fda-accepts-application-for-genentechs-g",
+        "score": 99,
+        "date_added": "2026-04-21",
+        "article_like": true
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-to-report-first-quarter-2026-financial-results-on-may-7-2026/",
+        "score": 121,
+        "date_added": "2026-04-21",
+        "article_like": true
+    },
+    {
+        "company": "Pfizer",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/us-fda-grants-priority-review-sbla-padcevtm-keytrudar",
+        "score": 112,
+        "date_added": "2026-04-21",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-04-21",
+        "score": 50,
+        "date_added": "2026-04-21",
         "article_like": true
     },
     {
         "company": "AstraZeneca",
-        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/third-tozorakimab-positive-phase-iii-in-copd.html",
-        "score": 145,
-        "date_added": "2026-04-20",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/i-can-phiii-interim-analysis-met-primary-endpoint.html",
+        "score": 150,
+        "date_added": "2026-04-21",
         "article_like": true
     },
     {
-        "company": "Immunocore",
-        "url": "https://www.immunocore.com/investors/news/press-releases/detail/129/kimmtrak-doubles-the-likelihood-of-being-alive-at-five-years-for-first-line-hla-a02-01-patients-with-metastatic-uveal-melanoma",
-        "score": 190,
-        "date_added": "2026-04-20",
+        "company": "Astellas Pharma",
+        "url": "https://newsroom.astellas.com/2026-04-21-us-fda-grants-priority-review-to-sbla-for-padcev-tm-keytruda-r-as-perioperative-treatment-for-muscle-invasive-bladder-cancer-regardless-of-cisplatin-eligibility",
+        "score": 184,
+        "date_added": "2026-04-21",
         "article_like": true
     },
     {
-        "company": "Kyowa Kirin",
-        "url": "https://www.kyowakirin.com/media_center/news_releases/2026/e20260303_01.html",
-        "score": 83,
-        "date_added": "2026-04-20",
+        "company": "AbCellera",
+        "url": "https://www.abcellera.com/news/abcellera-to-highlight-phase-1-clinical-data-for-abcl635-during-upcoming-first-quarter-2026-earnings-call",
+        "score": 125,
+        "date_added": "2026-04-21",
         "article_like": true
     },
     {
-        "company": "Kyowa Kirin",
-        "url": "https://www.kyowakirin.com/media_center/news_releases/2026/e20260216_01.html",
-        "score": 83,
-        "date_added": "2026-04-20",
+        "company": "Sumitomo Pharma",
+        "url": "https://www.sumitomo-pharma.com/news/20260420-1.html",
+        "score": 35,
+        "date_added": "2026-04-21",
         "article_like": true
     },
     {
-        "company": "Kyowa Kirin",
-        "url": "https://www.kyowakirin.com/media_center/news_releases/2026/e20260209_01.html",
-        "score": 83,
-        "date_added": "2026-04-20",
+        "company": "Otsuka Pharmaceutical",
+        "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260421_1.html",
+        "score": 80,
+        "date_added": "2026-04-21",
         "article_like": true
     },
     {
-        "company": "Kyowa Kirin",
-        "url": "https://www.kyowakirin.com/media_center/news_releases/2026/e20260130_01.html",
-        "score": 83,
-        "date_added": "2026-04-20",
+        "company": "Bavarian Nordic",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7494",
+        "score": 30,
+        "date_added": "2026-04-21",
         "article_like": true
     }
 ]

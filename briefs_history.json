@@ -1,4 +1,43 @@
 {
+  "2026-04-21": {
+    "monoclonal antibodies": [
+      {
+        "company": "Genentech",
+        "modality": "monoclonal antibodies",
+        "news": "The FDA accepted Genentech's supplemental Biologics License Application (sBLA) for Gazyva (obinutuzumab), a monoclonal antibody, for the treatment of systemic lupus erythematosus (SLE). The filing is based on positive Phase III ALLEGORY study data showing significant disease activity reduction compared to placebo, with a PDUFA decision expected by December 2026.",
+        "url": "https://www.gene.com/media/press-releases/15107/2026-04-20/fda-accepts-application-for-genentechs-g",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Genentech",
+        "modality": "monoclonal antibodies",
+        "news": "The FDA accepted Genentech's supplemental Biologics License Application (sBLA) for Gazyva (obinutuzumab), a humanized monoclonal antibody, for the treatment of systemic lupus erythematosus (SLE). The filing is based on positive Phase III ALLEGORY study data showing significant disease activity reduction compared to placebo, with an approval decision expected by December 2026.",
+        "url": "https://www.gene.com/media/press-releases/15107/2026-04-20/fda-accepts-application-for-genentechs-g",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Pfizer",
+        "modality": "monoclonal antibodies",
+        "news": "The U.S. FDA granted Priority Review to a supplemental Biologics License Application (sBLA) for the combination of PADCEV (enfortumab vedotin) and Keytruda (pembrolizumab) for perioperative treatment of muscle-invasive bladder cancer regardless of cisplatin eligibility, based on Phase 3 EV-304 trial data.",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/us-fda-grants-priority-review-sbla-padcevtm-keytrudar",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Roche",
+        "modality": "monoclonal antibodies",
+        "news": "The U.S. FDA accepted a supplemental Biologics License Application (sBLA) for Gazyva/Gazyvaro (obinutuzumab) for the treatment of systemic lupus erythematosus (SLE), based on positive Phase 3 ALLEGORY study results showing significant disease activity reduction.",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-04-21",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "AstraZeneca",
+        "modality": "monoclonal antibodies",
+        "news": "A prespecified interim analysis of the Phase 3 I CAN trial demonstrated that Ultomiris (ravulizumab) met its primary endpoint, showing a statistically significant and clinically meaningful reduction in proteinuria in adults with immunoglobulin A nephropathy (IgAN).",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/i-can-phiii-interim-analysis-met-primary-endpoint.html",
+        "query": "monoclonal antibodies"
+      }
+    ]
+  },
   "2026-04-20": {
     "monoclonal antibodies": [
       {
