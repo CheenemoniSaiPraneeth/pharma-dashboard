@@ -1,247 +1,219 @@
 [
     {
-        "company": "Veeva Systems",
-        "url": "https://www.veeva.com/veeva-safety-for-cros/",
-        "score": 37,
-        "date_added": "2026-04-21",
+        "company": "Sanofi",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-05-05-00-3278650",
+        "score": 107,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Sanofi",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-05-00-00-3278646",
+        "score": 107,
+        "date_added": "2026-04-22",
         "article_like": true
     },
     {
         "company": "Instem",
-        "url": "https://www.instem.com/instem-taps-ex-novartis-head-of-emerging-technologies-to-put-science-behind-practical-ai-and-nams/",
-        "score": 113,
-        "date_added": "2026-04-21",
+        "url": "https://www.instem.com/d-wise-appoints-2x-ceo-ex-labcorp-head-of-software-solutions-to-drive-next-phase-of-strategy-growth/",
+        "score": 115,
+        "date_added": "2026-04-22",
         "article_like": true
     },
     {
-        "company": "Medtronic",
-        "url": "https://news.medtronic.com/2026-04-20-Medtronic-completes-acquisition-of-CathWorks,-expanding-its-leadership-in-transforming-care-for-patients-with-cardiovascular-disease",
-        "score": 156,
-        "date_added": "2026-04-21",
+        "company": "Simson Pharma Limited",
+        "url": "https://www.simsonpharma.com/blog-details/impurity-profiling-in-pharmaceuticals-methods-challenges-and-solutions",
+        "score": 98,
+        "date_added": "2026-04-22",
         "article_like": true
     },
     {
-        "company": "Illumina",
-        "url": "https://www.illumina.com/company/news-center/feature-articles/tsinghua-university-brings-hands-on-multiomics-training-to-young.html",
-        "score": 125,
-        "date_added": "2026-04-21",
+        "company": "Simson Pharma Limited",
+        "url": "https://www.simsonpharma.com/blog-details/how-to-choose-a-reliable-reference-standard-supplier",
+        "score": 80,
+        "date_added": "2026-04-22",
         "article_like": true
     },
     {
-        "company": "Boston Consulting Group",
-        "url": "https://www.bcg.com/publications/2026/consumers-are-ready-for-ai-health-care-are-systems",
-        "score": 110,
-        "date_added": "2026-04-21",
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/04/genai-is-raising-the-stakes-in-managing-a-global-workforce-trust-and-speed-are-emerging-as-decisive-ey-research-finds",
+        "score": 186,
+        "date_added": "2026-04-22",
         "article_like": true
     },
     {
-        "company": "Granules India",
-        "url": "http://granulesindia.com/investors/notice-disclosures/notice-of-board-meetings/",
-        "score": 73,
-        "date_added": "2026-04-21",
+        "company": "KPMG",
+        "url": "https://kpmg.com/xx/en/media/press-releases/2026/04/kpmg-named-2026-google-cloud-partner-of-the-year-for-global-industry-solutions-breakthrough.html",
+        "score": 181,
+        "date_added": "2026-04-22",
         "article_like": true
     },
     {
-        "company": "Granules India",
-        "url": "http://granulesindia.com/investors/investor-resources/investor-presentation/",
-        "score": 70,
-        "date_added": "2026-04-21",
+        "company": "Lupin",
+        "url": "https://www.lupin.com/media/press-releases/lupin-launches-dapagliflozin-and-metformin-hydrochloride-extended-release-tablets-in-the-united-states",
+        "score": 140,
+        "date_added": "2026-04-22",
         "article_like": true
     },
     {
-        "company": "Granules India",
-        "url": "http://granulesindia.com/products/pharmaceutical-formulations-intermediates/",
-        "score": 68,
-        "date_added": "2026-04-21",
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/innovation/our-leading-scientists/dr-christopher-austin/",
+        "score": 83,
+        "date_added": "2026-04-22",
         "article_like": true
     },
     {
-        "company": "Granules India",
-        "url": "http://granulesindia.com/products/active-pharmaceutical-ingredients-apis/",
-        "score": 65,
-        "date_added": "2026-04-21",
-        "article_like": true
-    },
-    {
-        "company": "Granules India",
-        "url": "http://granulesindia.com/investors/financial-highlights-revenue-break-up/",
-        "score": 65,
-        "date_added": "2026-04-21",
-        "article_like": true
-    },
-    {
-        "company": "Granules India",
-        "url": "http://granulesindia.com/wp-content/uploads/our-purpose-vision-values/",
-        "score": 64,
-        "date_added": "2026-04-21",
-        "article_like": true
-    },
-    {
-        "company": "Granules India",
-        "url": "http://granulesindia.com/investors-relations/notice-disclosures/",
-        "score": 56,
-        "date_added": "2026-04-21",
-        "article_like": true
-    },
-    {
-        "company": "Granules India",
-        "url": "http://granulesindia.com/investors-relations/financial-reports/",
-        "score": 55,
-        "date_added": "2026-04-21",
-        "article_like": true
-    },
-    {
-        "company": "Granules India",
-        "url": "http://granulesindia.com/investors/investor-relation-contact/",
-        "score": 53,
-        "date_added": "2026-04-21",
-        "article_like": true
-    },
-    {
-        "company": "Granules India",
-        "url": "http://granulesindia.com/about-us/operational-excellence/",
-        "score": 49,
-        "date_added": "2026-04-21",
-        "article_like": true
-    },
-    {
-        "company": "Granules India",
-        "url": "http://granulesindia.com/about-us/our-business-segments/",
-        "score": 48,
-        "date_added": "2026-04-21",
-        "article_like": true
-    },
-    {
-        "company": "Granules India",
-        "url": "http://granulesindia.com/about-us/research-development/",
-        "score": 47,
-        "date_added": "2026-04-21",
-        "article_like": true
-    },
-    {
-        "company": "Granules India",
-        "url": "http://granulesindia.com/investors/other-information/",
-        "score": 45,
-        "date_added": "2026-04-21",
-        "article_like": true
-    },
-    {
-        "company": "Granules India",
-        "url": "http://granulesindia.com/investors/corporate-centre/",
-        "score": 44,
-        "date_added": "2026-04-21",
-        "article_like": true
-    },
-    {
-        "company": "Granules India",
-        "url": "http://granulesindia.com/products/finished-dosages/",
-        "score": 43,
-        "date_added": "2026-04-21",
-        "article_like": true
-    },
-    {
-        "company": "Granules India",
-        "url": "http://granulesindia.com/data-privacy-complaint-form/",
-        "score": 43,
-        "date_added": "2026-04-21",
-        "article_like": true
-    },
-    {
-        "company": "Granules India",
-        "url": "http://granulesindia.com/careers/life-at-granules/",
-        "score": 42,
-        "date_added": "2026-04-21",
-        "article_like": true
-    },
-    {
-        "company": "Granules India",
-        "url": "http://granulesindia.com/careers/current-openings/",
-        "score": 42,
-        "date_added": "2026-04-21",
-        "article_like": true
-    },
-    {
-        "company": "Granules India",
-        "url": "http://granulesindia.com/register-as-supplier/",
-        "score": 36,
-        "date_added": "2026-04-21",
-        "article_like": true
-    },
-    {
-        "company": "Granules India",
-        "url": "http://granulesindia.com/register-as-supplier",
-        "score": 33,
-        "date_added": "2026-04-21",
+        "company": "Tempus",
+        "url": "https://www.tempus.com/news/pr/tempus-to-report-first-quarter-2026-financial-results-on-may-5/",
+        "score": 90,
+        "date_added": "2026-04-22",
         "article_like": true
     },
     {
         "company": "Genentech",
-        "url": "https://www.gene.com/media/press-releases/15107/2026-04-20/fda-accepts-application-for-genentechs-g",
+        "url": "https://www.gene.com/media/press-releases/15109/2026-04-21/genentechs-fenebrutinib-significantly-re",
         "score": 99,
-        "date_added": "2026-04-21",
+        "date_added": "2026-04-22",
         "article_like": true
     },
     {
-        "company": "Caris Life Sciences",
-        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-to-report-first-quarter-2026-financial-results-on-may-7-2026/",
-        "score": 121,
-        "date_added": "2026-04-21",
+        "company": "Genentech",
+        "url": "https://www.gene.com/media/press-releases/15108/2026-04-21/genentechs-enspryng-satralizumab-reduces",
+        "score": 99,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/press-release/bms-expansion-mtap",
+        "score": 47,
+        "date_added": "2026-04-22",
         "article_like": true
     },
     {
         "company": "Pfizer",
-        "url": "https://www.pfizer.com/news/press-release/press-release-detail/us-fda-grants-priority-review-sbla-padcevtm-keytrudar",
-        "score": 112,
-        "date_added": "2026-04-21",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-showcases-oncology-innovation-and-next-generation",
+        "score": 115,
+        "date_added": "2026-04-22",
         "article_like": true
     },
     {
         "company": "Roche",
-        "url": "https://www.roche.com/media/releases/med-cor-2026-04-21",
-        "score": 50,
-        "date_added": "2026-04-21",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-04-21c",
+        "score": 51,
+        "date_added": "2026-04-22",
         "article_like": true
     },
     {
-        "company": "AstraZeneca",
-        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/i-can-phiii-interim-analysis-met-primary-endpoint.html",
-        "score": 150,
-        "date_added": "2026-04-21",
+        "company": "Roche",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-04-21b",
+        "score": 51,
+        "date_added": "2026-04-22",
         "article_like": true
     },
     {
-        "company": "Astellas Pharma",
-        "url": "https://newsroom.astellas.com/2026-04-21-us-fda-grants-priority-review-to-sbla-for-padcev-tm-keytruda-r-as-perioperative-treatment-for-muscle-invasive-bladder-cancer-regardless-of-cisplatin-eligibility",
-        "score": 184,
-        "date_added": "2026-04-21",
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-showcases-carto-powered-innovation-including-debut-of-cartosound-sonata-to-advance-arrhythmia-care-at-hrs-2026",
+        "score": 171,
+        "date_added": "2026-04-22",
         "article_like": true
     },
     {
-        "company": "AbCellera",
-        "url": "https://www.abcellera.com/news/abcellera-to-highlight-phase-1-clinical-data-for-abcl635-during-upcoming-first-quarter-2026-earnings-call",
-        "score": 125,
-        "date_added": "2026-04-21",
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-to-participate-in-the-2026-rbc-capital-markets-global-healthcare-conference",
+        "score": 136,
+        "date_added": "2026-04-22",
         "article_like": true
     },
     {
-        "company": "Sumitomo Pharma",
-        "url": "https://www.sumitomo-pharma.com/news/20260420-1.html",
-        "score": 35,
-        "date_added": "2026-04-21",
+        "company": "Insilico Medicine",
+        "url": "https://insilico.com/news/vxuidy8ph1-insilico-medicine-announces-industrys-fi",
+        "score": 71,
+        "date_added": "2026-04-22",
         "article_like": true
     },
     {
-        "company": "Otsuka Pharmaceutical",
-        "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260421_1.html",
-        "score": 80,
-        "date_added": "2026-04-21",
+        "company": "Insilico Medicine",
+        "url": "https://insilico.com/news/77g216v1e1-insilico-medicine-advances-ai-driven-tar",
+        "score": 71,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Insilico Medicine",
+        "url": "https://insilico.com/news/z21rzi2mv1-insilico-medicine-showcases-preclinical",
+        "score": 70,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Ipsen",
+        "url": "https://www.ipsen.com/press-release/ojemda-approved-in-the-european-union-as-the-first-targeted-therapy-in-relapsed-or-refractory-pediatric-low-grade-glioma-regardless-of-braf-alteration-3278647/",
+        "score": 190,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Eisai",
+        "url": "https://www.eisai.com/news/2026/news202622.html",
+        "score": 57,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260422153000_1246.html?year=2026&category=",
+        "score": 53,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260422_eEnspryng_MOGAD.pdf&src=[%0],[%1]&rep=130,1246",
+        "score": 26,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Disc Medicine",
+        "url": "https://ir.discmedicine.com/news-releases/news-release-details/disc-medicine-announces-oral-presentation-data-rally-mf-phase-2",
+        "score": 115,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "KaryoPharm Therapeutics",
+        "url": "https://investors.karyopharm.com/2026-04-21-Karyopharms-Phase-3-SENTRY-Trial-in-Myelofibrosis-Selected-for-Late-Breaking-Oral-Presentation-at-ASCO-2026-Annual-Meeting",
+        "score": 146,
+        "date_added": "2026-04-22",
         "article_like": true
     },
     {
         "company": "Bavarian Nordic",
-        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7494",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7495",
         "score": 30,
-        "date_added": "2026-04-21",
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Enamine",
+        "url": "https://enamine.net/news-press-releases/press-releases/enamine-strengthens-its-sustainable-procurement-program-in-2026",
+        "score": 115,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Abridge",
+        "url": "https://www.abridge.com/blog/honorhealth-ai-enterprise-rollout",
+        "score": 53,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Grail",
+        "url": "https://grail.com/press-releases/grail-to-present-new-data-from-nhs-galleri-and-pathfinder-2-at-2026-asco-annual-meeting/",
+        "score": 120,
+        "date_added": "2026-04-22",
         "article_like": true
     }
 ]

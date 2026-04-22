@@ -98690,5 +98690,313 @@
         "score": 184,
         "date_added": "2026-04-21",
         "article_like": false
+    },
+    {
+        "company": "Sanofi",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-05-05-00-3278650",
+        "score": 107,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Sanofi",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-05-00-00-3278646",
+        "score": 107,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Instem",
+        "url": "https://www.instem.com/d-wise-appoints-2x-ceo-ex-labcorp-head-of-software-solutions-to-drive-next-phase-of-strategy-growth/",
+        "score": 115,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Simson Pharma Limited",
+        "url": "https://www.simsonpharma.com/blog-details/impurity-profiling-in-pharmaceuticals-methods-challenges-and-solutions",
+        "score": 98,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Simson Pharma Limited",
+        "url": "https://www.simsonpharma.com/blog-details/how-to-choose-a-reliable-reference-standard-supplier",
+        "score": 80,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/04/genai-is-raising-the-stakes-in-managing-a-global-workforce-trust-and-speed-are-emerging-as-decisive-ey-research-finds",
+        "score": 186,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "KPMG",
+        "url": "https://kpmg.com/xx/en/media/press-releases/2026/04/kpmg-named-2026-google-cloud-partner-of-the-year-for-global-industry-solutions-breakthrough.html",
+        "score": 181,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Rx Propellant",
+        "url": "https://rxpropellant.com/chem-expo/",
+        "score": 25,
+        "date_added": "2026-04-22",
+        "article_like": false
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/media/press-releases/lupin-launches-dapagliflozin-and-metformin-hydrochloride-extended-release-tablets-in-the-united-states",
+        "score": 140,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/innovation/our-leading-scientists/dr-christopher-austin/",
+        "score": 83,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/news/pr/tempus-to-report-first-quarter-2026-financial-results-on-may-5/",
+        "score": 90,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/news/?_page=30",
+        "score": 10,
+        "date_added": "2026-04-22",
+        "article_like": false
+    },
+    {
+        "company": "Siemens Healthineers",
+        "url": "https://www.siemens-healthineers.com/press/features/pf-2026-q2",
+        "score": 42,
+        "date_added": "2026-04-22",
+        "article_like": false
+    },
+    {
+        "company": "Genentech",
+        "url": "https://www.gene.com/media/press-releases/15109/2026-04-21/genentechs-fenebrutinib-significantly-re",
+        "score": 99,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Genentech",
+        "url": "https://www.gene.com/media/press-releases/15108/2026-04-21/genentechs-enspryng-satralizumab-reduces",
+        "score": 99,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "BioMarin",
+        "url": "https://investors.biomarin.com/news/news-details/2026/BioMarin-Announces-Board-Leadership-Transition/default.aspx",
+        "score": 128,
+        "date_added": "2026-04-22",
+        "article_like": false
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/press-release/bms-expansion-mtap",
+        "score": 47,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Pfizer",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-showcases-oncology-innovation-and-next-generation",
+        "score": 115,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-04-21c",
+        "score": 51,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-04-21b",
+        "score": 51,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-showcases-carto-powered-innovation-including-debut-of-cartosound-sonata-to-advance-arrhythmia-care-at-hrs-2026",
+        "score": 171,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-to-participate-in-the-2026-rbc-capital-markets-global-healthcare-conference",
+        "score": 136,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Schr\u00f6dinger",
+        "url": "https://ir.schrodinger.com/press-releases/news-details/2026/Schrdinger-to-Announce-First-Quarter-2026-Financial-Results-on-May-5/default.aspx",
+        "score": 160,
+        "date_added": "2026-04-22",
+        "article_like": false
+    },
+    {
+        "company": "Insilico Medicine",
+        "url": "https://insilico.com/news/vxuidy8ph1-insilico-medicine-announces-industrys-fi",
+        "score": 71,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Insilico Medicine",
+        "url": "https://insilico.com/news/77g216v1e1-insilico-medicine-advances-ai-driven-tar",
+        "score": 71,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Insilico Medicine",
+        "url": "https://insilico.com/news/z21rzi2mv1-insilico-medicine-showcases-preclinical",
+        "score": 70,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Ipsen",
+        "url": "https://www.ipsen.com/press-release/ojemda-approved-in-the-european-union-as-the-first-targeted-therapy-in-relapsed-or-refractory-pediatric-low-grade-glioma-regardless-of-braf-alteration-3278647/",
+        "score": 190,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Eisai",
+        "url": "https://www.eisai.com/news/2026/news202622.html",
+        "score": 57,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260422153000_1246.html?year=2026&category=",
+        "score": 53,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260422_eEnspryng_MOGAD.pdf&src=[%0],[%1]&rep=130,1246",
+        "score": 26,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Ono Pharmaceutical",
+        "url": "https://www.ono-pharma.com/en/news/20260422.html",
+        "score": 28,
+        "date_added": "2026-04-22",
+        "article_like": false
+    },
+    {
+        "company": "Celltrion",
+        "url": "https://www.celltrion.com/en-us/company/media-center/press-release/4740",
+        "score": 66,
+        "date_added": "2026-04-22",
+        "article_like": false
+    },
+    {
+        "company": "Disc Medicine",
+        "url": "https://ir.discmedicine.com/news-releases/news-release-details/disc-medicine-announces-oral-presentation-data-rally-mf-phase-2",
+        "score": 115,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Intra-Cellular Therapies",
+        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/Johnson--Johnson-Showcases-CARTO-Powered-Innovation-Including-Debut-of-CARTOSOUND-SONATA-to-Advance-Arrhythmia-Care-at-HRS-2026/default.aspx",
+        "score": 218,
+        "date_added": "2026-04-22",
+        "article_like": false
+    },
+    {
+        "company": "Intra-Cellular Therapies",
+        "url": "https://ir.intracellulartherapies.com/events-and-presentations/events/event-details/2026/Johnson--Johnson-to-Participate-in-the-2026-RBC-Capital-Markets-Global-Healthcare-Conference/default.aspx",
+        "score": 204,
+        "date_added": "2026-04-22",
+        "article_like": false
+    },
+    {
+        "company": "Intra-Cellular Therapies",
+        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/Johnson--Johnson-to-Participate-in-the-2026-RBC-Capital-Markets-Global-Healthcare-Conference/default.aspx",
+        "score": 183,
+        "date_added": "2026-04-22",
+        "article_like": false
+    },
+    {
+        "company": "KaryoPharm Therapeutics",
+        "url": "https://investors.karyopharm.com/2026-04-21-Karyopharms-Phase-3-SENTRY-Trial-in-Myelofibrosis-Selected-for-Late-Breaking-Oral-Presentation-at-ASCO-2026-Annual-Meeting",
+        "score": 146,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Bavarian Nordic",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7495",
+        "score": 30,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Compass Pathways",
+        "url": "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-Collaborates-with-Osmind-to-Advance-Independent-Clinic-Readiness-for-Psychedelic-Treatments/default.aspx",
+        "score": 206,
+        "date_added": "2026-04-22",
+        "article_like": false
+    },
+    {
+        "company": "Agenus",
+        "url": "https://investor.agenusbio.com/news/news-details/2026/Agenus-to-Present-First-Phase-2-Botensilimab-Data-in-Advanced-Cutaneous-Melanoma-at-ASCO-2026/default.aspx",
+        "score": 175,
+        "date_added": "2026-04-22",
+        "article_like": false
+    },
+    {
+        "company": "Agenus",
+        "url": "https://investor.agenusbio.com/news/news-details/2026/Agenus-Names-BAP-Pharma-as-Exclusive-Global-Partner-for-BOTBAL-Access-Programs/default.aspx",
+        "score": 160,
+        "date_added": "2026-04-22",
+        "article_like": false
+    },
+    {
+        "company": "Enamine",
+        "url": "https://enamine.net/news-press-releases/press-releases/enamine-strengthens-its-sustainable-procurement-program-in-2026",
+        "score": 115,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Abridge",
+        "url": "https://www.abridge.com/blog/honorhealth-ai-enterprise-rollout",
+        "score": 53,
+        "date_added": "2026-04-22",
+        "article_like": true
+    },
+    {
+        "company": "Grail",
+        "url": "https://grail.com/press-releases/grail-to-present-new-data-from-nhs-galleri-and-pathfinder-2-at-2026-asco-annual-meeting/",
+        "score": 120,
+        "date_added": "2026-04-22",
+        "article_like": true
     }
 ]

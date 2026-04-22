@@ -1,4 +1,94 @@
 {
+  "2026-04-22": {
+    "monoclonal antibodies": [
+      {
+        "company": "Sanofi",
+        "modality": "monoclonal antibodies",
+        "news": "The US FDA approved Sanofi's Tzield (teplizumab), a CD3-directed monoclonal antibody, for an expanded indication to delay the onset of stage 3 type 1 diabetes in children aged one year and older with stage 2 T1D.",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-05-05-00-3278650",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Sanofi",
+        "modality": "monoclonal antibodies",
+        "news": "The US FDA extended the target action date for its review of the biologics license application for Sarclisa (isatuximab) subcutaneous formulation to July 23, 2026, for the treatment of multiple myeloma.",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-05-00-00-3278646",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Disc Medicine",
+        "modality": "monoclonal antibodies",
+        "news": "Disc Medicine announced it will present data from the RALLY-MF Phase 2 trial of DISC-0974, an anti-hemojuvelin monoclonal antibody, at the ASCO Annual Meeting for treating anemia in myelofibrosis patients.",
+        "url": "https://ir.discmedicine.com/news-releases/news-release-details/disc-medicine-announces-oral-presentation-data-rally-mf-phase-2",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Sanofi",
+        "modality": "monoclonal antibodies",
+        "news": "The US FDA approved Sanofi's Tzield (teplizumab-mzwv), a CD3-directed monoclonal antibody, for an expanded indication to delay the onset of stage 3 type 1 diabetes in children aged one year and older with stage 2 disease.",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-05-05-00-3278650",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Sanofi",
+        "modality": "monoclonal antibodies",
+        "news": "The FDA extended the target action date for its review of Sanofi's Sarclisa (isatuximab-irfc) subcutaneous formulation for multiple myeloma to July 23, 2026, while the EMA's CHMP adopted a positive opinion for the same subcutaneous version.",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-05-00-00-3278646",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Genentech",
+        "modality": "monoclonal antibodies",
+        "news": "Genentech announced that its Phase III METEOROID study met its primary endpoint, showing Enspryng (satralizumab) reduced the risk of relapses by 68% in patients with myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD). The company plans to submit these data to regulatory authorities globally to seek approval for the first treatment for this rare autoimmune disease.",
+        "url": "https://www.gene.com/media/press-releases/15108/2026-04-21/genentechs-enspryng-satralizumab-reduces",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Pfizer",
+        "modality": "monoclonal antibodies",
+        "news": "Pfizer presented updated Phase 2 data for PF-08634404 (PF'4404), a novel bispecific antibody targeting PD-1 and VEGF, as monotherapy in first-line PD-L1-expressing non-small cell lung cancer. The company also highlighted ongoing Phase 3 studies evaluating this bispecific antibody in combination with chemotherapy for NSCLC and colorectal cancer.",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-showcases-oncology-innovation-and-next-generation",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Roche",
+        "modality": "monoclonal antibodies",
+        "news": "Roche announced that its humanized monoclonal antibody ENSPRYNG (satralizumab) met the primary endpoint in the Phase III METEOROID study for MOGAD, reducing relapse risk by 68% compared to placebo. Data will be submitted to regulatory authorities globally for potential approval as the first treatment for this rare autoimmune disease.",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-04-21b",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Eisai",
+        "modality": "monoclonal antibodies",
+        "news": "Merck & Co. and Eisai provided an update on the Phase 3 LITESPARK-012 trial evaluating first-line combination treatments for advanced renal cell carcinoma.",
+        "url": "https://www.eisai.com/news/2026/news202622.html",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Chugai Pharmaceutical",
+        "modality": "monoclonal antibodies",
+        "news": "Chugai announced new data from the METEOROID study of Enspryng (satralizumab) for myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD), presented at the 2026 American Academy of Neurology Annual Meeting.",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260422153000_1246.html?year=2026&category=",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Disc Medicine",
+        "modality": "monoclonal antibodies",
+        "news": "Disc Medicine announced it will present data from the RALLY-MF Phase 2 trial of DISC-0974, an anti-hemojuvelin antibody, for anemia in myelofibrosis at the ASCO Annual Meeting.",
+        "url": "https://ir.discmedicine.com/news-releases/news-release-details/disc-medicine-announces-oral-presentation-data-rally-mf-phase-2",
+        "query": "monoclonal antibodies"
+      }
+    ],
+    "bispecific antibodies": [
+      {
+        "company": "Pfizer",
+        "modality": "bispecific antibodies",
+        "news": "Pfizer presented updated Phase 2 data for PF-08634404 (SSGJ-707), a novel bispecific antibody targeting PD-1 and VEGF, as monotherapy in first-line PD-L1-expressing non-small cell lung cancer (NSCLC) at ASCO 2026. The company also highlighted ongoing Phase 3 studies (Symbiotic-Lung-01 and Symbiotic-GI-03) evaluating the agent in combination with chemotherapy for NSCLC and colorectal cancer.",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-showcases-oncology-innovation-and-next-generation",
+        "query": "bispecific antibodies"
+      }
+    ]
+  },
   "2026-04-21": {
     "monoclonal antibodies": [
       {
