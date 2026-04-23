@@ -1,4 +1,64 @@
 {
+  "2026-04-23": {
+    "monoclonal antibodies": [
+      {
+        "company": "Sanofi",
+        "modality": "monoclonal antibodies",
+        "news": "The US FDA approved Dupixent (dupilumab), a fully human monoclonal antibody, for the treatment of children aged two to 11 years with uncontrolled chronic spontaneous urticaria. This approval marks the first biologic medicine for this specific pediatric indication and is based on data from the LIBERTY-CUPID clinical study program.",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-21-30-00-3279472",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Sanofi",
+        "modality": "monoclonal antibodies",
+        "news": "The US FDA approved Dupixent (dupilumab), a monoclonal antibody, for treating children aged 2 to 11 with uncontrolled chronic spontaneous urticaria. This approval, based on the LIBERTY-CUPID clinical study program, marks the first biologic indication for this age group for this condition.",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-21-30-00-3279472",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Merck",
+        "modality": "monoclonal antibodies",
+        "news": "Merck's KEYTRUDA (pembrolizumab), a PD-1 inhibitor monoclonal antibody, received FDA approval for treating platinum-resistant ovarian cancer in combination with paclitaxel, with or without bevacizumab, based on Phase 3 KEYNOTE-B96 trial data showing improved progression-free and overall survival.",
+        "url": "https://www.prnewswire.com/news-releases/labcorp-launches-fda-approved-companion-diagnostic-to-identify-patients-with-ovarian-cancer-eligible-for-keytruda-302749466.html",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Roche",
+        "modality": "monoclonal antibodies",
+        "news": "Roche announced positive Phase III results for Enspryng (satralizumab) in MOGAD, reducing relapse risk by 68%, marking a potential first treatment for the condition.",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-04-23",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Roche",
+        "modality": "monoclonal antibodies",
+        "news": "Roche reported positive Phase III results for Gazyva/Gazyvaro (obinutuzumab) in primary membranous nephropathy, achieving complete remission at two years.",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-04-23",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Roche",
+        "modality": "monoclonal antibodies",
+        "news": "The FDA accepted a New Drug Application for Gazyva/Gazyvaro for the treatment of systemic lupus erythematosus based on Phase III ALLEGORY data.",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-04-23",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "AbbVie",
+        "modality": "monoclonal antibodies",
+        "news": "AbbVie announced a $1.4 billion investment to build a new manufacturing campus in Durham, North Carolina, specifically to support the production of its immunology and oncology medicines, which include monoclonal antibodies.",
+        "url": "https://news.abbvie.com/2026-04-22-AbbVie-Selects-North-Carolina-for-New-1-4-Billion-Manufacturing-Campus",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Sanofi",
+        "modality": "monoclonal antibodies",
+        "news": "The US FDA approved Dupixent (dupilumab), a monoclonal antibody, for the treatment of children aged two to 11 years with uncontrolled chronic spontaneous urticaria (CSU). This approval marks the first biologic medicine for this specific pediatric indication and is based on data from the LIBERTY-CUPID clinical study program.",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-21-30-00-3279472",
+        "query": "molecular glues"
+      }
+    ]
+  },
   "2026-04-22": {
     "monoclonal antibodies": [
       {

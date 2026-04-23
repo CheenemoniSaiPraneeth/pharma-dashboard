@@ -1,219 +1,933 @@
 [
     {
         "company": "Sanofi",
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-05-05-00-3278650",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-23-05-30-00-3279572",
         "score": 107,
-        "date_added": "2026-04-22",
+        "date_added": "2026-04-23",
         "article_like": true
     },
     {
         "company": "Sanofi",
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-05-00-00-3278646",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-21-30-00-3279472",
         "score": 107,
-        "date_added": "2026-04-22",
+        "date_added": "2026-04-23",
         "article_like": true
     },
     {
-        "company": "Instem",
-        "url": "https://www.instem.com/d-wise-appoints-2x-ceo-ex-labcorp-head-of-software-solutions-to-drive-next-phase-of-strategy-growth/",
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/changes-to-australian-sample-reporting",
+        "score": 117,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/Isotopic-Dilution-for-PFAS",
+        "score": 105,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Sartorius Stedim India Pvt Ltd",
+        "url": "https://www.sartorius.com/en/company/newsroom/corporate-news/2026-first-quarter-results-sartorius-stedim-biotech-1817704",
         "score": 115,
-        "date_added": "2026-04-22",
+        "date_added": "2026-04-23",
         "article_like": true
     },
     {
-        "company": "Simson Pharma Limited",
-        "url": "https://www.simsonpharma.com/blog-details/impurity-profiling-in-pharmaceuticals-methods-challenges-and-solutions",
-        "score": 98,
-        "date_added": "2026-04-22",
+        "company": "Sartorius Stedim India Pvt Ltd",
+        "url": "https://www.sartorius.com/en/company/newsroom/corporate-news/2026-first-quarter-results-sartorius-group-1817676",
+        "score": 106,
+        "date_added": "2026-04-23",
         "article_like": true
     },
     {
-        "company": "Simson Pharma Limited",
-        "url": "https://www.simsonpharma.com/blog-details/how-to-choose-a-reliable-reference-standard-supplier",
-        "score": 80,
-        "date_added": "2026-04-22",
+        "company": "Sartorius Stedim India Pvt Ltd",
+        "url": "https://www.sartorius.com/en/company/sartorius-ag-investor-relations",
+        "score": 59,
+        "date_added": "2026-04-23",
         "article_like": true
     },
     {
-        "company": "EY-Parthenon",
-        "url": "https://www.ey.com/en_gl/newsroom/2026/04/genai-is-raising-the-stakes-in-managing-a-global-workforce-trust-and-speed-are-emerging-as-decisive-ey-research-finds",
-        "score": 186,
-        "date_added": "2026-04-22",
+        "company": "Google DeepMind",
+        "url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+        "score": 87,
+        "date_added": "2026-04-23",
         "article_like": true
     },
     {
-        "company": "KPMG",
-        "url": "https://kpmg.com/xx/en/media/press-releases/2026/04/kpmg-named-2026-google-cloud-partner-of-the-year-for-global-industry-solutions-breakthrough.html",
-        "score": 181,
-        "date_added": "2026-04-22",
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/news/23april2026-bcg-schunk-strategic-collaboration-physical-ai-industrial-automation",
+        "score": 100,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/press/22april2026-bcg-google-cloud-partnership-gemini-enterprise-transformation",
+        "score": 94,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/press/23april2026-bcg-revenue-22nd-consecutive-year-growth",
+        "score": 73,
+        "date_added": "2026-04-23",
         "article_like": true
     },
     {
         "company": "Lupin",
-        "url": "https://www.lupin.com/media/press-releases/lupin-launches-dapagliflozin-and-metformin-hydrochloride-extended-release-tablets-in-the-united-states",
-        "score": 140,
-        "date_added": "2026-04-22",
+        "url": "https://www.lupin.com/media/perspectives/interview-abdelaziz-toumi-bio-spectrum-our-complex-generics-engine-particularly-in-respiratory-has-matured-into-a-key-growth-driver",
+        "score": 167,
+        "date_added": "2026-04-23",
         "article_like": true
     },
     {
-        "company": "GSK",
-        "url": "https://www.gsk.com/en-gb/innovation/our-leading-scientists/dr-christopher-austin/",
-        "score": 83,
-        "date_added": "2026-04-22",
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/optumai-and-labcorp-announce-strategic-collaboration-advance-laboratory-operations-and-patient.html",
+        "score": 172,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/digital-health-news-labcorp-advances-alzheimers-research-through-ai-driven-data-innovation.html",
+        "score": 168,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/360dx-how-labcorps-collaboration-chop-advancing-future-pediatric-diagnostics.html",
+        "score": 154,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-launches-fda-approved-companion-diagnostic-identify.html",
+        "score": 143,
+        "date_added": "2026-04-23",
         "article_like": true
     },
     {
         "company": "Tempus",
-        "url": "https://www.tempus.com/news/pr/tempus-to-report-first-quarter-2026-financial-results-on-may-5/",
-        "score": 90,
-        "date_added": "2026-04-22",
-        "article_like": true
-    },
-    {
-        "company": "Genentech",
-        "url": "https://www.gene.com/media/press-releases/15109/2026-04-21/genentechs-fenebrutinib-significantly-re",
-        "score": 99,
-        "date_added": "2026-04-22",
-        "article_like": true
-    },
-    {
-        "company": "Genentech",
-        "url": "https://www.gene.com/media/press-releases/15108/2026-04-21/genentechs-enspryng-satralizumab-reduces",
-        "score": 99,
-        "date_added": "2026-04-22",
-        "article_like": true
-    },
-    {
-        "company": "Foundation Medicine",
-        "url": "https://www.foundationmedicine.com/press-release/bms-expansion-mtap",
+        "url": "https://www.tempus.com/providers/data-collaborations/",
         "score": 47,
-        "date_added": "2026-04-22",
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/imaging-applications/advanced-visualization-applications",
+        "score": 90,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/molecular-imaging-agents/support/product-certificates",
+        "score": 89,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/software/centricity-universal-viewer-zero-footprint",
+        "score": 85,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/ultrasound/surgical-visualization-and-guidance",
+        "score": 80,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/content/gehealthcare/us/en/about/email-preferences.html",
+        "score": 78,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/molecular-imaging-agents/pharma-services",
+        "score": 74,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/ultrasound/ultrasound-digital-solutions",
+        "score": 73,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/services/digital-solutions/skeye-cybersecurity",
+        "score": 71,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/content/gehealthcare/us/en/about/contact-us.html",
+        "score": 71,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/services/cybersecurity/product-cybersecurity",
+        "score": 69,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/software/pacs-and-ai-orchestration",
+        "score": 68,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/services/digital-solutions/onwatch-predict",
+        "score": 67,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/ultrasound/ultrasound-transducers",
+        "score": 67,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/ultrasound/handheld-ultrasound",
+        "score": 64,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/advanced-visualization-platforms",
+        "score": 64,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/ultrasound/breast-ultrasound",
+        "score": 62,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/software/enterprise-imaging",
+        "score": 61,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/ultrasound-developer-program",
+        "score": 60,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/radiography-and-fluoroscopy",
+        "score": 59,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/magnetic-resonance-imaging",
+        "score": 58,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/pharmaceutical-diagnostics",
+        "score": 58,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/bone-and-metabolic-health",
+        "score": 57,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/services/mygehealthcare-experience",
+        "score": 57,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/services/refresh-payment-solutions",
+        "score": 57,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/content/gehealthcare/us/en/insights/articles?speciality=news-trends",
+        "score": 57,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/molecular-imaging-agents",
+        "score": 56,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/image-guiding-solutions",
+        "score": 55,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/patient-care-solutions",
+        "score": 54,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/services/patient-care-solutions",
+        "score": 54,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/content/gehealthcare/us/en/specialties.html",
+        "score": 54,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/specialties/oncology-solutions",
+        "score": 53,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/maternal-infant-care",
+        "score": 52,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/clinical-accessories",
+        "score": 52,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/insights/leading-perspectives",
+        "score": 52,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/about/adverse-event-reporting",
+        "score": 52,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/computed-tomography",
+        "score": 51,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/invasive-cardiology",
+        "score": 51,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/anesthesia-delivery",
+        "score": 51,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/imaging-accessories",
+        "score": 51,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/services/predictive-services",
+        "score": 51,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/about/expanded-access-policy",
+        "score": 51,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/patient-monitoring",
+        "score": 50,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/services/financial-services",
+        "score": 50,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/support/orders-and-invoices",
+        "score": 50,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/productsecurity/portal-terms-of-use",
+        "score": 50,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/molecular-imaging",
+        "score": 49,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/courses/leadership-academy",
+        "score": 49,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/insights/inspiring-stories",
+        "score": 49,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/about/community-engagement",
+        "score": 49,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/about/terms-and-conditions",
+        "score": 49,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/surgical-imaging",
+        "score": 48,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/goldseal-systems",
+        "score": 48,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/interoperability",
+        "score": 48,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/about/our-economic-impact",
+        "score": 48,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/medical-affairs",
+        "score": 47,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/about/latest-innovations",
+        "score": 47,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Boston Scientific",
+        "url": "https://news.bostonscientific.com/2026-04-22-Boston-Scientific-announces-results-for-first-quarter-2026",
+        "score": 82,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Boston Scientific",
+        "url": "https://news.bostonscientific.com/interested-in-our-q1-2026-financial-results",
+        "score": 56,
+        "date_added": "2026-04-23",
         "article_like": true
     },
     {
         "company": "Pfizer",
-        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-showcases-oncology-innovation-and-next-generation",
-        "score": 115,
-        "date_added": "2026-04-22",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-declares-second-quarter-2026-dividend",
+        "score": 103,
+        "date_added": "2026-04-23",
         "article_like": true
     },
     {
         "company": "Roche",
-        "url": "https://www.roche.com/media/releases/med-cor-2026-04-21c",
-        "score": 51,
-        "date_added": "2026-04-22",
-        "article_like": true
-    },
-    {
-        "company": "Roche",
-        "url": "https://www.roche.com/media/releases/med-cor-2026-04-21b",
-        "score": 51,
-        "date_added": "2026-04-22",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-04-23",
+        "score": 50,
+        "date_added": "2026-04-23",
         "article_like": true
     },
     {
         "company": "Johnson & Johnson",
-        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-showcases-carto-powered-innovation-including-debut-of-cartosound-sonata-to-advance-arrhythmia-care-at-hrs-2026",
-        "score": 171,
-        "date_added": "2026-04-22",
+        "url": "https://www.jnj.com/media-center/press-releases/imaavy-nipocalimab-aahu-shows-over-two-years-of-sustained-disease-control-in-a-broad-population-with-generalized-myasthenia-gravis-gmg",
+        "score": 179,
+        "date_added": "2026-04-23",
         "article_like": true
     },
     {
         "company": "Johnson & Johnson",
-        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-to-participate-in-the-2026-rbc-capital-markets-global-healthcare-conference",
-        "score": 136,
-        "date_added": "2026-04-22",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-ce-mark-approval-for-the-new-ethicon-4000-stapler",
+        "score": 120,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-04-22-AbbVie-Selects-North-Carolina-for-New-1-4-Billion-Manufacturing-Campus",
+        "score": 94,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-04-22-AbbVie-Selects-North-Carolina-for-New-1-4-Billion-Manufacturing-Campus#assets_2429_124774-149",
+        "score": 94,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-04-22-AbbVie-Selects-North-Carolina-for-New-1-4-Billion-Manufacturing-Campus#assets_2429_124774-150",
+        "score": 94,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Gilead Sciences",
+        "url": "https://www.gilead.com/news/news-details/2026/gilead-sciences-to-release-first-quarter-2026-financial-results-on-thursday-may-7-2026",
+        "score": 153,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "BeiGene",
+        "url": "https://ir.beonemedicines.com/news/beone-medicines-to-announce-first-quarter-2026-financial-results-on-may-6/969fa7c9-8ace-4b80-aaeb-2b4eb2f15847",
+        "score": 132,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Sarepta Therapeutics",
+        "url": "https://www.sarepta.com/newsroom/trusted-role-duchenne-care-meet-our-duchenne-nurse-educators",
+        "score": 84,
+        "date_added": "2026-04-23",
         "article_like": true
     },
     {
         "company": "Insilico Medicine",
-        "url": "https://insilico.com/news/vxuidy8ph1-insilico-medicine-announces-industrys-fi",
+        "url": "https://insilico.com/news/3fymrymsu1-nature-reviews-drug-discovery-target-ide",
         "score": 71,
-        "date_added": "2026-04-22",
+        "date_added": "2026-04-23",
         "article_like": true
     },
     {
-        "company": "Insilico Medicine",
-        "url": "https://insilico.com/news/77g216v1e1-insilico-medicine-advances-ai-driven-tar",
+        "company": "Evotec",
+        "url": "https://www.evotec.com/solutions/drug-discovery-preclinical-development/cyprotex-adme-tox-solutions",
+        "score": 93,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/solutions/drug-discovery-preclinical-development/development-manufacturing",
+        "score": 91,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/solutions/just-evotec-biologics/cho-perfusion-cell-culture-medium",
+        "score": 82,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/solutions/just-evotec-biologics/clinical-stage-cgmp-manufacturing",
+        "score": 82,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/solutions/just-evotec-biologics/cell-line-development-solutions",
+        "score": 80,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/solutions/just-evotec-biologics/commercial-cgmp-manufacturing-2",
+        "score": 80,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/solutions/just-evotec-biologics/mabs-optimization-solutions",
+        "score": 76,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/solutions/next-gen-platforms/molecular-patient-databases",
+        "score": 73,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/ir-news/investor-relations/investor-relations-calendar",
         "score": 71,
-        "date_added": "2026-04-22",
+        "date_added": "2026-04-23",
         "article_like": true
     },
     {
-        "company": "Insilico Medicine",
-        "url": "https://insilico.com/news/z21rzi2mv1-insilico-medicine-showcases-preclinical",
+        "company": "Evotec",
+        "url": "https://www.evotec.com/solutions/therapeutic-areas/autoimmunity-inflammation",
         "score": 70,
-        "date_added": "2026-04-22",
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/solutions/therapeutic-areas/oncology-immuno-oncology",
+        "score": 69,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/solutions/therapeutic-areas/other-therapeutic-areas",
+        "score": 68,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/solutions/therapeutic-areas/cardiovascular-disease",
+        "score": 67,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/solutions/therapeutic-areas/neuroscience-and-pain",
+        "score": 66,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/ir-news/investor-relations/financial-publications",
+        "score": 66,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/ir-news/investor-relations/annual-general-meeting",
+        "score": 66,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/solutions/next-gen-platforms/ipsc-drug-discovery",
+        "score": 65,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/solutions/next-gen-platforms/ipsc-cell-therapies",
+        "score": 65,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/company/sustainability/esg-performance-reporting",
+        "score": 65,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/ir-news/investor-relations/ir-esg-presentations",
+        "score": 64,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/solutions/drug-discovery-preclinical-development",
+        "score": 63,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/solutions/therapeutic-areas/metabolic-disease",
+        "score": 62,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/company/about-us/evotec-company-presentation",
+        "score": 61,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/ir-news/investor-relations/stock-information",
+        "score": 61,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/company/about-us/evotec-worldwide-locations",
+        "score": 60,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/company/our-partners/partnership-spotlight",
+        "score": 59,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/company/our-partners/co-owned-pipeline",
+        "score": 55,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/company/our-partners/evotec-ventures",
+        "score": 53,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/science-pool/all-scientific-resources",
+        "score": 52,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/company/about-us/ethics-compliance",
+        "score": 51,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/ir-news/media/company-presentation",
+        "score": 51,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/ir-news/news/news-subscription",
+        "score": 47,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/solutions/just-evotec-biologics",
+        "score": 46,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/ir-news/news/ad-hoc-releases",
+        "score": 45,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/solutions/next-gen-platforms",
+        "score": 43,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/solutions/therapeutic-areas",
+        "score": 42,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/ir-news/investor-relations",
+        "score": 41,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/terms-conditions",
+        "score": 29,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Evotec",
+        "url": "https://www.evotec.com/company/media/news?category=&year=",
+        "score": 25,
+        "date_added": "2026-04-23",
         "article_like": true
     },
     {
         "company": "Ipsen",
-        "url": "https://www.ipsen.com/press-release/ojemda-approved-in-the-european-union-as-the-first-targeted-therapy-in-relapsed-or-refractory-pediatric-low-grade-glioma-regardless-of-braf-alteration-3278647/",
-        "score": 190,
-        "date_added": "2026-04-22",
-        "article_like": true
-    },
-    {
-        "company": "Eisai",
-        "url": "https://www.eisai.com/news/2026/news202622.html",
-        "score": 57,
-        "date_added": "2026-04-22",
+        "url": "https://www.ipsen.com/press-release/ipsen-delivers-strong-sales-in-the-first-quarter-of-2026-and-confirms-its-full-year-guidance-3279554/",
+        "score": 132,
+        "date_added": "2026-04-23",
         "article_like": true
     },
     {
         "company": "Chugai Pharmaceutical",
-        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260422153000_1246.html?year=2026&category=",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260423140000_1242.html?year=2026&category=",
         "score": 53,
-        "date_added": "2026-04-22",
+        "date_added": "2026-04-23",
         "article_like": true
     },
     {
         "company": "Chugai Pharmaceutical",
-        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260422_eEnspryng_MOGAD.pdf&src=[%0],[%1]&rep=130,1246",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260422163000_1243.html?year=2026&category=",
+        "score": 53,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260423eRocheQ1_2026.pdf&src=[%0],[%1]&rep=130,1242",
         "score": 26,
-        "date_added": "2026-04-22",
+        "date_added": "2026-04-23",
         "article_like": true
     },
     {
-        "company": "Disc Medicine",
-        "url": "https://ir.discmedicine.com/news-releases/news-release-details/disc-medicine-announces-oral-presentation-data-rally-mf-phase-2",
-        "score": 115,
-        "date_added": "2026-04-22",
-        "article_like": true
-    },
-    {
-        "company": "KaryoPharm Therapeutics",
-        "url": "https://investors.karyopharm.com/2026-04-21-Karyopharms-Phase-3-SENTRY-Trial-in-Myelofibrosis-Selected-for-Late-Breaking-Oral-Presentation-at-ASCO-2026-Annual-Meeting",
-        "score": 146,
-        "date_added": "2026-04-22",
-        "article_like": true
-    },
-    {
-        "company": "Bavarian Nordic",
-        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7495",
-        "score": 30,
-        "date_added": "2026-04-22",
-        "article_like": true
-    },
-    {
-        "company": "Enamine",
-        "url": "https://enamine.net/news-press-releases/press-releases/enamine-strengthens-its-sustainable-procurement-program-in-2026",
-        "score": 115,
-        "date_added": "2026-04-22",
-        "article_like": true
-    },
-    {
-        "company": "Abridge",
-        "url": "https://www.abridge.com/blog/honorhealth-ai-enterprise-rollout",
-        "score": 53,
-        "date_added": "2026-04-22",
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260422_eFOYA.pdf&src=[%0],[%1]&rep=130,1243",
+        "score": 26,
+        "date_added": "2026-04-23",
         "article_like": true
     },
     {
         "company": "Grail",
-        "url": "https://grail.com/press-releases/grail-to-present-new-data-from-nhs-galleri-and-pathfinder-2-at-2026-asco-annual-meeting/",
-        "score": 120,
-        "date_added": "2026-04-22",
+        "url": "https://grail.com/press-releases/grail-to-announce-first-quarter-2026-financial-results/",
+        "score": 87,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Omeros Corporation",
+        "url": "https://investor.omeros.com/press-releases#main-content",
+        "score": 27,
+        "date_added": "2026-04-23",
+        "article_like": true
+    },
+    {
+        "company": "Cipla",
+        "url": "https://www.cipla.com/press-releases-statements/cipla-receives-us-fda-approval-first-ab-rated-generic-ventolinr-hfa",
+        "score": 108,
+        "date_added": "2026-04-23",
         "article_like": true
     }
 ]
