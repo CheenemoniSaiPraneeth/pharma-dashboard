@@ -1,10 +1,17 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 125,
-    "items_extracted": 0,
+    "articles_used": 17,
+    "items_extracted": 1,
     "items_dropped": 0,
-    "generated_at": "2026-04-23 07:58:24"
+    "generated_at": "2026-04-24 07:50:34"
   },
-  "news": []
+  "news": [
+    {
+      "company": "WuXi Biologics",
+      "modality": "bispecific antibodies",
+      "news": "WuXi Biologics announced that three of its manufacturing facilities in Wuxi received GMP certification from the South Korea Ministry of Food and Drug Safety (MFDS). This certification enables the company to provide end-to-end commercial manufacturing services for a bispecific antibody indicated for the treatment of biliary tract cancer.",
+      "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-receives-south-korea-mfds-gmp-certification-to-enable-commercial-manufacturing-of-bispecific-antibody-therapeutics/"
+    }
+  ]
 }
