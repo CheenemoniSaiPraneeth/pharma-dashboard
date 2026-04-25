@@ -1,177 +1,170 @@
 [
     {
+        "company": "Sanofi",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-24-18-30-00-3281028",
+        "score": 107,
+        "date_added": "2026-04-25",
+        "article_like": true
+    },
+    {
+        "company": "Sanofi",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-24-10-09-46-3280641",
+        "score": 107,
+        "date_added": "2026-04-25",
+        "article_like": true
+    },
+    {
         "company": "Amgen",
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-announces-retirement-of-david-m-reese-executive-vice-president-and-chief-technology-officer",
-        "score": 175,
-        "date_added": "2026-04-24",
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-announces-webcast-of-2026-first-quarter-financial-results",
+        "score": 141,
+        "date_added": "2026-04-25",
         "article_like": true
     },
     {
         "company": "Novartis",
-        "url": "https://www.novartis.com/news/media-releases/novartis-malaria-treatment-coartem-baby-receives-who-prequalification-paving-way-greater-access-newborns-and-young-infants",
-        "score": 159,
-        "date_added": "2026-04-24",
+        "url": "https://www.novartis.com/news/media-releases/novartis-receives-positive-chmp-opinion-itvisma-spinal-muscular-atrophy-sma",
+        "score": 112,
+        "date_added": "2026-04-25",
         "article_like": true
     },
     {
-        "company": "Miltenyi Biotec",
-        "url": "https://www.miltenyibiotec.com/IN-en/applications/cell-and-gene-therapy/Graft-Engineering-in-HSC-transplantation.html",
-        "score": 105,
-        "date_added": "2026-04-24",
+        "company": "Novartis",
+        "url": "https://www.novartis.com/news/novartis-withdraws-ema-application-adding-new-indication-pluvicto",
+        "score": 85,
+        "date_added": "2026-04-25",
         "article_like": true
     },
     {
-        "company": "Miltenyi Biotec",
-        "url": "https://www.miltenyibiotec.com/IN-en/products/macs-molecular-analysis/ngs-and-pcr/immune-repertoire-sequencing.html",
-        "score": 105,
-        "date_added": "2026-04-24",
+        "company": "Sartorius Stedim India Pvt Ltd",
+        "url": "https://www.sartorius.com/en/company/newsroom/corporate-news/sartorius-ag-supervisory-board-extends-appointment-of-board-member-florian-funck-1820158",
+        "score": 144,
+        "date_added": "2026-04-25",
         "article_like": true
     },
     {
-        "company": "Miltenyi Biotec",
-        "url": "https://www.miltenyibiotec.com/IN-en/products/macs-molecular-analysis/ngs-and-pcr/vcn-and-rcl-assays.html",
-        "score": 95,
-        "date_added": "2026-04-24",
-        "article_like": true
-    },
-    {
-        "company": "Miltenyi Biotec",
-        "url": "https://www.miltenyibiotec.com/IN-en/products/macs-molecular-analysis/ngs-and-pcr.html",
-        "score": 74,
-        "date_added": "2026-04-24",
-        "article_like": true
-    },
-    {
-        "company": "Miltenyi Biotec",
-        "url": "https://www.miltenyibiotec.com/IN-en/applications/by-research-area/immunooncology.html",
-        "score": 74,
-        "date_added": "2026-04-24",
-        "article_like": true
-    },
-    {
-        "company": "Simson Pharma Limited",
-        "url": "https://www.simsonpharma.com/blog-details/limits-of-detection-lod-and-quantification-loq-in-pharmaceutical-analysis-explained",
-        "score": 111,
-        "date_added": "2026-04-24",
-        "article_like": true
-    },
-    {
-        "company": "Simson Pharma Limited",
-        "url": "https://www.simsonpharma.com/blog-details/nitrosamine-impurities-in-pharmaceuticals-risks-regulations-and-control",
-        "score": 99,
-        "date_added": "2026-04-24",
-        "article_like": true
-    },
-    {
-        "company": "Google DeepMind",
-        "url": "https://deepmind.google/blog/decoupled-diloco/",
-        "score": 39,
-        "date_added": "2026-04-24",
-        "article_like": true
-    },
-    {
-        "company": "EY-Parthenon",
-        "url": "https://www.ey.com/en_gl/newsroom/2026/04/nearly-half-of-global-consumers-now-use-ai-to-guide-savings-and-investment-decisions",
-        "score": 153,
-        "date_added": "2026-04-24",
+        "company": "Medtronic",
+        "url": "https://news.medtronic.com/Medtronic-statement-on-unauthorized-system-access",
+        "score": 62,
+        "date_added": "2026-04-25",
         "article_like": true
     },
     {
         "company": "WuXi Biologics",
-        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-receives-south-korea-mfds-gmp-certification-to-enable-commercial-manufacturing-of-bispecific-antibody-therapeutics/",
-        "score": 161,
-        "date_added": "2026-04-24",
+        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-chengdu-microbial-commercial-manufacturing-site-achieves-structural-completion-and-key-equipment-arrival/",
+        "score": 151,
+        "date_added": "2026-04-25",
         "article_like": true
     },
     {
-        "company": "Benchling",
-        "url": "https://www.benchling.com/blog/ai-scientist-that-deserves-the-name",
-        "score": 55,
-        "date_added": "2026-04-24",
-        "article_like": true
-    },
-    {
-        "company": "Tempus",
-        "url": "https://www.tempus.com/news/pr/tempus-and-usc-announce-strategic-collaboration-to-accelerate-ai-driven-precision-medicine/",
-        "score": 118,
-        "date_added": "2026-04-24",
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/todays-clinical-lab-labcorp-launches-10-minute-fda-cleared-fentanyl-test-support-faster-clinical.html",
+        "score": 174,
+        "date_added": "2026-04-25",
         "article_like": true
     },
     {
         "company": "Edwards Lifesciences",
-        "url": "https://www.edwards.com/newsroom/news/2026-04-23-edwards-lifesciences-reports-first-quarter-results-1bcd27a",
+        "url": "https://www.edwards.com/newsroom/news/2026-04-23-edwards-lifesciences-reports-first-quarter-results-631debf",
         "score": 100,
-        "date_added": "2026-04-24",
+        "date_added": "2026-04-25",
         "article_like": true
     },
     {
-        "company": "Pfizer",
-        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-announces-2026-shareholder-meeting-preliminary",
-        "score": 112,
-        "date_added": "2026-04-24",
+        "company": "Genentech",
+        "url": "https://www.gene.com/media/press-releases/15110/2026-04-24/genentech-partners-with-comedy-icon-damo",
+        "score": 99,
+        "date_added": "2026-04-25",
         "article_like": true
     },
     {
-        "company": "AbbVie",
-        "url": "https://news.abbvie.com/2026-04-23-AbbVie-Provides-Update-on-TrenibotulinumtoxinE-TrenibotE-Biologics-License-Application-in-the-U-S",
-        "score": 121,
-        "date_added": "2026-04-24",
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-to-present-at-bofa-and-goldman-sachs-conferences/",
+        "score": 109,
+        "date_added": "2026-04-25",
         "article_like": true
     },
     {
-        "company": "Astellas Pharma",
-        "url": "https://newsroom.astellas.com/2026-04-24-astellas-amends-settlement-and-license-agreement-with-msn-regarding-myrbetriq",
-        "score": 101,
-        "date_added": "2026-04-24",
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-launches-landmark-head-to-head-pulsed-field-ablation-trial-in-persistent-atrial-fibrillation",
+        "score": 153,
+        "date_added": "2026-04-25",
         "article_like": true
     },
     {
-        "company": "BeiGene",
-        "url": "https://ir.beonemedicines.com/media/custom-news/0d682643-b057-4241-8942-b51e133c2983/assets/af2c9a48-4ca0-40e6-86bc-7991ba4fa419/BeOneMedicines_2025_SustainabilityReport_V3.3.pdf?disposition=inline",
-        "score": 171,
-        "date_added": "2026-04-24",
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-enters-agreement-to-acquire-atraverse-medical",
+        "score": 106,
+        "date_added": "2026-04-25",
         "article_like": true
     },
     {
-        "company": "Insilico Medicine",
-        "url": "https://insilico.com/news/yxenmllx01-generative-ai-leap-insilico-medicine-nom",
-        "score": 71,
-        "date_added": "2026-04-24",
+        "company": "UCB",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/acquisition-of-own-shares-45",
+        "score": 79,
+        "date_added": "2026-04-25",
         "article_like": true
     },
     {
-        "company": "ICON plc",
-        "url": "https://www.iconplc.com/about/healthy-participants",
-        "score": 41,
-        "date_added": "2026-04-24",
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260424170002_1247.html?year=2026&category=",
+        "score": 53,
+        "date_added": "2026-04-25",
         "article_like": true
     },
     {
-        "company": "Serum Institute of India",
-        "url": "https://www.seruminstitute.com/VaxThera_and_SII_Announce_Strategic_Collaboration_to_Strengthen_Vaccine Development_and_Health_Security_in_Colombia.php",
-        "score": 122,
-        "date_added": "2026-04-24",
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260424170001_1245.html?year=2026&category=",
+        "score": 53,
+        "date_added": "2026-04-25",
         "article_like": true
     },
     {
-        "company": "HitGen",
-        "url": "https://www.hitgen.com/news/news-details-512.html",
-        "score": 41,
-        "date_added": "2026-04-24",
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260424170000_1248.html?year=2026&category=",
+        "score": 53,
+        "date_added": "2026-04-25",
         "article_like": true
     },
     {
-        "company": "Enamine",
-        "url": "https://enamine.net/compound-collections/fluorescent-dyes",
-        "score": 52,
-        "date_added": "2026-04-24",
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260424eQ1results.pdf&src=[%0],[%1]&rep=130,1247",
+        "score": 26,
+        "date_added": "2026-04-25",
         "article_like": true
     },
     {
-        "company": "Abridge",
-        "url": "https://www.abridge.com/blog/open-ai-gpt-5-5",
-        "score": 35,
-        "date_added": "2026-04-24",
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260424_eSoshiki_Jinji.pdf&src=[%0],[%1]&rep=130,1245",
+        "score": 26,
+        "date_added": "2026-04-25",
+        "article_like": true
+    },
+    {
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260424eStockCompensation2.pdf&src=[%0],[%1]&rep=130,1248",
+        "score": 26,
+        "date_added": "2026-04-25",
+        "article_like": true
+    },
+    {
+        "company": "Chemspace",
+        "url": "https://chem-space.com/news/control-in-an-experiment",
+        "score": 44,
+        "date_added": "2026-04-25",
+        "article_like": true
+    },
+    {
+        "company": "BioSolveIT",
+        "url": "https://www.biosolveit.de/2025/08/08/join-us-in-honoring-matthias-rarey-herman-skolnik-award-recipient/",
+        "score": 123,
+        "date_added": "2026-04-25",
+        "article_like": true
+    },
+    {
+        "company": "Proxygen",
+        "url": "https://proxygen.com/pipeline-beyond",
+        "score": 28,
+        "date_added": "2026-04-25",
         "article_like": true
     }
 ]

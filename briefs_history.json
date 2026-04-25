@@ -1,4 +1,42 @@
 {
+  "2026-04-25": {
+    "bispecific antibodies": [
+      {
+        "company": "WuXi Biologics",
+        "modality": "bispecific antibodies",
+        "news": "WuXi Biologics announced the structural completion and arrival of key equipment at its Chengdu microbial commercial manufacturing site, designed to support the production of complex modalities including bispecific antibodies. The facility features a 15,000 L fermenter and will leverage the company's proprietary platforms like WuXiBody™ to manufacture these therapies at scale.",
+        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-chengdu-microbial-commercial-manufacturing-site-achieves-structural-completion-and-key-equipment-arrival/",
+        "query": "bispecific antibodies"
+      }
+    ],
+    "monoclonal antibodies": [
+      {
+        "company": "Chugai Pharmaceutical",
+        "modality": "monoclonal antibodies",
+        "news": "Chugai announced the approval of Lunsumio and Polivy combination therapy for an additional indication of relapsed or refractory large B-cell lymphoma. Additionally, Enspryng presented Phase III results in myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD) at the 2026 American Academy of Neurology Annual Meeting.",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260424170002_1247.html?year=2026&category=",
+        "query": "monoclonal antibodies"
+      }
+    ],
+    "molecular glues": [
+      {
+        "company": "Proxygen",
+        "modality": "molecular glues",
+        "news": "Proxygen is advancing first-in-class induced proximity therapeutics, specifically molecular glue degraders targeting p300 and CDK12 to reprogram transcriptional dependencies in cancer.",
+        "url": "https://proxygen.com/pipeline-beyond",
+        "query": "molecular glues"
+      }
+    ],
+    "gene editing": [
+      {
+        "company": "Novartis",
+        "modality": "gene editing",
+        "news": "The European Medicines Agency's CHMP adopted a positive opinion recommending marketing authorization for Itvisma (intrathecal onasemnogene abeparvovec), a one-time gene replacement therapy for spinal muscular atrophy (SMA) in patients aged two years and older, based on data from the STEER study.",
+        "url": "https://www.novartis.com/news/media-releases/novartis-receives-positive-chmp-opinion-itvisma-spinal-muscular-atrophy-sma",
+        "query": "gene editing"
+      }
+    ]
+  },
   "2026-04-24": {
     "bispecific antibodies": [
       {
