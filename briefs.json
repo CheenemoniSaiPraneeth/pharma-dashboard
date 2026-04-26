@@ -1,17 +1,10 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 19,
-    "items_extracted": 1,
+    "articles_used": 6,
+    "items_extracted": 0,
     "items_dropped": 0,
-    "generated_at": "2026-04-25 07:29:56"
+    "generated_at": "2026-04-26 07:49:14"
   },
-  "news": [
-    {
-      "company": "Novartis",
-      "modality": "gene editing",
-      "news": "The European Medicines Agency's CHMP adopted a positive opinion recommending marketing authorization for Itvisma (intrathecal onasemnogene abeparvovec), a one-time gene replacement therapy for spinal muscular atrophy (SMA) in patients aged two years and older, based on data from the STEER study.",
-      "url": "https://www.novartis.com/news/media-releases/novartis-receives-positive-chmp-opinion-itvisma-spinal-muscular-atrophy-sma"
-    }
-  ]
+  "news": []
 }

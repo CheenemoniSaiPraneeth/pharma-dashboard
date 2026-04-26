@@ -1,170 +1,44 @@
 [
     {
-        "company": "Sanofi",
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-24-18-30-00-3281028",
-        "score": 107,
-        "date_added": "2026-04-25",
-        "article_like": true
-    },
-    {
-        "company": "Sanofi",
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-24-10-09-46-3280641",
-        "score": 107,
-        "date_added": "2026-04-25",
-        "article_like": true
-    },
-    {
-        "company": "Amgen",
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-announces-webcast-of-2026-first-quarter-financial-results",
-        "score": 141,
-        "date_added": "2026-04-25",
-        "article_like": true
-    },
-    {
-        "company": "Novartis",
-        "url": "https://www.novartis.com/news/media-releases/novartis-receives-positive-chmp-opinion-itvisma-spinal-muscular-atrophy-sma",
-        "score": 112,
-        "date_added": "2026-04-25",
-        "article_like": true
-    },
-    {
-        "company": "Novartis",
-        "url": "https://www.novartis.com/news/novartis-withdraws-ema-application-adding-new-indication-pluvicto",
-        "score": 85,
-        "date_added": "2026-04-25",
-        "article_like": true
-    },
-    {
-        "company": "Sartorius Stedim India Pvt Ltd",
-        "url": "https://www.sartorius.com/en/company/newsroom/corporate-news/sartorius-ag-supervisory-board-extends-appointment-of-board-member-florian-funck-1820158",
-        "score": 144,
-        "date_added": "2026-04-25",
-        "article_like": true
-    },
-    {
         "company": "Medtronic",
-        "url": "https://news.medtronic.com/Medtronic-statement-on-unauthorized-system-access",
-        "score": 62,
-        "date_added": "2026-04-25",
+        "url": "https://news.medtronic.com/2026-04-25-Medtronic-announces-key-Affera-TM-clinical-study-milestones-for-Sphere-9-TM-and-Sphere-360-TM-catheters-as-global-adoption-continues",
+        "score": 156,
+        "date_added": "2026-04-26",
         "article_like": true
     },
     {
-        "company": "WuXi Biologics",
-        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-chengdu-microbial-commercial-manufacturing-site-achieves-structural-completion-and-key-equipment-arrival/",
-        "score": 151,
-        "date_added": "2026-04-25",
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/2026-04-25-Abbott-showcases-strength-of-its-technologies-to-address-abnormal-heart-rhythms-with-late-breaking-clinical-data-at-Heart-Rhythm-Society-2026",
+        "score": 165,
+        "date_added": "2026-04-26",
         "article_like": true
     },
     {
-        "company": "Labcorp Drug Development",
-        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/todays-clinical-lab-labcorp-launches-10-minute-fda-cleared-fentanyl-test-support-faster-clinical.html",
-        "score": 174,
-        "date_added": "2026-04-25",
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/2026-04-25-Abbott-showcases-strength-of-its-technologies-to-address-abnormal-heart-rhythms-with-late-breaking-clinical-data-at-Heart-Rhythm-Society-2026#assets_2429_124747-111",
+        "score": 165,
+        "date_added": "2026-04-26",
         "article_like": true
     },
     {
-        "company": "Edwards Lifesciences",
-        "url": "https://www.edwards.com/newsroom/news/2026-04-23-edwards-lifesciences-reports-first-quarter-results-631debf",
-        "score": 100,
-        "date_added": "2026-04-25",
+        "company": "23andMe",
+        "url": "https://blog.23andme.com/articles/twenty-years-of-reading-the-code-of-life-and-were-just-getting-started",
+        "score": 94,
+        "date_added": "2026-04-26",
         "article_like": true
     },
     {
-        "company": "Genentech",
-        "url": "https://www.gene.com/media/press-releases/15110/2026-04-24/genentech-partners-with-comedy-icon-damo",
-        "score": 99,
-        "date_added": "2026-04-25",
+        "company": "Serum Institute of India",
+        "url": "https://www.seruminstitute.com/University_of_Oxford_and_SII_Agree_Licence_to_Advance_the_Next-Generation_Multi-Stage_Malaria_Vaccine_Candidate_Component_R78C.php",
+        "score": 143,
+        "date_added": "2026-04-26",
         "article_like": true
     },
     {
-        "company": "Caris Life Sciences",
-        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-to-present-at-bofa-and-goldman-sachs-conferences/",
-        "score": 109,
-        "date_added": "2026-04-25",
-        "article_like": true
-    },
-    {
-        "company": "Johnson & Johnson",
-        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-launches-landmark-head-to-head-pulsed-field-ablation-trial-in-persistent-atrial-fibrillation",
-        "score": 153,
-        "date_added": "2026-04-25",
-        "article_like": true
-    },
-    {
-        "company": "Johnson & Johnson",
-        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-enters-agreement-to-acquire-atraverse-medical",
-        "score": 106,
-        "date_added": "2026-04-25",
-        "article_like": true
-    },
-    {
-        "company": "UCB",
-        "url": "https://www.ucb.com/newsroom/press-releases/article/acquisition-of-own-shares-45",
-        "score": 79,
-        "date_added": "2026-04-25",
-        "article_like": true
-    },
-    {
-        "company": "Chugai Pharmaceutical",
-        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260424170002_1247.html?year=2026&category=",
-        "score": 53,
-        "date_added": "2026-04-25",
-        "article_like": true
-    },
-    {
-        "company": "Chugai Pharmaceutical",
-        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260424170001_1245.html?year=2026&category=",
-        "score": 53,
-        "date_added": "2026-04-25",
-        "article_like": true
-    },
-    {
-        "company": "Chugai Pharmaceutical",
-        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260424170000_1248.html?year=2026&category=",
-        "score": 53,
-        "date_added": "2026-04-25",
-        "article_like": true
-    },
-    {
-        "company": "Chugai Pharmaceutical",
-        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260424eQ1results.pdf&src=[%0],[%1]&rep=130,1247",
-        "score": 26,
-        "date_added": "2026-04-25",
-        "article_like": true
-    },
-    {
-        "company": "Chugai Pharmaceutical",
-        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260424_eSoshiki_Jinji.pdf&src=[%0],[%1]&rep=130,1245",
-        "score": 26,
-        "date_added": "2026-04-25",
-        "article_like": true
-    },
-    {
-        "company": "Chugai Pharmaceutical",
-        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260424eStockCompensation2.pdf&src=[%0],[%1]&rep=130,1248",
-        "score": 26,
-        "date_added": "2026-04-25",
-        "article_like": true
-    },
-    {
-        "company": "Chemspace",
-        "url": "https://chem-space.com/news/control-in-an-experiment",
-        "score": 44,
-        "date_added": "2026-04-25",
-        "article_like": true
-    },
-    {
-        "company": "BioSolveIT",
-        "url": "https://www.biosolveit.de/2025/08/08/join-us-in-honoring-matthias-rarey-herman-skolnik-award-recipient/",
-        "score": 123,
-        "date_added": "2026-04-25",
-        "article_like": true
-    },
-    {
-        "company": "Proxygen",
-        "url": "https://proxygen.com/pipeline-beyond",
-        "score": 28,
-        "date_added": "2026-04-25",
+        "company": "Ami Polymer",
+        "url": "https://www.amipolymer.com/cdn-cgi/l/email-protection#680d06191d011a112809050118070411050d1a460b0705",
+        "score": 43,
+        "date_added": "2026-04-26",
         "article_like": true
     }
 ]
