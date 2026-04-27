@@ -1,44 +1,93 @@
 [
     {
-        "company": "Medtronic",
-        "url": "https://news.medtronic.com/2026-04-25-Medtronic-announces-key-Affera-TM-clinical-study-milestones-for-Sphere-9-TM-and-Sphere-360-TM-catheters-as-global-adoption-continues",
-        "score": 156,
-        "date_added": "2026-04-26",
+        "company": "Novartis",
+        "url": "https://www.novartis.com/news/media-releases/novartis-rhapsido-receives-european-commission-approval-first-oral-targeted-treatment-chronic-spontaneous-urticaria",
+        "score": 152,
+        "date_added": "2026-04-27",
         "article_like": true
     },
     {
-        "company": "Abbott Laboratories",
-        "url": "https://abbott.mediaroom.com/2026-04-25-Abbott-showcases-strength-of-its-technologies-to-address-abnormal-heart-rhythms-with-late-breaking-clinical-data-at-Heart-Rhythm-Society-2026",
-        "score": 165,
-        "date_added": "2026-04-26",
+        "company": "Google DeepMind",
+        "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+        "score": 76,
+        "date_added": "2026-04-27",
         "article_like": true
     },
     {
-        "company": "Abbott Laboratories",
-        "url": "https://abbott.mediaroom.com/2026-04-25-Abbott-showcases-strength-of-its-technologies-to-address-abnormal-heart-rhythms-with-late-breaking-clinical-data-at-Heart-Rhythm-Society-2026#assets_2429_124747-111",
-        "score": 165,
-        "date_added": "2026-04-26",
+        "company": "Rx Propellant",
+        "url": "https://rxpropellant.com/bio-international-convention/",
+        "score": 44,
+        "date_added": "2026-04-27",
         "article_like": true
     },
     {
-        "company": "23andMe",
-        "url": "https://blog.23andme.com/articles/twenty-years-of-reading-the-code-of-life-and-were-just-getting-started",
-        "score": 94,
-        "date_added": "2026-04-26",
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/tesaro-a-gsk-subsidiary-provides-update-on-anaptysbio-inc-litigation/",
+        "score": 117,
+        "date_added": "2026-04-27",
         "article_like": true
     },
     {
-        "company": "Serum Institute of India",
-        "url": "https://www.seruminstitute.com/University_of_Oxford_and_SII_Agree_Licence_to_Advance_the_Next-Generation_Multi-Stage_Malaria_Vaccine_Candidate_Component_R78C.php",
-        "score": 143,
-        "date_added": "2026-04-26",
+        "company": "Boston Scientific",
+        "url": "https://news.bostonscientific.com/2026-04-26-Data-at-Heart-Rhythm-2026-highlight-key-Boston-Scientific-therapies",
+        "score": 91,
+        "date_added": "2026-04-27",
         "article_like": true
     },
     {
-        "company": "Ami Polymer",
-        "url": "https://www.amipolymer.com/cdn-cgi/l/email-protection#680d06191d011a112809050118070411050d1a460b0705",
+        "company": "AstraZeneca",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/saphnelo-self-administration-approved-in-the-US.html",
+        "score": 148,
+        "date_added": "2026-04-27",
+        "article_like": true
+    },
+    {
+        "company": "Astellas Pharma",
+        "url": "https://newsroom.astellas.com/2026-04-27-notice-regarding-impairment-loss-and-extraordinary-losses-in-non-consolidated-financial-results-j-gaap",
+        "score": 126,
+        "date_added": "2026-04-27",
+        "article_like": true
+    },
+    {
+        "company": "Astellas Pharma",
+        "url": "https://newsroom.astellas.com/2026-04-27-astellas-announces-personnel-change",
+        "score": 59,
+        "date_added": "2026-04-27",
+        "article_like": true
+    },
+    {
+        "company": "Astellas Pharma",
+        "url": "https://newsroom.astellas.com/2026-04-27-notice-of-nominees-for-directors",
+        "score": 56,
+        "date_added": "2026-04-27",
+        "article_like": true
+    },
+    {
+        "company": "Sarepta Therapeutics",
+        "url": "https://www.sarepta.com/newsroom/gene-therapy-faqs-what-it-how-it-works-and-what-expect",
+        "score": 78,
+        "date_added": "2026-04-27",
+        "article_like": true
+    },
+    {
+        "company": "Shionogi",
+        "url": "https://www.shionogi.com/global/en/news/2026/04/20260427_02.html",
+        "score": 77,
+        "date_added": "2026-04-27",
+        "article_like": true
+    },
+    {
+        "company": "Bavarian Nordic",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7506",
+        "score": 30,
+        "date_added": "2026-04-27",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/vn-en/privacy-statement.html",
         "score": 43,
-        "date_added": "2026-04-26",
+        "date_added": "2026-04-27",
         "article_like": true
     }
 ]

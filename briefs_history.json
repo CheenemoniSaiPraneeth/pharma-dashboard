@@ -1,4 +1,31 @@
 {
+  "2026-04-27": {
+    "monoclonal antibodies": [
+      {
+        "company": "AstraZeneca",
+        "modality": "monoclonal antibodies",
+        "news": "The US FDA approved the Saphnelo Pen, a new autoinjector for subcutaneous self-administration of anifrolumab, for treating adult patients with systemic lupus erythematosus (SLE). This approval follows positive results from the Phase III TULIP-SC trial, offering patients a convenient once-weekly dosing option outside of clinical settings.",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/saphnelo-self-administration-approved-in-the-us.html",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "AstraZeneca",
+        "modality": "monoclonal antibodies",
+        "news": "The US FDA approved the Saphnelo Pen, a new autoinjector for subcutaneous self-administration of anifrolumab, for treating adult patients with systemic lupus erythematosus (SLE). This approval follows positive results from the Phase III TULIP-SC trial, offering patients a convenient once-weekly alternative to intravenous infusion.",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/saphnelo-self-administration-approved-in-the-us.html",
+        "query": "monoclonal antibodies"
+      }
+    ],
+    "gene editing": [
+      {
+        "company": "Astellas Pharma Inc.",
+        "modality": "gene editing",
+        "news": "Astellas announced a strategic halt of AT132 (resamirigene bilparvovec) for X-linked myotubular myopathy and a redeployment of resources to ASP2957, a next-generation investigational gene therapy, resulting in a ¥16.4 billion impairment loss.",
+        "url": "https://newsroom.astellas.com/2026-04-27-notice-regarding-impairment-loss-and-extraordinary-losses-in-non-consolidated-financial-results-j-gaap",
+        "query": "gene editing"
+      }
+    ]
+  },
   "2026-04-25": {
     "bispecific antibodies": [
       {

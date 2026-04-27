@@ -1,10 +1,17 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 6,
-    "items_extracted": 0,
+    "articles_used": 10,
+    "items_extracted": 1,
     "items_dropped": 0,
-    "generated_at": "2026-04-26 07:49:14"
+    "generated_at": "2026-04-27 08:33:15"
   },
-  "news": []
+  "news": [
+    {
+      "company": "Astellas Pharma Inc.",
+      "modality": "gene editing",
+      "news": "Astellas announced a strategic halt of AT132 (resamirigene bilparvovec) for X-linked myotubular myopathy and a redeployment of resources to ASP2957, a next-generation investigational gene therapy, resulting in a ¥16.4 billion impairment loss.",
+      "url": "https://newsroom.astellas.com/2026-04-27-notice-regarding-impairment-loss-and-extraordinary-losses-in-non-consolidated-financial-results-j-gaap"
+    }
+  ]
 }
