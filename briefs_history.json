@@ -1,4 +1,40 @@
 {
+  "2026-04-29": {
+    "bispecific antibodies": [
+      {
+        "company": "Galapagos",
+        "modality": "bispecific antibodies",
+        "news": "Galapagos and Gilead entered into a binding agreement to collaborate on advancing a first-in-class T-cell engager program for autoimmune diseases. The company also announced the name change to Lakefront Biotherapeutics effective May 8, 2026.",
+        "url": "https://www.glpg.com/press-releases/galapagos-shareholders-adopt-all-resolutions-proposed-by-the-board-of-directors-at-the-annual-and-extraordinary-shareholders-meetings-2026/",
+        "query": "bispecific antibodies"
+      }
+    ],
+    "monoclonal antibodies": [
+      {
+        "company": "GSK",
+        "modality": "monoclonal antibodies",
+        "news": "GSK announced new product approvals for Exdensur in the EU and China for severe asthma with an eosinophilic phenotype and nasal polyps, and for Nucala in the EU for COPD. Both Exdensur and Nucala are monoclonal antibodies targeting IL-5 pathways.",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-delivers-strong-q1-performance-and-start-to-2026/",
+        "query": "monoclonal antibodies"
+      }
+    ],
+    "gene editing": [
+      {
+        "company": "Affinia Therapeutics",
+        "modality": "gene editing",
+        "news": "Affinia Therapeutics announced it will present preclinical data on AFTX-201, an AAV gene therapy for BAG3-associated dilated cardiomyopathy, at the ASGCT 2026 Annual Meeting. The company also highlighted its proprietary capsid engineering and manufacturing data, alongside a poster on an epigenetic-editing modality for Myotonic Dystrophy Type 1 developed with Modalis Therapeutics.",
+        "url": "https://affiniatx.com/affinia-therapeutics-to-present-aftx-201-for-bag3-associated-dilated-cardiomyopathy-dcm-and-highlight-proprietary-capsid-engineering-and-manufacturing-data-at-the-american-society-of-gene-cell/",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Affinia Therapeutics",
+        "modality": "gene editing",
+        "news": "Affinia Therapeutics will present preclinical data on AFTX-201 for BAG3-associated dilated cardiomyopathy and highlight a collaboration with Modalis Therapeutics on an epigenetic-editing modality for Myotonic Dystrophy Type 1 at the ASGCT 2026 Annual Meeting.",
+        "url": "https://affiniatx.com/affinia-therapeutics-to-present-aftx-201-for-bag3-associated-dilated-cardiomyopathy-dcm-and-highlight-proprietary-capsid-engineering-and-manufacturing-data-at-the-american-society-of-gene-cell/",
+        "query": "gene editing"
+      }
+    ]
+  },
   "2026-04-28": {
     "monoclonal antibodies": [
       {
