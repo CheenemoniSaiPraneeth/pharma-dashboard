@@ -1,4 +1,80 @@
 {
+  "2026-04-30": {
+    "bispecific antibodies": [
+      {
+        "company": "Genentech",
+        "modality": "bispecific antibodies",
+        "news": "Genentech announced it will present extensive data at ARVO 2026 showcasing its ophthalmology portfolio, including real-world data for Vabysmo (faricimab), the first bispecific antibody approved for the eye targeting Ang-2 and VEGF-A.",
+        "url": "https://www.gene.com/media/press-releases/15111/2026-04-29/genentech-to-present-extensive-data-show",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Pfizer",
+        "modality": "bispecific antibodies",
+        "news": "Pfizer announced positive topline results from the Phase 3 MagnetisMM-5 trial for ELREXFIO (elranatamab), a BCMA-CD3 directed bispecific antibody, demonstrating a statistically significant improvement in progression-free survival for patients with relapsed or refractory multiple myeloma.",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizers-elrexfio-significantly-improves-progression-free",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Roche",
+        "modality": "bispecific antibodies",
+        "news": "Roche announced it will present extensive real-world and clinical data for Vabysmo (faricimab), an industry-leading bispecific antibody targeting Ang-2 and VEGF-A, at the ARVO 2026 annual meeting. The data includes findings from the VOYAGER study demonstrating retinal drying in nAMD and DME, as well as long-term effectiveness results.",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-04-30",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Pfizer",
+        "modality": "bispecific antibodies",
+        "news": "Pfizer announced positive topline results from the Phase 3 MagnetisMM-5 trial for ELREXFIO (elranatamab), a BCMAxCD3 bispecific antibody, showing statistically significant improvement in progression-free survival for relapsed or refractory multiple myeloma patients compared to standard of care.",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizers-elrexfio-significantly-improves-progression-free",
+        "query": "molecular glues"
+      },
+      {
+        "company": "Pfizer",
+        "modality": "bispecific antibodies",
+        "news": "Pfizer announced positive topline results from the Phase 3 MagnetisMM-5 trial for ELREXFIO (elranatamab), a BCMA-CD3 bispecific antibody. The study met its primary endpoint, showing a statistically significant improvement in progression-free survival for patients with relapsed or refractory multiple myeloma compared to standard-of-care therapy.",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizers-elrexfio-significantly-improves-progression-free",
+        "query": "gene editing"
+      }
+    ],
+    "monoclonal antibodies": [
+      {
+        "company": "Genentech",
+        "modality": "monoclonal antibodies",
+        "news": "Genentech announced it will present extensive data at ARVO 2026 showcasing its ophthalmology portfolio, including new real-world data for Vabysmo and early results for the investigational monoclonal antibody vamikibart in treating uveitic macular edema.",
+        "url": "https://www.gene.com/media/press-releases/15111/2026-04-29/genentech-to-present-extensive-data-show",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Pfizer",
+        "modality": "monoclonal antibodies",
+        "news": "Pfizer announced positive topline results from the Phase 3 MagnetisMM-5 trial for ELREXFIO (elranatamab), demonstrating a statistically significant improvement in progression-free survival for patients with relapsed or refractory multiple myeloma compared to standard-of-care therapy.",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizers-elrexfio-significantly-improves-progression-free",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Roche",
+        "modality": "monoclonal antibodies",
+        "news": "Roche presented first results from the phase 2 ALLUVIUM and BARDENAS trials for vamikibart, an investigational intravitreal monoclonal antibody targeting IL-6 for uveitic macular edema, at ARVO 2026.",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-04-30",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "AbbVie",
+        "modality": "monoclonal antibodies",
+        "news": "AbbVie submitted a New Drug Application to the FDA for Skyrizi (risankizumab), a monoclonal antibody, for subcutaneous induction in moderately to severely active Crohn's disease, supported by Phase 3 AFFIRM study data.",
+        "url": "https://news.abbvie.com/2026-04-29-AbbVie-Reports-First-Quarter-2026-Financial-Results",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "AbbVie",
+        "modality": "monoclonal antibodies",
+        "news": "AbbVie submitted a New Drug Application to the FDA for Rinvoq (upadacitinib) for a new indication in severe alopecia areata, supported by Phase 3 UP-AA clinical program data.",
+        "url": "https://news.abbvie.com/2026-04-29-AbbVie-Reports-First-Quarter-2026-Financial-Results",
+        "query": "monoclonal antibodies"
+      }
+    ]
+  },
   "2026-04-29": {
     "bispecific antibodies": [
       {

@@ -1,17 +1,17 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 71,
+    "articles_used": 18,
     "items_extracted": 1,
     "items_dropped": 0,
-    "generated_at": "2026-04-29 08:22:27"
+    "generated_at": "2026-04-30 08:20:03"
   },
   "news": [
     {
-      "company": "Affinia Therapeutics",
-      "modality": "gene editing",
-      "news": "Affinia Therapeutics will present preclinical data on AFTX-201 for BAG3-associated dilated cardiomyopathy and highlight a collaboration with Modalis Therapeutics on an epigenetic-editing modality for Myotonic Dystrophy Type 1 at the ASGCT 2026 Annual Meeting.",
-      "url": "https://affiniatx.com/affinia-therapeutics-to-present-aftx-201-for-bag3-associated-dilated-cardiomyopathy-dcm-and-highlight-proprietary-capsid-engineering-and-manufacturing-data-at-the-american-society-of-gene-cell/"
+      "company": "Pfizer",
+      "modality": "bispecific antibodies",
+      "news": "Pfizer announced positive topline results from the Phase 3 MagnetisMM-5 trial for ELREXFIO (elranatamab), a BCMA-CD3 bispecific antibody. The study met its primary endpoint, showing a statistically significant improvement in progression-free survival for patients with relapsed or refractory multiple myeloma compared to standard-of-care therapy.",
+      "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizers-elrexfio-significantly-improves-progression-free"
     }
   ]
 }
