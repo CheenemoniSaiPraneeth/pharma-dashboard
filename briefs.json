@@ -1,17 +1,10 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 18,
-    "items_extracted": 1,
+    "articles_used": 23,
+    "items_extracted": 0,
     "items_dropped": 0,
-    "generated_at": "2026-04-30 08:20:03"
+    "generated_at": "2026-05-01 08:17:51"
   },
-  "news": [
-    {
-      "company": "Pfizer",
-      "modality": "bispecific antibodies",
-      "news": "Pfizer announced positive topline results from the Phase 3 MagnetisMM-5 trial for ELREXFIO (elranatamab), a BCMA-CD3 bispecific antibody. The study met its primary endpoint, showing a statistically significant improvement in progression-free survival for patients with relapsed or refractory multiple myeloma compared to standard-of-care therapy.",
-      "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizers-elrexfio-significantly-improves-progression-free"
-    }
-  ]
+  "news": []
 }

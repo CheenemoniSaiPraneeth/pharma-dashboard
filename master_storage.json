@@ -102176,5 +102176,292 @@
         "score": 159,
         "date_added": "2026-04-30",
         "article_like": false
+    },
+    {
+        "company": "Amgen",
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-reports-first-quarter-2026-financial-results",
+        "score": 128,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "Amgen",
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/c-o-r-r-e-c-t-i-o-n----amgen",
+        "score": 106,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "MSD",
+        "url": "https://www.msd.com/news/merck-co-inc-rahway-n-j-usa-announces-first-quarter-2026-financial-results-highlights-significant-regulatory-approvals-and-clinical-milestones/",
+        "score": 165,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "Novartis",
+        "url": "https://www.novartis.com/news/media-releases/novartis-finalizes-us-manufacturing-and-rd-expansion-plan-seventh-new-facility",
+        "score": 115,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "Miltenyi Biotec",
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/contact-us.html",
+        "score": 47,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "Miltenyi Biotec",
+        "url": "https://www.miltenyibiotec.com/IN-en/quality-management.html",
+        "score": 44,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "Miltenyi Biotec",
+        "url": "https://www.miltenyibiotec.com/IN-en/privacy-statement.html",
+        "score": 43,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "Miltenyi Biotec",
+        "url": "https://www.miltenyibiotec.com/IN-en/regulatory-notes.html",
+        "score": 42,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "Miltenyi Biotec",
+        "url": "https://www.miltenyibiotec.com/IN-en/legal-notes.html",
+        "score": 37,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "Miltenyi Biotec",
+        "url": "https://www.miltenyibiotec.com/IN-en/impressum.html",
+        "score": 35,
+        "date_added": "2026-05-01",
+        "article_like": false
+    },
+    {
+        "company": "Instem",
+        "url": "https://www.instem.com/contracting-with-instem/",
+        "score": 39,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "Instem",
+        "url": "https://www.instem.com/website-terms-of-use/",
+        "score": 36,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "Google DeepMind",
+        "url": "https://deepmind.google/blog/ai-co-clinician/",
+        "score": 38,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=a33a0eba-aa72-42c3-8825-5d54304cfe8e",
+        "score": 80,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/techniques/multiomics/proteomics/technology.html",
+        "score": 57,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_im",
+        "score": 8,
+        "date_added": "2026-05-01",
+        "article_like": false
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_it",
+        "score": 8,
+        "date_added": "2026-05-01",
+        "article_like": false
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/it_it",
+        "score": 8,
+        "date_added": "2026-05-01",
+        "article_like": false
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_jm",
+        "score": 8,
+        "date_added": "2026-05-01",
+        "article_like": false
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_jp",
+        "score": 8,
+        "date_added": "2026-05-01",
+        "article_like": false
+    },
+    {
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/press-releases?item=124750",
+        "score": 27,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/barrons-labcorp-powers-ahead-strong-q1-performance-fueled-innovation-ai-and-automation.html",
+        "score": 164,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-announces-2026-first-quarter-results-raises-full-year.html",
+        "score": 145,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/compliance/privacy/privacy-notice/online-services-user-agreement",
+        "score": 83,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "Guardant Health",
+        "url": "https://investors.guardanthealth.com/press-releases/press-releases/2026/Guardant-Health-Announces-Multi-Year-Strategic-Collaboration-with-Nuvalent-to-Develop-Companion-Diagnostics-and-Support-Potential-Commercialization-of-Targeted-Cancer-Therapies-Using-the-Guardant-Infinity-Platform/default.aspx",
+        "score": 307,
+        "date_added": "2026-05-01",
+        "article_like": false
+    },
+    {
+        "company": "Siemens Healthineers",
+        "url": "https://www.siemens-healthineers.com/press/releases/photon-flash-therapy",
+        "score": 52,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "AstraZeneca",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/fda-odac-vote-on-camizestrant-breast-cancer.html",
+        "score": 144,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "AstraZeneca",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/fda-odac-recommends-truqap-prostate-cancer.html",
+        "score": 143,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-statement-on-investigational-programs-in-large-b-cell-lymphoma",
+        "score": 123,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-appoints-ryan-koors-as-vice-president-investor-relations",
+        "score": 117,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-04-30-Allergan-Aesthetics-Launches-Philanthropic-Effort-in-Recognition-of-Skin-Cancer-Awareness-Month",
+        "score": 119,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "Gilead Sciences",
+        "url": "https://www.gilead.com/responsibility/giving-at-gilead/corporate-giving/how-to-apply-for-funding/sponsorship-faqs",
+        "score": 111,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "Alnylam Pharmaceuticals",
+        "url": "https://investors.alnylam.com/press-release?id=29796",
+        "score": 26,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "IQVIA",
+        "url": "https://www.iqvia.com/newsroom#main-content",
+        "score": 11,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "UCB",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-announces-acquisition-of-imidomics-patient-insight-business-strengthening-capabilities-in-immune-mediated-inflammatory-diseases-imids",
+        "score": 188,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "UCB",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-s-general-meeting-of-shareholders-2026",
+        "score": 93,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "Eisai",
+        "url": "https://www.eisai.com/news/2026/news202624.html",
+        "score": 57,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "Intra-Cellular Therapies",
+        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/Johnson--Johnson-Appoints-Ryan-Koors-as-Vice-President-Investor-Relations/default.aspx",
+        "score": 164,
+        "date_added": "2026-05-01",
+        "article_like": false
+    },
+    {
+        "company": "ProQR Therapeutics",
+        "url": "https://ir.proqr.com/press-releases/proqr-announces-nomination-of-dr-lykke-hinsch-gylvin-to-its-board-of-directors",
+        "score": 108,
+        "date_added": "2026-05-01",
+        "article_like": true
+    },
+    {
+        "company": "Prothena Corporation",
+        "url": "https://ir.prothena.com/investors/press-releases/news-details/2026/Prothena-to-Report-First-Quarter-2026-Financial-Results-on-May-7/default.aspx",
+        "score": 168,
+        "date_added": "2026-05-01",
+        "article_like": false
+    },
+    {
+        "company": "Grail",
+        "url": "https://grail.com/press-releases/grail-to-present-at-the-bofa-securities-2026-health-care-conference/",
+        "score": 100,
+        "date_added": "2026-05-01",
+        "article_like": true
     }
 ]

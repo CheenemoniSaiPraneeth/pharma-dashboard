@@ -1,4 +1,122 @@
 {
+  "2026-05-01": {
+    "bispecific antibodies": [
+      {
+        "company": "Amgen",
+        "modality": "bispecific antibodies",
+        "news": "In April 2026, China's National Medical Products Administration (NMPA) granted conditional approval to IMDELLTRA (tarlatamab), a DLL3-targeting bispecific T-cell engager (BiTE), for third-line extensive-stage small cell lung cancer.",
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-reports-first-quarter-2026-financial-results",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Amgen",
+        "modality": "bispecific antibodies",
+        "news": "Amgen reported positive topline results from a Phase 3 trial of BLINCYTO (blinatumomab), a CD19-targeting bispecific T-cell engager, in combination with low-intensity chemotherapy for older adults with newly diagnosed B-cell precursor acute lymphoblastic leukemia.",
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-reports-first-quarter-2026-financial-results",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Amgen",
+        "modality": "bispecific antibodies",
+        "news": "Amgen initiated multiple Phase 3 and Phase 1b clinical studies for xaluritamig (AMG 509), a first-in-class bispecific T-cell engager targeting STEAP1, for the treatment of metastatic castration-resistant prostate cancer and Ewing sarcoma.",
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-reports-first-quarter-2026-financial-results",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Merck & Co.",
+        "modality": "bispecific antibodies",
+        "news": "Merck initiated a pivotal Phase 2b/3 clinical trial evaluating MK-8748, an investigational bispecific Tie2 agonist/VEGF inhibitor, for the treatment of neovascular age-related macular degeneration.",
+        "url": "https://www.msd.com/news/merck-co-inc-rahway-n-j-usa-announces-first-quarter-2026-financial-results-highlights-significant-regulatory-approvals-and-clinical-milestones/",
+        "query": "bispecific antibodies"
+      }
+    ],
+    "monoclonal antibodies": [
+      {
+        "company": "Amgen",
+        "modality": "monoclonal antibodies",
+        "news": "The FDA proposed withdrawing approval of TAVNEOS (avacopan) due to lack of substantial evidence of effectiveness and hepatotoxicity concerns, though the drug remains on the market pending a potential hearing.",
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-reports-first-quarter-2026-financial-results",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Amgen",
+        "modality": "monoclonal antibodies",
+        "news": "The European Commission approved UPLIZNA (inebilizumab) as an add-on therapy for generalized myasthenia gravis in adult patients who are anti-acetylcholine receptor or anti-muscle specific tyrosine kinase antibody positive.",
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-reports-first-quarter-2026-financial-results",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Amgen",
+        "modality": "monoclonal antibodies",
+        "news": "Amgen is advancing daxdilimab, a first-in-class plasmacytoid dendritic cell depleting monoclonal antibody, to a registrational phase of development.",
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-reports-first-quarter-2026-financial-results",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Amgen",
+        "modality": "monoclonal antibodies",
+        "news": "A Phase 2 study of AMG 732, an insulin-like growth factor-1 receptor targeting monoclonal antibody, is currently enrolling patients with moderate-to-severe active thyroid eye disease.",
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-reports-first-quarter-2026-financial-results",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Merck & Co.",
+        "modality": "monoclonal antibodies",
+        "news": "The FDA approved KEYTRUDA (pembrolizumab) and KEYTRUDA QLEX plus paclitaxel, with or without bevacizumab, for the treatment of certain adults with PD-L1+ platinum-resistant ovarian cancer.",
+        "url": "https://www.msd.com/news/merck-co-inc-rahway-n-j-usa-announces-first-quarter-2026-financial-results-highlights-significant-regulatory-approvals-and-clinical-milestones/",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Merck & Co.",
+        "modality": "monoclonal antibodies",
+        "news": "The European Commission approved a KEYTRUDA regimen plus paclitaxel, with or without bevacizumab, for the treatment of adults with PD-L1+ platinum-resistant recurrent ovarian carcinoma.",
+        "url": "https://www.msd.com/news/merck-co-inc-rahway-n-j-usa-announces-first-quarter-2026-financial-results-highlights-significant-regulatory-approvals-and-clinical-milestones/",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Merck & Co.",
+        "modality": "monoclonal antibodies",
+        "news": "The FDA granted priority review for a label update for KEYTRUDA QLEX based on Phase 2 trial results evaluating patient preference for subcutaneous administration over intravenous administration.",
+        "url": "https://www.msd.com/news/merck-co-inc-rahway-n-j-usa-announces-first-quarter-2026-financial-results-highlights-significant-regulatory-approvals-and-clinical-milestones/",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Merck & Co.",
+        "modality": "monoclonal antibodies",
+        "news": "The FDA granted priority review for KEYTRUDA and KEYTRUDA QLEX, each with Padcev, for cisplatin-eligible patients with muscle-invasive bladder cancer based on positive Phase 3 KEYNOTE-B15 trial results.",
+        "url": "https://www.msd.com/news/merck-co-inc-rahway-n-j-usa-announces-first-quarter-2026-financial-results-highlights-significant-regulatory-approvals-and-clinical-milestones/",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Merck & Co.",
+        "modality": "monoclonal antibodies",
+        "news": "The FDA accepted supplemental applications for WELIREG in combination with KEYTRUDA or KEYTRUDA QLEX for the adjuvant treatment of certain patients with renal cell carcinoma, setting a PDUFA date of June 19, 2026.",
+        "url": "https://www.msd.com/news/merck-co-inc-rahway-n-j-usa-announces-first-quarter-2026-financial-results-highlights-significant-regulatory-approvals-and-clinical-milestones/",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Merck & Co.",
+        "modality": "monoclonal antibodies",
+        "news": "The FDA accepted supplemental applications for WELIREG plus Lenvima in certain previously treated patients with advanced renal cell carcinoma, setting a PDUFA date of October 4, 2026.",
+        "url": "https://www.msd.com/news/merck-co-inc-rahway-n-j-usa-announces-first-quarter-2026-financial-results-highlights-significant-regulatory-approvals-and-clinical-milestones/",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Merck & Co.",
+        "modality": "monoclonal antibodies",
+        "news": "The European Medicines Agency's Committee for Medicinal Products for Human View adopted a positive opinion for an expanded indication for CAPVAXIVE for active immunization against invasive pneumococcal disease in certain children and adolescents.",
+        "url": "https://www.msd.com/news/merck-co-inc-rahway-n-j-usa-announces-first-quarter-2026-financial-results-highlights-significant-regulatory-approvals-and-clinical-milestones/",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "AstraZeneca",
+        "modality": "monoclonal antibodies",
+        "news": "The FDA Oncologic Drugs Advisory Committee (ODAC) voted 7 to 1 to recommend approval of Truqap (capivasertib) in combination with abiraterone and androgen deprivation therapy for PTEN-deficient metastatic hormone-sensitive prostate cancer, based on positive Phase III CAPItello-281 trial results.",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/fda-odac-recommends-truqap-prostate-cancer.html",
+        "query": "monoclonal antibodies"
+      }
+    ]
+  },
   "2026-04-30": {
     "bispecific antibodies": [
       {
