@@ -546,582 +546,6 @@
     ]
   },
   {
-    "company": "Dr. Reddy's Laboratories",
-    "press_url": "https://www.drreddys.com/media/",
-    "candidate_links": [
-      {
-        "url": "https://www.drreddys.com/our-science/development-streams/apis-active-pharmaceutical-ingredients/",
-        "anchor_text": "APIs (Active Pharmaceutical Ingredients)",
-        "score": 90
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/environmental-sustainability/",
-        "anchor_text": "Environmental Sustainability",
-        "score": 89
-      },
-      {
-        "url": "https://www.drreddys.com/our-products/business-focus/apis-active-pharmaceutical-ingredients/",
-        "anchor_text": "APIs (Active Pharmaceutical Ingredients)",
-        "score": 86
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/affiliates/dr-reddy-s-foundations/",
-        "anchor_text": "Dr Reddy’s Foundations",
-        "score": 84
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/planet/commitment-to-the-planet/",
-        "anchor_text": "Commitment to the Planet",
-        "score": 82
-      },
-      {
-        "url": "https://www.drreddys.com/investors/governance/code-of-business-conduct-and-ethics-cobe/",
-        "anchor_text": "Code of Business Conduct and Ethics (COBE)",
-        "score": 81
-      },
-      {
-        "url": "https://www.drreddys.com/investors/investor-services/other-stock-exchange-intimations/",
-        "anchor_text": "Other Stock Exchange Intimations",
-        "score": 80
-      },
-      {
-        "url": "https://www.drreddys.com/investors/reports-and-filings/37th-annual-general-meeting/",
-        "anchor_text": "37th Annual General Meeting",
-        "score": 77
-      },
-      {
-        "url": "https://www.drreddys.com/our-products/business-focus/differentiated-formulations/",
-        "anchor_text": "Differentiated Formulations",
-        "score": 75
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/change-makers/",
-        "anchor_text": "Change Makers",
-        "score": 74
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/planet/carbon-footprint/",
-        "anchor_text": "Carbon Footprint",
-        "score": 74
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/healthcare-professionals/",
-        "anchor_text": "Healthcare Professionals",
-        "score": 73
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/our-approach/",
-        "anchor_text": "Our Approach",
-        "score": 73
-      },
-      {
-        "url": "https://www.drreddys.com/our-science/development-streams/proprietary-products/",
-        "anchor_text": "Proprietary Products",
-        "score": 72
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/livelihoods/",
-        "anchor_text": "Livelihoods",
-        "score": 72
-      },
-      {
-        "url": "https://www.drreddys.com/investors/investor-services/investor-meeting-details/",
-        "anchor_text": "Investor Meeting Details",
-        "score": 72
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/healthcare/",
-        "anchor_text": "Healthcare",
-        "score": 71
-      },
-      {
-        "url": "https://www.drreddys.com/investors/investor-services/statutory-communication/",
-        "anchor_text": "Statutory Communication",
-        "score": 71
-      },
-      {
-        "url": "https://www.drreddys.com/investors/investor-services/shareholder-information/",
-        "anchor_text": "Shareholder Information",
-        "score": 71
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/education/",
-        "anchor_text": "Education",
-        "score": 70
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/affiliates/partners/",
-        "anchor_text": "Partners",
-        "score": 70
-      },
-      {
-        "url": "https://www.drreddys.com/investors/investor-services/shareholder-s-contacts/",
-        "anchor_text": "Shareholder’s Contacts",
-        "score": 70
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/humans-of-dr-reddy-s/",
-        "anchor_text": "Humans of Dr. Reddy’s",
-        "score": 69
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/planet/initiatives/",
-        "anchor_text": "Initiatives",
-        "score": 69
-      },
-      {
-        "url": "https://www.drreddys.com/investors/governance/corporate-governance-reports/",
-        "anchor_text": "Corporate Governance Reports",
-        "score": 69
-      },
-      {
-        "url": "https://www.drreddys.com/investors/governance/information-to-stakeholders/",
-        "anchor_text": "Information to Stakeholders",
-        "score": 68
-      },
-      {
-        "url": "https://www.drreddys.com/investors/reports-and-filings/quarterly-reports/",
-        "anchor_text": "Quarterly Reports",
-        "score": 67
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/life-at-drreddys/",
-        "anchor_text": "Life at Dr.Reddy's",
-        "score": 65
-      },
-      {
-        "url": "https://www.drreddys.com/investors/governance/internal-control-systems/",
-        "anchor_text": "Internal Control Systems",
-        "score": 65
-      },
-      {
-        "url": "https://www.drreddys.com/investors/investor-services/investor-handbook/",
-        "anchor_text": "Investor Handbook",
-        "score": 65
-      },
-      {
-        "url": "https://www.drreddys.com/our-products/business-focus/over-the-counter/",
-        "anchor_text": "Over-the-counter",
-        "score": 64
-      },
-      {
-        "url": "https://www.drreddys.com/investors/reports-and-filings/annual-reports/",
-        "anchor_text": "Annual Reports",
-        "score": 64
-      },
-      {
-        "url": "https://www.drreddys.com/investors/governance/committees-of-the-board/",
-        "anchor_text": "Committees of the Board",
-        "score": 64
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/our-heritage/an-unfinished-agenda/",
-        "anchor_text": "An Unfinished Agenda",
-        "score": 63
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/sustainability/",
-        "anchor_text": "Sustainability",
-        "score": 63
-      },
-      {
-        "url": "https://www.drreddys.com/investors/shares/share-transfer-information/",
-        "anchor_text": "Share Transfer Information",
-        "score": 63
-      },
-      {
-        "url": "https://www.drreddys.com/investors/governance/policies-and-documents/",
-        "anchor_text": "Policies and Documents",
-        "score": 63
-      },
-      {
-        "url": "https://www.drreddys.com/investors/shares/unpaid-unclaimed-dividend/",
-        "anchor_text": "Unpaid & Unclaimed Dividend",
-        "score": 62
-      },
-      {
-        "url": "https://www.drreddys.com/our-science/development-streams/biologics/",
-        "anchor_text": "Biologics",
-        "score": 61
-      },
-      {
-        "url": "https://www.drreddys.com/investors/reports-and-filings/sec-filings/",
-        "anchor_text": "SEC Filings",
-        "score": 61
-      },
-      {
-        "url": "https://www.drreddys.com/investors/reports-and-filings/moa-and-aoa/",
-        "anchor_text": "MoA and AoA",
-        "score": 61
-      },
-      {
-        "url": "https://www.drreddys.com/investors/governance/compliance-with-nyse/",
-        "anchor_text": "Compliance with NYSE",
-        "score": 61
-      },
-      {
-        "url": "https://www.drreddys.com/investors/investor-services/credit-rating/",
-        "anchor_text": "Credit Rating",
-        "score": 61
-      },
-      {
-        "url": "https://www.drreddys.com/our-science/development-streams/generics/",
-        "anchor_text": "Generics",
-        "score": 60
-      },
-      {
-        "url": "https://www.drreddys.com/investors/shares/equity-dividend-history/",
-        "anchor_text": "Equity & Dividend History",
-        "score": 60
-      },
-      {
-        "url": "https://www.drreddys.com/investors/governance/ombudsperson-policy/",
-        "anchor_text": "Ombudsperson Policy",
-        "score": 60
-      },
-      {
-        "url": "https://www.drreddys.com/investors/investor-services/amalgamation/",
-        "anchor_text": "Amalgamation",
-        "score": 60
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/leadership/board-of-directors/",
-        "anchor_text": "Board Of Directors",
-        "score": 59
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/leadership/management-council/",
-        "anchor_text": "Management Council",
-        "score": 59
-      },
-      {
-        "url": "https://www.drreddys.com/our-products/business-focus/biologics/",
-        "anchor_text": "Biologics",
-        "score": 57
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/patients/",
-        "anchor_text": "Patients",
-        "score": 57
-      },
-      {
-        "url": "https://www.drreddys.com/investors/presentations/earnings-call/",
-        "anchor_text": "Earnings Call",
-        "score": 57
-      },
-      {
-        "url": "https://www.drreddys.com/investors/shares/shareholding-pattern/",
-        "anchor_text": "Shareholding Pattern",
-        "score": 57
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/our-employees-respond-covid19/",
-        "anchor_text": "our employees respond covid19",
-        "score": 57
-      },
-      {
-        "url": "https://www.drreddys.com/our-products/business-focus/generics/",
-        "anchor_text": "Generics",
-        "score": 56
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/our-heritage/our-founder/",
-        "anchor_text": "Our Founder",
-        "score": 54
-      },
-      {
-        "url": "https://www.drreddys.com/investors/shares/analyst-coverage/",
-        "anchor_text": "Analyst Coverage",
-        "score": 53
-      },
-      {
-        "url": "https://www.drreddys.com/partners/login-for-current-partners/",
-        "anchor_text": "Login for Current Partners",
-        "score": 53
-      },
-      {
-        "url": "https://www.drreddys.com/investors/shares/stock-updates/",
-        "anchor_text": "Stock Updates",
-        "score": 50
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/about-us/milestones/",
-        "anchor_text": "Milestones",
-        "score": 49
-      },
-      {
-        "url": "https://www.drreddys.com/our-science/research-philosophy/",
-        "anchor_text": "Research Philosophy",
-        "score": 49
-      },
-      {
-        "url": "https://www.drreddys.com/our-products/therapeutic-focus/",
-        "anchor_text": "Therapeutic Focus",
-        "score": 48
-      },
-      {
-        "url": "https://www.drreddys.com/investors/shares/share-price/",
-        "anchor_text": "Share Price",
-        "score": 48
-      },
-      {
-        "url": "https://www.drreddys.com/contact-us/medical-information/",
-        "anchor_text": "Medical Information",
-        "score": 48
-      },
-      {
-        "url": "https://www.drreddys.com/investors/presentations/presentations/",
-        "anchor_text": "Presentations",
-        "score": 47
-      },
-      {
-        "url": "https://www.drreddys.com/partners/prospective-partners/",
-        "anchor_text": "Prospective Partners",
-        "score": 47
-      },
-      {
-        "url": "https://www.drreddys.com/our-products/business-focus/",
-        "anchor_text": "Our Products",
-        "score": 45
-      },
-      {
-        "url": "https://www.drreddys.com/media/dr-reddys-in-the-news/",
-        "anchor_text": "Dr. Reddy's in the news",
-        "score": 45
-      },
-      {
-        "url": "https://www.drreddys.com/contact-us/global-locations/",
-        "anchor_text": "Global Locations",
-        "score": 45
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/featured-stories/",
-        "anchor_text": "Featured Stories",
-        "score": 44
-      },
-      {
-        "url": "https://www.drreddys.com/our-science/capabilities/",
-        "anchor_text": "Capabilities",
-        "score": 42
-      },
-      {
-        "url": "https://www.drreddys.com/partners/post-an-enquiry/",
-        "anchor_text": "Post an Enquiry",
-        "score": 42
-      },
-      {
-        "url": "https://www.drreddys.com/contact-us/key-contacts/",
-        "anchor_text": "Key Contacts",
-        "score": 41
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/who-we-are/",
-        "anchor_text": "Who We Are",
-        "score": 38
-      },
-      {
-        "url": "https://www.drreddys.com/our-products/quality/",
-        "anchor_text": "Quality",
-        "score": 38
-      },
-      {
-        "url": "https://www.drreddys.com/media/press-releases/",
-        "anchor_text": "Press Releases",
-        "score": 38
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/about-us/",
-        "anchor_text": "Our Story",
-        "score": 36
-      },
-      {
-        "url": "https://www.drreddys.com/investors/shares/buyback/",
-        "anchor_text": "Buyback",
-        "score": 34
-      },
-      {
-        "url": "https://www.drreddys.com/media/media-kit/",
-        "anchor_text": "Media Kit",
-        "score": 33
-      },
-      {
-        "url": "https://www.drreddys.com/cookie-policy.aspx",
-        "anchor_text": "Cookie Policy.",
-        "score": 31
-      },
-      {
-        "url": "https://www.drreddys.com/united-states/",
-        "anchor_text": "United States",
-        "score": 29
-      },
-      {
-        "url": "https://www.drreddys.com/south-africa/",
-        "anchor_text": "South Africa",
-        "score": 28
-      },
-      {
-        "url": "https://www.drreddys.com/new-zealand/",
-        "anchor_text": "New Zealand",
-        "score": 27
-      },
-      {
-        "url": "https://www.drreddys.com/privacy-policy",
-        "anchor_text": "Privacy Notice",
-        "score": 27
-      },
-      {
-        "url": "https://www.drreddys.com/cookie-policy",
-        "anchor_text": "Cookie Policy",
-        "score": 26
-      },
-      {
-        "url": "https://www.drreddys.com/terms-of-use",
-        "anchor_text": "Terms Of Use",
-        "score": 25
-      },
-      {
-        "url": "https://www.drreddys.com/accessibility",
-        "anchor_text": "Accessibility",
-        "score": 16
-      },
-      {
-        "url": "https://www.drreddys.com/australia/",
-        "anchor_text": "Australia",
-        "score": 15
-      },
-      {
-        "url": "https://www.drreddys.com/search.aspx",
-        "anchor_text": "",
-        "score": 14
-      },
-      {
-        "url": "https://www.drreddys.com/germany/",
-        "anchor_text": "Germany",
-        "score": 13
-      },
-      {
-        "url": "https://www.drreddys.com/canada/",
-        "anchor_text": "Canada",
-        "score": 12
-      },
-      {
-        "url": "https://www.drreddys.com/russia/",
-        "anchor_text": "Russia",
-        "score": 12
-      },
-      {
-        "url": "https://www.drreddys.com/china/",
-        "anchor_text": "China",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/india/",
-        "anchor_text": "India",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2022",
-        "anchor_text": "2022",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2021",
-        "anchor_text": "2021",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2020",
-        "anchor_text": "2020",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2019",
-        "anchor_text": "2019",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2018",
-        "anchor_text": "2018",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2017",
-        "anchor_text": "2017",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2016",
-        "anchor_text": "2016",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2015",
-        "anchor_text": "2015",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2014",
-        "anchor_text": "2014",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2013",
-        "anchor_text": "2013",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2012",
-        "anchor_text": "2012",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2011",
-        "anchor_text": "2011",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2010",
-        "anchor_text": "2010",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2009",
-        "anchor_text": "2009",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2008",
-        "anchor_text": "2008",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2007",
-        "anchor_text": "2007",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2006",
-        "anchor_text": "2006",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2005",
-        "anchor_text": "2005",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2001",
-        "anchor_text": "2001",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/",
-        "anchor_text": "",
-        "score": 3
-      }
-    ]
-  },
-  {
     "company": "Amgen",
     "press_url": "https://www.amgen.com/newsroom/press-releases",
     "candidate_links": [
@@ -1194,11 +618,6 @@
         "url": "https://www.amgen.com/newsroom/press-releases/2026/03/amgen-announces-2026-second-quarter-dividend",
         "anchor_text": "AMGEN ANNOUNCES 2026 SECOND QUARTER DIVIDEND",
         "score": 122
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/c-o-r-r-e-c-t-i-o-n----amgen",
-        "anchor_text": "/C O R R E C T I O N -- Amgen/",
-        "score": 106
       },
       {
         "url": "https://www.amgen.com/about/how-we-operate/policies-practices-and-disclosures/business-conduct/quality",
@@ -3755,6 +3174,31 @@
     "press_url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases.html",
     "candidate_links": [
       {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/miltenyi-biotec-to-commercially-supply-clinimacs-platform-to-autolus-therapeutics-for-their-manufacture-of-fda-approved-aucatzyl-obecabtagene-autoleucel-obe-cel.html",
+        "anchor_text": "more",
+        "score": 225
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/miltenyi-biotec-acquires-exclusive-rights-for-the-distribution-and-development-of-the-viral-transduction-enhancer-vectofusin-1-from-genethon.html",
+        "anchor_text": "more",
+        "score": 205
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/miltenyi-biotec-opens-its-first-office-in-hyderabad-india-and-plans-invest-in-first-of-its-kind-cgt-coe-for-indian-academia-and-industry.html",
+        "anchor_text": "more",
+        "score": 201
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/miltenyi-biotec-manufactures-lentiviral-vector-for-adaptimmune-s-fda-approved-tcr-t-cell-therapy-tecelra-afamitresgeme-autoleucel.html",
+        "anchor_text": "more",
+        "score": 194
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/about-us/newsroom/press-releases/replay-s-oncology-focused-product-company-syena-and-miltenyi-biotec-enter-into-exclusive-licensing-and-gmp-manufacturing-agreement.html",
+        "anchor_text": "more",
+        "score": 187
+      },
+      {
         "url": "https://www.miltenyibiotec.com/IN-en/lp/assisting-researchers-in-their-work-addressing-viral-threats/solutions--for-stimulation-enrichment-and-analysis-of-rare-virus-specific-T-cells.html",
         "anchor_text": "SARS-CoV-2-specific T cells",
         "score": 175
@@ -3765,8 +3209,23 @@
         "score": 171
       },
       {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/miltenyi-biotec-and-milaboratories-announce-strategic-partnership-to-advance-next-generation-therapies.html",
+        "anchor_text": "more",
+        "score": 167
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/miltenyi-biotec-launches-all-in-one-kits-for-stimulation-and-analysis-of-sars-cov-2-reactive-t-cells.html",
+        "anchor_text": "more",
+        "score": 165
+      },
+      {
         "url": "https://www.miltenyibiotec.com/IN-en/applications/by-technology/Cell-and-nuclei-preparation-for-genomics/Preparation-of-cell-and-nuclei-suspensions-for-genomic-analysis.html",
         "anchor_text": "Preparation of cell and nuclei suspensions for genomic analysis",
+        "score": 163
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/miltenyi-biotec-reaches-important-milestone-in-the-transition-to-EUs-new-medical-device-regulation.html",
+        "anchor_text": "more",
         "score": 163
       },
       {
@@ -3775,14 +3234,44 @@
         "score": 161
       },
       {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/bundeskanzler-scholz-und-ministerpr%C3%A4sidentin-schwesig-zu-besuch-bei-miltenyi-biotec-teterow.html",
+        "anchor_text": "more",
+        "score": 161
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/miltenyi-biotec-offers-automated-and-closed-adherent-cell-culture-solutions-on-clinimacs-prodigy.html",
+        "anchor_text": "more",
+        "score": 161
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/the-eu-funded-project-carat-offers-fellowships-for-a-training-course-on-car-t-cell-manufacturing.html",
+        "anchor_text": "more",
+        "score": 161
+      },
+      {
         "url": "https://www.miltenyibiotec.com/IN-en/applications/by-research-area/cell-manufacturing-in-clinical-research-settings/point-of-care-manufacturing-in-monogenic-diseases.html",
         "anchor_text": "Monogenic diseases",
         "score": 160
       },
       {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/molmed-and-miltenyi-biotec-ema-approves-the-utilization-of-the-clinimacs-prodigy-r-equipment.html",
+        "anchor_text": "more",
+        "score": 157
+      },
+      {
         "url": "https://www.miltenyibiotec.com/IN-en/applications/by-research-area/cell-manufacturing-in-clinical-research-settings/point-of-care-manufacturing-in-solid-cancers.html",
         "anchor_text": "Solid cancers",
         "score": 155
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/miltenyi-biotec-introduces-worlds-first-operator-free-gmp-compliant-cell-sorting-system.html",
+        "anchor_text": "more",
+        "score": 152
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/macsxpress-treg-isolation-kit-human-quick-and-efficient-isolation-of-regulatory-t-cells.html",
+        "anchor_text": "more",
+        "score": 152
       },
       {
         "url": "https://www.miltenyibiotec.com/IN-en/applications/by-technology/Cell-and-nuclei-preparation-for-genomics/target-cell-isolation-for-improved-genomic-analysis.html",
@@ -3815,6 +3304,16 @@
         "score": 148
       },
       {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/miltenyi-biotec-achieves-cdp-leadership-rating-a-for-climate-and-water-transparency.html",
+        "anchor_text": "more",
+        "score": 148
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/miltenyi-biotec-expands-prodigy-capabilities-to-include-gene-engineered-human-hscs.html",
+        "anchor_text": "more",
+        "score": 147
+      },
+      {
         "url": "https://www.miltenyibiotec.com/IN-en/applications/by-technology/Cell-and-nuclei-preparation-for-genomics/sample-quality-control-prior-genomic-analysis.html",
         "anchor_text": "Sample quality control prior genomic analysis",
         "score": 145
@@ -3823,6 +3322,21 @@
         "url": "https://www.miltenyibiotec.com/IN-en/applications/mesenchymal-stem-cells/mesenchymal-stem-cell-expansion-in-a-gmp-compliant-closed-and-automated-system.html",
         "anchor_text": "Mesenchymal stem cell expansion in a GMP-compliant, closed, and automated system",
         "score": 144
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/flamm-aerotec-sells-its-property-in-laage-to-biomedical-company-miltenyi-biotec.html",
+        "anchor_text": "more",
+        "score": 144
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/miltenyi-biotec-launches-worlds-first-fully-automated-light-sheet-microscope.html",
+        "anchor_text": "more",
+        "score": 141
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/miltenyi-biotec-launches-new-tool-for-coronavirus-specific-t-cell-research.html",
+        "anchor_text": "more",
+        "score": 139
       },
       {
         "url": "https://www.miltenyibiotec.com/IN-en/applications/by-research-area/cell-manufacturing-in-clinical-research-settings/solid-organ-transplantation.html",
@@ -3835,13 +3349,33 @@
         "score": 138
       },
       {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/the-course-schedule-has-arrived-macs-academy-is-starting-its-new-program.html",
+        "anchor_text": "more",
+        "score": 137
+      },
+      {
         "url": "https://www.miltenyibiotec.com/IN-en/applications/by-technology/Cell-and-nuclei-preparation-for-genomics/Sample-cleanup-for-genomic-analysis.html",
         "anchor_text": "Sample cleanup for genomic analysis",
         "score": 135
       },
       {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/car-t-therapy-in-eu-over-100-experts-meet-at-atmp-workshop-in-brussels.html",
+        "anchor_text": "more",
+        "score": 135
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/miltenyi-biotec-acquires-gene-therapy-assets-from-lentigen-corporation.html",
+        "anchor_text": "more",
+        "score": 135
+      },
+      {
         "url": "https://www.miltenyibiotec.com/IN-en/applications/by-cell-type/hematopoietic-stem-cells/generation-of-cd34-positive-humanized-mouse-models.html",
         "anchor_text": "Generation of CD34+ humanized mouse models",
+        "score": 133
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/enrichment-of-human-carcinoma-cells-for-sensitive-molecular-analysis.html",
+        "anchor_text": "more",
         "score": 133
       },
       {
@@ -3860,8 +3394,33 @@
         "score": 129
       },
       {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/producing-polymer-structures-faster-two-processes-in-one-machine.html",
+        "anchor_text": "more",
+        "score": 129
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/new-macsquant-r-x-revolutionizes-high-throughput-flow-cytometry.html",
+        "anchor_text": "more",
+        "score": 128
+      },
+      {
         "url": "https://www.miltenyibiotec.com/IN-en/applications/pluripotent-stem-cells/reprogramming-fibroblasts-into-induced-pluripotent-stem-cells.html",
         "anchor_text": "Reprogramming fibroblasts into induced pluripotent stem cells",
+        "score": 127
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/new-cell-therapy-network-to-help-protect-nrw-against-pandemics.html",
+        "anchor_text": "more",
+        "score": 127
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/miltenyi-biotec-acquires-promising-non-harmful-imaging-process.html",
+        "anchor_text": "more",
+        "score": 127
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/miltenyi-biotec-acquires-microscopy-specialist-lavision-biotec.html",
+        "anchor_text": "more",
         "score": 127
       },
       {
@@ -3885,8 +3444,23 @@
         "score": 125
       },
       {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/macsima-imaging-platform-revolutionizes-high-content-imaging.html",
+        "anchor_text": "more",
+        "score": 125
+      },
+      {
         "url": "https://www.miltenyibiotec.com/IN-en/applications/pluripotent-stem-cells/maintenance-and-cryopreservation-of-pluripotent-stem-cells.html",
         "anchor_text": "Maintenance and cryopreservation of pluripotent stem cells",
+        "score": 124
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/nrw-minister-prof-dr-pinkwart-zu-besuch-bei-miltenyi-biotec.html",
+        "anchor_text": "more",
+        "score": 124
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/autolus-and-miltenyi-biotec-sign-strategic-supply-agreement.html",
+        "anchor_text": "more",
         "score": 124
       },
       {
@@ -3925,6 +3499,21 @@
         "score": 119
       },
       {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/natural-killer-cells-cultivation-activation-and-growth.html",
+        "anchor_text": "more",
+        "score": 119
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/macsprep-pbmc-isolation-kit-human-from-miltenyi-biotec.html",
+        "anchor_text": "more",
+        "score": 119
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/new-ce-marked-macs-r-ivd-antibodies-by-miltenyi-biotec.html",
+        "anchor_text": "more",
+        "score": 119
+      },
+      {
         "url": "https://www.miltenyibiotec.com/IN-en/applications/by-research-area/cardiovascular/rodent-models-for-cardiovascular-research.html",
         "anchor_text": "Rodent models for cardiovascular research",
         "score": 118
@@ -3935,6 +3524,16 @@
         "score": 116
       },
       {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/miltenyi-biotec-named-as-an-employer-for-the-future.html",
+        "anchor_text": "more",
+        "score": 116
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/cell-separation-faster-and-more-reliable-than-ever.html",
+        "anchor_text": "more",
+        "score": 115
+      },
+      {
         "url": "https://www.miltenyibiotec.com/IN-en/applications/by-technology/cell-sorting-applications/sorting-of-high-risk-material.html",
         "anchor_text": "Sorting of high-risk material",
         "score": 114
@@ -3942,6 +3541,11 @@
       {
         "url": "https://www.miltenyibiotec.com/IN-en/applications/hematopoietic-stem-cells/gene-engineered-hematopoietic-stem-cells-hscs.html",
         "anchor_text": "Gene-engineered hematopoietic stem cells (HSCs)",
+        "score": 113
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/reliable-and-reproducible-flow-cytometry-results.html",
+        "anchor_text": "more",
         "score": 113
       },
       {
@@ -3960,6 +3564,11 @@
         "score": 112
       },
       {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/fda-approval-of-clinimacs-r-cd34-reagent-system.html",
+        "anchor_text": "more",
+        "score": 112
+      },
+      {
         "url": "https://www.miltenyibiotec.com/IN-en/products/macs-molecular-analysis/nucleic-acid-and-protein-isolation-and-analysis.html",
         "anchor_text": "Nucleic acid and protein isolation and analysis",
         "score": 110
@@ -3972,6 +3581,11 @@
       {
         "url": "https://www.miltenyibiotec.com/IN-en/applications/Drug-discovery-and-development/assays-for-immunogenicity-prediction.html",
         "anchor_text": "Assays for immunogenicity prediction",
+        "score": 110
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/macs-gmp-t-cell-transact-from-miltenyi-biotec.html",
+        "anchor_text": "more",
         "score": 110
       },
       {
@@ -4022,6 +3636,11 @@
       {
         "url": "https://www.miltenyibiotec.com/IN-en/applications/flow-cytometry-applications/Immunophenotyping-via-flow-cytometry.html",
         "anchor_text": "Immunophenotyping in cancer research using flow cytometry",
+        "score": 107
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/releasable-antibodies-for-label-free-cells.html",
+        "anchor_text": "more",
         "score": 107
       },
       {
@@ -4080,6 +3699,11 @@
         "score": 102
       },
       {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/cancer-coaching-for-the-immune-system.html",
+        "anchor_text": "more",
+        "score": 102
+      },
+      {
         "url": "https://www.miltenyibiotec.com/IN-en/products/macs-cell-culture-and-stimulation/cytokines-and-growth-factors.html",
         "anchor_text": "Cytokines and growth factors",
         "score": 101
@@ -4105,8 +3729,18 @@
         "score": 100
       },
       {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/krebs-nachhilfe-fur-das-immunsystem.html",
+        "anchor_text": "more",
+        "score": 100
+      },
+      {
         "url": "https://www.miltenyibiotec.com/IN-en/applications/by-research-area/neuroscience/psc-derived-neural-cells.html",
         "anchor_text": "PSC-derived neural cells",
+        "score": 99
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/research-initiative-restore-health.html",
+        "anchor_text": "more",
         "score": 99
       },
       {
@@ -4127,6 +3761,11 @@
       {
         "url": "https://www.miltenyibiotec.com/IN-en/applications/Drug-discovery-and-development/cardiotoxicity-screening.html",
         "anchor_text": "Cardiotoxicity screening",
+        "score": 98
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/e-go-mover-receives-road-approval.html",
+        "anchor_text": "more",
         "score": 98
       },
       {
@@ -4277,6 +3916,11 @@
       {
         "url": "https://www.miltenyibiotec.com/IN-en/applications/nk-cells/nk-cell-isolation-expansion-and-analysis.html",
         "anchor_text": "NK cell isolation, expansion and analysis",
+        "score": 92
+      },
+      {
+        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/neue-therapiechance-bei-aml.html",
+        "anchor_text": "more",
         "score": 92
       },
       {
@@ -5028,166 +4672,6 @@
         "url": "https://www.miltenyibiotec.com/IN-en/applications/cardiovascular.html",
         "anchor_text": "Cardiovascular overview",
         "score": 55
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/about-us/locations/europe.html",
-        "anchor_text": "Europe",
-        "score": 55
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/applications/all-protocols.html",
-        "anchor_text": "All protocols",
-        "score": 54
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/support/technical-support.html",
-        "anchor_text": "Technical support",
-        "score": 53
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/applications/neuroscience.html",
-        "anchor_text": "Neural cells overview",
-        "score": 53
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/resources/resource-finder.html",
-        "anchor_text": "Educational documents",
-        "score": 53
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/lp/dive-deep-into-spatial-biology.html",
-        "anchor_text": "MACSima™ Platform – Dive deep into spatial biology",
-        "score": 53
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/about-us/brand-resources.html",
-        "anchor_text": "Brand resources overview",
-        "score": 52
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/products/macs-antibodies.html",
-        "anchor_text": "MACS Antibodies",
-        "score": 52
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/resources/video-library.html",
-        "anchor_text": "Video library overview",
-        "score": 51
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/products/product-news.html",
-        "anchor_text": "Product News",
-        "score": 49
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/support/ways-to-order.html",
-        "anchor_text": "Ways to order overview",
-        "score": 49
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/products/cell-therapy.html",
-        "anchor_text": "Cell therapy products overview",
-        "score": 49
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/applications/nk-cells.html",
-        "anchor_text": "NK cells overview",
-        "score": 49
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/support/macs-handbook.html",
-        "anchor_text": "Mouse cells and organs",
-        "score": 49
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/applications/b-cells.html",
-        "anchor_text": "B cells overview",
-        "score": 48
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/about-us/contact-us.html",
-        "anchor_text": "Contact us",
-        "score": 47
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/about-us/locations.html",
-        "anchor_text": "Locations",
-        "score": 46
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom.html",
-        "anchor_text": "Newsroom",
-        "score": 45
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/support/ordering.html",
-        "anchor_text": "Ordering overview",
-        "score": 44
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/about-us/careers.html",
-        "anchor_text": "Careers",
-        "score": 44
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/quality-management.html",
-        "anchor_text": "Quality management",
-        "score": 44
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/resources/tools.html",
-        "anchor_text": "Tools overview",
-        "score": 43
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/privacy-statement.html",
-        "anchor_text": "Privacy Statement",
-        "score": 43
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/resources/blog.html",
-        "anchor_text": "Blog overview",
-        "score": 42
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/regulatory-notes.html",
-        "anchor_text": "Regulatory notes",
-        "score": 42
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/legal-notes.html",
-        "anchor_text": "Legal notes",
-        "score": 37
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/impressum.html",
-        "anchor_text": "Impressum",
-        "score": 35
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/130-134-029",
-        "anchor_text": "gentleMACS® Octo Dissociator with Heaters – The most trusted tissue dissociator to start smart",
-        "score": 32
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/130-120-327",
-        "anchor_text": "Unlock the power of automated cell separation with the autoMACS NEO Separator",
-        "score": 32
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/130-091-937",
-        "anchor_text": "MultiMACS™ M96 Separator – parallel processing of 8 to 96 samples in proteomics and molecular applications",
-        "score": 32
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/myaccount",
-        "anchor_text": "Login",
-        "score": 30
-      },
-      {
-        "url": "https://www.miltenyibiotec.com/IN-en/",
-        "anchor_text": "",
-        "score": 21
       }
     ]
   },
@@ -5236,14 +4720,14 @@
         "score": 117
       },
       {
-        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/case-study-dresser-140M-haul-truck",
-        "anchor_text": "Dresser 140M haul truck",
-        "score": 113
-      },
-      {
         "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/Isotopic-Dilution-for-PFAS",
         "anchor_text": "Isotopic Dilution for PFAS: The Gold Standard for Accurate Environmental…",
         "score": 105
+      },
+      {
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/case-study-cone-crusher",
+        "anchor_text": "Cone Crusher",
+        "score": 102
       },
       {
         "url": "https://www.alsglobal.com/en/investor-relations/ASX-announcements-archive",
@@ -5652,49 +5136,9 @@
         "score": 160
       },
       {
-        "url": "https://www.veeva.com/resources/unilever-reckitt-estee-lauder-nestle-basf-and-evonik-to-speak-at-veevas-virtual-summit-for-consumer-goods-and-chemical-industries/",
-        "anchor_text": "Read Press Release",
-        "score": 157
-      },
-      {
-        "url": "https://www.veeva.com/resources/court-rejects-medidata-lawsuit-against-veeva-for-lack-of-evidence-blocks-medidatas-moves-to-limit-competition-and-employee-rights/",
-        "anchor_text": "Read Press Release",
-        "score": 157
-      },
-      {
-        "url": "https://www.veeva.com/medtech/news/new-research-finds-87-of-medtechs-lack-consistent-methods-to-share-product-information-across-global-regulatory-teams/%20",
-        "anchor_text": "Read Press Release",
-        "score": 153
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-first-customer-win-and-april-2024-availability-for-vault-crm-the-next-generation-of-crm-for-life-sciences/",
-        "anchor_text": "Read Press Release",
-        "score": 149
-      },
-      {
-        "url": "https://www.veeva.com/resources/st-cloud-state-university-and-veeva-partner-to-deliver-real-world-clinical-technology-experience-to-medtech-students/",
-        "anchor_text": "Read Press Release",
-        "score": 144
-      },
-      {
-        "url": "https://www.veeva.com/medtech/resources/veeva-medtech-clinical-trials-report-signals-significant-opportunity-to-improve-data-delivery-and-quality/",
-        "anchor_text": "Read Press Release",
-        "score": 143
-      },
-      {
-        "url": "https://www.veeva.com/resources/largest-ever-industry-report-reveals-video-meetings-3x-more-effective-and-companies-using-them-most-gain-advantage/",
-        "anchor_text": "Read Press Release",
-        "score": 142
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-announces-esource-application-for-research-sites-to-eliminate-paper-and-streamline-clinical-trial-data-flow/",
         "anchor_text": "Read Press Release",
         "score": 141
-      },
-      {
-        "url": "https://www.veeva.com/resources/leading-pharma-adopts-veeva-vault-validation-management-for-digital-validation-execution-and-improved-efficiency/",
-        "anchor_text": "Read Press Release",
-        "score": 140
       },
       {
         "url": "https://www.veeva.com/resources/more-than-125-customers-worldwide-live-on-vault-crm-as-veeva-accelerates-the-industrys-agentic-transformation/",
@@ -5702,34 +5146,9 @@
         "score": 137
       },
       {
-        "url": "https://www.veeva.com/resources/minaris-regenerative-medicine-streamlining-contract-manufacturing-with-veeva-vault-quality-suite-applications/",
-        "anchor_text": "Read Press Release",
-        "score": 137
-      },
-      {
-        "url": "https://www.veeva.com/resources/boehringer-ingelheim-partners-with-veeva-to-advance-its-clinical-and-regulatory-operations-in-animal-health/",
-        "anchor_text": "Read Press Release",
-        "score": 135
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-and-sarah-cannon-research-institute-form-strategic-collaboration-to-advance-oncology-clinical-trials/",
         "anchor_text": "Read Press Release",
         "score": 134
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-pulse-reveals-digital-content-more-than-twice-as-effective-in-driving-promotional-response-globally/",
-        "anchor_text": "Read Press Release",
-        "score": 133
-      },
-      {
-        "url": "https://www.veeva.com/resources/more-than-2000-biopharma-leaders-come-together-at-veeva-rd-and-quality-summit-to-advance-drug-development/",
-        "anchor_text": "Read Press Release",
-        "score": 133
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-clinical-database-crosses-200-study-milestone-cuts-time-to-aggregate-and-clean-study-data-by-30-50/",
-        "anchor_text": "Read Press Release",
-        "score": 132
       },
       {
         "url": "https://www.veeva.com/resources/iqvia-and-veeva-announce-long-term-clinical-and-commercial-partnerships-and-resolution-of-all-disputes/",
@@ -5742,39 +5161,9 @@
         "score": 130
       },
       {
-        "url": "https://www.veeva.com/resources/new-batch-release-application-for-life-sciences-manufacturing-to-speed-time-to-market-and-reduce-cost/",
-        "anchor_text": "Read Press Release",
-        "score": 129
-      },
-      {
-        "url": "https://www.veeva.com/resources/merck-kgaa-darmstadt-germany-partners-with-veeva-to-transform-medical-information-operations-globally/",
-        "anchor_text": "Read Press Release",
-        "score": 129
-      },
-      {
-        "url": "https://www.veeva.com/resources/more-than-450-companies-adopt-veeva-vault-etmf-for-improved-trial-efficiency-and-inspection-readiness/",
-        "anchor_text": "Read Press Release",
-        "score": 129
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-commercial-summit-connects-nearly-1500-life-sciences-leaders-across-sales-medical-and-marketing/",
-        "anchor_text": "Learn More",
-        "score": 129
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-pulse-shows-post-pandemic-hcp-access-nearing-80-in-key-specialties-driven-by-digital-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 129
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-opendata-and-veeva-network-mdm-enable-coordinated-customer-engagement-for-boehringer-ingelheim/",
         "anchor_text": "Read Press Release",
         "score": 128
-      },
-      {
-        "url": "https://www.veeva.com/resources/biopharmas-boost-marketing-effectiveness-by-23-by-synchronizing-digital-media-with-field-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 127
       },
       {
         "url": "https://www.veeva.com/medtech/news/new-study-finds-88-of-medtechs-prioritizing-postmarket-quality-modernization-within-next-3-years",
@@ -5787,57 +5176,12 @@
         "score": 126
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-vault-rim-driving-greater-speed-and-compliance-for-more-than-350-life-sciences-organizations/",
-        "anchor_text": "Read Press Release",
-        "score": 126
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-announces-collaboration-with-global-biotech-to-further-accelerate-clinical-trial-innovation/",
         "anchor_text": "Read Press Release",
         "score": 125
       },
       {
-        "url": "https://www.veeva.com/resources/biopharma-leaders-come-together-at-veeva-commercial-summit-to-advance-customer-centric-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 125
-      },
-      {
-        "url": "https://www.veeva.com/resources/southern-star-research-adopts-veeva-vault-etmf-and-veeva-vault-ctms-to-streamline-trial-processes/",
-        "anchor_text": "Read Press Release",
-        "score": 125
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-compass-modernizes-prescriber-data-with-new-approach-designed-for-todays-complex-therapies/",
-        "anchor_text": "Read Press Release",
-        "score": 124
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-pulse-reveals-digital-content-more-than-twice-as-effective-in-driving-promotional-response/",
-        "anchor_text": "Read Press Release",
-        "score": 124
-      },
-      {
-        "url": "https://www.veeva.com/medtech/resources/industrywide-survey-reveals-centralizing-regulatory-is-number-one-priority-for-medtech/",
-        "anchor_text": "Read Press Release",
-        "score": 124
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-announces-environmental-monitoring-solution-to-modernize-quality-control-in-manufacturing/",
-        "anchor_text": "Read Press Release",
-        "score": 123
-      },
-      {
-        "url": "https://www.veeva.com/resources/major-release-of-veeva-site-connect-streamlines-clinical-trial-execution-for-sites-and-sponsors/",
-        "anchor_text": "Read Press Release",
-        "score": 123
-      },
-      {
-        "url": "https://www.veeva.com/resources/life-sciences-community-advances-toward-next-phase-of-innovation-at-veeva-rd-and-quality-summit/",
-        "anchor_text": "Read Press Release",
-        "score": 123
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-crossix-introduces-new-products-to-advance-omnichannel-marketing-for-life-sciences-brands/",
         "anchor_text": "Read Press Release",
         "score": 123
       },
@@ -5847,32 +5191,12 @@
         "score": 122
       },
       {
-        "url": "https://www.veeva.com/resources/life-sciences-brands-reach-clinically-relevant-audiences-with-new-veeva-crossix-prime-segments/",
-        "anchor_text": "Read Press Release",
-        "score": 122
-      },
-      {
         "url": "https://www.veeva.com/resources/industry-research-finds-establishing-a-foundation-for-ai-is-top-priority-for-cpg-enterprises/",
         "anchor_text": "Read Press Release",
         "score": 120
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-cdb-application-to-streamline-aggregation-cleaning-and-transformation-of-clinical-data/",
-        "anchor_text": "Read Press Release",
-        "score": 120
-      },
-      {
         "url": "https://www.veeva.com/resources/aop-health-standardizes-on-veeva-industry-cloud-for-life-sciences-across-all-business-areas/",
-        "anchor_text": "Read Press Release",
-        "score": 119
-      },
-      {
-        "url": "https://www.veeva.com/resources/new-veeva-pulse-findings-show-connected-engagement-creates-an-advantage-as-hcp-access-drops/",
-        "anchor_text": "Read Press Release",
-        "score": 119
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-introduces-link-workflow-a-no-code-platform-for-building-custom-workflow-applications/",
         "anchor_text": "Read Press Release",
         "score": 119
       },
@@ -5887,42 +5211,7 @@
         "score": 117
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-vault-crm-suite-to-unlock-greater-customer-centricity-with-launch-of-service-center/",
-        "anchor_text": "Learn More",
-        "score": 117
-      },
-      {
-        "url": "https://www.veeva.com/resources/top-biopharma-brands-reach-audiences-10x-more-qualified-with-veeva-crossix-prime-segments/",
-        "anchor_text": "Read Press Release",
-        "score": 117
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-becomes-first-life-sciences-training-solutions-provider-to-gain-iacet-accreditation/",
-        "anchor_text": "Read Press Release",
-        "score": 117
-      },
-      {
-        "url": "https://www.veeva.com/resources/ani-pharmaceuticals-adopts-veeva-commercial-cloud-to-better-support-rare-disease-patients/",
-        "anchor_text": "Read Press Release",
-        "score": 117
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-vault-lims-gains-momentum-as-companies-unify-quality-assurance-and-quality-control/",
-        "anchor_text": "Read Press Release",
-        "score": 116
-      },
-      {
-        "url": "https://www.veeva.com/resources/more-than-350-companies-increase-efficiency-and-compliance-with-veeva-training-solutions/",
-        "anchor_text": "Read Press Release",
-        "score": 116
-      },
-      {
         "url": "https://www.veeva.com/medtech/news/report-reveals-70-of-medtechs-use-manual-processes-for-managing-content-and-claims/",
-        "anchor_text": "Read Press Release",
-        "score": 115
-      },
-      {
-        "url": "https://www.veeva.com/resources/new-veeva-vault-submissions-publishing-elearning-application-speeds-employee-onboarding/",
         "anchor_text": "Read Press Release",
         "score": 115
       },
@@ -5932,74 +5221,14 @@
         "score": 114
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-pulse-shows-doctors-opening-up-two-way-communications-doubles-digital-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 114
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-rd-and-quality-summit-brings-together-biopharma-leaders-to-accelerate-innovation/",
-        "anchor_text": "Read Press Release",
-        "score": 114
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-announces-new-digital-hazard-analysis-and-critical-control-point-haccp-solution/",
         "anchor_text": "Read Press Release",
         "score": 113
       },
       {
-        "url": "https://www.veeva.com/resources/anthem-biosciences-launches-veeva-vault-quality-for-greater-efficiency-and-compliance/",
-        "anchor_text": "Read Press Release",
-        "score": 113
-      },
-      {
-        "url": "https://www.veeva.com/resources/leo-pharma-connects-affiliates-with-veeva-vault-safety-to-transform-safety-operations/",
-        "anchor_text": "Read Press Release",
-        "score": 113
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-introduces-study-portal-and-veevaid-to-streamline-research-site-trial-execution/",
-        "anchor_text": "Read Press Release",
-        "score": 113
-      },
-      {
-        "url": "https://www.veeva.com/medtech/news/new-veeva-link-medtech-provides-real-time-data-to-optimize-scientific-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 113
-      },
-      {
-        "url": "https://www.veeva.com/resources/global-cdmo-adare-pharma-solutions-harmonizing-quality-with-veeva-vault-quality-suite/",
-        "anchor_text": "Read Press Release",
-        "score": 113
-      },
-      {
-        "url": "https://www.veeva.com/resources/lotus-clinical-research-expands-partnership-with-veeva-to-accelerate-clinical-trials/",
-        "anchor_text": "Read Press Release",
-        "score": 112
-      },
-      {
         "url": "https://www.veeva.com/medtech/news/medtech-industry-establishes-foundation-for-clinical-trials-with-veeva-medtech/",
         "anchor_text": "Read Press Release",
         "score": 111
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-expands-relationship-with-accenture-to-help-customers-transition-to-vault-crm/",
-        "anchor_text": "Read Press Release",
-        "score": 111
-      },
-      {
-        "url": "https://www.veeva.com/resources/six-of-the-top-20-pharma-select-veeva-vault-edc-as-company-standard-for-new-trials/",
-        "anchor_text": "Learn More",
-        "score": 110
-      },
-      {
-        "url": "https://www.veeva.com/medtech/news/for-the-second-year-in-a-row-veeva-medtech-named-best-overall-medtech-software",
-        "anchor_text": "Read Press Release",
-        "score": 108
-      },
-      {
-        "url": "https://www.veeva.com/resources/vita-global-sciences-partners-with-veeva-to-streamline-clinical-data-management/",
-        "anchor_text": "Read Press Release",
-        "score": 107
       },
       {
         "url": "https://www.veeva.com/resources/veeva-ai-agents-now-available-to-increase-productivity-and-customer-centricity/",
@@ -6012,32 +5241,12 @@
         "score": 106
       },
       {
-        "url": "https://www.veeva.com/resources/troy-animal-healthcare-strengthens-quality-operations-with-veeva-vault-quality/",
-        "anchor_text": "Read Press Release",
-        "score": 106
-      },
-      {
-        "url": "https://www.veeva.com/resources/ucb-and-veeva-collaborate-to-advance-the-patient-experience-in-clinical-trials/",
-        "anchor_text": "Read Press Release",
-        "score": 106
-      },
-      {
         "url": "https://www.veeva.com/medtech/news/research-shows-medtechs-prioritizing-site-collaboration-and-data-quality/",
         "anchor_text": "Read Press Release",
         "score": 105
       },
       {
         "url": "https://www.veeva.com/resources/life-sciences-leaders-advance-unified-engagement-at-veeva-commercial-summit/",
-        "anchor_text": "Read Press Release",
-        "score": 103
-      },
-      {
-        "url": "https://www.veeva.com/resources/targeted-pre-launch-scientific-outreach-drives-40-faster-treatment-adoption/",
-        "anchor_text": "Read Press Release",
-        "score": 103
-      },
-      {
-        "url": "https://www.veeva.com/resources/recipharm-harmonizes-its-global-quality-operations-with-veeva-vault-quality/",
         "anchor_text": "Read Press Release",
         "score": 103
       },
@@ -6062,47 +5271,12 @@
         "score": 100
       },
       {
-        "url": "https://www.veeva.com/resources/top-biopharma-commits-to-veeva-vault-crm-for-global-customer-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 99
-      },
-      {
-        "url": "https://www.veeva.com/resources/leading-asia-pacific-biopharmas-power-digital-engagement-with-veeva-crm/",
-        "anchor_text": "Read Press Release",
-        "score": 99
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-introduces-new-epro-application-for-faster-access-to-patient-data/",
-        "anchor_text": "Read Press Release",
-        "score": 99
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-pulse-data-shows-new-science-calls-for-more-connected-engagement/",
         "anchor_text": "Read Press Release",
         "score": 98
       },
       {
-        "url": "https://www.veeva.com/resources/new-service-center-in-veeva-vault-crm-suite-unifies-sales-and-service/",
-        "anchor_text": "Read Press Release",
-        "score": 97
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-completes-study-migrations-to-veeva-vault-edc-for-top-biopharma/",
-        "anchor_text": "Read Press Release",
-        "score": 97
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-statement-in-support-of-proposed-ftc-rule-to-ban-non-competes/",
-        "anchor_text": "Read Press Release",
-        "score": 95
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-and-zifo-partner-to-accelerate-quality-control-modernization/",
-        "anchor_text": "Read Press Release",
-        "score": 94
-      },
-      {
-        "url": "https://www.veeva.com/resources/40-cros-select-veeva-vault-ctms-to-drive-clinical-trial-operations/",
         "anchor_text": "Read Press Release",
         "score": 94
       },
@@ -6117,22 +5291,7 @@
         "score": 92
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-unveils-vault-crm-next-generation-of-crm-for-life-sciences/",
-        "anchor_text": "Read Press Release",
-        "score": 92
-      },
-      {
-        "url": "https://www.veeva.com/resources/modular-content-powers-omnichannel-engagement-at-speed-and-scale/",
-        "anchor_text": "Learn More",
-        "score": 92
-      },
-      {
         "url": "https://www.veeva.com/medtech/news/18-of-the-top-20-medtech-companies-partner-with-veeva-medtech",
-        "anchor_text": "Read Press Release",
-        "score": 91
-      },
-      {
-        "url": "https://www.veeva.com/resources/tigermed-advances-clinical-data-management-with-veeva-vault-edc/",
         "anchor_text": "Read Press Release",
         "score": 91
       },
@@ -6152,22 +5311,12 @@
         "score": 89
       },
       {
-        "url": "https://www.veeva.com/resources/now-available-veeva-compass-suite-of-commercial-data-products/",
-        "anchor_text": "Read Press Release",
-        "score": 89
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-ai-agents-to-be-released-across-all-veeva-applications/",
         "anchor_text": "Read Press Release",
         "score": 88
       },
       {
         "url": "https://www.veeva.com/resources/more-than-450-companies-drive-speed-to-market-with-veeva-rim/",
-        "anchor_text": "Read Press Release",
-        "score": 88
-      },
-      {
-        "url": "https://www.veeva.com/resources/bayer-commits-to-veeva-vault-crm-and-veeva-opendata-globally/",
         "anchor_text": "Read Press Release",
         "score": 88
       },
@@ -6182,39 +5331,9 @@
         "score": 87
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-announces-fourth-quarter-and-fiscal-year-2024-results/",
-        "anchor_text": "Read Press Release",
-        "score": 87
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fourth-quarter-and-fiscal-year-2023-results/",
-        "anchor_text": "Read Press Release",
-        "score": 87
-      },
-      {
         "url": "https://www.veeva.com/resources/top-global-biopharmas-standardize-on-veeva-china-crm-suite/",
         "anchor_text": "Read Press Release",
         "score": 86
-      },
-      {
-        "url": "https://www.veeva.com/resources/kemwell-biopharma-drives-quality-excellence-with-veeva-qms/",
-        "anchor_text": "Read Press Release",
-        "score": 86
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-partners-with-sanofi-to-transform-its-quality-system/",
-        "anchor_text": "Read Press Release",
-        "score": 86
-      },
-      {
-        "url": "https://www.veeva.com/resources/batavia-optimizes-global-qa-with-veeva-vault-quality-suite/",
-        "anchor_text": "Read Press Release",
-        "score": 86
-      },
-      {
-        "url": "https://www.veeva.com/resources/veranex-accelerates-clinical-trials-with-veeva-vault-cdms/",
-        "anchor_text": "Read Press Release",
-        "score": 85
       },
       {
         "url": "https://www.veeva.com/resources/veeva-and-biomarin-form-long-term-strategic-partnership/",
@@ -6227,57 +5346,12 @@
         "score": 82
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-business-consulting-expands-with-new-rd-services/",
-        "anchor_text": "Read Press Release",
-        "score": 82
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-vault-lims-to-support-civica-rx-quality-control/",
-        "anchor_text": "Read Press Release",
-        "score": 81
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-vault-edc-surpasses-1000-study-start-milestone/",
-        "anchor_text": "Read Press Release",
-        "score": 80
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-and-merck-form-long-term-strategic-partnership/",
-        "anchor_text": "Read Press Release",
-        "score": 80
-      },
-      {
         "url": "https://www.veeva.com/resources/astellas-chooses-veeva-vault-crm-as-global-standard/",
         "anchor_text": "Read Press Release",
         "score": 79
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-vault-crm-now-available-for-all-new-customers/",
-        "anchor_text": "Read Press Release",
-        "score": 79
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-clinical-study-training-application/",
-        "anchor_text": "Read Press Release",
-        "score": 79
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2026-second-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 78
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2025-second-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 78
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2024-second-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 78
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2023-second-quarter-results/",
         "anchor_text": "Read Press Release",
         "score": 78
       },
@@ -6298,26 +5372,6 @@
       },
       {
         "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2025-third-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 77
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2025-first-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 77
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2024-third-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 77
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2024-first-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 77
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2023-third-quarter-results/",
         "anchor_text": "Read Press Release",
         "score": 77
       },
@@ -6347,22 +5401,7 @@
         "score": 72
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-introduces-veeva-vault-crm-for-medtech/",
-        "anchor_text": "Read Press Release",
-        "score": 72
-      },
-      {
         "url": "https://www.veeva.com/resources/gilead-sciences-commits-to-veeva-vault-crm/",
-        "anchor_text": "Read Press Release",
-        "score": 70
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-introduces-vault-basics-for-biotechs/",
-        "anchor_text": "Read Press Release",
-        "score": 70
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-vault-crm-campaign-manager/",
         "anchor_text": "Read Press Release",
         "score": 70
       },
@@ -6394,11 +5433,6 @@
       {
         "url": "https://www.veeva.com/eu/life-science-digital-engagement-strategy/",
         "anchor_text": "Increase Omnichannel Impact",
-        "score": 61
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-launches-ai-partner-program/",
-        "anchor_text": "Read Press Release",
         "score": 61
       },
       {
@@ -10273,19 +9307,14 @@
         "score": 153
       },
       {
-        "url": "https://insilicominds.com/fda-works-through-ich-to-support-global-drug-development-creating-harmonized-technical-standards-through-guidelines/",
-        "anchor_text": "Read More »",
-        "score": 131
-      },
-      {
         "url": "https://insilicominds.com/fda-launches-general-principles-of-model-integrated-evidence-mie-industry-meeting-pilot-for-generic-drug-applicants/",
         "anchor_text": "Read More »",
         "score": 131
       },
       {
-        "url": "https://insilicominds.com/passage-of-senate-bill-s-5002-fda-modernization-act-2-0-relating-to-animal-testing/",
+        "url": "https://insilicominds.com/fda-works-through-ich-to-support-global-drug-development-creating-harmonized-technical-standards-through-guidelines/",
         "anchor_text": "Read More »",
-        "score": 98
+        "score": 131
       },
       {
         "url": "https://insilicominds.com/fda-model-integrated-evidence-mie-industry-meeting-pilot-program-for-generic-drugs/",
@@ -12495,7 +11524,7 @@
       },
       {
         "url": "https://www.instem.com/blog/press-releases/",
-        "anchor_text": "",
+        "anchor_text": "Manage Cookies",
         "score": 37
       },
       {
@@ -12541,6 +11570,11 @@
       {
         "url": "https://www.instem.com/solutions/discovery/",
         "anchor_text": "In Silico & Data Insights",
+        "score": 27
+      },
+      {
+        "url": "https://www.instem.com/privacy-policy",
+        "anchor_text": "Privacy Policy ↗",
         "score": 27
       },
       {
@@ -27508,9 +26542,9 @@
     "press_url": "https://newsroom.viatris.com/press-releases",
     "candidate_links": [
       {
-        "url": "https://newsroom.viatris.com/2026-01-20-Viatris-Expands-Innovative-Portfolio-in-Cardiovascular-Diseases-with-the-Companys-First-Launch-of-Inpefa-R-Sotagliflozin-for-the-Treatment-of-Heart-Failure",
+        "url": "https://newsroom.viatris.com/2026-05-01-Viatris-Announces-Several-Data-Presentations-on-Investigational-Low-Dose-Estrogen-Combined-Hormonal-Contraceptive-Weekly-Patch-at-the-2026-American-College-of-Obstetricians-and-Gynecologists-Annual-Clinical-Scientific-Meeting",
         "anchor_text": "",
-        "score": 179
+        "score": 249
       },
       {
         "url": "https://newsroom.viatris.com/2026-02-25-FDA-Accepts-Viatris-Supplemental-New-Drug-Application-for-MR-141-Phentolamine-Ophthalmic-Solution-0-75-for-the-Treatment-of-Presbyopia",
@@ -31123,6 +30157,11 @@
         "score": 146
       },
       {
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/employee-health-screening-and-preventive-care-tips-lifelong-wellness.html",
+        "anchor_text": "Read moreRead More about Employee health screening and preventive care tips for lifelong wellness",
+        "score": 146
+      },
+      {
         "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-announces-2026-first-quarter-results-raises-full-year.html",
         "anchor_text": "Labcorp Announces 2026 First Quarter Results; Raises Full Year 2026 Guidance",
         "score": 145
@@ -31260,11 +30299,6 @@
       {
         "url": "https://www.labcorp.com/biopharma/central-labs/trial-management/kit-orders",
         "anchor_text": "Order a Kit",
-        "score": 69
-      },
-      {
-        "url": "https://www.labcorp.com/compliance/privacy/privacy-notice/terms-conditions",
-        "anchor_text": "Terms and Conditions",
         "score": 69
       },
       {
@@ -32785,6 +31819,27 @@
       {
         "url": "https://blog.23andme.com/",
         "anchor_text": "Blog",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "company": "Verily Life Sciences",
+    "press_url": "https://verily.com/news",
+    "candidate_links": [
+      {
+        "url": "https://verily.com/cookie-policy",
+        "anchor_text": "Cookie Policy.",
+        "score": 26
+      },
+      {
+        "url": "https://verily.com/news#mainBodyContentWrapper",
+        "anchor_text": "Skip to main content",
+        "score": 7
+      },
+      {
+        "url": "https://verily.com/",
+        "anchor_text": "Home",
         "score": 3
       }
     ]
@@ -34421,11 +33476,6 @@
         "score": 150
       },
       {
-        "url": "https://www.stryker.com/us/en/communications/news/2025/what-does-an-operating-room-look-like-look-inside-strykers-isuite.html",
-        "anchor_text": "Read More",
-        "score": 149
-      },
-      {
         "url": "https://www.stryker.com/us/en/about/news/2023/features/prime-connect-tomorrows-tech-for-todays-conflict-confident-care.html",
         "anchor_text": "Read More",
         "score": 149
@@ -34479,6 +33529,11 @@
         "url": "https://www.stryker.com/us/en/about/news/2016/strykers-spine-division-announces-launch-of-new-lite-bio-delivery-system.html",
         "anchor_text": "Read More",
         "score": 147
+      },
+      {
+        "url": "https://www.stryker.com/us/en/about/news/2025/features/smart-hospital-stretchers-supporting-patient-care-and-safety.html",
+        "anchor_text": "Read More",
+        "score": 146
       },
       {
         "url": "https://www.stryker.com/us/en/about/news/2024/features/a-partnership-promoting-mental-health-for-healthcare-workers.html",
@@ -39848,11 +38903,6 @@
         "score": 123
       },
       {
-        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-ce-mark-approval-for-the-new-ethicon-4000-stapler",
-        "anchor_text": "Read more",
-        "score": 120
-      },
-      {
         "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-appoints-ryan-koors-as-vice-president-investor-relations",
         "anchor_text": "Read more",
         "score": 117
@@ -39861,6 +38911,11 @@
         "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-enters-agreement-to-acquire-atraverse-medical",
         "anchor_text": "Read more",
         "score": 106
+      },
+      {
+        "url": "https://www.jnj.com/media-center/press-releases/stelara-pediatric-crohns-disease-fda-approval-j-j-statement",
+        "anchor_text": "Read more",
+        "score": 104
       },
       {
         "url": "https://www.jnj.com/our-societal-impact/global-environmental-sustainability",
@@ -40946,11 +40001,6 @@
         "score": 191
       },
       {
-        "url": "https://www.gilead.com/news/news-details/2026/gilead-receives-all-required-regulatory-approvals-for-the-acquisition-of-arcellx-and-extends-tender-offer",
-        "anchor_text": "April 17, 2026Gilead Receives All Required Regulatory Approvals for the Acquisition of Arcellx and Extends Tender Offer",
-        "score": 172
-      },
-      {
         "url": "https://www.gilead.com/news/news-details/2026/gilead-sciences-completes-acquisition-of-arcellx-ahead-of-potential-commercial-launch-of-anito-cel",
         "anchor_text": "April 28, 2026Gilead Sciences Completes Acquisition of Arcellx Ahead of Potential Commercial Launch of Anito-cel",
         "score": 165
@@ -40963,6 +40013,11 @@
       {
         "url": "https://www.gilead.com/responsibility/giving-at-gilead/corporate-giving/strategic-initiatives/toward-health-equity-for-black-people-impacted-by-tnbc",
         "anchor_text": "Toward Health Equity for Black People Impacted by TNBC",
+        "score": 146
+      },
+      {
+        "url": "https://www.gilead.com/news/news-details/2026/gilead-sciences-to-present-at-upcoming-second-quarter-2026-investor-conferences",
+        "anchor_text": "May 1, 2026Gilead Sciences to Present at Upcoming Second Quarter 2026 Investor Conferences",
         "score": 146
       },
       {
@@ -50075,9 +49130,9 @@
     "press_url": "https://www.iqvia.com/newsroom",
     "candidate_links": [
       {
-        "url": "https://www.iqvia.com/solutions/commercialization/commercial-analytics-and-consulting/omnichannel-engagement-and-insights/patient-insights-for-hcp-engagement/ai-driven-alerts",
+        "url": "https://www.iqvia.com/solutions/commercialization/commercial-analytics/omnichannel-engagement-and-insights/patient-insights-for-hcp-engagement/ai-driven-alerts",
         "anchor_text": "Alerts & Triggers",
-        "score": 175
+        "score": 160
       },
       {
         "url": "https://www.iqvia.com/solutions/commercialization/commercial-analytics-and-consulting/omnichannel-engagement-and-insights/patient-insights-for-hcp-engagement",
@@ -50093,6 +49148,11 @@
         "url": "https://www.iqvia.com/newsroom/2026/02/iqvia-reports-fourth-quarter-and-full-year-2025-results-issues-full-year-2026-guidance",
         "anchor_text": "Learn More",
         "score": 147
+      },
+      {
+        "url": "https://www.iqvia.com/solutions/commercialization/commercial-analytics/omnichannel-engagement-and-insights/patient-insights-for-hcp-engagement",
+        "anchor_text": "Patient Insights for HCP Engagement",
+        "score": 141
       },
       {
         "url": "https://www.iqvia.com/newsroom/2026/02/iqvia-to-speak-at-citis-2026-unplugged-medtech-and-life-sciences-access-day",
@@ -66065,6 +65125,72 @@
     ]
   },
   {
+    "company": "Vividion Therapeutics",
+    "press_url": "https://vividion.com/news/",
+    "candidate_links": [
+      {
+        "url": "https://vividion.com/news/vividion-publishes-discovery-of-first-in-class-keap1-activator-supporting-ongoing-clinical-program-in-oncology/",
+        "anchor_text": "December 22, 2025Press ReleaseVividion Publishes Discovery of First-in-Class KEAP1 Activator, Supporting Ongoing Clinical Program in Oncology",
+        "score": 133
+      },
+      {
+        "url": "https://vividion.com/news/vividion-publishes-discovery-of-wrn-inhibitor-vvd-214-in-journal-of-medicinal-chemistry/",
+        "anchor_text": "January 6, 2026Press ReleaseVividion Publishes Discovery of WRN Inhibitor VVD-214 in Journal of Medicinal Chemistry",
+        "score": 110
+      },
+      {
+        "url": "https://vividion.com/pipeline-programs/",
+        "anchor_text": "Pipeline & Programs",
+        "score": 33
+      },
+      {
+        "url": "https://vividion.com/science-platform/",
+        "anchor_text": "Science & Platform",
+        "score": 32
+      },
+      {
+        "url": "https://vividion.com/privacy-notice/",
+        "anchor_text": "Privacy Policy",
+        "score": 30
+      },
+      {
+        "url": "https://vividion.com/terms-of-use/",
+        "anchor_text": "Terms",
+        "score": 28
+      },
+      {
+        "url": "https://vividion.com/about-us/",
+        "anchor_text": "About Us",
+        "score": 24
+      },
+      {
+        "url": "https://vividion.com/join-us/",
+        "anchor_text": "Join Us",
+        "score": 23
+      },
+      {
+        "url": "https://vividion.com/contact/",
+        "anchor_text": "Contact",
+        "score": 13
+      },
+      {
+        "url": "https://vividion.com/news/#content",
+        "anchor_text": "Skip to content",
+        "score": 10
+      },
+      {
+        "url": "https://vividion.com/news/",
+        "anchor_text": "Newsroom",
+        "score": 10
+      },
+      {
+        "url": "https://vividion.com/",
+        "anchor_text": "Home",
+        "score": 3
+      }
+    ]
+  },
+  {
     "company": "Xaira Therapeutics",
     "press_url": "https://xaira.com/",
     "candidate_links": [
@@ -67338,22 +66464,6 @@
         "url": "https://www.genethon.fr/",
         "anchor_text": "Genethon",
         "score": 3
-      }
-    ]
-  },
-  {
-    "company": "Apic Bio",
-    "press_url": "https://apicbio.com/news/",
-    "candidate_links": [
-      {
-        "url": "https://apicbio.com/news/#main",
-        "anchor_text": "Skip to main content",
-        "score": 10
-      },
-      {
-        "url": "https://apicbio.com/news/",
-        "anchor_text": "How do I keep my personal information private?",
-        "score": 10
       }
     ]
   },
@@ -69767,6 +68877,16 @@
         "score": 51
       },
       {
+        "url": "https://cresset-group.com/news/cresset-newsletter-june-2025/",
+        "anchor_text": "Read More",
+        "score": 51
+      },
+      {
+        "url": "https://cresset-group.com/news/cresset-newsletter-may-2025/",
+        "anchor_text": "Read More",
+        "score": 50
+      },
+      {
         "url": "https://cresset-group.com/news/end-of-year-message-2025/",
         "anchor_text": "Read More",
         "score": 47
@@ -69892,6 +69012,11 @@
         "score": 24
       },
       {
+        "url": "https://cresset-group.com/about/news/10/",
+        "anchor_text": "Page10",
+        "score": 23
+      },
+      {
         "url": "https://cresset-group.com/software/flare/",
         "anchor_text": "Flare™ Drug Design Software",
         "score": 22
@@ -69904,6 +69029,46 @@
       {
         "url": "https://cresset-group.com/software/blaze/",
         "anchor_text": "Blaze™ Virtual Screening Software",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/about/news/2/",
+        "anchor_text": "Next",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/about/news/3/",
+        "anchor_text": "Page3",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/about/news/4/",
+        "anchor_text": "Page4",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/about/news/5/",
+        "anchor_text": "Page5",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/about/news/6/",
+        "anchor_text": "Page6",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/about/news/7/",
+        "anchor_text": "Page7",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/about/news/8/",
+        "anchor_text": "Page8",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/about/news/9/",
+        "anchor_text": "Page9",
         "score": 22
       },
       {
@@ -73952,11 +73117,6 @@
         "score": 111
       },
       {
-        "url": "https://nanoporetech.com/blog/news-blog-pioneering-single-cell-sequencing-approaches-understand-dark-matter-our-genome",
-        "anchor_text": "Pioneering single-cell sequencing — an interview with Fuchou Tang",
-        "score": 108
-      },
-      {
         "url": "https://nanoporetech.com/applications/techniques/metagenomics-and-microbiome-analysis-with-nanopore-technology",
         "anchor_text": "Metagenomics",
         "score": 102
@@ -73984,6 +73144,11 @@
       {
         "url": "https://nanoporetech.com/applications/investigations/epigenetics-and-methylation-analysis",
         "anchor_text": "Epigenetics",
+        "score": 81
+      },
+      {
+        "url": "https://nanoporetech.com/blog/benchmarking-data-what-it-is-why-it-matters-and-how-to-use-it",
+        "anchor_text": "Benchmarking data: what it is, why it matters, and how to use it",
         "score": 81
       },
       {
@@ -78199,6 +77364,11 @@
     "press_url": "https://www.zealandpharma.com/news-media/?tab=newsroom",
     "candidate_links": [
       {
+        "url": "https://www.zealandpharma.com/investors/extraordinary-general-meeting-may-2026/",
+        "anchor_text": "Extraordinary General Meeting May 2026",
+        "score": 66
+      },
+      {
         "url": "https://www.zealandpharma.com/pipeline/dasiglucagon-continuous-infusion/",
         "anchor_text": "Dasiglucagon: Continuous infusion",
         "score": 59
@@ -78457,22 +77627,6 @@
         "url": "https://www.zealandpharma.com/",
         "anchor_text": "Continue to external site",
         "score": 3
-      }
-    ]
-  },
-  {
-    "company": "Aerpio Pharmaceuticals",
-    "press_url": "https://aerpio.com/news/",
-    "candidate_links": [
-      {
-        "url": "https://aerpio.com/news/#main",
-        "anchor_text": "Skip to main content",
-        "score": 10
-      },
-      {
-        "url": "https://aerpio.com/news/",
-        "anchor_text": "How do I keep my personal information private?",
-        "score": 10
       }
     ]
   },
@@ -78929,22 +78083,6 @@
     ]
   },
   {
-    "company": "Aerpio",
-    "press_url": "https://aerpio.com/news/",
-    "candidate_links": [
-      {
-        "url": "https://aerpio.com/news/#main",
-        "anchor_text": "Skip to main content",
-        "score": 10
-      },
-      {
-        "url": "https://aerpio.com/news/",
-        "anchor_text": "How do I keep my personal information private?",
-        "score": 10
-      }
-    ]
-  },
-  {
     "company": "Juvena Therapeutics",
     "press_url": "https://www.juvenatherapeutics.com/news/",
     "candidate_links": [
@@ -79333,22 +78471,6 @@
         "url": "https://www.calicolabs.com/",
         "anchor_text": "Calico",
         "score": 3
-      }
-    ]
-  },
-  {
-    "company": "Change Bioscience",
-    "press_url": "https://changebioscience.com/news/",
-    "candidate_links": [
-      {
-        "url": "https://changebioscience.com/news/#main",
-        "anchor_text": "Skip to main content",
-        "score": 10
-      },
-      {
-        "url": "https://changebioscience.com/news/",
-        "anchor_text": "How do I keep my personal information private?",
-        "score": 10
       }
     ]
   },
@@ -83524,6 +82646,11 @@
     ]
   },
   {
+    "company": "Dr. Reddy's Laboratories",
+    "press_url": "https://www.drreddys.com/media/",
+    "candidate_links": []
+  },
+  {
     "company": "Tata Consultancy Services",
     "press_url": "https://www.tcs.com/newsroom",
     "candidate_links": []
@@ -84043,27 +83170,6 @@
     "company": "Medpace",
     "press_url": "https://investor.medpace.com/news-releases",
     "candidate_links": []
-  },
-  {
-    "company": "Verily Life Sciences",
-    "press_url": "https://verily.com/news",
-    "candidate_links": [
-      {
-        "url": "https://verily.com/cookie-policy",
-        "anchor_text": "Cookie Policy.",
-        "score": 26
-      },
-      {
-        "url": "https://verily.com/news#mainBodyContentWrapper",
-        "anchor_text": "Skip to main content",
-        "score": 7
-      },
-      {
-        "url": "https://verily.com/",
-        "anchor_text": "Home",
-        "score": 3
-      }
-    ]
   },
   {
     "company": "Merck & Co.",
@@ -85213,74 +84319,13 @@
     "candidate_links": []
   },
   {
-    "company": "Vividion Therapeutics",
-    "press_url": "https://vividion.com/news/",
-    "candidate_links": [
-      {
-        "url": "https://vividion.com/news/vividion-publishes-discovery-of-first-in-class-keap1-activator-supporting-ongoing-clinical-program-in-oncology/",
-        "anchor_text": "December 22, 2025Press ReleaseVividion Publishes Discovery of First-in-Class KEAP1 Activator, Supporting Ongoing Clinical Program in Oncology",
-        "score": 133
-      },
-      {
-        "url": "https://vividion.com/news/vividion-publishes-discovery-of-wrn-inhibitor-vvd-214-in-journal-of-medicinal-chemistry/",
-        "anchor_text": "January 6, 2026Press ReleaseVividion Publishes Discovery of WRN Inhibitor VVD-214 in Journal of Medicinal Chemistry",
-        "score": 110
-      },
-      {
-        "url": "https://vividion.com/pipeline-programs/",
-        "anchor_text": "Pipeline & Programs",
-        "score": 33
-      },
-      {
-        "url": "https://vividion.com/science-platform/",
-        "anchor_text": "Science & Platform",
-        "score": 32
-      },
-      {
-        "url": "https://vividion.com/privacy-notice/",
-        "anchor_text": "Privacy Policy",
-        "score": 30
-      },
-      {
-        "url": "https://vividion.com/terms-of-use/",
-        "anchor_text": "Terms",
-        "score": 28
-      },
-      {
-        "url": "https://vividion.com/about-us/",
-        "anchor_text": "About Us",
-        "score": 24
-      },
-      {
-        "url": "https://vividion.com/join-us/",
-        "anchor_text": "Join Us",
-        "score": 23
-      },
-      {
-        "url": "https://vividion.com/contact/",
-        "anchor_text": "Contact",
-        "score": 13
-      },
-      {
-        "url": "https://vividion.com/news/#content",
-        "anchor_text": "Skip to content",
-        "score": 10
-      },
-      {
-        "url": "https://vividion.com/news/",
-        "anchor_text": "Newsroom",
-        "score": 10
-      },
-      {
-        "url": "https://vividion.com/",
-        "anchor_text": "Home",
-        "score": 3
-      }
-    ]
-  },
-  {
     "company": "4D Molecular Therapeutics",
     "press_url": "https://ir.4dmoleculartherapeutics.com/press-releases",
+    "candidate_links": []
+  },
+  {
+    "company": "Apic Bio",
+    "press_url": "https://apicbio.com/news/",
     "candidate_links": []
   },
   {
@@ -85291,6 +84336,21 @@
   {
     "company": "Springworks Therapeutics",
     "press_url": "https://ir.springworkstx.com/news-releases",
+    "candidate_links": []
+  },
+  {
+    "company": "Aerpio Pharmaceuticals",
+    "press_url": "https://aerpio.com/news/",
+    "candidate_links": []
+  },
+  {
+    "company": "Aerpio",
+    "press_url": "https://aerpio.com/news/",
+    "candidate_links": []
+  },
+  {
+    "company": "Change Bioscience",
+    "press_url": "https://changebioscience.com/news/",
     "candidate_links": []
   },
   {
