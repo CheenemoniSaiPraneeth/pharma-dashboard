@@ -102603,5 +102603,19 @@
         "score": 66,
         "date_added": "2026-05-02",
         "article_like": true
+    },
+    {
+        "company": "Edwards Lifesciences",
+        "url": "https://www.edwards.com/newsroom/news/2026-05-02-ten-year-pivotal-data-demonstrate-long-term-durabi",
+        "score": 92,
+        "date_added": "2026-05-03",
+        "article_like": true
+    },
+    {
+        "company": "BioMarin",
+        "url": "https://investors.biomarin.com/news/news-details/2026/BioMarin-Presents-New-Data-on-the-Effect-of-Long-Term-Treatment-with-VOXZOGO-vosoritide-on-Arm-Span-Bone-Health-and-Growth-in-Children-With-Achondroplasia-at-the-Pediatric-Endocrine-Societys-2026-Annual-Meeting/default.aspx",
+        "score": 292,
+        "date_added": "2026-05-03",
+        "article_like": false
     }
 ]
