@@ -1,4 +1,24 @@
 {
+  "2026-05-04": {
+    "bispecific antibodies": [
+      {
+        "company": "UCB",
+        "modality": "bispecific antibodies",
+        "news": "UCB announced a definitive agreement to acquire Candid Therapeutics for up to $2.2 billion to acquire cizutamig, a bispecific T-cell engager targeting BCMA and CD3 for autoimmune diseases.",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-to-acquire-candid-therapeutics-building-upon-its-existing-immunology-pipeline-with-novel-t-cell-engagers",
+        "query": "bispecific antibodies"
+      }
+    ],
+    "monoclonal antibodies": [
+      {
+        "company": "UCB",
+        "modality": "monoclonal antibodies",
+        "news": "UCB announced a definitive agreement to acquire Candid Therapeutics for up to $2.2 billion to expand its immunology pipeline with novel T-cell engagers. The deal includes Candid's lead asset, cizutamig, a bispecific antibody targeting BCMA and CD3 currently in multiple Phase 1 clinical studies for autoimmune diseases.",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-to-acquire-candid-therapeutics-building-upon-its-existing-immunology-pipeline-with-novel-t-cell-engagers",
+        "query": "monoclonal antibodies"
+      }
+    ]
+  },
   "2026-05-01": {
     "bispecific antibodies": [
       {

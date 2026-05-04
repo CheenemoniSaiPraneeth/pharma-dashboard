@@ -102617,5 +102617,33 @@
         "score": 292,
         "date_added": "2026-05-03",
         "article_like": false
+    },
+    {
+        "company": "Olympus Corporation",
+        "url": "https://www.olympus-global.com/news/2026/nr03000.html",
+        "score": 54,
+        "date_added": "2026-05-04",
+        "article_like": false
+    },
+    {
+        "company": "Olympus Corporation",
+        "url": "https://www.olympus-global.com/news/2026/nr02993.html",
+        "score": 54,
+        "date_added": "2026-05-04",
+        "article_like": false
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/press/4may2026-ceos-say-boards-rushing-ai-transformation",
+        "score": 71,
+        "date_added": "2026-05-04",
+        "article_like": true
+    },
+    {
+        "company": "UCB",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-to-acquire-candid-therapeutics-building-upon-its-existing-immunology-pipeline-with-novel-t-cell-engagers",
+        "score": 159,
+        "date_added": "2026-05-04",
+        "article_like": true
     }
 ]

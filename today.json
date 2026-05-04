@@ -1,9 +1,16 @@
 [
     {
-        "company": "Edwards Lifesciences",
-        "url": "https://www.edwards.com/newsroom/news/2026-05-02-ten-year-pivotal-data-demonstrate-long-term-durabi",
-        "score": 92,
-        "date_added": "2026-05-03",
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/press/4may2026-ceos-say-boards-rushing-ai-transformation",
+        "score": 71,
+        "date_added": "2026-05-04",
+        "article_like": true
+    },
+    {
+        "company": "UCB",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-to-acquire-candid-therapeutics-building-upon-its-existing-immunology-pipeline-with-novel-t-cell-engagers",
+        "score": 159,
+        "date_added": "2026-05-04",
         "article_like": true
     }
 ]
