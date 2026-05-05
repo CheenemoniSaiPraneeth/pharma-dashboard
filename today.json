@@ -1,16 +1,233 @@
 [
     {
-        "company": "Boston Consulting Group",
-        "url": "https://www.bcg.com/press/4may2026-ceos-say-boards-rushing-ai-transformation",
-        "score": 71,
-        "date_added": "2026-05-04",
+        "company": "Amgen",
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/05/amgen-announces-additional-300-million-us-manufacturing-investment-totaling-nearly-2-billion-over-the-last-year",
+        "score": 189,
+        "date_added": "2026-05-05",
         "article_like": true
     },
     {
-        "company": "UCB",
-        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-to-acquire-candid-therapeutics-building-upon-its-existing-immunology-pipeline-with-novel-t-cell-engagers",
-        "score": 159,
-        "date_added": "2026-05-04",
+        "company": "Novartis",
+        "url": "https://www.novartis.com/stories/novartis-partners-special-olympics-world-winter-games-switzerland-2029",
+        "score": 93,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "Simson Pharma Limited",
+        "url": "https://www.simsonpharma.com/blog-details/selecting-the-right-reference-standard-for-method-validation",
+        "score": 88,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "Centre for Innovation & Entrepreneurship - IIITH",
+        "url": "https://cie.iiit.ac.in/monthly-newsletter-april-2026/",
+        "score": 45,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/05/geopolitics-tops-the-ceo-agenda-as-leaders-tighten-focus-on-profitability-ai-and-strategic-deals",
+        "score": 165,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/insights/managed-services/blue-earth-capital-built-finance-function-at-speed",
+        "score": 101,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/alliances/fincantieri-humanoids-strengthening-industrial-operations",
+        "score": 90,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/alliances/asahi-ai-transformation",
+        "score": 56,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/careers/shapers-of-the-future",
+        "score": 52,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/media/press-releases/lupin-receives-u-s-fda-approval-for-glycerol-phenylbutyrate-oral-liquid",
+        "score": 109,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "Mylan (Viatris)",
+        "url": "https://newsroom.viatris.com/2026-05-04-Viatris-Announces-Chief-Financial-Officer-Transition",
+        "score": 76,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "Mylan (Viatris)",
+        "url": "https://newsroom.viatris.com/2026-05-04-Viatris-Announces-Chief-Financial-Officer-Transition#assets_2429_123911-140",
+        "score": 76,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "Edwards Lifesciences",
+        "url": "https://www.edwards.com/newsroom/news/2026-05-04-edwards-lifesciences-announces-appointment-of-cfo",
+        "score": 91,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "Boston Scientific",
+        "url": "https://news.bostonscientific.com/2026-05-04-Boston-Scientific-announces-participation-in-Bernsteins-42nd-Annual-Strategic-Decisions-Conference-and-conference-call-discussing-second-quarter-2026-results",
+        "score": 181,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "Boston Scientific",
+        "url": "https://news.bostonscientific.com/colorectal-cancer-symptoms-treatment",
+        "score": 49,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-receives-moldx-approval-for-caris-chromoseq/",
+        "score": 104,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/press-release/foundationone-pgx",
+        "score": 46,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/caplyta-lumateperone-showed-greatest-improvement-across-key-efficacy-outcomes-among-adjunctive-mdd-treatments-in-new-network-meta-analysis",
+        "score": 183,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/promising-data-from-us-pilot-study-shows-planned-impella-5-5-use-is-safe-and-feasible-in-non-shock-high-risk-cardiac-surgery-patients",
+        "score": 178,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-to-present-new-data-spanning-vision-portfolio-at-arvo-2026",
+        "score": 119,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "Takeda Pharmaceutical",
+        "url": "https://www.takeda.com/newsroom/press-releases/2026/tak-881-pid-topline-results/",
+        "score": 103,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "CRISPR Therapeutics",
+        "url": "https://crisprtx.com/about-us/press-releases-and-presentations/crispr-therapeutics-provides-business-update-and-reports-first-quarter-2026-financial-results",
+        "score": 152,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "Alnylam Pharmaceuticals",
+        "url": "https://investors.alnylam.com/press-release?id=29821",
+        "score": 26,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "Insilico Medicine",
+        "url": "https://insilico.com/news/2bxz1tluo1-insilico-medicine-to-present-groundbreak",
+        "score": 71,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "Catalent",
+        "url": "https://www.catalent.com/events/catalent-2026-dia-china-contact-us-form/",
+        "score": 64,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "Catalent",
+        "url": "https://www.catalent.com/events/arcs-annual-conference-2026/",
+        "score": 52,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "Catalent",
+        "url": "https://www.catalent.com/events/apst-japan-annual-meeting/",
+        "score": 50,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "ProQR Therapeutics",
+        "url": "https://ir.proqr.com/press-releases/proqr-announces-annual-general-meeting-of-shareholders-to-be-held-june-2-2026",
+        "score": 107,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "Bavarian Nordic",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7512",
+        "score": 30,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/deployment-testing/privacy-statement.html",
+        "score": 61,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/deployment-testing/privacy-statement.html#3-2-2-cookies",
+        "score": 61,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/uk-en/privacy-statement.html",
+        "score": 43,
+        "date_added": "2026-05-05",
+        "article_like": true
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/central-america.html",
+        "score": 33,
+        "date_added": "2026-05-05",
         "article_like": true
     }
 ]

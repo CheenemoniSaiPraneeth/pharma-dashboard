@@ -1,4 +1,31 @@
 {
+  "2026-05-05": {
+    "monoclonal antibodies": [
+      {
+        "company": "Takeda",
+        "modality": "monoclonal antibodies",
+        "news": "Takeda announced positive topline results from the pivotal Phase 2/3 TAK-881-3001 clinical trial for TAK-881 in Primary Immunodeficiency Disease (PID). The study demonstrated pharmacokinetic comparability to the standard of care HYQVIA while offering reduced infusion volume and duration, with regulatory submissions expected in fiscal year 2026.",
+        "url": "https://www.takeda.com/newsroom/press-releases/2026/tak-881-pid-topline-results/",
+        "query": "monoclonal antibodies"
+      }
+    ],
+    "gene editing": [
+      {
+        "company": "CRISPR Therapeutics",
+        "modality": "gene editing",
+        "news": "CRISPR Therapeutics reported that Vertex completed the U.S. regulatory submission for CASGEVY approval in children ages 5 to 11 with sickle cell disease or beta thalassemia, receiving a Commissioner's National Priority Voucher. Additionally, the company received FDA clearance for its IND application for CTX310, an in vivo liver-directed gene editing therapy for severe hypertriglyceridemia.",
+        "url": "https://crisprtx.com/about-us/press-releases-and-presentations/crispr-therapeutics-provides-business-update-and-reports-first-quarter-2026-financial-results",
+        "query": "gene editing"
+      },
+      {
+        "company": "CRISPR Therapeutics",
+        "modality": "gene editing",
+        "news": "The company announced the initiation of a third Phase 1 trial for its allogeneic CAR-T cell therapy zugo-cel (CTX112) in autoimmune neurologic diseases, including progressive multiple sclerosis and stiff person syndrome, following FDA clearance of the IND application.",
+        "url": "https://crisprtx.com/about-us/press-releases-and-presentations/crispr-therapeutics-provides-business-update-and-reports-first-quarter-2026-financial-results",
+        "query": "gene editing"
+      }
+    ]
+  },
   "2026-05-04": {
     "bispecific antibodies": [
       {
