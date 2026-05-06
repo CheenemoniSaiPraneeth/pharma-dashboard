@@ -103142,5 +103142,278 @@
         "score": 23,
         "date_added": "2026-05-05",
         "article_like": false
+    },
+    {
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/Search#sort=relevancy&f:@KeywordHierarchy=[Region%7CAsia%20Pacific%7CHong%20Kong]",
+        "score": 14,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/?nav=global",
+        "score": 8,
+        "date_added": "2026-05-06",
+        "article_like": false
+    },
+    {
+        "company": "BIRAC",
+        "url": "https://www.birac.nic.in/desc_new.php?id=1325",
+        "score": 15,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/press/6may2026-fashion-embedding-sustainability-into-finance-cfo-imperative",
+        "score": 90,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/news/5may2026-bcg-conduct-partnership-redefine-erp-transformation",
+        "score": 80,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/05/agentic-ai-set-to-boost-global-infrastructure-productivity-new-ey-report",
+        "score": 141,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "Mylan (Viatris)",
+        "url": "https://newsroom.viatris.com/2026-05-05-Viatris-Announces-Quarterly-Dividend",
+        "score": 60,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/news/pr/tempus-reports-first-quarter-2026-results/",
+        "score": 69,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/events/asco-2026/?srsltid=AfmBOoq7JaHYGPUNVi0MOBeXo8-NOryF-uCquvU_9YyIiN4KOFXi-ElN",
+        "score": 34,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-launches-caris-mi-clarity/",
+        "score": 86,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/physicians/physician-services/caris-pathology-program/",
+        "score": 73,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/physicians/physician-tests/caris-mi-clarity/",
+        "score": 63,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/physicians/physician-tests/caris-chromoseq/",
+        "score": 62,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "Pfizer",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-reports-strong-first-quarter-results-and-reaffirms",
+        "score": 116,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-investigational-co-antibody-therapy-jnj-4804-shows-potential-to-raise-the-bar-for-clinical-efficacy-in-treating-refractory-inflammatory-bowel-disease",
+        "score": 210,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-study-shows-tremfya-guselkumab-is-the-first-and-only-il-23-inhibitor-to-demonstrate-efficacy-in-perianal-fistulizing-crohns-disease",
+        "score": 192,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-pivotal-clinical-study-results-for-a-new-soft-tissue-surgical-robotic-system",
+        "score": 147,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-05-05-AbbVie-Highlights-New-Long-Term-Data-Advancing-Treatment-Standards-in-Inflammatory-Bowel-Diseases-IBD-at-2026-Digestive-Disease-Week-R",
+        "score": 158,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/index.php?s=2429&o=2320#news_anchor",
+        "score": 12,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "BeiGene",
+        "url": "https://ir.beonemedicines.com/media/custom-news/b7dad560-1694-410c-8b68-c6e52a384b66/assets/e704ff3a-8e36-40f0-a47a-98f1681e5528/A1_e.pdf?disposition=inline",
+        "score": 130,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "BeiGene",
+        "url": "https://ir.beonemedicines.com/media/custom-news/70dac33a-935b-42aa-b46e-9e5467a5d72a/assets/7ed76647-a9d9-436d-a9f6-0bac72b26f45/A3.pdf?disposition=inline",
+        "score": 128,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "BeiGene",
+        "url": "https://ir.beonemedicines.com/media/custom-news/0f07f8e1-487b-49ba-a278-874135e7be7f/assets/d823c193-c159-47d2-83aa-c6fccae80b14/A2.pdf?disposition=inline",
+        "score": 128,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "BeiGene",
+        "url": "https://ir.beonemedicines.com/media/custom-news/692fccf4-2944-4752-ad05-b0822f6f4276/assets/22f2a0a4-9b02-4c7a-99b6-f2cb3af5d2de/C1.pdf?disposition=inline",
+        "score": 128,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "BeiGene",
+        "url": "https://ir.beonemedicines.com/media/custom-news/de0b99ed-2d1a-4200-b186-d36affeaeef1/assets/efba344e-4b7b-4ebc-9d2f-aa6a64f0c444/P.pdf?disposition=inline",
+        "score": 127,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "Schr\u00f6dinger",
+        "url": "https://ir.schrodinger.com/press-releases/news-details/2026/Schrdinger-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+        "score": 147,
+        "date_added": "2026-05-06",
+        "article_like": false
+    },
+    {
+        "company": "IQVIA",
+        "url": "https://www.iqvia.com/newsroom/2026/05/iqvia-reports-first-quarter-2026-results",
+        "score": 101,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "Catalent",
+        "url": "https://www.catalent.com/events/compaction-simulation-forum-2026/",
+        "score": 57,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "Catalent",
+        "url": "https://www.catalent.com/events/dissoamerica-2026/",
+        "score": 42,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "Catalent",
+        "url": "https://www.catalent.com/events/bos-basel-2026/",
+        "score": 39,
+        "date_added": "2026-05-06",
+        "article_like": false
+    },
+    {
+        "company": "Disc Medicine",
+        "url": "https://ir.discmedicine.com/news-releases/news-release-details/disc-medicine-reports-first-quarter-2026-financial-results-and",
+        "score": 114,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "Intra-Cellular Therapies",
+        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/Johnson--Johnson-investigational-co-antibody-therapy-JNJ-4804-shows-potential-to-raise-the-bar-for-clinical-efficacy-in-treating-refractory-inflammatory-bowel-disease/default.aspx",
+        "score": 257,
+        "date_added": "2026-05-06",
+        "article_like": false
+    },
+    {
+        "company": "Intra-Cellular Therapies",
+        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/Johnson--Johnson-study-shows-TREMFYA-guselkumab-is-the-first-and-only-IL-23-inhibitor-to-demonstrate-efficacy-in-perianal-fistulizing-Crohns-disease/default.aspx",
+        "score": 239,
+        "date_added": "2026-05-06",
+        "article_like": false
+    },
+    {
+        "company": "Valneva",
+        "url": "https://valneva.com/press-release/valneva-to-report-first-quarter-2026-consolidated-financial-results-on-may-13-2026/",
+        "score": 114,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "Grail",
+        "url": "https://grail.com/press-releases/grail-reports-first-quarter-2026-financial-results/",
+        "score": 83,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "BigHat Biosciences",
+        "url": "https://www.bighatbio.com/news/engineering-antibodies-to-know-when-not-to-attack-first-in-class-logic-gated-t-cell-engagers",
+        "score": 112,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "Menarini Group",
+        "url": "https://www.menarini.com/en-us/news/fair-play-menarini/fair-play-menarini-international-awards-2026.html",
+        "score": 98,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "Tune Therapeutics",
+        "url": "https://tunetx.com/tune-tune-therapeutics-announces-late-breaking-oral-presentation-for-tune-401-at-european-association-for-the-study-of-the-liver-congress-2026/",
+        "score": 158,
+        "date_added": "2026-05-06",
+        "article_like": true
+    },
+    {
+        "company": "Travere Therapeutics",
+        "url": "https://ir.travere.com/press-releases/news-details/2026/Travere-Announces-Proposed-Convertible-Senior-Notes-Offering-to-Refinance-2029-Convertible-Notes/default.aspx",
+        "score": 188,
+        "date_added": "2026-05-06",
+        "article_like": false
+    },
+    {
+        "company": "Merck & Co.",
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-north-and-west-africa.html",
+        "score": 65,
+        "date_added": "2026-05-06",
+        "article_like": true
     }
 ]

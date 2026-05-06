@@ -1,4 +1,54 @@
 {
+  "2026-05-06": {
+    "bispecific antibodies": [
+      {
+        "company": "BigHat Biosciences",
+        "modality": "bispecific antibodies",
+        "news": "BigHat Biosciences demonstrated the world's first 'NOT'-gated, T cell-engaging multispecific antibody, utilizing AI/ML-enabled structural engineering to selectively target cancer cells while sparing healthy tissue based on specific genetic patterns.",
+        "url": "https://www.bighatbio.com/news/engineering-antibodies-to-know-when-not-to-attack-first-in-class-logic-gated-t-cell-engagers",
+        "query": "bispecific antibodies"
+      }
+    ],
+    "monoclonal antibodies": [
+      {
+        "company": "AbbVie",
+        "modality": "monoclonal antibodies",
+        "news": "AbbVie presented new long-term data at the 2026 Digestive Disease Week meeting demonstrating the sustained efficacy and safety of SKYRIZI (risankizumab), a monoclonal antibody targeting IL-23, for treating Crohn's disease and ulcerative colitis.",
+        "url": "https://news.abbvie.com/2026-05-05-AbbVie-Highlights-New-Long-Term-Data-Advancing-Treatment-Standards-in-Inflammatory-Bowel-Diseases-IBD-at-2026-Digestive-Disease-Week-R",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "AbbVie",
+        "modality": "monoclonal antibodies",
+        "news": "AbbVie announced the submission of an application to the FDA on April 27, 2026, seeking approval for the subcutaneous induction formulation of SKYRIZI (risankizumab) for the treatment of adult patients with moderately to severely active Crohn's disease.",
+        "url": "https://news.abbvie.com/2026-05-05-AbbVie-Highlights-New-Long-Term-Data-Advancing-Treatment-Standards-in-Inflammatory-Bowel-Diseases-IBD-at-2026-Digestive-Disease-Week-R",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Disc Medicine",
+        "modality": "monoclonal antibodies",
+        "news": "Disc Medicine announced updated data from the Phase 2 RALLY-MF study of DISC-0974, an anti-hemojuvelin monoclonal antibody, for anemia of myelofibrosis, which will be presented as an oral presentation at the ASCO Annual Meeting. The company also confirmed progress in the Phase 2 study of DISC-3405, an anti-TMPRSS6 monoclonal antibody, for polycythemia vera and sickle cell disease.",
+        "url": "https://ir.discmedicine.com/news-releases/news-release-details/disc-medicine-reports-first-quarter-2026-financial-results-and",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "BigHat Biosciences",
+        "modality": "monoclonal antibodies",
+        "news": "BigHat Biosciences demonstrated the world's first 'NOT'-gated, T cell-engaging multispecific antibody, utilizing AI/ML-enabled structural engineering to selectively target cancer cells while sparing healthy tissue.",
+        "url": "https://www.bighatbio.com/news/engineering-antibodies-to-know-when-not-to-attack-first-in-class-logic-gated-t-cell-engagers",
+        "query": "monoclonal antibodies"
+      }
+    ],
+    "gene editing": [
+      {
+        "company": "Tune Therapeutics",
+        "modality": "gene editing",
+        "news": "Tune Therapeutics announced late-breaking Phase 1b/2a clinical results for TUNE-401, an epigenetic silencer for chronic Hepatitis B, to be presented at the EASL Congress 2026. The data highlights the first clinical evidence of epigenetic silencing of the HBV cccDNA reservoir using the company's TEMPO platform.",
+        "url": "https://tunetx.com/tune-tune-therapeutics-announces-late-breaking-oral-presentation-for-tune-401-at-european-association-for-the-study-of-the-liver-congress-2026/",
+        "query": "gene editing"
+      }
+    ]
+  },
   "2026-05-05": {
     "monoclonal antibodies": [
       {
