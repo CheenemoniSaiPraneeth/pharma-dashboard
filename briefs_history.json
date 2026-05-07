@@ -1,4 +1,75 @@
 {
+  "2026-05-07": {
+    "monoclonal antibodies": [
+      {
+        "company": "GSK",
+        "modality": "monoclonal antibodies",
+        "news": "GSK presented two-year efficacy and safety data for depemokimab (Exdensur) at ATS 2026, demonstrating sustained disease control in severe asthma patients with just two doses per year. The company also shared new analyses for mepolizumab (Nucala) highlighting its ability to achieve disease stability in a wide spectrum of COPD patients.",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-presents-latest-respiratory-research-to-advance-patient-care-at-ats-2026/",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "GSK",
+        "modality": "monoclonal antibodies",
+        "news": "GSK presented new clinical data at ATS 2026 showing sustained efficacy over two years for depemokimab (Exdensur) in severe asthma patients with type 2 inflammation. Additionally, new analyses for mepolizumab (Nucala) demonstrated the ability to achieve disease stability across a wide spectrum of COPD patients.",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-presents-latest-respiratory-research-to-advance-patient-care-at-ats-2026/",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Immunocore",
+        "modality": "monoclonal antibodies",
+        "news": "Immunocore presented landmark five-year overall survival data for KIMMTRAK (tebentafusp) at the AACR 2026 meeting, showing it doubles the likelihood of patients with metastatic uveal melanoma being alive at five years compared to the control arm.",
+        "url": "https://www.immunocore.com/investors/news/press-releases/detail/130/immunocore-reports-first-quarter-financial-results-and-provides-a-business-update",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Immunocore",
+        "modality": "monoclonal antibodies",
+        "news": "Immunocore reported first-quarter 2026 net sales of $106.7 million for KIMMTRAK, representing a 14% year-over-year increase driven by volume growth in the US and Europe and global market expansion.",
+        "url": "https://www.immunocore.com/investors/news/press-releases/detail/130/immunocore-reports-first-quarter-financial-results-and-provides-a-business-update",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "UCB",
+        "modality": "monoclonal antibodies",
+        "news": "UCB announced a new strategic alliance with Cancer Research UK and Cancer Research Horizons to accelerate the development of novel cancer therapies, nominating two additional antibody drug candidates from its pipeline for early clinical development.",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-cancer-research-uk-and-cancer-research-horizons-announce-new-strategic-alliance-to-accelerate-development-of-novel-cancer-therapies",
+        "query": "monoclonal antibodies"
+      }
+    ],
+    "bispecific antibodies": [
+      {
+        "company": "Immunocore",
+        "modality": "bispecific antibodies",
+        "news": "Immunocore presented landmark five-year overall survival data for KIMMTRAK, a bispecific TCR-antibody, at the AACR 2026 meeting, showing it doubled the likelihood of survival at five years for patients with metastatic uveal melanoma. The company also provided updates on the Phase 3 PRISM-MEL-301 trial for its PRAME-targeted bispecific candidate brenetafusp in combination with nivolumab for advanced cutaneous melanoma.",
+        "url": "https://www.immunocore.com/investors/news/press-releases/detail/130/immunocore-reports-first-quarter-financial-results-and-provides-a-business-update",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "UCB",
+        "modality": "bispecific antibodies",
+        "news": "UCB announced a new strategic alliance with Cancer Research UK and Cancer Research Horizons to accelerate the development of novel cancer therapies, expanding on a previous collaboration that advanced two antibody drug candidates into clinical trials. Under the new agreement, UCB has nominated two additional pipeline projects for joint progression through discovery and preclinical stages, with plans for Phase 1/2 clinical trials sponsored by Cancer Research UK.",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-cancer-research-uk-and-cancer-research-horizons-announce-new-strategic-alliance-to-accelerate-development-of-novel-cancer-therapies",
+        "query": "bispecific antibodies"
+      }
+    ],
+    "gene editing": [
+      {
+        "company": "CRISPR Therapeutics",
+        "modality": "gene editing",
+        "news": "CRISPR Therapeutics announced that its senior management team will present at the Bank of America Securities 2026 Global Healthcare Conference on May 12, 2026. The company continues to advance its pipeline of gene-based medicines, including its approved CRISPR-based therapy CASGEVY and its proprietary SyNTase editing platform.",
+        "url": "https://crisprtx.com/about-us/press-releases-and-presentations/crispr-therapeutics-to-present-at-the-bank-of-america-securities-2026-global-healthcare-conference",
+        "query": "gene editing"
+      },
+      {
+        "company": "UCB",
+        "modality": "gene editing",
+        "news": "UCB announced a new strategic alliance with Cancer Research UK and Cancer Research Horizons to accelerate the development of novel cancer therapies. The partnership expands on previous collaborations to advance investigational oncology candidates, including two new projects nominated from UCB's pipeline for progression through discovery and early clinical development.",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-cancer-research-uk-and-cancer-research-horizons-announce-new-strategic-alliance-to-accelerate-development-of-novel-cancer-therapies",
+        "query": "gene editing"
+      }
+    ]
+  },
   "2026-05-06": {
     "bispecific antibodies": [
       {

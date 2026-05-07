@@ -1,17 +1,23 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 23,
-    "items_extracted": 1,
+    "articles_used": 19,
+    "items_extracted": 2,
     "items_dropped": 0,
-    "generated_at": "2026-05-06 08:50:23"
+    "generated_at": "2026-05-07 08:39:27"
   },
   "news": [
     {
-      "company": "Tune Therapeutics",
+      "company": "CRISPR Therapeutics",
       "modality": "gene editing",
-      "news": "Tune Therapeutics announced late-breaking Phase 1b/2a clinical results for TUNE-401, an epigenetic silencer for chronic Hepatitis B, to be presented at the EASL Congress 2026. The data highlights the first clinical evidence of epigenetic silencing of the HBV cccDNA reservoir using the company's TEMPO platform.",
-      "url": "https://tunetx.com/tune-tune-therapeutics-announces-late-breaking-oral-presentation-for-tune-401-at-european-association-for-the-study-of-the-liver-congress-2026/"
+      "news": "CRISPR Therapeutics announced that its senior management team will present at the Bank of America Securities 2026 Global Healthcare Conference on May 12, 2026. The company continues to advance its pipeline of gene-based medicines, including its approved CRISPR-based therapy CASGEVY and its proprietary SyNTase editing platform.",
+      "url": "https://crisprtx.com/about-us/press-releases-and-presentations/crispr-therapeutics-to-present-at-the-bank-of-america-securities-2026-global-healthcare-conference"
+    },
+    {
+      "company": "UCB",
+      "modality": "gene editing",
+      "news": "UCB announced a new strategic alliance with Cancer Research UK and Cancer Research Horizons to accelerate the development of novel cancer therapies. The partnership expands on previous collaborations to advance investigational oncology candidates, including two new projects nominated from UCB's pipeline for progression through discovery and early clinical development.",
+      "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-cancer-research-uk-and-cancer-research-horizons-announce-new-strategic-alliance-to-accelerate-development-of-novel-cancer-therapies"
     }
   ]
 }

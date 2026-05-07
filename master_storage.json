@@ -103415,5 +103415,236 @@
         "score": 65,
         "date_added": "2026-05-06",
         "article_like": true
+    },
+    {
+        "company": "Sartorius Stedim India Pvt Ltd",
+        "url": "https://www.sartorius.com/en/company/newsroom/corporate-news/sartorius-completes-placement-of-bond-with-a-volume-of-500-million-euros-1824718",
+        "score": 136,
+        "date_added": "2026-05-07",
+        "article_like": true
+    },
+    {
+        "company": "Simson Pharma Limited",
+        "url": "https://www.simsonpharma.com/blog-details/understanding-api-impurity-standards-in-pharmaceutical-development",
+        "score": 94,
+        "date_added": "2026-05-07",
+        "article_like": true
+    },
+    {
+        "company": "Abiogenesis Clinpharm Private Limited",
+        "url": "https://abiogenesisclinpharm.com/uk-clinical-trials-reform-2026-ich-e6r3/",
+        "score": 55,
+        "date_added": "2026-05-07",
+        "article_like": true
+    },
+    {
+        "company": "Abiogenesis Clinpharm Private Limited",
+        "url": "https://abiogenesisclinpharm.com/blog/page/6/",
+        "score": 21,
+        "date_added": "2026-05-07",
+        "article_like": false
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/people/karim-anani",
+        "score": 41,
+        "date_added": "2026-05-07",
+        "article_like": false
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/insights/ipo/trends",
+        "score": 34,
+        "date_added": "2026-05-07",
+        "article_like": false
+    },
+    {
+        "company": "KPMG",
+        "url": "https://kpmg.com/xx/en/media/press-releases/2026/05/kpmg-expands-global-alliance-partnership-with-service-now.html",
+        "score": 147,
+        "date_added": "2026-05-07",
+        "article_like": true
+    },
+    {
+        "company": "Cipla",
+        "url": "https://www.cipla.com/cipla-launches-ciposcillo",
+        "score": 38,
+        "date_added": "2026-05-07",
+        "article_like": true
+    },
+    {
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-presents-latest-respiratory-research-to-advance-patient-care-at-ats-2026/",
+        "score": 125,
+        "date_added": "2026-05-07",
+        "article_like": true
+    },
+    {
+        "company": "PPD (Thermo Fisher)",
+        "url": "https://www.ppd.com/news-item/thermo-fisher-leader-cro-2026-isg-provider-lens-ai-clinical-trials/",
+        "score": 94,
+        "date_added": "2026-05-07",
+        "article_like": true
+    },
+    {
+        "company": "PPD (Thermo Fisher)",
+        "url": "https://www.ppd.com/newsroom/page/13/",
+        "score": 26,
+        "date_added": "2026-05-07",
+        "article_like": false
+    },
+    {
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/fentanyl-drives-overdose-deaths-rapid-testing-essential.html",
+        "score": 133,
+        "date_added": "2026-05-07",
+        "article_like": true
+    },
+    {
+        "company": "Siemens Healthineers",
+        "url": "https://www.siemens-healthineers.com/press/releases/2026q2",
+        "score": 28,
+        "date_added": "2026-05-07",
+        "article_like": false
+    },
+    {
+        "company": "Pfizer",
+        "url": "https://www.pfizer.com/stories/scientists",
+        "score": 23,
+        "date_added": "2026-05-07",
+        "article_like": false
+    },
+    {
+        "company": "Pfizer",
+        "url": "https://www.pfizer.com/stories/colleagues",
+        "score": 23,
+        "date_added": "2026-05-07",
+        "article_like": false
+    },
+    {
+        "company": "Pfizer",
+        "url": "https://www.pfizer.com/stories/patients",
+        "score": 21,
+        "date_added": "2026-05-07",
+        "article_like": false
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-05-07",
+        "score": 50,
+        "date_added": "2026-05-07",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-05-06-AbbVie-to-Present-at-the-Bank-of-America-Securities-Healthcare-Conference",
+        "score": 97,
+        "date_added": "2026-05-07",
+        "article_like": true
+    },
+    {
+        "company": "BeiGene",
+        "url": "https://ir.beonemedicines.com/news/beone-medicines-announces-first-quarter-2026-financial-results-and-business-updates/b1bc8b58-c16d-4266-a5f9-5c4862ec45ba",
+        "score": 142,
+        "date_added": "2026-05-07",
+        "article_like": true
+    },
+    {
+        "company": "CRISPR Therapeutics",
+        "url": "https://crisprtx.com/about-us/press-releases-and-presentations/crispr-therapeutics-to-present-at-the-bank-of-america-securities-2026-global-healthcare-conference",
+        "score": 157,
+        "date_added": "2026-05-07",
+        "article_like": true
+    },
+    {
+        "company": "Immunocore",
+        "url": "https://www.immunocore.com/investors/news/press-releases/detail/130/immunocore-reports-first-quarter-financial-results-and-provides-a-business-update",
+        "score": 145,
+        "date_added": "2026-05-07",
+        "article_like": true
+    },
+    {
+        "company": "Insilico Medicine",
+        "url": "https://insilico.com/news/tmikccj2f1-advancing-drug-discovery-from-automation",
+        "score": 71,
+        "date_added": "2026-05-07",
+        "article_like": true
+    },
+    {
+        "company": "IQVIA",
+        "url": "https://www.iqvia.com/newsroom/2026/05/iqvia-cfo-to-speak-at-bank-of-america-health-care-conference-2026",
+        "score": 126,
+        "date_added": "2026-05-07",
+        "article_like": true
+    },
+    {
+        "company": "Catalent",
+        "url": "https://www.catalent.com/pharma-services/",
+        "score": 31,
+        "date_added": "2026-05-07",
+        "article_like": true
+    },
+    {
+        "company": "UCB",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-cancer-research-uk-and-cancer-research-horizons-announce-new-strategic-alliance-to-accelerate-development-of-novel-cancer-therapies",
+        "score": 186,
+        "date_added": "2026-05-07",
+        "article_like": true
+    },
+    {
+        "company": "Novavax",
+        "url": "https://ir.novavax.com/press-releases/2026-05-06-Novavax-Reports-First-Quarter-2026-Financial-Results-and-Operational-Highlights",
+        "score": 120,
+        "date_added": "2026-05-07",
+        "article_like": true
+    },
+    {
+        "company": "Novavax",
+        "url": "https://ir.novavax.com/press-releases/2026-05-06-Novavax-Reports-First-Quarter-2026-Financial-Results-and-Operational-Highlights?asPDF=1",
+        "score": 120,
+        "date_added": "2026-05-07",
+        "article_like": true
+    },
+    {
+        "company": "Compass Pathways",
+        "url": "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-Announces-New-Employee-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635c4-a0063c0d4/default.aspx",
+        "score": 198,
+        "date_added": "2026-05-07",
+        "article_like": false
+    },
+    {
+        "company": "Compass Pathways",
+        "url": "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-to-Announce-First-Quarter-2026-Financial-Results-on-May-13-2026/default.aspx",
+        "score": 178,
+        "date_added": "2026-05-07",
+        "article_like": false
+    },
+    {
+        "company": "Genethon",
+        "url": "https://www.genethon.fr/essais-cliniques-basket-une-methodologie-innovante-pour-accelerer-le-developpement-de-traitements-pour-les-maladies-rares/",
+        "score": 137,
+        "date_added": "2026-05-07",
+        "article_like": true
+    },
+    {
+        "company": "Abridge",
+        "url": "https://www.abridge.com/blog/mayo-clinic-ambient-ai-nursing",
+        "score": 50,
+        "date_added": "2026-05-07",
+        "article_like": true
+    },
+    {
+        "company": "Menarini Group",
+        "url": "https://www.menarini.com/en-us/news/news-detail/thirty-years-of-values-the-fair-play-menarini-international-award-announces-its-2026-edition.html",
+        "score": 139,
+        "date_added": "2026-05-07",
+        "article_like": true
+    },
+    {
+        "company": "Travere Therapeutics",
+        "url": "https://ir.travere.com/press-releases/news-details/2026/Travere-Prices-Upsized-475-0-Million-Convertible-Senior-Notes-Offering-to-Refinance-2029-Convertible-Notes/default.aspx",
+        "score": 198,
+        "date_added": "2026-05-07",
+        "article_like": false
     }
 ]
