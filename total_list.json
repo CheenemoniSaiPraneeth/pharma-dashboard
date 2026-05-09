@@ -546,582 +546,6 @@
     ]
   },
   {
-    "company": "Dr. Reddy's Laboratories",
-    "press_url": "https://www.drreddys.com/media/",
-    "candidate_links": [
-      {
-        "url": "https://www.drreddys.com/our-science/development-streams/apis-active-pharmaceutical-ingredients/",
-        "anchor_text": "APIs (Active Pharmaceutical Ingredients)",
-        "score": 90
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/environmental-sustainability/",
-        "anchor_text": "Environmental Sustainability",
-        "score": 89
-      },
-      {
-        "url": "https://www.drreddys.com/our-products/business-focus/apis-active-pharmaceutical-ingredients/",
-        "anchor_text": "APIs (Active Pharmaceutical Ingredients)",
-        "score": 86
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/affiliates/dr-reddy-s-foundations/",
-        "anchor_text": "Dr Reddy’s Foundations",
-        "score": 84
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/planet/commitment-to-the-planet/",
-        "anchor_text": "Commitment to the Planet",
-        "score": 82
-      },
-      {
-        "url": "https://www.drreddys.com/investors/governance/code-of-business-conduct-and-ethics-cobe/",
-        "anchor_text": "Code of Business Conduct and Ethics (COBE)",
-        "score": 81
-      },
-      {
-        "url": "https://www.drreddys.com/investors/investor-services/other-stock-exchange-intimations/",
-        "anchor_text": "Other Stock Exchange Intimations",
-        "score": 80
-      },
-      {
-        "url": "https://www.drreddys.com/investors/reports-and-filings/37th-annual-general-meeting/",
-        "anchor_text": "37th Annual General Meeting",
-        "score": 77
-      },
-      {
-        "url": "https://www.drreddys.com/our-products/business-focus/differentiated-formulations/",
-        "anchor_text": "Differentiated Formulations",
-        "score": 75
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/change-makers/",
-        "anchor_text": "Change Makers",
-        "score": 74
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/planet/carbon-footprint/",
-        "anchor_text": "Carbon Footprint",
-        "score": 74
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/healthcare-professionals/",
-        "anchor_text": "Healthcare Professionals",
-        "score": 73
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/our-approach/",
-        "anchor_text": "Our Approach",
-        "score": 73
-      },
-      {
-        "url": "https://www.drreddys.com/our-science/development-streams/proprietary-products/",
-        "anchor_text": "Proprietary Products",
-        "score": 72
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/livelihoods/",
-        "anchor_text": "Livelihoods",
-        "score": 72
-      },
-      {
-        "url": "https://www.drreddys.com/investors/investor-services/investor-meeting-details/",
-        "anchor_text": "Investor Meeting Details",
-        "score": 72
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/healthcare/",
-        "anchor_text": "Healthcare",
-        "score": 71
-      },
-      {
-        "url": "https://www.drreddys.com/investors/investor-services/statutory-communication/",
-        "anchor_text": "Statutory Communication",
-        "score": 71
-      },
-      {
-        "url": "https://www.drreddys.com/investors/investor-services/shareholder-information/",
-        "anchor_text": "Shareholder Information",
-        "score": 71
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/education/",
-        "anchor_text": "Education",
-        "score": 70
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/affiliates/partners/",
-        "anchor_text": "Partners",
-        "score": 70
-      },
-      {
-        "url": "https://www.drreddys.com/investors/investor-services/shareholder-s-contacts/",
-        "anchor_text": "Shareholder’s Contacts",
-        "score": 70
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/humans-of-dr-reddy-s/",
-        "anchor_text": "Humans of Dr. Reddy’s",
-        "score": 69
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/planet/initiatives/",
-        "anchor_text": "Initiatives",
-        "score": 69
-      },
-      {
-        "url": "https://www.drreddys.com/investors/governance/corporate-governance-reports/",
-        "anchor_text": "Corporate Governance Reports",
-        "score": 69
-      },
-      {
-        "url": "https://www.drreddys.com/investors/governance/information-to-stakeholders/",
-        "anchor_text": "Information to Stakeholders",
-        "score": 68
-      },
-      {
-        "url": "https://www.drreddys.com/investors/reports-and-filings/quarterly-reports/",
-        "anchor_text": "Quarterly Reports",
-        "score": 67
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/life-at-drreddys/",
-        "anchor_text": "Life at Dr.Reddy's",
-        "score": 65
-      },
-      {
-        "url": "https://www.drreddys.com/investors/governance/internal-control-systems/",
-        "anchor_text": "Internal Control Systems",
-        "score": 65
-      },
-      {
-        "url": "https://www.drreddys.com/investors/investor-services/investor-handbook/",
-        "anchor_text": "Investor Handbook",
-        "score": 65
-      },
-      {
-        "url": "https://www.drreddys.com/our-products/business-focus/over-the-counter/",
-        "anchor_text": "Over-the-counter",
-        "score": 64
-      },
-      {
-        "url": "https://www.drreddys.com/investors/reports-and-filings/annual-reports/",
-        "anchor_text": "Annual Reports",
-        "score": 64
-      },
-      {
-        "url": "https://www.drreddys.com/investors/governance/committees-of-the-board/",
-        "anchor_text": "Committees of the Board",
-        "score": 64
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/our-heritage/an-unfinished-agenda/",
-        "anchor_text": "An Unfinished Agenda",
-        "score": 63
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/sustainability/",
-        "anchor_text": "Sustainability",
-        "score": 63
-      },
-      {
-        "url": "https://www.drreddys.com/investors/shares/share-transfer-information/",
-        "anchor_text": "Share Transfer Information",
-        "score": 63
-      },
-      {
-        "url": "https://www.drreddys.com/investors/governance/policies-and-documents/",
-        "anchor_text": "Policies and Documents",
-        "score": 63
-      },
-      {
-        "url": "https://www.drreddys.com/investors/shares/unpaid-unclaimed-dividend/",
-        "anchor_text": "Unpaid & Unclaimed Dividend",
-        "score": 62
-      },
-      {
-        "url": "https://www.drreddys.com/our-science/development-streams/biologics/",
-        "anchor_text": "Biologics",
-        "score": 61
-      },
-      {
-        "url": "https://www.drreddys.com/investors/reports-and-filings/sec-filings/",
-        "anchor_text": "SEC Filings",
-        "score": 61
-      },
-      {
-        "url": "https://www.drreddys.com/investors/reports-and-filings/moa-and-aoa/",
-        "anchor_text": "MoA and AoA",
-        "score": 61
-      },
-      {
-        "url": "https://www.drreddys.com/investors/governance/compliance-with-nyse/",
-        "anchor_text": "Compliance with NYSE",
-        "score": 61
-      },
-      {
-        "url": "https://www.drreddys.com/investors/investor-services/credit-rating/",
-        "anchor_text": "Credit Rating",
-        "score": 61
-      },
-      {
-        "url": "https://www.drreddys.com/our-science/development-streams/generics/",
-        "anchor_text": "Generics",
-        "score": 60
-      },
-      {
-        "url": "https://www.drreddys.com/investors/shares/equity-dividend-history/",
-        "anchor_text": "Equity & Dividend History",
-        "score": 60
-      },
-      {
-        "url": "https://www.drreddys.com/investors/governance/ombudsperson-policy/",
-        "anchor_text": "Ombudsperson Policy",
-        "score": 60
-      },
-      {
-        "url": "https://www.drreddys.com/investors/investor-services/amalgamation/",
-        "anchor_text": "Amalgamation",
-        "score": 60
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/leadership/board-of-directors/",
-        "anchor_text": "Board Of Directors",
-        "score": 59
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/leadership/management-council/",
-        "anchor_text": "Management Council",
-        "score": 59
-      },
-      {
-        "url": "https://www.drreddys.com/our-products/business-focus/biologics/",
-        "anchor_text": "Biologics",
-        "score": 57
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/patients/",
-        "anchor_text": "Patients",
-        "score": 57
-      },
-      {
-        "url": "https://www.drreddys.com/investors/presentations/earnings-call/",
-        "anchor_text": "Earnings Call",
-        "score": 57
-      },
-      {
-        "url": "https://www.drreddys.com/investors/shares/shareholding-pattern/",
-        "anchor_text": "Shareholding Pattern",
-        "score": 57
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/our-employees-respond-covid19/",
-        "anchor_text": "our employees respond covid19",
-        "score": 57
-      },
-      {
-        "url": "https://www.drreddys.com/our-products/business-focus/generics/",
-        "anchor_text": "Generics",
-        "score": 56
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/our-heritage/our-founder/",
-        "anchor_text": "Our Founder",
-        "score": 54
-      },
-      {
-        "url": "https://www.drreddys.com/investors/shares/analyst-coverage/",
-        "anchor_text": "Analyst Coverage",
-        "score": 53
-      },
-      {
-        "url": "https://www.drreddys.com/partners/login-for-current-partners/",
-        "anchor_text": "Login for Current Partners",
-        "score": 53
-      },
-      {
-        "url": "https://www.drreddys.com/investors/shares/stock-updates/",
-        "anchor_text": "Stock Updates",
-        "score": 50
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/about-us/milestones/",
-        "anchor_text": "Milestones",
-        "score": 49
-      },
-      {
-        "url": "https://www.drreddys.com/our-science/research-philosophy/",
-        "anchor_text": "Research Philosophy",
-        "score": 49
-      },
-      {
-        "url": "https://www.drreddys.com/our-products/therapeutic-focus/",
-        "anchor_text": "Therapeutic Focus",
-        "score": 48
-      },
-      {
-        "url": "https://www.drreddys.com/investors/shares/share-price/",
-        "anchor_text": "Share Price",
-        "score": 48
-      },
-      {
-        "url": "https://www.drreddys.com/contact-us/medical-information/",
-        "anchor_text": "Medical Information",
-        "score": 48
-      },
-      {
-        "url": "https://www.drreddys.com/investors/presentations/presentations/",
-        "anchor_text": "Presentations",
-        "score": 47
-      },
-      {
-        "url": "https://www.drreddys.com/partners/prospective-partners/",
-        "anchor_text": "Prospective Partners",
-        "score": 47
-      },
-      {
-        "url": "https://www.drreddys.com/our-products/business-focus/",
-        "anchor_text": "Our Products",
-        "score": 45
-      },
-      {
-        "url": "https://www.drreddys.com/media/dr-reddys-in-the-news/",
-        "anchor_text": "Dr. Reddy's in the news",
-        "score": 45
-      },
-      {
-        "url": "https://www.drreddys.com/contact-us/global-locations/",
-        "anchor_text": "Global Locations",
-        "score": 45
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/featured-stories/",
-        "anchor_text": "Featured Stories",
-        "score": 44
-      },
-      {
-        "url": "https://www.drreddys.com/our-science/capabilities/",
-        "anchor_text": "Capabilities",
-        "score": 42
-      },
-      {
-        "url": "https://www.drreddys.com/partners/post-an-enquiry/",
-        "anchor_text": "Post an Enquiry",
-        "score": 42
-      },
-      {
-        "url": "https://www.drreddys.com/contact-us/key-contacts/",
-        "anchor_text": "Key Contacts",
-        "score": 41
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/who-we-are/",
-        "anchor_text": "Who We Are",
-        "score": 38
-      },
-      {
-        "url": "https://www.drreddys.com/our-products/quality/",
-        "anchor_text": "Quality",
-        "score": 38
-      },
-      {
-        "url": "https://www.drreddys.com/media/press-releases/",
-        "anchor_text": "Press Releases",
-        "score": 38
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/about-us/",
-        "anchor_text": "Our Story",
-        "score": 36
-      },
-      {
-        "url": "https://www.drreddys.com/investors/shares/buyback/",
-        "anchor_text": "Buyback",
-        "score": 34
-      },
-      {
-        "url": "https://www.drreddys.com/media/media-kit/",
-        "anchor_text": "Media Kit",
-        "score": 33
-      },
-      {
-        "url": "https://www.drreddys.com/cookie-policy.aspx",
-        "anchor_text": "Cookie Policy.",
-        "score": 31
-      },
-      {
-        "url": "https://www.drreddys.com/united-states/",
-        "anchor_text": "United States",
-        "score": 29
-      },
-      {
-        "url": "https://www.drreddys.com/south-africa/",
-        "anchor_text": "South Africa",
-        "score": 28
-      },
-      {
-        "url": "https://www.drreddys.com/new-zealand/",
-        "anchor_text": "New Zealand",
-        "score": 27
-      },
-      {
-        "url": "https://www.drreddys.com/privacy-policy",
-        "anchor_text": "Privacy Notice",
-        "score": 27
-      },
-      {
-        "url": "https://www.drreddys.com/cookie-policy",
-        "anchor_text": "Cookie Policy",
-        "score": 26
-      },
-      {
-        "url": "https://www.drreddys.com/terms-of-use",
-        "anchor_text": "Terms Of Use",
-        "score": 25
-      },
-      {
-        "url": "https://www.drreddys.com/accessibility",
-        "anchor_text": "Accessibility",
-        "score": 16
-      },
-      {
-        "url": "https://www.drreddys.com/australia/",
-        "anchor_text": "Australia",
-        "score": 15
-      },
-      {
-        "url": "https://www.drreddys.com/search.aspx",
-        "anchor_text": "",
-        "score": 14
-      },
-      {
-        "url": "https://www.drreddys.com/germany/",
-        "anchor_text": "Germany",
-        "score": 13
-      },
-      {
-        "url": "https://www.drreddys.com/canada/",
-        "anchor_text": "Canada",
-        "score": 12
-      },
-      {
-        "url": "https://www.drreddys.com/russia/",
-        "anchor_text": "Russia",
-        "score": 12
-      },
-      {
-        "url": "https://www.drreddys.com/china/",
-        "anchor_text": "China",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/india/",
-        "anchor_text": "India",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2022",
-        "anchor_text": "2022",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2021",
-        "anchor_text": "2021",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2020",
-        "anchor_text": "2020",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2019",
-        "anchor_text": "2019",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2018",
-        "anchor_text": "2018",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2017",
-        "anchor_text": "2017",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2016",
-        "anchor_text": "2016",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2015",
-        "anchor_text": "2015",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2014",
-        "anchor_text": "2014",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2013",
-        "anchor_text": "2013",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2012",
-        "anchor_text": "2012",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2011",
-        "anchor_text": "2011",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2010",
-        "anchor_text": "2010",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2009",
-        "anchor_text": "2009",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2008",
-        "anchor_text": "2008",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2007",
-        "anchor_text": "2007",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2006",
-        "anchor_text": "2006",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2005",
-        "anchor_text": "2005",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2001",
-        "anchor_text": "2001",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/",
-        "anchor_text": "",
-        "score": 3
-      }
-    ]
-  },
-  {
     "company": "Amgen",
     "press_url": "https://www.amgen.com/newsroom/press-releases",
     "candidate_links": [
@@ -1144,6 +568,11 @@
         "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-announces-retirement-of-david-m-reese-executive-vice-president-and-chief-technology-officer",
         "anchor_text": "AMGEN ANNOUNCES RETIREMENT OF DAVID M. REESE, EXECUTIVE VICE PRESIDENT AND CHIEF TECHNOLOGY OFFICER",
         "score": 175
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/05/amgen-to-present-at-the-bank-of-america-merrill-lynch-global-healthcare-conference",
+        "anchor_text": "AMGEN TO PRESENT AT THE BANK OF AMERICA MERRILL LYNCH GLOBAL HEALTHCARE CONFERENCE",
+        "score": 160
       },
       {
         "url": "https://www.amgen.com/newsroom/press-releases/2026/01/amgen-announces-webcast-of-2025-fourth-quarter-and-full-year-financial-results",
@@ -1988,6 +1417,11 @@
         "score": 154
       },
       {
+        "url": "https://www.novartis.com/news/media-releases/novartis-breaks-ground-denton-texas-radioligand-therapy-site-construction-now-underway-across-all-new-us-facilities",
+        "anchor_text": "Press releaseMay 07, 2026Novartis breaks ground on Denton, Texas radioligand therapy site; construction now underway across all new US facilitiesUS Under Secretary of Commerce Jeffrey Kessler, Texas State Senator Brent Hagenbuch, Novartis leadership mark expansion of company’s coast-to-coast RLT manufacturing network – the largest in the…",
+        "score": 152
+      },
+      {
         "url": "https://www.novartis.com/news/media-releases/novartis-rhapsido-receives-european-commission-approval-first-oral-targeted-treatment-chronic-spontaneous-urticaria",
         "anchor_text": "Press releaseApr 27, 2026Novartis Rhapsido® receives European Commission approval as first oral targeted treatment for chronic spontaneous urticariaSignificant improvements as early as Week 1, favorable safety profile and no liver safety concerns in REMIX 1 & 2 studies of highly selective, oral BTKi1Rhapsido …",
         "score": 152
@@ -2001,11 +1435,6 @@
         "url": "https://www.novartis.com/news/media-releases/novartis-delivered-high-single-digit-sales-growth-achieved-40-core-margin-and-further-advanced-pipeline-2025",
         "anchor_text": "Ad hoc releaseFeb 04, 2026Novartis delivered high single-digit sales growth, achieved 40% core margin and further advanced the pipeline in 2025Ad hoc announcement pursuant to Art. 53 LRFull yearNet sales grew +8% (cc1, +8% USD) with core operating income1 up +14% (cc, +12% USD) Sales growth driven by continued strong performance from…",
         "score": 145
-      },
-      {
-        "url": "https://www.novartis.com/news/media-releases/novartis-cosentyx-receives-fda-approval-pediatric-patients-aged-12-moderate-severe-hidradenitis-suppurativa",
-        "anchor_text": "Press releaseMar 13, 2026Novartis Cosentyx® receives FDA approval for pediatric patients aged 12+ with moderate to severe hidradenitis suppurativaCosentyx is the only IL-17A inhibitor approved for this population, and the first differentiated mechanism in nearly a decade1-3 HS often emerges around puberty, underscoring…",
-        "score": 144
       },
       {
         "url": "https://www.novartis.com/news/media-releases/novartis-announces-both-ianalumab-phase-iii-clinical-trials-met-primary-endpoint-patients-sjogrens-disease",
@@ -5301,9 +4730,9 @@
         "score": 117
       },
       {
-        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/case-study-dresser-140M-haul-truck",
-        "anchor_text": "Dresser 140M haul truck",
-        "score": 113
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/05/Hero-Wipes-Fire-Efficacy-Study",
+        "anchor_text": "Protecting workers from lead exposure: ALS analytical support for…",
+        "score": 109
       },
       {
         "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/Isotopic-Dilution-for-PFAS",
@@ -5606,6 +5035,11 @@
         "score": 17
       },
       {
+        "url": "https://www.alsglobal.com/sk/slovensko",
+        "anchor_text": "Slovakia",
+        "score": 17
+      },
+      {
         "url": "https://www.alsglobal.com/hr/Hrvatska",
         "anchor_text": "Croatia",
         "score": 16
@@ -5648,6 +5082,11 @@
       {
         "url": "https://www.alsglobal.com/it/italia",
         "anchor_text": "Italy",
+        "score": 14
+      },
+      {
+        "url": "https://www.alsglobal.com/pl/polska",
+        "anchor_text": "Poland",
         "score": 14
       },
       {
@@ -5722,9 +5161,49 @@
         "score": 160
       },
       {
+        "url": "https://www.veeva.com/resources/unilever-reckitt-estee-lauder-nestle-basf-and-evonik-to-speak-at-veevas-virtual-summit-for-consumer-goods-and-chemical-industries/",
+        "anchor_text": "Read Press Release",
+        "score": 157
+      },
+      {
+        "url": "https://www.veeva.com/resources/court-rejects-medidata-lawsuit-against-veeva-for-lack-of-evidence-blocks-medidatas-moves-to-limit-competition-and-employee-rights/",
+        "anchor_text": "Read Press Release",
+        "score": 157
+      },
+      {
+        "url": "https://www.veeva.com/medtech/news/new-research-finds-87-of-medtechs-lack-consistent-methods-to-share-product-information-across-global-regulatory-teams/%20",
+        "anchor_text": "Read Press Release",
+        "score": 153
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-announces-first-customer-win-and-april-2024-availability-for-vault-crm-the-next-generation-of-crm-for-life-sciences/",
+        "anchor_text": "Read Press Release",
+        "score": 149
+      },
+      {
+        "url": "https://www.veeva.com/resources/st-cloud-state-university-and-veeva-partner-to-deliver-real-world-clinical-technology-experience-to-medtech-students/",
+        "anchor_text": "Read Press Release",
+        "score": 144
+      },
+      {
+        "url": "https://www.veeva.com/medtech/resources/veeva-medtech-clinical-trials-report-signals-significant-opportunity-to-improve-data-delivery-and-quality/",
+        "anchor_text": "Read Press Release",
+        "score": 143
+      },
+      {
+        "url": "https://www.veeva.com/resources/largest-ever-industry-report-reveals-video-meetings-3x-more-effective-and-companies-using-them-most-gain-advantage/",
+        "anchor_text": "Read Press Release",
+        "score": 142
+      },
+      {
         "url": "https://www.veeva.com/resources/veeva-announces-esource-application-for-research-sites-to-eliminate-paper-and-streamline-clinical-trial-data-flow/",
         "anchor_text": "Read Press Release",
         "score": 141
+      },
+      {
+        "url": "https://www.veeva.com/resources/leading-pharma-adopts-veeva-vault-validation-management-for-digital-validation-execution-and-improved-efficiency/",
+        "anchor_text": "Read Press Release",
+        "score": 140
       },
       {
         "url": "https://www.veeva.com/resources/more-than-125-customers-worldwide-live-on-vault-crm-as-veeva-accelerates-the-industrys-agentic-transformation/",
@@ -5732,9 +5211,34 @@
         "score": 137
       },
       {
+        "url": "https://www.veeva.com/resources/minaris-regenerative-medicine-streamlining-contract-manufacturing-with-veeva-vault-quality-suite-applications/",
+        "anchor_text": "Read Press Release",
+        "score": 137
+      },
+      {
+        "url": "https://www.veeva.com/resources/boehringer-ingelheim-partners-with-veeva-to-advance-its-clinical-and-regulatory-operations-in-animal-health/",
+        "anchor_text": "Read Press Release",
+        "score": 135
+      },
+      {
         "url": "https://www.veeva.com/resources/veeva-and-sarah-cannon-research-institute-form-strategic-collaboration-to-advance-oncology-clinical-trials/",
         "anchor_text": "Read Press Release",
         "score": 134
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-pulse-reveals-digital-content-more-than-twice-as-effective-in-driving-promotional-response-globally/",
+        "anchor_text": "Read Press Release",
+        "score": 133
+      },
+      {
+        "url": "https://www.veeva.com/resources/more-than-2000-biopharma-leaders-come-together-at-veeva-rd-and-quality-summit-to-advance-drug-development/",
+        "anchor_text": "Read Press Release",
+        "score": 133
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-clinical-database-crosses-200-study-milestone-cuts-time-to-aggregate-and-clean-study-data-by-30-50/",
+        "anchor_text": "Read Press Release",
+        "score": 132
       },
       {
         "url": "https://www.veeva.com/resources/iqvia-and-veeva-announce-long-term-clinical-and-commercial-partnerships-and-resolution-of-all-disputes/",
@@ -5747,9 +5251,39 @@
         "score": 130
       },
       {
+        "url": "https://www.veeva.com/resources/new-batch-release-application-for-life-sciences-manufacturing-to-speed-time-to-market-and-reduce-cost/",
+        "anchor_text": "Read Press Release",
+        "score": 129
+      },
+      {
+        "url": "https://www.veeva.com/resources/merck-kgaa-darmstadt-germany-partners-with-veeva-to-transform-medical-information-operations-globally/",
+        "anchor_text": "Read Press Release",
+        "score": 129
+      },
+      {
+        "url": "https://www.veeva.com/resources/more-than-450-companies-adopt-veeva-vault-etmf-for-improved-trial-efficiency-and-inspection-readiness/",
+        "anchor_text": "Read Press Release",
+        "score": 129
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-commercial-summit-connects-nearly-1500-life-sciences-leaders-across-sales-medical-and-marketing/",
+        "anchor_text": "Learn More",
+        "score": 129
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-pulse-shows-post-pandemic-hcp-access-nearing-80-in-key-specialties-driven-by-digital-engagement/",
+        "anchor_text": "Read Press Release",
+        "score": 129
+      },
+      {
         "url": "https://www.veeva.com/resources/veeva-opendata-and-veeva-network-mdm-enable-coordinated-customer-engagement-for-boehringer-ingelheim/",
         "anchor_text": "Read Press Release",
         "score": 128
+      },
+      {
+        "url": "https://www.veeva.com/resources/biopharmas-boost-marketing-effectiveness-by-23-by-synchronizing-digital-media-with-field-engagement/",
+        "anchor_text": "Read Press Release",
+        "score": 127
       },
       {
         "url": "https://www.veeva.com/medtech/news/new-study-finds-88-of-medtechs-prioritizing-postmarket-quality-modernization-within-next-3-years",
@@ -5762,12 +5296,57 @@
         "score": 126
       },
       {
+        "url": "https://www.veeva.com/resources/veeva-vault-rim-driving-greater-speed-and-compliance-for-more-than-350-life-sciences-organizations/",
+        "anchor_text": "Read Press Release",
+        "score": 126
+      },
+      {
         "url": "https://www.veeva.com/resources/veeva-announces-collaboration-with-global-biotech-to-further-accelerate-clinical-trial-innovation/",
         "anchor_text": "Read Press Release",
         "score": 125
       },
       {
+        "url": "https://www.veeva.com/resources/biopharma-leaders-come-together-at-veeva-commercial-summit-to-advance-customer-centric-engagement/",
+        "anchor_text": "Read Press Release",
+        "score": 125
+      },
+      {
+        "url": "https://www.veeva.com/resources/southern-star-research-adopts-veeva-vault-etmf-and-veeva-vault-ctms-to-streamline-trial-processes/",
+        "anchor_text": "Read Press Release",
+        "score": 125
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-compass-modernizes-prescriber-data-with-new-approach-designed-for-todays-complex-therapies/",
+        "anchor_text": "Read Press Release",
+        "score": 124
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-pulse-reveals-digital-content-more-than-twice-as-effective-in-driving-promotional-response/",
+        "anchor_text": "Read Press Release",
+        "score": 124
+      },
+      {
+        "url": "https://www.veeva.com/medtech/resources/industrywide-survey-reveals-centralizing-regulatory-is-number-one-priority-for-medtech/",
+        "anchor_text": "Read Press Release",
+        "score": 124
+      },
+      {
         "url": "https://www.veeva.com/resources/veeva-announces-environmental-monitoring-solution-to-modernize-quality-control-in-manufacturing/",
+        "anchor_text": "Read Press Release",
+        "score": 123
+      },
+      {
+        "url": "https://www.veeva.com/resources/major-release-of-veeva-site-connect-streamlines-clinical-trial-execution-for-sites-and-sponsors/",
+        "anchor_text": "Read Press Release",
+        "score": 123
+      },
+      {
+        "url": "https://www.veeva.com/resources/life-sciences-community-advances-toward-next-phase-of-innovation-at-veeva-rd-and-quality-summit/",
+        "anchor_text": "Read Press Release",
+        "score": 123
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-crossix-introduces-new-products-to-advance-omnichannel-marketing-for-life-sciences-brands/",
         "anchor_text": "Read Press Release",
         "score": 123
       },
@@ -5777,12 +5356,32 @@
         "score": 122
       },
       {
+        "url": "https://www.veeva.com/resources/life-sciences-brands-reach-clinically-relevant-audiences-with-new-veeva-crossix-prime-segments/",
+        "anchor_text": "Read Press Release",
+        "score": 122
+      },
+      {
         "url": "https://www.veeva.com/resources/industry-research-finds-establishing-a-foundation-for-ai-is-top-priority-for-cpg-enterprises/",
         "anchor_text": "Read Press Release",
         "score": 120
       },
       {
+        "url": "https://www.veeva.com/resources/veeva-cdb-application-to-streamline-aggregation-cleaning-and-transformation-of-clinical-data/",
+        "anchor_text": "Read Press Release",
+        "score": 120
+      },
+      {
         "url": "https://www.veeva.com/resources/aop-health-standardizes-on-veeva-industry-cloud-for-life-sciences-across-all-business-areas/",
+        "anchor_text": "Read Press Release",
+        "score": 119
+      },
+      {
+        "url": "https://www.veeva.com/resources/new-veeva-pulse-findings-show-connected-engagement-creates-an-advantage-as-hcp-access-drops/",
+        "anchor_text": "Read Press Release",
+        "score": 119
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-introduces-link-workflow-a-no-code-platform-for-building-custom-workflow-applications/",
         "anchor_text": "Read Press Release",
         "score": 119
       },
@@ -5797,7 +5396,42 @@
         "score": 117
       },
       {
+        "url": "https://www.veeva.com/resources/veeva-vault-crm-suite-to-unlock-greater-customer-centricity-with-launch-of-service-center/",
+        "anchor_text": "Learn More",
+        "score": 117
+      },
+      {
+        "url": "https://www.veeva.com/resources/top-biopharma-brands-reach-audiences-10x-more-qualified-with-veeva-crossix-prime-segments/",
+        "anchor_text": "Read Press Release",
+        "score": 117
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-becomes-first-life-sciences-training-solutions-provider-to-gain-iacet-accreditation/",
+        "anchor_text": "Read Press Release",
+        "score": 117
+      },
+      {
+        "url": "https://www.veeva.com/resources/ani-pharmaceuticals-adopts-veeva-commercial-cloud-to-better-support-rare-disease-patients/",
+        "anchor_text": "Read Press Release",
+        "score": 117
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-vault-lims-gains-momentum-as-companies-unify-quality-assurance-and-quality-control/",
+        "anchor_text": "Read Press Release",
+        "score": 116
+      },
+      {
+        "url": "https://www.veeva.com/resources/more-than-350-companies-increase-efficiency-and-compliance-with-veeva-training-solutions/",
+        "anchor_text": "Read Press Release",
+        "score": 116
+      },
+      {
         "url": "https://www.veeva.com/medtech/news/report-reveals-70-of-medtechs-use-manual-processes-for-managing-content-and-claims/",
+        "anchor_text": "Read Press Release",
+        "score": 115
+      },
+      {
+        "url": "https://www.veeva.com/resources/new-veeva-vault-submissions-publishing-elearning-application-speeds-employee-onboarding/",
         "anchor_text": "Read Press Release",
         "score": 115
       },
@@ -5807,14 +5441,74 @@
         "score": 114
       },
       {
+        "url": "https://www.veeva.com/resources/veeva-pulse-shows-doctors-opening-up-two-way-communications-doubles-digital-engagement/",
+        "anchor_text": "Read Press Release",
+        "score": 114
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-rd-and-quality-summit-brings-together-biopharma-leaders-to-accelerate-innovation/",
+        "anchor_text": "Read Press Release",
+        "score": 114
+      },
+      {
         "url": "https://www.veeva.com/resources/veeva-announces-new-digital-hazard-analysis-and-critical-control-point-haccp-solution/",
         "anchor_text": "Read Press Release",
         "score": 113
       },
       {
+        "url": "https://www.veeva.com/resources/anthem-biosciences-launches-veeva-vault-quality-for-greater-efficiency-and-compliance/",
+        "anchor_text": "Read Press Release",
+        "score": 113
+      },
+      {
+        "url": "https://www.veeva.com/resources/leo-pharma-connects-affiliates-with-veeva-vault-safety-to-transform-safety-operations/",
+        "anchor_text": "Read Press Release",
+        "score": 113
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-introduces-study-portal-and-veevaid-to-streamline-research-site-trial-execution/",
+        "anchor_text": "Read Press Release",
+        "score": 113
+      },
+      {
+        "url": "https://www.veeva.com/medtech/news/new-veeva-link-medtech-provides-real-time-data-to-optimize-scientific-engagement/",
+        "anchor_text": "Read Press Release",
+        "score": 113
+      },
+      {
+        "url": "https://www.veeva.com/resources/global-cdmo-adare-pharma-solutions-harmonizing-quality-with-veeva-vault-quality-suite/",
+        "anchor_text": "Read Press Release",
+        "score": 113
+      },
+      {
+        "url": "https://www.veeva.com/resources/lotus-clinical-research-expands-partnership-with-veeva-to-accelerate-clinical-trials/",
+        "anchor_text": "Read Press Release",
+        "score": 112
+      },
+      {
         "url": "https://www.veeva.com/medtech/news/medtech-industry-establishes-foundation-for-clinical-trials-with-veeva-medtech/",
         "anchor_text": "Read Press Release",
         "score": 111
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-expands-relationship-with-accenture-to-help-customers-transition-to-vault-crm/",
+        "anchor_text": "Read Press Release",
+        "score": 111
+      },
+      {
+        "url": "https://www.veeva.com/resources/six-of-the-top-20-pharma-select-veeva-vault-edc-as-company-standard-for-new-trials/",
+        "anchor_text": "Learn More",
+        "score": 110
+      },
+      {
+        "url": "https://www.veeva.com/medtech/news/for-the-second-year-in-a-row-veeva-medtech-named-best-overall-medtech-software",
+        "anchor_text": "Read Press Release",
+        "score": 108
+      },
+      {
+        "url": "https://www.veeva.com/resources/vita-global-sciences-partners-with-veeva-to-streamline-clinical-data-management/",
+        "anchor_text": "Read Press Release",
+        "score": 107
       },
       {
         "url": "https://www.veeva.com/resources/veeva-ai-agents-now-available-to-increase-productivity-and-customer-centricity/",
@@ -5827,12 +5521,32 @@
         "score": 106
       },
       {
+        "url": "https://www.veeva.com/resources/troy-animal-healthcare-strengthens-quality-operations-with-veeva-vault-quality/",
+        "anchor_text": "Read Press Release",
+        "score": 106
+      },
+      {
+        "url": "https://www.veeva.com/resources/ucb-and-veeva-collaborate-to-advance-the-patient-experience-in-clinical-trials/",
+        "anchor_text": "Read Press Release",
+        "score": 106
+      },
+      {
         "url": "https://www.veeva.com/medtech/news/research-shows-medtechs-prioritizing-site-collaboration-and-data-quality/",
         "anchor_text": "Read Press Release",
         "score": 105
       },
       {
         "url": "https://www.veeva.com/resources/life-sciences-leaders-advance-unified-engagement-at-veeva-commercial-summit/",
+        "anchor_text": "Read Press Release",
+        "score": 103
+      },
+      {
+        "url": "https://www.veeva.com/resources/targeted-pre-launch-scientific-outreach-drives-40-faster-treatment-adoption/",
+        "anchor_text": "Read Press Release",
+        "score": 103
+      },
+      {
+        "url": "https://www.veeva.com/resources/recipharm-harmonizes-its-global-quality-operations-with-veeva-vault-quality/",
         "anchor_text": "Read Press Release",
         "score": 103
       },
@@ -5857,12 +5571,47 @@
         "score": 100
       },
       {
+        "url": "https://www.veeva.com/resources/top-biopharma-commits-to-veeva-vault-crm-for-global-customer-engagement/",
+        "anchor_text": "Read Press Release",
+        "score": 99
+      },
+      {
+        "url": "https://www.veeva.com/resources/leading-asia-pacific-biopharmas-power-digital-engagement-with-veeva-crm/",
+        "anchor_text": "Read Press Release",
+        "score": 99
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-introduces-new-epro-application-for-faster-access-to-patient-data/",
+        "anchor_text": "Read Press Release",
+        "score": 99
+      },
+      {
         "url": "https://www.veeva.com/resources/veeva-pulse-data-shows-new-science-calls-for-more-connected-engagement/",
         "anchor_text": "Read Press Release",
         "score": 98
       },
       {
+        "url": "https://www.veeva.com/resources/new-service-center-in-veeva-vault-crm-suite-unifies-sales-and-service/",
+        "anchor_text": "Read Press Release",
+        "score": 97
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-completes-study-migrations-to-veeva-vault-edc-for-top-biopharma/",
+        "anchor_text": "Read Press Release",
+        "score": 97
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-statement-in-support-of-proposed-ftc-rule-to-ban-non-competes/",
+        "anchor_text": "Read Press Release",
+        "score": 95
+      },
+      {
         "url": "https://www.veeva.com/resources/veeva-and-zifo-partner-to-accelerate-quality-control-modernization/",
+        "anchor_text": "Read Press Release",
+        "score": 94
+      },
+      {
+        "url": "https://www.veeva.com/resources/40-cros-select-veeva-vault-ctms-to-drive-clinical-trial-operations/",
         "anchor_text": "Read Press Release",
         "score": 94
       },
@@ -5877,7 +5626,22 @@
         "score": 92
       },
       {
+        "url": "https://www.veeva.com/resources/veeva-unveils-vault-crm-next-generation-of-crm-for-life-sciences/",
+        "anchor_text": "Read Press Release",
+        "score": 92
+      },
+      {
+        "url": "https://www.veeva.com/resources/modular-content-powers-omnichannel-engagement-at-speed-and-scale/",
+        "anchor_text": "Learn More",
+        "score": 92
+      },
+      {
         "url": "https://www.veeva.com/medtech/news/18-of-the-top-20-medtech-companies-partner-with-veeva-medtech",
+        "anchor_text": "Read Press Release",
+        "score": 91
+      },
+      {
+        "url": "https://www.veeva.com/resources/tigermed-advances-clinical-data-management-with-veeva-vault-edc/",
         "anchor_text": "Read Press Release",
         "score": 91
       },
@@ -5897,12 +5661,22 @@
         "score": 89
       },
       {
+        "url": "https://www.veeva.com/resources/now-available-veeva-compass-suite-of-commercial-data-products/",
+        "anchor_text": "Read Press Release",
+        "score": 89
+      },
+      {
         "url": "https://www.veeva.com/resources/veeva-ai-agents-to-be-released-across-all-veeva-applications/",
         "anchor_text": "Read Press Release",
         "score": 88
       },
       {
         "url": "https://www.veeva.com/resources/more-than-450-companies-drive-speed-to-market-with-veeva-rim/",
+        "anchor_text": "Read Press Release",
+        "score": 88
+      },
+      {
+        "url": "https://www.veeva.com/resources/bayer-commits-to-veeva-vault-crm-and-veeva-opendata-globally/",
         "anchor_text": "Read Press Release",
         "score": 88
       },
@@ -5917,9 +5691,39 @@
         "score": 87
       },
       {
+        "url": "https://www.veeva.com/resources/veeva-announces-fourth-quarter-and-fiscal-year-2024-results/",
+        "anchor_text": "Read Press Release",
+        "score": 87
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-announces-fourth-quarter-and-fiscal-year-2023-results/",
+        "anchor_text": "Read Press Release",
+        "score": 87
+      },
+      {
         "url": "https://www.veeva.com/resources/top-global-biopharmas-standardize-on-veeva-china-crm-suite/",
         "anchor_text": "Read Press Release",
         "score": 86
+      },
+      {
+        "url": "https://www.veeva.com/resources/kemwell-biopharma-drives-quality-excellence-with-veeva-qms/",
+        "anchor_text": "Read Press Release",
+        "score": 86
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-partners-with-sanofi-to-transform-its-quality-system/",
+        "anchor_text": "Read Press Release",
+        "score": 86
+      },
+      {
+        "url": "https://www.veeva.com/resources/batavia-optimizes-global-qa-with-veeva-vault-quality-suite/",
+        "anchor_text": "Read Press Release",
+        "score": 86
+      },
+      {
+        "url": "https://www.veeva.com/resources/veranex-accelerates-clinical-trials-with-veeva-vault-cdms/",
+        "anchor_text": "Read Press Release",
+        "score": 85
       },
       {
         "url": "https://www.veeva.com/resources/veeva-and-biomarin-form-long-term-strategic-partnership/",
@@ -5932,12 +5736,57 @@
         "score": 82
       },
       {
+        "url": "https://www.veeva.com/resources/veeva-business-consulting-expands-with-new-rd-services/",
+        "anchor_text": "Read Press Release",
+        "score": 82
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-vault-lims-to-support-civica-rx-quality-control/",
+        "anchor_text": "Read Press Release",
+        "score": 81
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-vault-edc-surpasses-1000-study-start-milestone/",
+        "anchor_text": "Read Press Release",
+        "score": 80
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-and-merck-form-long-term-strategic-partnership/",
+        "anchor_text": "Read Press Release",
+        "score": 80
+      },
+      {
         "url": "https://www.veeva.com/resources/astellas-chooses-veeva-vault-crm-as-global-standard/",
         "anchor_text": "Read Press Release",
         "score": 79
       },
       {
+        "url": "https://www.veeva.com/resources/veeva-vault-crm-now-available-for-all-new-customers/",
+        "anchor_text": "Read Press Release",
+        "score": 79
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-announces-clinical-study-training-application/",
+        "anchor_text": "Read Press Release",
+        "score": 79
+      },
+      {
         "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2026-second-quarter-results/",
+        "anchor_text": "Read Press Release",
+        "score": 78
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2025-second-quarter-results/",
+        "anchor_text": "Read Press Release",
+        "score": 78
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2024-second-quarter-results/",
+        "anchor_text": "Read Press Release",
+        "score": 78
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2023-second-quarter-results/",
         "anchor_text": "Read Press Release",
         "score": 78
       },
@@ -5958,6 +5807,26 @@
       },
       {
         "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2025-third-quarter-results/",
+        "anchor_text": "Read Press Release",
+        "score": 77
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2025-first-quarter-results/",
+        "anchor_text": "Read Press Release",
+        "score": 77
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2024-third-quarter-results/",
+        "anchor_text": "Read Press Release",
+        "score": 77
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2024-first-quarter-results/",
+        "anchor_text": "Read Press Release",
+        "score": 77
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2023-third-quarter-results/",
         "anchor_text": "Read Press Release",
         "score": 77
       },
@@ -5987,7 +5856,22 @@
         "score": 72
       },
       {
+        "url": "https://www.veeva.com/resources/veeva-introduces-veeva-vault-crm-for-medtech/",
+        "anchor_text": "Read Press Release",
+        "score": 72
+      },
+      {
         "url": "https://www.veeva.com/resources/gilead-sciences-commits-to-veeva-vault-crm/",
+        "anchor_text": "Read Press Release",
+        "score": 70
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-introduces-vault-basics-for-biotechs/",
+        "anchor_text": "Read Press Release",
+        "score": 70
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-announces-vault-crm-campaign-manager/",
         "anchor_text": "Read Press Release",
         "score": 70
       },
@@ -6019,6 +5903,11 @@
       {
         "url": "https://www.veeva.com/eu/life-science-digital-engagement-strategy/",
         "anchor_text": "Increase Omnichannel Impact",
+        "score": 61
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-launches-ai-partner-program/",
+        "anchor_text": "Read Press Release",
         "score": 61
       },
       {
@@ -8418,11 +8307,6 @@
         "score": 15
       },
       {
-        "url": "https://www.birac.nic.in/desc_new.php?id=1325",
-        "anchor_text": "Webinar on “Precision Biotherapeutics-Monoclonal Antibodies” Under the Biomanufacturing Initiative of DBT and BIRAC",
-        "score": 15
-      },
-      {
         "url": "https://www.birac.nic.in/desc_new.php?id=1319",
         "anchor_text": "Please note that the call for proposals under PCP fund is currently closed due to unavoidable reasons. It will be informed when the call becomes active. Inconvenience caused is regretted.",
         "score": 15
@@ -9928,12 +9812,12 @@
         "score": 83
       },
       {
-        "url": "https://insilicominds.com/new-quantitative-medicine-center-of-excellence-at-fdas-cder/",
+        "url": "https://insilicominds.com/insilicominds-ikiminds-pvt-ltd-insilicotrials-meet-the-dcgi/",
         "anchor_text": "Read More »",
         "score": 75
       },
       {
-        "url": "https://insilicominds.com/insilicominds-ikiminds-pvt-ltd-insilicotrials-meet-the-dcgi/",
+        "url": "https://insilicominds.com/new-quantitative-medicine-center-of-excellence-at-fdas-cder/",
         "anchor_text": "Read More »",
         "score": 75
       },
@@ -16521,6 +16405,11 @@
     "press_url": "https://www.olympus-global.com/news/",
     "candidate_links": [
       {
+        "url": "https://www.olympus-global.com/news/2026/nr03004.html",
+        "anchor_text": "May. 08, 2026ESGOlympus Named to Dow Jones Best-in-Class World Index for the Fifth Consecutive Year",
+        "score": 54
+      },
+      {
         "url": "https://www.olympus-global.com/news/2026/nr03000.html",
         "anchor_text": "May. 04, 2026CorporateOlympus Signs Global Distribution Agreement with EndoRobotics, Adds Robot-Assisted Technologies to EndoTherapy Portfolio",
         "score": 54
@@ -16583,11 +16472,6 @@
       {
         "url": "https://www.olympus-global.com/technology/olympusmuseum/?page=technology_zuikodoh",
         "anchor_text": "Olympus Museum",
-        "score": 32
-      },
-      {
-        "url": "https://www.olympus-global.com/ir/data/brief/2026.html?page=ir",
-        "anchor_text": "Feb. 13, 2026IRThird Quarter Financial Results for Fiscal Year 2026",
         "score": 32
       },
       {
@@ -16927,11 +16811,6 @@
         "score": 87
       },
       {
-        "url": "https://deepmind.google/blog/google-deepmind-supports-us-department-of-energy-on-genesis/",
-        "anchor_text": "Learn more",
-        "score": 82
-      },
-      {
         "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
         "anchor_text": "Learn more",
         "score": 76
@@ -16969,6 +16848,11 @@
       {
         "url": "https://deepmind.google/responsibility-and-safety/",
         "anchor_text": "Responsibility",
+        "score": 41
+      },
+      {
+        "url": "https://deepmind.google/blog/alphaevolve-impact/",
+        "anchor_text": "Learn more",
         "score": 41
       },
       {
@@ -18003,7 +17887,7 @@
       },
       {
         "url": "https://www.aragen.com/solutions/small-molecules/discovery/biosafety/",
-        "anchor_text": "Biosafety",
+        "anchor_text": "BioSafety",
         "score": 67
       },
       {
@@ -18724,6 +18608,11 @@
     "press_url": "https://www.illumina.com/company/news-center.html",
     "candidate_links": [
       {
+        "url": "https://www.illumina.com/company/news-center/feature-articles/when-accuracy-matters--how-multiomics-helps-separate-malignant-a.html",
+        "anchor_text": "Multiomics help separate malignant and benign tumors in tricky ovarian cases",
+        "score": 125
+      },
+      {
         "url": "https://www.illumina.com/company/news-center/feature-articles/tsinghua-university-brings-hands-on-multiomics-training-to-young.html",
         "anchor_text": "Tsinghua University brings hands-on multiomics training to young scientists",
         "score": 125
@@ -18732,11 +18621,6 @@
         "url": "https://www.illumina.com/company/news-center/feature-articles/an-illumina-milestone-powered-by-our-people--100-000-volunteer-h.html",
         "anchor_text": "An Illumina milestone powered by our people: 100,000 volunteer hours",
         "score": 125
-      },
-      {
-        "url": "https://www.illumina.com/company/news-center/feature-articles/how-genomics-can-help-detect-drug-resistant-tb-earlier.html",
-        "anchor_text": "Video:  How genomics can help detect drug-resistant TB earlier",
-        "score": 115
       },
       {
         "url": "https://www.illumina.com/products/by-type/informatics-products/connected-analytics/modules/correlation-engine.html",
@@ -19335,7 +19219,7 @@
       },
       {
         "url": "https://www.illumina.com/company/news-center.html",
-        "anchor_text": "Remove my preference",
+        "anchor_text": "Share on Linkedin",
         "score": 39
       },
       {
@@ -19375,7 +19259,7 @@
       },
       {
         "url": "https://www.illumina.com/company/legal/privacy.html",
-        "anchor_text": "Privacy Policy.",
+        "anchor_text": "Privacy Policy",
         "score": 33
       },
       {
@@ -22238,7 +22122,7 @@
       },
       {
         "url": "https://www.ey.com/en_gl/industries/industrial-products",
-        "anchor_text": "Industrial products",
+        "anchor_text": "Industrial Products",
         "score": 53
       },
       {
@@ -22608,7 +22492,7 @@
       },
       {
         "url": "https://www.ey.com/en_gl/industries/retail",
-        "anchor_text": "Transforming Retail",
+        "anchor_text": "Retail",
         "score": 30
       },
       {
@@ -24880,497 +24764,6 @@
     ]
   },
   {
-    "company": "Cipla",
-    "press_url": "https://www.cipla.com/media-centre/media-releases",
-    "candidate_links": [
-      {
-        "url": "https://www.cipla.com/cipla-launches-mumbais-first-breathefree-lung-wellness-center-indias-most-advanced-integrated-lung-diagnostics-facility",
-        "anchor_text": "Cipla launches Mumbai’s first Breathefree Lung Wellness Center, India’s Most  Advanced Integrated Lung Diagnostics Facility",
-        "score": 132
-      },
-      {
-        "url": "https://www.cipla.com/press-releases-statements/cipla-expands-us-respiratory-portfolio-approval-nintedanib-capsules-100mg",
-        "anchor_text": "Cipla Expands U.S. Respiratory Portfolio with Approval of Nintedanib Capsules (100mg & 150mg) for Idiopathic Pulmonary Fibrosis",
-        "score": 114
-      },
-      {
-        "url": "https://www.cipla.com/press-releases-statements/cipla-partners-immunoact-launch-talicabtagene-autoleucel-anti-cd19-car-t",
-        "anchor_text": "Cipla partners with ImmunoACT to launch talicabtagene autoleucel, an anti-CD19 CAR-T cell therapy for blood cancers in Africa",
-        "score": 113
-      },
-      {
-        "url": "https://www.cipla.com/press-releases-statements/cipla-foundation-partners-tata-iisc-medical-school-set-centre-pulmonary",
-        "anchor_text": "Cipla Foundation partners with Tata IISc Medical School to set up Centre for Pulmonary Medicine to Advance Respiratory Care & Research",
-        "score": 112
-      },
-      {
-        "url": "https://www.cipla.com/press-releases-statements/cipla-receives-us-fda-approval-first-ab-rated-generic-ventolinr-hfa",
-        "anchor_text": "Cipla Receives U.S. FDA Approval for First AB-Rated Generic of Ventolin®  HFA",
-        "score": 108
-      },
-      {
-        "url": "https://www.cipla.com/press-releases-statements/cipla-strengthens-us-portfolio-launch-generic-saxendar-liraglutide",
-        "anchor_text": "Cipla strengthens US portfolio with the launch of generic Saxenda® (Liraglutide Injection) for weight management therapy",
-        "score": 107
-      },
-      {
-        "url": "https://www.cipla.com/press-releases-statements/cipla-celebrates-90-years-commemorative-amar-chitra-katha-comic",
-        "anchor_text": "Cipla celebrates 90 years with commemorative  Amar Chitra Katha comic",
-        "score": 104
-      },
-      {
-        "url": "https://www.cipla.com/sustainability/accelerating-community-wellbeing/community-wellbeing-initiatives",
-        "anchor_text": "Community Initiatives",
-        "score": 96
-      },
-      {
-        "url": "https://www.cipla.com/sustainability/accelerating-community-wellbeing/employees-wellbeing-initiatives",
-        "anchor_text": "Employee Initiatives",
-        "score": 96
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory/paediatric-asthma",
-        "anchor_text": "Paediatric Asthma",
-        "score": 76
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory/nebulization",
-        "anchor_text": "Nebulization",
-        "score": 71
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory/asthma",
-        "anchor_text": "Asthma",
-        "score": 65
-      },
-      {
-        "url": "https://www.cipla.com/sustainability/enhancing-access-and-affordability",
-        "anchor_text": "Enhancing Access and Affordability",
-        "score": 64
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory/copd",
-        "anchor_text": "COPD",
-        "score": 63
-      },
-      {
-        "url": "https://www.cipla.com/sustainability/accelerating-community-wellbeing",
-        "anchor_text": "Accelerated Community Well-being",
-        "score": 62
-      },
-      {
-        "url": "https://www.cipla.com/about-us/board-directors/committees-board-old",
-        "anchor_text": "Committees of the Board",
-        "score": 62
-      },
-      {
-        "url": "https://www.cipla.com/sustainability/championing-climate-positivity",
-        "anchor_text": "Championing Climate Positivity",
-        "score": 60
-      },
-      {
-        "url": "https://www.cipla.com/about-us/board-directors/committees-board",
-        "anchor_text": "Committees of Board",
-        "score": 58
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory",
-        "anchor_text": "Respiratory",
-        "score": 56
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/cipla-generics/cipcal_500",
-        "anchor_text": "Cipcal",
-        "score": 56
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/cipla-generics/easylax-l",
-        "anchor_text": "Easylax-L",
-        "score": 55
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/our-therapies/hiv-aids",
-        "anchor_text": "HIV/AIDS",
-        "score": 53
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/our-therapies/oncology",
-        "anchor_text": "Oncology",
-        "score": 53
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/cipla-generics/easylax",
-        "anchor_text": "Easylax",
-        "score": 53
-      },
-      {
-        "url": "https://www.cipla.com/about-us/cipla-archive/dr-yk-hamied",
-        "anchor_text": "Scientist with a Heart- Dr. Y K Hamied",
-        "score": 52
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/cipla-generics/cipcal",
-        "anchor_text": "Cipcal",
-        "score": 52
-      },
-      {
-        "url": "https://www.cipla.com/sustainability/raising-bar-governance",
-        "anchor_text": "Raising the Bar on Governance",
-        "score": 52
-      },
-      {
-        "url": "https://www.cipla.com/about-us/90-years-of-caring-for-life",
-        "anchor_text": "90 years of caring for life",
-        "score": 51
-      },
-      {
-        "url": "https://www.cipla.com/investors/intimation-stock-exchanges",
-        "anchor_text": "Intimation to stock Exchanges",
-        "score": 51
-      },
-      {
-        "url": "https://www.cipla.com/disclosures-under-regulation-46-lodr",
-        "anchor_text": "Disclosure under regulation 46 of SEBI",
-        "score": 49
-      },
-      {
-        "url": "https://www.cipla.com/about-us/milestones-and-awards-old",
-        "anchor_text": "Milestones and Awards",
-        "score": 49
-      },
-      {
-        "url": "https://www.cipla.com/board-directors/committees-board",
-        "anchor_text": "CSR Committee",
-        "score": 47
-      },
-      {
-        "url": "https://www.cipla.com/investors/investor-presentation",
-        "anchor_text": "Investor Presentation",
-        "score": 46
-      },
-      {
-        "url": "https://www.cipla.com/about-us/management-council-old",
-        "anchor_text": "Management Council",
-        "score": 46
-      },
-      {
-        "url": "https://www.cipla.com/about-us/milestones-and-awards",
-        "anchor_text": "Milestones and Awards",
-        "score": 45
-      },
-      {
-        "url": "https://www.cipla.com/investors/corporate-governance",
-        "anchor_text": "Corporate Governance",
-        "score": 45
-      },
-      {
-        "url": "https://www.cipla.com/investors/shareholding-pattern",
-        "anchor_text": "Shareholding Pattern",
-        "score": 45
-      },
-      {
-        "url": "https://www.cipla.com/caution-notice-recruitment-fraud",
-        "anchor_text": "Caution Notice - \"Recruitment Fraud\"",
-        "score": 45
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/cipla-generics",
-        "anchor_text": "Cipla Generics",
-        "score": 43
-      },
-      {
-        "url": "https://www.cipla.com/investors/scheme-arrangement",
-        "anchor_text": "Scheme of Arrangement",
-        "score": 43
-      },
-      {
-        "url": "https://www.cipla.com/investors/investor-resources",
-        "anchor_text": "Investor Resources",
-        "score": 43
-      },
-      {
-        "url": "https://www.cipla.com/media-centre/media-releases#main-content",
-        "anchor_text": "Skip to main content",
-        "score": 42
-      },
-      {
-        "url": "https://www.cipla.com/media-centre/media-releases",
-        "anchor_text": "×",
-        "score": 42
-      },
-      {
-        "url": "https://www.cipla.com/about-us/management-council",
-        "anchor_text": "Management Council",
-        "score": 42
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/our-therapies",
-        "anchor_text": "Other Therapies",
-        "score": 42
-      },
-      {
-        "url": "https://www.cipla.com/investors/quarterly-results",
-        "anchor_text": "Quarterly Results",
-        "score": 42
-      },
-      {
-        "url": "https://www.cipla.com/investors/investor-contacts",
-        "anchor_text": "Investor Contact",
-        "score": 42
-      },
-      {
-        "url": "https://www.cipla.com/careers/inclusion-diversity",
-        "anchor_text": "Diversity & Inclusion",
-        "score": 42
-      },
-      {
-        "url": "https://www.cipla.com/about-us/onecipla-credo-old",
-        "anchor_text": "Our Credo",
-        "score": 42
-      },
-      {
-        "url": "https://www.cipla.com/careers/business-functions",
-        "anchor_text": "Business Functions",
-        "score": 41
-      },
-      {
-        "url": "https://www.cipla.com/careers/holistic-wellbeing",
-        "anchor_text": "Holistic Wellbeing",
-        "score": 41
-      },
-      {
-        "url": "https://www.cipla.com/about-us/cipla-archive-old",
-        "anchor_text": "Our History - Cipla Archives",
-        "score": 41
-      },
-      {
-        "url": "https://www.cipla.com/chatbot-api-terms-conditions",
-        "anchor_text": "Terms & Condition",
-        "score": 41
-      },
-      {
-        "url": "https://www.cipla.com/about-us/code-conduct-old",
-        "anchor_text": "Code of Conduct",
-        "score": 40
-      },
-      {
-        "url": "https://www.cipla.com/about-us/board-directors",
-        "anchor_text": "Board of Directors",
-        "score": 39
-      },
-      {
-        "url": "https://www.cipla.com/investors/annual-reports",
-        "anchor_text": "Annual Reports",
-        "score": 39
-      },
-      {
-        "url": "https://www.cipla.com/investors/unclaimed-data",
-        "anchor_text": "Unclaimed Data",
-        "score": 39
-      },
-      {
-        "url": "https://www.cipla.com/careers/cipla-university",
-        "anchor_text": "Cipla University",
-        "score": 39
-      },
-      {
-        "url": "https://www.cipla.com/chatbot-api-privacy-policy",
-        "anchor_text": "Privacy Policy",
-        "score": 39
-      },
-      {
-        "url": "https://www.cipla.com/about-us/onecipla-credo",
-        "anchor_text": "Our Credo",
-        "score": 38
-      },
-      {
-        "url": "https://www.cipla.com/legacy-of-care-comic-book",
-        "anchor_text": "Legacy of Care | Comic Book",
-        "score": 38
-      },
-      {
-        "url": "https://www.cipla.com/cipla-launches-ciposcillo",
-        "anchor_text": "Cipla launches Ciposcillo® – A next-generation oscillometer  device for respiratory diagnostics",
-        "score": 38
-      },
-      {
-        "url": "https://www.cipla.com/about-us/manufacturing",
-        "anchor_text": "Manufacturing",
-        "score": 37
-      },
-      {
-        "url": "https://www.cipla.com/about-us/cipla-archive",
-        "anchor_text": "Our History - Cipla Archives",
-        "score": 37
-      },
-      {
-        "url": "https://www.cipla.com/our-presence/australia",
-        "anchor_text": "Australia",
-        "score": 37
-      },
-      {
-        "url": "https://www.cipla.com/chatbot-api-terms-of-use",
-        "anchor_text": "Terms of Use",
-        "score": 37
-      },
-      {
-        "url": "https://www.cipla.com/about-us/code-conduct",
-        "anchor_text": "Code of Conduct",
-        "score": 36
-      },
-      {
-        "url": "https://www.cipla.com/careers/life-at-cipla",
-        "anchor_text": "Life at Cipla",
-        "score": 36
-      },
-      {
-        "url": "https://www.cipla.com/csr/cipla-foundation",
-        "anchor_text": "CSR-Cipla Foundation",
-        "score": 35
-      },
-      {
-        "url": "https://www.cipla.com/about-us/quality-old",
-        "anchor_text": "Quality",
-        "score": 35
-      },
-      {
-        "url": "https://www.cipla.com/chatbot-api-disclaimer",
-        "anchor_text": "Disclaimer",
-        "score": 35
-      },
-      {
-        "url": "https://www.cipla.com/our-presence/brazil",
-        "anchor_text": "Brazil",
-        "score": 34
-      },
-      {
-        "url": "https://www.cipla.com/our-presence/europe",
-        "anchor_text": "Europe",
-        "score": 34
-      },
-      {
-        "url": "https://www.cipla.com/our-presence/uganda",
-        "anchor_text": "Uganda",
-        "score": 34
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/api",
-        "anchor_text": "API",
-        "score": 32
-      },
-      {
-        "url": "https://www.cipla.com/media-centre/news",
-        "anchor_text": "In the News",
-        "score": 32
-      },
-      {
-        "url": "https://www.cipla.com/about-us/quality",
-        "anchor_text": "Quality",
-        "score": 31
-      },
-      {
-        "url": "https://www.cipla.com/cipla-diagnostics",
-        "anchor_text": "Cipla Diagnostics",
-        "score": 30
-      },
-      {
-        "url": "https://www.cipla.com/cipla-malaysia",
-        "anchor_text": "Malaysia",
-        "score": 27
-      },
-      {
-        "url": "https://www.cipla.com/cipla-srilanka",
-        "anchor_text": "Sri Lanka",
-        "score": 27
-      },
-      {
-        "url": "https://www.cipla.com/privacy-policy",
-        "anchor_text": "Privacy Policy",
-        "score": 27
-      },
-      {
-        "url": "https://www.cipla.com/cipla-morocco",
-        "anchor_text": "Morocco",
-        "score": 26
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings",
-        "anchor_text": "Our Offerings",
-        "score": 26
-      },
-      {
-        "url": "https://www.cipla.com/about-us-old",
-        "anchor_text": "Cipla At a Glance",
-        "score": 25
-      },
-      {
-        "url": "https://www.cipla.com/investors/disclaimer",
-        "anchor_text": "Disclaimer",
-        "score": 25
-      },
-      {
-        "url": "https://www.cipla.com/media-centre",
-        "anchor_text": "Media Center",
-        "score": 25
-      },
-      {
-        "url": "https://www.cipla.com/cipla-nepal",
-        "anchor_text": "Nepal",
-        "score": 24
-      },
-      {
-        "url": "https://www.cipla.com/covid-care",
-        "anchor_text": "Covid Care",
-        "score": 23
-      },
-      {
-        "url": "https://www.cipla.com/contact-us",
-        "anchor_text": "Contact Us",
-        "score": 23
-      },
-      {
-        "url": "https://www.cipla.com/cipla-amr",
-        "anchor_text": "AMR",
-        "score": 22
-      },
-      {
-        "url": "https://www.cipla.com/about-us",
-        "anchor_text": "About Us",
-        "score": 21
-      },
-      {
-        "url": "https://www.cipla.com/sustainability",
-        "anchor_text": "Sustainability",
-        "score": 17
-      },
-      {
-        "url": "https://www.cipla.com/dsafe.html",
-        "anchor_text": "Drug Safety Reporting",
-        "score": 13
-      },
-      {
-        "url": "https://www.cipla.com/investors",
-        "anchor_text": "Investors",
-        "score": 12
-      },
-      {
-        "url": "https://www.cipla.com/careers",
-        "anchor_text": "Careers",
-        "score": 10
-      },
-      {
-        "url": "https://www.cipla.com/sitemap",
-        "anchor_text": "Sitemap",
-        "score": 10
-      },
-      {
-        "url": "https://www.cipla.com/",
-        "anchor_text": "Our Presence",
-        "score": 3
-      }
-    ]
-  },
-  {
     "company": "Aurobindo Pharma",
     "press_url": "https://www.aurobindo.com/media/press-releases",
     "candidate_links": [
@@ -26485,11 +25878,6 @@
         "score": 121
       },
       {
-        "url": "https://www.lupin.com/media/perspectives/investing-in-prevention-pharma-and-39-s-strategic-shift-toward-proactive-healthcare",
-        "anchor_text": "January 28, 2026Investing in Prevention: Pharma's Strategic Shift Toward Proactive Healthcare",
-        "score": 119
-      },
-      {
         "url": "https://www.lupin.com/media/press-releases/lupin-foundation-inaugurates-two-ncd-corners-in-karauli-and-hindaun-rajasthan",
         "anchor_text": "Lupin Foundation Inaugurates Two NCD Corners in Karauli and Hindaun, Rajasthan",
         "score": 115
@@ -26515,11 +25903,6 @@
         "score": 109
       },
       {
-        "url": "https://www.lupin.com/media/press-releases/lupin-receives-tentative-approval-from-u-s-fda-for-pitolisant-tablets",
-        "anchor_text": "Lupin Receives Tentative Approval from U.S. FDA for Pitolisant Tablets",
-        "score": 107
-      },
-      {
         "url": "https://www.lupin.com/media/perspectives/why-continuous-learning-is-the-lifeblood-of-the-pharmaceutical-industry",
         "anchor_text": "April 16, 2026Why continuous learning is the lifeblood of the pharmaceutical industry",
         "score": 107
@@ -26537,6 +25920,11 @@
       {
         "url": "https://www.lupin.com/media/press-releases/lupin-launches-dapagliflozin-tablets-in-the-united-states",
         "anchor_text": "Lupin Launches Dapagliflozin Tablets in the United States",
+        "score": 95
+      },
+      {
+        "url": "https://www.lupin.com/media/perspectives/the-intergenerational-impact-of-investing-in-women-s-health",
+        "anchor_text": "May 8, 2026The Intergenerational Impact of Investing in Women’s Health",
         "score": 95
       },
       {
@@ -26563,6 +25951,11 @@
         "url": "https://www.lupin.com/investors/disclosure-under-regulation-46-of-sebi-regulations-2015",
         "anchor_text": "Disclosure under Regulation 46 of SEBI (LODR) Regulations, 2015",
         "score": 80
+      },
+      {
+        "url": "https://www.lupin.com/media/press-releases/lupin-fy-2026-and-q4-fy-2026-results",
+        "anchor_text": "Lupin FY2026 and Q4 FY2026 Results",
+        "score": 74
       },
       {
         "url": "https://www.lupin.com/investors/employee-stock-option-schemes",
@@ -27649,11 +27042,6 @@
         "score": 249
       },
       {
-        "url": "https://newsroom.viatris.com/2026-02-25-FDA-Accepts-Viatris-Supplemental-New-Drug-Application-for-MR-141-Phentolamine-Ophthalmic-Solution-0-75-for-the-Treatment-of-Presbyopia",
-        "anchor_text": "",
-        "score": 158
-      },
-      {
         "url": "https://newsroom.viatris.com/2026-04-10-Viatris-Announces-Multiple-Data-Presentations-at-the-2026-American-Society-of-Cataract-and-Refractive-Surgery-Annual-Meeting",
         "anchor_text": "",
         "score": 148
@@ -27669,9 +27057,9 @@
         "score": 108
       },
       {
-        "url": "https://newsroom.viatris.com/2026-02-26-Viatris-Maintains-Dividend-Policy-for-2026-and-Announces-Quarterly-Dividend",
+        "url": "https://newsroom.viatris.com/2026-05-07-Viatris-to-Present-at-the-Bank-of-America-Securities-2026-Healthcare-Conference",
         "anchor_text": "",
-        "score": 99
+        "score": 103
       },
       {
         "url": "https://newsroom.viatris.com/2026-04-13-Viatris-to-Report-First-Quarter-2026-Financial-Results-on-May-7,-2026",
@@ -27687,6 +27075,16 @@
         "url": "https://newsroom.viatris.com/2026-02-26-Viatris-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results#assets_2429_123903-140",
         "anchor_text": "Photos2",
         "score": 91
+      },
+      {
+        "url": "https://newsroom.viatris.com/2026-05-07-Viatris-Reports-First-Quarter-2026-Financial-Results",
+        "anchor_text": "",
+        "score": 76
+      },
+      {
+        "url": "https://newsroom.viatris.com/2026-05-07-Viatris-Reports-First-Quarter-2026-Financial-Results#assets_2429_123914-140",
+        "anchor_text": "Photos2",
+        "score": 76
       },
       {
         "url": "https://newsroom.viatris.com/2026-05-04-Viatris-Announces-Chief-Financial-Officer-Transition",
@@ -27794,8 +27192,8 @@
         "score": 27
       },
       {
-        "url": "https://newsroom.viatris.com/press-releases?o=200",
-        "anchor_text": "21",
+        "url": "https://newsroom.viatris.com/press-releases?o=210",
+        "anchor_text": "22",
         "score": 27
       },
       {
@@ -29327,11 +28725,6 @@
         "score": 52
       },
       {
-        "url": "https://www.wuxibiologics.com/capabilities/integrated-discovery/",
-        "anchor_text": "Learn more",
-        "score": 51
-      },
-      {
         "url": "https://www.wuxibiologics.com/capabilities/center-of-excellence/",
         "anchor_text": "Learn more",
         "score": 51
@@ -29777,17 +29170,17 @@
         "score": 8
       },
       {
-        "url": "https://www.wuxibiologics.com/media#mm-77",
+        "url": "https://www.wuxibiologics.com/media#mm-76",
         "anchor_text": "",
         "score": 8
       },
       {
-        "url": "https://www.wuxibiologics.com/media#mm-79",
+        "url": "https://www.wuxibiologics.com/media#mm-78",
         "anchor_text": "",
         "score": 8
       },
       {
-        "url": "https://www.wuxibiologics.com/media#mm-83",
+        "url": "https://www.wuxibiologics.com/media#mm-82",
         "anchor_text": "",
         "score": 8
       },
@@ -29797,7 +29190,7 @@
         "score": 8
       },
       {
-        "url": "https://www.wuxibiologics.com/media#mm-85",
+        "url": "https://www.wuxibiologics.com/media#mm-84",
         "anchor_text": "",
         "score": 8
       },
@@ -29822,12 +29215,12 @@
         "score": 8
       },
       {
-        "url": "https://www.wuxibiologics.com/media#mm-49",
+        "url": "https://www.wuxibiologics.com/media#mm-48",
         "anchor_text": "",
         "score": 8
       },
       {
-        "url": "https://www.wuxibiologics.com/media#mm-55",
+        "url": "https://www.wuxibiologics.com/media#mm-54",
         "anchor_text": "",
         "score": 8
       },
@@ -29912,17 +29305,17 @@
         "score": 8
       },
       {
-        "url": "https://www.wuxibiologics.com/media#mm-29",
+        "url": "https://www.wuxibiologics.com/media#mm-28",
         "anchor_text": "",
         "score": 8
       },
       {
-        "url": "https://www.wuxibiologics.com/media#mm-39",
+        "url": "https://www.wuxibiologics.com/media#mm-38",
         "anchor_text": "",
         "score": 8
       },
       {
-        "url": "https://www.wuxibiologics.com/media#mm-44",
+        "url": "https://www.wuxibiologics.com/media#mm-43",
         "anchor_text": "",
         "score": 8
       },
@@ -29952,7 +29345,7 @@
         "score": 8
       },
       {
-        "url": "https://www.wuxibiologics.com/media#mm-28",
+        "url": "https://www.wuxibiologics.com/media#mm-29",
         "anchor_text": "",
         "score": 8
       },
@@ -29997,7 +29390,7 @@
         "score": 8
       },
       {
-        "url": "https://www.wuxibiologics.com/media#mm-38",
+        "url": "https://www.wuxibiologics.com/media#mm-39",
         "anchor_text": "",
         "score": 8
       },
@@ -30017,7 +29410,7 @@
         "score": 8
       },
       {
-        "url": "https://www.wuxibiologics.com/media#mm-43",
+        "url": "https://www.wuxibiologics.com/media#mm-44",
         "anchor_text": "",
         "score": 8
       },
@@ -30037,7 +29430,7 @@
         "score": 8
       },
       {
-        "url": "https://www.wuxibiologics.com/media#mm-48",
+        "url": "https://www.wuxibiologics.com/media#mm-49",
         "anchor_text": "",
         "score": 8
       },
@@ -30062,32 +29455,32 @@
         "score": 8
       },
       {
-        "url": "https://www.wuxibiologics.com/media#mm-54",
+        "url": "https://www.wuxibiologics.com/media#mm-55",
+        "anchor_text": "",
+        "score": 8
+      },
+      {
+        "url": "https://www.wuxibiologics.com/media#mm-59",
+        "anchor_text": "",
+        "score": 8
+      },
+      {
+        "url": "https://www.wuxibiologics.com/media#mm-62",
+        "anchor_text": "",
+        "score": 8
+      },
+      {
+        "url": "https://www.wuxibiologics.com/media#mm-69",
+        "anchor_text": "",
+        "score": 8
+      },
+      {
+        "url": "https://www.wuxibiologics.com/media#mm-74",
         "anchor_text": "",
         "score": 8
       },
       {
         "url": "https://www.wuxibiologics.com/media#mm-56",
-        "anchor_text": "",
-        "score": 8
-      },
-      {
-        "url": "https://www.wuxibiologics.com/media#mm-60",
-        "anchor_text": "",
-        "score": 8
-      },
-      {
-        "url": "https://www.wuxibiologics.com/media#mm-63",
-        "anchor_text": "",
-        "score": 8
-      },
-      {
-        "url": "https://www.wuxibiologics.com/media#mm-70",
-        "anchor_text": "",
-        "score": 8
-      },
-      {
-        "url": "https://www.wuxibiologics.com/media#mm-75",
         "anchor_text": "",
         "score": 8
       },
@@ -30102,7 +29495,7 @@
         "score": 8
       },
       {
-        "url": "https://www.wuxibiologics.com/media#mm-59",
+        "url": "https://www.wuxibiologics.com/media#mm-60",
         "anchor_text": "",
         "score": 8
       },
@@ -30112,7 +29505,7 @@
         "score": 8
       },
       {
-        "url": "https://www.wuxibiologics.com/media#mm-62",
+        "url": "https://www.wuxibiologics.com/media#mm-63",
         "anchor_text": "",
         "score": 8
       },
@@ -30142,7 +29535,7 @@
         "score": 8
       },
       {
-        "url": "https://www.wuxibiologics.com/media#mm-69",
+        "url": "https://www.wuxibiologics.com/media#mm-70",
         "anchor_text": "",
         "score": 8
       },
@@ -30162,17 +29555,17 @@
         "score": 8
       },
       {
-        "url": "https://www.wuxibiologics.com/media#mm-74",
+        "url": "https://www.wuxibiologics.com/media#mm-75",
         "anchor_text": "",
         "score": 8
       },
       {
-        "url": "https://www.wuxibiologics.com/media#mm-76",
+        "url": "https://www.wuxibiologics.com/media#mm-77",
         "anchor_text": "",
         "score": 8
       },
       {
-        "url": "https://www.wuxibiologics.com/media#mm-78",
+        "url": "https://www.wuxibiologics.com/media#mm-79",
         "anchor_text": "",
         "score": 8
       },
@@ -30187,12 +29580,7 @@
         "score": 8
       },
       {
-        "url": "https://www.wuxibiologics.com/media#mm-82",
-        "anchor_text": "",
-        "score": 8
-      },
-      {
-        "url": "https://www.wuxibiologics.com/media#mm-84",
+        "url": "https://www.wuxibiologics.com/media#mm-83",
         "anchor_text": "",
         "score": 8
       },
@@ -31244,11 +30632,6 @@
         "score": 147
       },
       {
-        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-introduces-ai-powered-real-world-data-platform-aws-and.html",
-        "anchor_text": "Labcorp Introduces AI-Powered Real-World Data Platform with AWS and Datavant to Accelerate Alzheimer's Research",
-        "score": 146
-      },
-      {
         "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/drug-discovery-trends-labcorp-expands-tools-speed-cancer-drug-trials.html",
         "anchor_text": "Read moreRead More about Drug Discovery Trends: Labcorp Expands Tools to Speed Up Cancer Drug Trials",
         "score": 146
@@ -31292,6 +30675,11 @@
         "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/360dx-labcorp-leads-us-adoption-roches-automated-mass-spec-system.html",
         "anchor_text": "Read moreRead More about 360Dx: Labcorp Leads U.S. Adoption of Roche’s Automated Mass Spec System",
         "score": 143
+      },
+      {
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-publishes-2025-corporate-responsibility-report.html",
+        "anchor_text": "Labcorp Publishes 2025 Corporate Responsibility Report, Highlighting Progress in Sustainability, Access to Care and Employee Well-Being",
+        "score": 138
       },
       {
         "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/heart-disease-prevention-fresh-strategies-heart-health-2026.html",
@@ -31511,6 +30899,11 @@
       {
         "url": "https://www.labcorp.com/modalities/vaccines/assays",
         "anchor_text": "Vaccines",
+        "score": 33
+      },
+      {
+        "url": "https://www.labcorp.com/terms-and-conditions",
+        "anchor_text": "Terms and Conditions",
         "score": 33
       },
       {
@@ -32001,9 +31394,9 @@
     "press_url": "https://www.dnanexus.com/press",
     "candidate_links": [
       {
-        "url": "https://www.dnanexus.com/press/enhances-leadership-to-fuel-ai-innovation-and-biopharma-expansion",
+        "url": "https://www.dnanexus.com/press/dnanexus-wins-medtech-breakthroughs-pharmatech-innovation-award",
         "anchor_text": "Read More",
-        "score": 86
+        "score": 84
       },
       {
         "url": "https://www.dnanexus.com/press/frost-sullivans-2025-technology-innovation-leadership-award?utm_campaign=Frost%20%26%20Sullivan%20Award&utm_content=352575891&utm_medium=social&utm_source=linkedin&hss_channel=lcp-912957",
@@ -32324,6 +31717,11 @@
       {
         "url": "https://www.tempus.com/life-sciences/algorithmic-tests/",
         "anchor_text": "AI-enabled Algorithms",
+        "score": 49
+      },
+      {
+        "url": "https://www.tempus.com/life-sciences/foundation-models/",
+        "anchor_text": "Foundation Models",
         "score": 49
       },
       {
@@ -32748,6 +32146,11 @@
         "score": 191
       },
       {
+        "url": "https://investors.guardanthealth.com/press-releases/press-releases/2026/Guardant-Health-Reports-First-Quarter-2026-Financial-Results-and-Increases-2026-Revenue-Guidance/default.aspx",
+        "anchor_text": "Continue Reading",
+        "score": 190
+      },
+      {
         "url": "https://investors.guardanthealth.com/press-releases/press-releases/2026/Guardant-Health-Announces-Preliminary-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx",
         "anchor_text": "Continue Reading",
         "score": 173
@@ -33148,6 +32551,11 @@
       {
         "url": "https://www.gehealthcare.com/en-us/products/ultrasound-developer-program",
         "anchor_text": "Ultrasound Developer Program",
+        "score": 60
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/software/genesis-solutions",
+        "anchor_text": "Genesis Solutions",
         "score": 60
       },
       {
@@ -34348,7 +33756,7 @@
       },
       {
         "url": "https://www.siemens-healthineers.com/",
-        "anchor_text": "Healthcare professionals",
+        "anchor_text": "Home",
         "score": 3
       }
     ]
@@ -35823,6 +35231,11 @@
         "score": 135
       },
       {
+        "url": "https://www.stryker.com/us/en/about/news/2026/stryker-completes-acquisition-of-amplitude-vascular-systems.html",
+        "anchor_text": "Read More",
+        "score": 134
+      },
+      {
         "url": "https://www.stryker.com/us/en/about/news/2025/stryker-launches-incompass-total-ankle-system-at-aofas-2025.html",
         "anchor_text": "Read More",
         "score": 134
@@ -35849,11 +35262,6 @@
       },
       {
         "url": "https://www.stryker.com/us/en/about/news/2020/stryker-is-a-gallup-exceptional-workplace-for-the-13th-year.html",
-        "anchor_text": "Read More",
-        "score": 134
-      },
-      {
-        "url": "https://www.stryker.com/us/en/about/news/2019/watch-kevin-lobo--chairman-and-ceo--on-fox-business-network.html",
         "anchor_text": "Read More",
         "score": 134
       }
@@ -37585,14 +36993,14 @@
         "score": 136
       },
       {
+        "url": "https://www.carislifesciences.com/about/news-and-media/caris-submits-application-to-nysdoh-for-caris-assure-blood-based-testing-authorization/",
+        "anchor_text": "Read more: Caris Life Sciences Submits Application to New York State Department of Health for Caris Assure Blood Based Testing Authorization",
+        "score": 127
+      },
+      {
         "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-to-report-first-quarter-2026-financial-results-on-may-7-2026/",
         "anchor_text": "Read more: Caris Life Sciences to Report First Quarter 2026 Financial Results on May 7, 2026",
         "score": 121
-      },
-      {
-        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-introduces-ai-powered-molecular-insights-for-nsclc-patients/",
-        "anchor_text": "Read more: Caris Life Sciences Introduces Multimodal AI-Powered Molecular Insight to Identify the Benefit or Harm from the Addition of Chemotherapy for NSCLC Patients",
-        "score": 120
       },
       {
         "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-to-present-at-bofa-and-goldman-sachs-conferences/",
@@ -37600,14 +37008,14 @@
         "score": 109
       },
       {
+        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-reports-first-quarter-2026-financial-results/",
+        "anchor_text": "Read more: Caris Life Sciences Reports First Quarter 2026 Financial Results",
+        "score": 105
+      },
+      {
         "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-receives-moldx-approval-for-caris-chromoseq/",
         "anchor_text": "Read more: Caris Life Sciences Receives MolDX Approval for Caris ChromoSeq, Advancing Access to Comprehensive Genomic Profiling for Myeloid Malignancies",
         "score": 104
-      },
-      {
-        "url": "https://www.carislifesciences.com/about/news-and-media/caris-rit-clinical-trial-solutions-expands-access/",
-        "anchor_text": "Read more: Caris Life Sciences Right-In-Time Clinical Trial Solution Expands Access to Precision Oncology Trials for Historically Underserved Cancer Patients",
-        "score": 90
       },
       {
         "url": "https://www.carislifesciences.com/privacy-website-policies/do-not-sell-or-share-my-personal-information/",
@@ -39384,7 +38792,7 @@
       },
       {
         "url": "https://www.roche.com/investors/bonds",
-        "anchor_text": "Share price323.80CHF+ 1.90(+0.59%)Today",
+        "anchor_text": "Share price315.30CHF- 3.00(-0.94%)Today",
         "score": 20
       },
       {
@@ -39870,7 +39278,7 @@
       },
       {
         "url": "https://www.astrazeneca.com/media-centre/press-releases.html",
-        "anchor_text": "Set Preferences",
+        "anchor_text": "Select Preferences",
         "score": 47
       },
       {
@@ -40080,6 +39488,11 @@
         "score": 192
       },
       {
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-launches-generation-fine-a-new-movement-encouraging-patients-to-expect-more-from-depression-treatment-and-aim-for-remission",
+        "anchor_text": "Read more",
+        "score": 184
+      },
+      {
         "url": "https://www.jnj.com/media-center/press-releases/caplyta-lumateperone-showed-greatest-improvement-across-key-efficacy-outcomes-among-adjunctive-mdd-treatments-in-new-network-meta-analysis",
         "anchor_text": "Read more",
         "score": 183
@@ -40088,11 +39501,6 @@
         "url": "https://www.jnj.com/media-center/press-releases/promising-data-from-us-pilot-study-shows-planned-impella-5-5-use-is-safe-and-feasible-in-non-shock-high-risk-cardiac-surgery-patients",
         "anchor_text": "Read more",
         "score": 178
-      },
-      {
-        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-ushers-in-the-next-wave-of-innovation-in-cancer-care-with-more-than-20-clinical-and-real-world-studies-at-asco-2026",
-        "anchor_text": "Read more",
-        "score": 176
       },
       {
         "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-pivotal-clinical-study-results-for-a-new-soft-tissue-surgical-robotic-system",
@@ -41198,11 +40606,6 @@
         "score": 165
       },
       {
-        "url": "https://www.gilead.com/news/news-details/2026/gilead-sciences-to-release-first-quarter-2026-financial-results-on-thursday-may-7-2026",
-        "anchor_text": "April 22, 2026Gilead Sciences to Release First Quarter 2026 Financial Results on Thursday, May 7, 2026",
-        "score": 153
-      },
-      {
         "url": "https://www.gilead.com/responsibility/giving-at-gilead/corporate-giving/strategic-initiatives/toward-health-equity-for-black-people-impacted-by-tnbc",
         "anchor_text": "Toward Health Equity for Black People Impacted by TNBC",
         "score": 146
@@ -41236,6 +40639,11 @@
         "url": "https://www.gilead.com/responsibility/giving-at-gilead/corporate-giving/strategic-initiatives/zeroing-in-ending-the-hiv-epidemic",
         "anchor_text": "Zeroing In: Ending the HIV Epidemic",
         "score": 126
+      },
+      {
+        "url": "https://www.gilead.com/news/news-details/2026/gilead-sciences-announces-first-quarter-financial-results",
+        "anchor_text": "May 7, 2026Gilead Sciences Announces First Quarter Financial Results",
+        "score": 124
       },
       {
         "url": "https://www.gilead.com/science/research/research-funding-programs/external-sponsored-research/inflammation-rfp-opportunities",
@@ -42109,11 +41517,6 @@
         "score": 63
       },
       {
-        "url": "https://www.daiichisankyo.com/about_us/mission-strength/vision/mid_term/",
-        "anchor_text": "5-Year Business Plan",
-        "score": 63
-      },
-      {
         "url": "https://www.daiichisankyo.com/sustainability/corporate_citizenship/disaster_relief/",
         "anchor_text": "Disaster & Emergency Relief Support",
         "score": 62
@@ -42240,7 +41643,7 @@
       },
       {
         "url": "https://www.daiichisankyo.com/about_us/mission-strength/vision/",
-        "anchor_text": "Mission & Values",
+        "anchor_text": "Mission, Vision & Values",
         "score": 52
       },
       {
@@ -43551,6 +42954,11 @@
       {
         "url": "https://www.daiichisankyo.com/media/press_release/detail/index_3351.html",
         "anchor_text": "Daiichi Sankyo, Inc. and Inspirion Delivery Sciences LLC Announce Plans for Commercialization of RoxyBond™ (oxycodone hydrochloride) Tablets CII in the U.S.",
+        "score": 51
+      },
+      {
+        "url": "https://www.daiichisankyo.com/media/press_release/detail/index_3353.html",
+        "anchor_text": "Differences Between Consolidated Results for Fiscal 2016 and Fiscal 2015",
         "score": 51
       }
     ]
@@ -46114,7 +45522,7 @@
       },
       {
         "url": "https://crisprtx.com/about-us/privacy-policy",
-        "anchor_text": "privacy policy",
+        "anchor_text": "Privacy & cookie policy",
         "score": 38
       },
       {
@@ -46310,6 +45718,11 @@
         "score": 27
       },
       {
+        "url": "https://investors.alnylam.com/press-release?id=29831",
+        "anchor_text": "Alnylam to Webcast Presentations at Upcoming Investor Conferences",
+        "score": 26
+      },
+      {
         "url": "https://investors.alnylam.com/press-release?id=29821",
         "anchor_text": "Alnylam to Present New Analyses at Heart Failure 2026 Underscoring Consistent Clinical Profile of Vutrisiran in ATTR-CM",
         "score": 26
@@ -46352,11 +45765,6 @@
       {
         "url": "https://investors.alnylam.com/press-release?id=29536",
         "anchor_text": "Alnylam to Webcast Conference Call Discussing Fourth Quarter and Full Year 2025 Financial Results",
-        "score": 26
-      },
-      {
-        "url": "https://investors.alnylam.com/press-release?id=29491",
-        "anchor_text": "Alnylam Launches “Alnylam 2030” Strategy to Drive Next Era of Growth and Patient Impact",
         "score": 26
       },
       {
@@ -47072,11 +46480,6 @@
         "score": 28
       },
       {
-        "url": "https://www.immunocore.com/privacy-policy",
-        "anchor_text": "Privacy Policy",
-        "score": 27
-      },
-      {
         "url": "https://www.immunocore.com/science/publications",
         "anchor_text": "Publications",
         "score": 25
@@ -47698,9 +47101,9 @@
     "press_url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases",
     "candidate_links": [
       {
-        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-announces-publication-of-its-chroma-model-in-nature",
-        "anchor_text": "Generate:Biomedicines Announces Publication of its Chroma Model in Nature: A Transformative GenerativeAIfor Protein Therapeutics",
-        "score": 100
+        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-expands-board-of-directors-with-appointment-of-marsha-fanucci",
+        "anchor_text": "Generate:Biomedicines Expands Board of Directors with Appointment of Marsha Fanucci",
+        "score": 110
       },
       {
         "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-announces-multi-target-collaboration-with-novartis",
@@ -47859,6 +47262,11 @@
         "score": 97
       },
       {
+        "url": "https://www.abcellera.com/news/abcellera-to-present-at-upcoming-investor-conferences-in-may-and-june-2026",
+        "anchor_text": "Read article",
+        "score": 94
+      },
+      {
         "url": "https://www.abcellera.com/news/abcellera-to-report-full-year-2025-financial-results-on-february-24-2026",
         "anchor_text": "Read article",
         "score": 92
@@ -47872,11 +47280,6 @@
         "url": "https://www.abcellera.com/news/abcellera-and-bruker-reach-global-settlement-of-patent-litigation",
         "anchor_text": "Read article",
         "score": 85
-      },
-      {
-        "url": "https://www.abcellera.com/news/abcellera-appoints-dr-stephen-quake-to-its-board-of-directors",
-        "anchor_text": "Read article",
-        "score": 81
       },
       {
         "url": "https://www.abcellera.com/news/abcellera-reports-full-year-2025-business-results",
@@ -51343,19 +50746,9 @@
         "score": 46
       },
       {
-        "url": "https://www.catalent.com/events/vitafoods-europe-2026/",
-        "anchor_text": "Vitafoods Europe 2026",
-        "score": 46
-      },
-      {
         "url": "https://www.catalent.com/events/2026-crbe-east-summit/",
         "anchor_text": "2026 CRBE Summit East",
         "score": 46
-      },
-      {
-        "url": "https://www.catalent.com/events/excipient-world-2026/",
-        "anchor_text": "Excipient World 2026",
-        "score": 45
       },
       {
         "url": "https://www.catalent.com/events/asgct-annual-meeting/",
@@ -51398,13 +50791,13 @@
         "score": 40
       },
       {
-        "url": "https://www.catalent.com/events/tides-usa-2026/",
-        "anchor_text": "TIDES USA 2026",
+        "url": "https://www.catalent.com/events/bos-basel-2026/",
+        "anchor_text": "BOS Basel 2026",
         "score": 39
       },
       {
-        "url": "https://www.catalent.com/events/bos-basel-2026/",
-        "anchor_text": "BOS Basel 2026",
+        "url": "https://www.catalent.com/events/tides-usa-2026/",
+        "anchor_text": "TIDES USA 2026",
         "score": 39
       },
       {
@@ -51439,7 +50832,7 @@
       },
       {
         "url": "https://www.catalent.com/news-and-events/",
-        "anchor_text": "Do Not Sell My Personal Information",
+        "anchor_text": "Cookies Settings",
         "score": 31
       },
       {
@@ -53413,1217 +52806,6 @@
     ]
   },
   {
-    "company": "Eisai",
-    "press_url": "https://www.eisai.com/news/index.html",
-    "candidate_links": [
-      {
-        "url": "https://www.eisai.com/sustainability/environment/climate-countermeasure/index.html",
-        "anchor_text": "Climate Countermeasure",
-        "score": 79
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/environment/biodiversity_conservation/index.html",
-        "anchor_text": "Biodiversity Conservation",
-        "score": 72
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/management/sustainability_governance/index.html",
-        "anchor_text": "Sustainability Governance",
-        "score": 71
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/environment/pollution_prevention/index.html",
-        "anchor_text": "Prevention of Environmental Pollution",
-        "score": 67
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/environment/resource_circulation/index.html",
-        "anchor_text": "Recycling of Resources",
-        "score": 67
-      },
-      {
-        "url": "https://www.eisai.com/innovation/research/key_therapeutic_areas/index.html",
-        "anchor_text": "Key Therapeutic Areas",
-        "score": 61
-      },
-      {
-        "url": "https://www.eisai.com/innovation/research/policies_guidelines/index.html",
-        "anchor_text": "Policies and Guidelines",
-        "score": 59
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/governance/information_security.html",
-        "anchor_text": "Information Security",
-        "score": 58
-      },
-      {
-        "url": "https://www.eisai.com/ir/financial_data/financial_highlight/index.html",
-        "anchor_text": "Financial Highlights",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/management/materiality/index.html",
-        "anchor_text": "KPI and Objectives",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/management/partnership/index.html",
-        "anchor_text": "Collaboration with External Partners",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/environment/management/index.html",
-        "anchor_text": "Environmental Management",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2026/news202624.html",
-        "anchor_text": "Revenue of LEQEMBI® (Preliminary Basis)",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2026/news202622.html",
-        "anchor_text": "Merck & Co., Inc., Rahway, NJ, USA and Eisai Provide Update on Phase 3 LITESPARK-012 Trial Evaluating First-Line Combination Treatments for Certain Patients With Advanced Renal Cell Carcinoma (RCC)",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2026/news202621.html",
-        "anchor_text": "Application Submitted for LENVIMA® (lenvatinib) in Japan Seeking Approval of Additional Dosage and Administration for Combination with WELIREG® (belzutifan) for Renal Cell Carcinoma that has Progressed After Chemotherapy",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2026/news202620.html",
-        "anchor_text": "Eisai and Nuvation Bio Announce Marketing Authorisation Application for Taletrectinib for the Treatment of Advanced ROS1-Positive Non-Small Cell Lung Cancer Validated by the European Medicines AgencyThe Marketing Authorisation Application (MAA) has been validated and accepted for full approval consideration with a standard review timelineAdditional filings are planned for the U.K., Canada and other regions included in Eisai’s licensed territoriesTaletrectinib is already approved in the U.S., China and Japan for advanced ROS1-positive non-small cell lung cancer",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2026/news202618.html",
-        "anchor_text": "Notice of Nominees for Directors",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2026/news202616.html",
-        "anchor_text": "Results from Real-World, Long-Term Treatment Persistence with LEQEMBI® (lecanemab-irmb) in the United States Presented at AD/PD™ 2026Real-World LEQEMBI Data Shows Patients Choose to Stay on Long-Term Treatment",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2026/news202615.html",
-        "anchor_text": "Regarding Discontinuation of Administration of “Tazverik® Tablets 200mg” (tazemetostat hydrobromide)",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2026/news202614.html",
-        "anchor_text": "Eisai Established the Global Capability Centre in Visakhapatnam, India, to Standardize Global IT Infrastructure Operations and Digital Transformation",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2026/news202613.html",
-        "anchor_text": "Have Fun Exploring Sleep with Pokémon!Eisai Launches Awareness Campaign on Importance of Sleep Through \"Pokémon Sleep\" Collaboration",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2026/news202612.html",
-        "anchor_text": "Eisai to Present the Latest Data on Long-Term, Real-World Treatment with Lecanemab at the AD/PD™ 2026 Annual Meeting",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2026/news202611.html",
-        "anchor_text": "WELIREG® (belzutifan) Plus LENVIMA® (lenvatinib) Reduced the Risk of Disease Progression or Death by 30% Compared to Cabozantinib in Certain Previously Treated Patients With Advanced Renal Cell Carcinoma (RCC)This is the first positive Phase 3 trial of a multi-targeted tyrosine kinase inhibitor in combination with a HIF-2 alpha inhibitor, the first for patients with RCC whose disease progressed on or after treatment with anti-PD-1/L1 therapy, and the first to improve PFS compared to a modern tyrosine kinase inhibitorBased on these data, the U.S. FDA accepts for review two supplemental New Drug Applications for WELIREG plus LENVIMA in certain previously treated patients with advanced RCC",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2026/news202610.html",
-        "anchor_text": "Ministry of Health, Labour and Welfare Grants Orphan Drug Designation in Japan to Novel Orexin Receptor Agonist E2086 for Narcolepsy",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2026/news202609.html",
-        "anchor_text": "Eisai Announces Appointment of Corporate Officers",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2026/news202608.html",
-        "anchor_text": "Biologics License Application for Subcutaneous Formulation of “LEQEMBI®” (lecanemab) for the Treatment of Early Alzheimer’s Disease Designated for Priority Review in China",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2026/news202607.html",
-        "anchor_text": "Revenue of LEQEMBI® (Preliminary Basis)",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2026/news202606.html",
-        "anchor_text": "Eisai and Henlius Enter into Exclusive Commercial License Agreement for Anti-PD-1 Antibody Serplulimab in Japan",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2026/news202605.html",
-        "anchor_text": "FDA Accepts LEQEMBI® IQLIK™ (lecanemab-irmb) Supplemental Biologics License Application as a Subcutaneous Starting Dose for the Treatment of Early Alzheimer’s Disease under priority ReviewIf approved, LEQEMBI IQLIK would be the first and only anti-amyloid treatment to offer at-home injection options for initiation and maintenance dosing for this progressive, relentless diseaseFDA action date set for May 24, 2026",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2026/news202604.html",
-        "anchor_text": "EISAI LISTED AS A GLOBAL 100 MOST SUSTAINABLE CORPORATION FOR THE TENTH TIMEHIGHEST RANKED GLOBAL PHARMACEUTICAL COMPANY",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2026/news202603.html",
-        "anchor_text": "Eisai and Nuvation Bio Enter into Exclusive Licensing Agreement for Taletrectinib in Europe and Additional Countries Outside the U.S., China and JapanEisai will receive exclusive development, registration and commercialization rights for taletrectinib for the treatment of ROS1-positive non-small cell lung cancer in Europe, the Middle East, Canada, Australia, New Zealand, Singapore, the Philippines, Indonesia, Thailand, Malaysia, Vietnam and IndiaNuvation Bio will receive double-digit tiered royalties up to the high-teens as a percentage of taletrectinib sales in the licensed territories, in addition to up to €195 million (approx. USD $230 million) in upfront and milestone paymentsTaletrectinib is already approved in the U.S., China, and Japan for advanced ROS1-positive non-small cell lung cancer",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2026/news202602.html",
-        "anchor_text": "Changes of Corporate Officers",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2026/news202601.html",
-        "anchor_text": "Biologics License Application for Subcutaneous Formulation of “LEQEMBI®” (lecanemab) for the Treatment of Early Alzheimer’s Disease Accepted in ChinaIf approved, lecanemab may become the first and only anti-amyloid treatment in China to offeran at-home injection from the initiation of treatment for this progressive, relentless disease",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202588.html",
-        "anchor_text": "CHANGES OF CORPORATE OFFICERS",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202587.html",
-        "anchor_text": "Eisai Rated “A”, the Highest Rating by CDP in Both Climate Change and Water Security Categories for the Second Consecutive Year",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202586.html",
-        "anchor_text": "“LEQEMBI®” (lecanemab) for the Treatment of Early Alzheimer’s Disease Included in China’s Commercial Insurance Innovative Drug List",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202585.html",
-        "anchor_text": "Eisai Presents New Data on the Continued and Expanding Benefit of LEQEMBI® (lecanemab-irmb) Maintenance Treatment in Early Alzheimer’s Disease at CTAD 2025Long-term LEQEMBI treatment suggests potential to delay disease progression from MCI to moderate Alzheimer’s disease by up to 8.3 years in low-amyloid group who started treatment at an early stageNew safety and efficacy data presented at scientific symposium on subcutaneous formulation for LEQEMBI initiation treatment, which is under regulatory review in the United States",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202584.html",
-        "anchor_text": "New Data Presented at CTAD 2025 Confirms Pharmacological Effect of LEQEMBI® (lecanemab-irmb) on Neurotoxic Aβ Protofibrils in CSF",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202583.html",
-        "anchor_text": "Eisai Presents New Data on Anti-Tau Antibody Etalanetug (E2814) at CTAD 2025Etalanetug demonstrated reduction of eMTBR-tau243, a novel CSF and plasma biomarker that specifically reflects tau tangle pathology, in phase Ib/II study",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202582.html",
-        "anchor_text": "Eisai Submits New Drug Application for Subcutaneous Formulation of “LEQEMBI®”  for the Treatment of Early Alzheimer’s Disease in JapanIf approved, lecanemab would be the first and only anti-amyloid treatment in Japan to offer an at-home injection from the initiation of treatment for this progressive, relentless disease",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202581.html",
-        "anchor_text": "Eisai Completes Rolling Submission to US FDA for LEQEMBI® IQLIK™ (lecanemab-irmb) Supplemental Biologics License Application as a Subcutaneous Starting Dose for the Treatment of Early Alzheimer’s Disease Under Fast Track StatusLEQEMBI IQLIK, if approved for initiation dosing, would be the first and only anti-amyloid treatment to offer at-home injection from the start of therapy to help patients and care partners treat this progressive, relentless disease",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202580.html",
-        "anchor_text": "Eisai to Present Data on Lecanemab Continued Treatment, Subcutaneous Initiation Dosing, and Real-World Experience at the 18th Clinical Trials on Alzheimer’s Disease ConferenceLatest findings from Eisai's robust Alzheimer's disease pipeline explore long-term treatment with lecanemab and estimated time savings over 10 years, safety and potential benefits of subcutaneous administration of lecanemab for initiation dosingOral and poster presentations also include data on the effects of lecanemab on soluble amyloid-β protofibrils and insights from real-world clinical practice studies, including the ALZ-NET Registry",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202579.html",
-        "anchor_text": "“LEQEMBI®” (lecanemab) IV Maintenance Dosing for the Treatment of Early Alzheimer’s Disease Approved in the United Kingdom",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202578.html",
-        "anchor_text": "Notice of the Settlement of Patent Infringement Litigation Related to Lenvatinib in the U.S.",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202577.html",
-        "anchor_text": "Revenue of LEQEMBI® (Preliminary Basis)",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202576.html",
-        "anchor_text": "Eisai and Merck & Co., Inc., Rahway, NJ, USA Provide Update on Phase 3 LEAP-012 Trial in Unresectable, Non-Metastatic Hepatocellular Carcinoma",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202575.html",
-        "anchor_text": "Merck & Co., Inc., Rahway, NJ, USA and Eisai Announce WELIREG® (belzutifan) Plus LENVIMA® (lenvatinib) Met Primary Endpoint of Progression-Free Survival (PFS) in Certain Previously Treated Patients With Advanced Renal Cell CarcinomaFirst treatment regimen to demonstrate a statistically significant improvement in PFS for patients whose disease progressed following anti-PD-1/L1 therapy, compared with cabozantinib in Phase 3 studyLITESPARK-011 marks the first positive Phase 3 study of a HIF-2 alpha inhibitor in combination with a multi-targeted VEGF tyrosine kinase inhibitor",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202574.html",
-        "anchor_text": "Health Canada Grants Authorization for “LEQEMBI®” (lecanemab) for the Treatment of Early Alzheimer’s DiseaseIn Canada, lecanemab is indicated for the treatment of adult patients with a clinical diagnosis of mild cognitive impairment or mild dementia due to Alzheimer’s disease (early AD) who are apolipoprotein E ε4 (ApoE ε4*) non-carriers or heterozygotes and who have confirmed amyloid pathology",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202573.html",
-        "anchor_text": "LENVIMA® (lenvatinib) Plus KEYTRUDA® (pembrolizumab) Demonstrates Durable 5-Year Survival Benefit Versus Chemotherapy for Patients With Advanced Endometrial Carcinoma Following One Prior Platinum-Based RegimenAt five years, LENVIMA plus KEYTRUDA showed a 16.7% overall survival (OS) rate for these patients with mismatch repair proficient (pMMR) advanced endometrial carcinoma versus 7.3% for chemotherapy alone in the pivotal Phase 3 Study 309/KEYNOTE-775 trialFive-year OS results in the pMMR subgroup were consistent with the all-comers study population, which demonstrated an OS rate of 19.9% for LENVIMA plus KEYTRUDA versus 7.7% for chemotherapy",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202572.html",
-        "anchor_text": "LEQEMBI® IQLIK™(lecanemab-irmb) Subcutaneous Autoinjector Named to TIME’s “Best Inventions of 2025”",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202571.html",
-        "anchor_text": "Eisai and Biogen Announce U.S. Availability of LEQEMBI® IQLIK™ (lecanemab-irmb) Subcutaneous Injection Maintenance Dose for Treatment of Early Alzheimer’s DiseaseNew LEQEMBI CompanionTM program launched to expand helpful resources for patients throughout the treatment journey, including Nurse Educators who can provide patients with injection training,and an injection tracking tool and moreLEQEMBI IQLIK, approved by the U.S. FDA in August 2025, is the first and only anti-amyloid treatment to offer an at-home injection after initial treatment of 18 months",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202570.html",
-        "anchor_text": "Eisai Highlights Breadth of Oncology Research at ESMO 2025",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202567.html",
-        "anchor_text": "“LEQEMBI®” (lecanemab) IV Maintenance Dosing for the Treatment of Early Alzheimer’s Disease Approved in China",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202566.html",
-        "anchor_text": "LEQEMBI® (Lecanemab) Approved for the Treatment of Alzheimer’s Disease in Australia",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202565.html",
-        "anchor_text": "Notice of the Settlement of Patent Infringement Litigation Related to Lenvatinib in the U.S.",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202564.html",
-        "anchor_text": "Anti-MTBR (microtubule binding region) Tau Antibody Etalanetug Granted FDA Fast Track Designation",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202563.html",
-        "anchor_text": "“New Answers to Dementia”Eisai Releases Concept Movie and New Content on Campaign Website for Dementia Month",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202562.html",
-        "anchor_text": "Eisai Presents Clinical Study Results of Novel Orexin Receptor Agonist E2086 for Narcolepsy at World Sleep 2025E2086 Showed Potential to Improve Wakefulness in People Living with Narcolepsy Type 1",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202561.html",
-        "anchor_text": "Eisai to Present Latest Data on Lemborexant and Novel Orexin Receptor Agonist E2086 at The World Sleep 2025",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202560.html",
-        "anchor_text": "Eisai Initiated Rolling Supplemental Biologics License Application to the U.S. FDA for LEQEMBI® IQLIK™ (lecanemab-irmb) as a Subcutaneous Starting Dose for the Treatment of Early Alzheimer’s Disease Under Fast Track StatusLEQEMBI IQLIK, if approved for initiation dosing, would be the first and only anti-amyloid treatment to offer at-home injection from the start to help patients and care partners treat this progressive, relentless disease",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202559.html",
-        "anchor_text": "FDA Approves LEQEMBI® IQLIK™ (lecanemab-irmb) Subcutaneous Injection for Maintenance Dosing for the Treatment of Early Alzheimer’s DiseaseLEQEMBI IQLIK is the first and only anti-amyloid treatment to offer an at-home injection to help patients and care partners continue to treat this progressive, relentless disease after initial treatment of 18 monthsLEQEMBI IQLIK will be launched on October 6, 2025, in the U.S.",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202558.html",
-        "anchor_text": "Ministry Of Health, Labour and Welfare Grants Orphan Drug Designation in Japan toAnticancer Agent Tazemetostat for Unresectable INI1-Negative Epithelioid Sarcoma",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202557.html",
-        "anchor_text": "Austria and Germany to become the first markets in the European Union (EU) to launch LEQEMBI® (lecanemab)",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202556.html",
-        "anchor_text": "Eisai Launches In-House Developed Anti-Insomnia Drug DAYVIGO® (Lemborexant) in China",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202555.html",
-        "anchor_text": "Revenue of LEQEMBI® (Preliminary Basis)",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202554.html",
-        "anchor_text": "Early Alzheimer’s Patients Continue to Benefit from Four Years of LEQEMBI® (lecanemab-irmb) Therapy New Clinical Data Presented at AAICData Showed LEQEMBI Slowed Clinical Decline by 1.75 Points on CDR-SB at Four Years Compared to the Natural History of Alzheimer’s Disease56% of Patients with Low Tau Continued to Demonstrate Improved Cognitive and Daily Living Function at Four Years",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202553.html",
-        "anchor_text": "New Data Presented at AAIC Demonstrates Investigational LEQEMBI® (lecanemab-irmb) 360 mg Subcutaneous Maintenance Dosing Could Offer a New Option for Ongoing Treatment of Early Alzheimer’s DiseaseLecanemab subcutaneous autoinjector has the potential to become a new expanded treatment option for patients with early Alzheimer’s disease, their care partners and healthcare professionals, with results showing a comparable efficacy and safety profile to the intravenous formulation",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202552.html",
-        "anchor_text": "Two-Year Real-World Study of LEQEMBI® in the United States Presented at Alzheimer's Association International Conference (AAIC) 2025",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202551.html",
-        "anchor_text": "LENVIMA® (lenvatinib) in Combination with Pembrolizumab and Transarterial Chemoembolization (TACE) Approved in China for the Treatment of Unresectable, Non-Metastatic Hepatocellular Carcinoma",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202550.html",
-        "anchor_text": "Eisai Listed for 24th Consecutive Year in FTSE4Good Index Series, an Index for Socially Responsible Investment",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202549.html",
-        "anchor_text": "Launch of Beova® Tablets in Thailand for Overactive Bladder",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202548.html",
-        "anchor_text": "Eisai To Present Four-Year Efficacy And Safety Data On Continuous Treatment With Lecanemab At The Alzheimer’s Association International Conference 2025Latest findings from Eisai's robust Alzheimer's disease (AD) pipeline include results from lecanemab long-term data, an immunoassay for measuring amyloid-β protofibrils in cerebrospinal fluid, and a subcutaneous form of lecanemab for continued treatment of ADAD is a progressive, relentless disease caused by a continuous underlying neurotoxic process that begins before and continues after plaque deposition",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202547.html",
-        "anchor_text": "Eisai Awarded “The 9th Bioindustry Award”for Drug Discovery Research for Anti- Amyloid β Monoclonal Antibody Lecanemab",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202546.html",
-        "anchor_text": "“URECE®” (Dotinurad) Launched in China as a treatment for Gout",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202545.html",
-        "anchor_text": "Update on the Cost-Effectiveness Evaluation of LEQEMBI® by the Central Social Insurance Medical Council of Japan’s Ministry of Health, Labour and Welfare",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202544.html",
-        "anchor_text": "Eisai Selected as Supplier Engagement Leader, CDP's Highest Rating in the Supplier Engagement Assessment",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202541.html",
-        "anchor_text": "Eisai to Launch “Pariet® S,” the First Proton Pump Inhibitor RX-to-OTC in Japan- Same Dosage of the Active Ingredient Rabeprazole Sodium as the Prescription Product -",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202540.html",
-        "anchor_text": "Eisai Obtains Favorable Decision in Patent Infringement Litigation Related to Lenvatinib in the U.S.",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202539.html",
-        "anchor_text": "New Drug Approval for In-House Developed Anti-Insomnia Drug DAYVIGO® (Lemborexant) in China",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202538.html",
-        "anchor_text": "Eisai Demonstrates Commitment to Oncology Innovation at ASCO 2025",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202537.html",
-        "anchor_text": "Eisai Satisfies All-Case Surveillance Requirement for Anticancer Agent Remitoro®",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202536.html",
-        "anchor_text": "Notification Regarding Partial Amendment to the Articles of Incorporation",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202535.html",
-        "anchor_text": "Notice Concerning Results of Tender Offer for Share Certificates, etc., of EcoNaviSta Inc. (Securities Code: 5585)",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202534.html",
-        "anchor_text": "REVENUE OF LEQEMBI® (PRELIMINARY BASIS)",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202533.html",
-        "anchor_text": "Eisai Representative Corporate Officer and CEO Haruo Naito Awarded the Order of the Rising Sun, Gold and Silver Star",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202532.html",
-        "anchor_text": "Leqembi®  (lecanemab) is the First Medicine that Slows Progression of Early Alzheimer’s Disease to be Authorized in the European UnionIn the European Union (EU), lecanemab is indicated for the treatment of adult patients with a clinical diagnosis of mild cognitive impairment and mild dementia due to Alzheimer’s disease (early AD) who are apolipoprotein E ε4 (ApoE ε4*) non-carriers or heterozygotes with confirmed amyloid pathologyLecanemab is the first therapy that targets an underlying cause of the disease to be authorized in the EU for eligible people with early AD",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202531.html",
-        "anchor_text": "Update on Regulatory Review of Lecanemab for Early Alzheimer’s Disease by the European Commission",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202530.html",
-        "anchor_text": "Update on Regulatory Review of Lecanemab for Early Alzheimer’s Disease by the European Commission",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202528.html",
-        "anchor_text": "“New Answers to Dementia”Eisai Launches Corporate Awareness Campaign",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202527.html",
-        "anchor_text": "EISAI TO DIVEST RIGHTS FOR PARIET® IN CHINA TO PEAK PHARMA",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202526.html",
-        "anchor_text": "Eisai to Divest Rights for Warfarin in Japan to Sawai",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202525.html",
-        "anchor_text": "Eisai to Present the Latest Research Results, Including Long-Term andReal-Word Data on Lecanemab and Biomarkers for Alzheimer’s Disease at the AD/PD™ 2025 Annual Meeting",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202524.html",
-        "anchor_text": "World’s First Early Alzheimer’s Disease Treatment Developed in Japan LEQEMBI® Receives Prime Minister’s Award at the 12th Technology Management and Innovation Awards",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202523.html",
-        "anchor_text": "EISAI SELECTED AS A NADESHIKO BRAND 2025 AS A LISTED COMPANY EXCELLING IN PROMOTION OF WOMEN IN THE WORKPLACE",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202522.html",
-        "anchor_text": "Proton Pump Inhibitor “Pariet® S” Approved in Japan as RX-to-OTC SwitchSame Dosage of the Active Ingredient Rabeprazole Sodium as the Prescription Product",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202521.html",
-        "anchor_text": "Notice Concerning Commencement of Tender Offer by Eisai Co., Ltd. for Share Certificates, etc., of EcoNaviSta Inc. (Securities Code: 5585)",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202520.html",
-        "anchor_text": "EISAI RECOGNIZED AS “2025 KENKO INVESTMENT FOR HEALTH” FOR THE FIRST TIME AND CERTIFIED AS “OUTSTANDING ORGANIZATION OF KENKO INVESTMENT FOR HEALTH PROGRAM (WHITE 500)” FOR THE SIXTH TIME",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202519.html",
-        "anchor_text": "Eisai Announces Appointments of Corporate Officers",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202518.html",
-        "anchor_text": "Notice of Nominees for Directors",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202517.html",
-        "anchor_text": "Notification Regarding Changes in Representative Corporate Officers",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202516.html",
-        "anchor_text": "UPDATE ON THE CO-PROMOTION OF THE ORAL ANTIFUNGAL AGENT NAILIN® CAPSULES 100MG IN JAPAN",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202515.html",
-        "anchor_text": "Eisai Receives Regulatory Review Outcome for Lecanemab as a Treatment for Early Alzheimer’s Disease in Australia",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202514.html",
-        "anchor_text": "“Fatigue Recovery While You Sleep!” Eisai to Launch Designated Quasi-Drug Drink “Chocola BB® Nightwell”Easy-To-Drink Grapefruit Flavor Containing Herbal Medicines and Glycine",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202513.html",
-        "anchor_text": "The Committee for Medicinal Products for Human Use (CHMP) Reaffirms Positive Opinion for Lecanemab in Early Alzheimer’s Disease",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202512.html",
-        "anchor_text": "Eisai Enters into License Agreement for the Development and Distribution of Fibroblast Growth Factor (FGF) Receptor Selective Tyrosine Kinase Inhibitor Tasurgratinib in Greater China Region (Mainland China, Hong Kong, Macau, and Taiwan) with SciClone",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202511.html",
-        "anchor_text": "EISAI SELECTED FOR “HUMAN CAPITAL LEADERS 2024” AND “HUMAN CAPITAL MANAGEMENT GOLD QUALITY” FOR SECOND CONSECUTIVE YEAR,AS A COMPANY COMMITTED TO EXCELLENT MANAGEMENT AND DISCLOSURE OF HUMAN CAPITAL INITIATIVES",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202510.html",
-        "anchor_text": "DEVELOPMENT OF PREDICTION MODEL FOR BRAIN AMYLOID-BETA ACCUMULATION FOR EARLY SCREENING OF ALZHEIMER’S DISEASEMACHINE LEARNING MODEL USING DATA THAT CAN BE COLLECTED IN DAILY MEDICAL EXAMINATIONS BY PRIMARY CARE PHYSICIANS",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202509.html",
-        "anchor_text": "Eisai Rated “A”, the Highest Rating by CDP in the Categories of Climate Change and Water Security",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202508.html",
-        "anchor_text": "Eisai to Provide Guidance on Reducing the Risk of Cognitive Decline and Nutrition, and Development Guidelines for Home Delivery Meals/Meal Kits to Food-Related Companies",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202507.html",
-        "anchor_text": "Update on Regulatory Review of Lecanemab for Early Alzheimer’s Disease in the European Union",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202506.html",
-        "anchor_text": "FDA Approves LEQEMBI® (lecanemab-irmb) IV Maintenance Dosing for the Treatment ofEarly Alzheimer’s DiseaseOnce every four weeks maintenance dosing may be easier for patients and care partners to continue treatmentAlzheimer's disease progression does not stop after plaque clearance; ongoing treatment with LEQEMBI can slow disease progression and prolong the benefits of therapy",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202505.html",
-        "anchor_text": "Eisai and Merck & Co., Inc., Rahway, NJ, USA Provide Update on Phase 3 LEAP-015 Trial Evaluating LENVIMA® (lenvatinib) Plus KEYTRUDA® (pembrolizumab) in Combination with Chemotherapy in Patients with Certain Types of Gastroesophageal Adenocarcinoma",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202504.html",
-        "anchor_text": "Eisai Releases Corporate Film “1 Percent, 1 Mission. Change the World.”",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202503.html",
-        "anchor_text": "EISAI LISTED AS A GLOBAL 100 MOST SUSTAINABLE CORPORATION FOR THE NINTH TIMEHIGHEST RANKED GLOBAL PHARMACEUTICAL COMPANY",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202502.html",
-        "anchor_text": "FDA Accepts LEQEMBI® (lecanemab-irmb) Biologics License Application for Subcutaneous Maintenance Dosing for the Treatment of Early Alzheimer’s DiseaseLEQEMBI is the only FDA-approved anti-amyloid therapy that potentially could offer the convenienceof a subcutaneous injection with at-home administration option",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/news/2025/news202501.html",
-        "anchor_text": "Elucidation of part of the Mechanism by which Lecanemab Slows the Progression of Alzheimer’s Disease",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/privacy/external-transmission/index.html",
-        "anchor_text": "“External Data Transmission”",
-        "score": 57
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/management/compliance/index.html",
-        "anchor_text": "Sustainability Risk Management",
-        "score": 56
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/environment/water_use/index.html",
-        "anchor_text": "Sustainable Water Use",
-        "score": 56
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/governance/compliance/index.html",
-        "anchor_text": "Compliance and Risk Management",
-        "score": 56
-      },
-      {
-        "url": "https://www.eisai.com/innovation/research/clinical_trials/index.html",
-        "anchor_text": "Clinical Trials",
-        "score": 55
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/society/human_rights/index.html",
-        "anchor_text": "Respect for Human Rights",
-        "score": 55
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/governance/globaltax/index.html",
-        "anchor_text": "Global Tax Policy",
-        "score": 55
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/management/strategy/index.html",
-        "anchor_text": "Strategy",
-        "score": 54
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/people/globalhealth/index.html",
-        "anchor_text": "Global Health",
-        "score": 54
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/management/impact/index.html",
-        "anchor_text": "Social Impact Creation Model",
-        "score": 52
-      },
-      {
-        "url": "https://www.eisai.com/company/governance/cgregulations/index.html",
-        "anchor_text": "Related Rules",
-        "score": 52
-      },
-      {
-        "url": "https://www.eisai.com/news/2024/index.html",
-        "anchor_text": "2024 Release",
-        "score": 52
-      },
-      {
-        "url": "https://www.eisai.com/news/2023/index.html",
-        "anchor_text": "2023 Release",
-        "score": 52
-      },
-      {
-        "url": "https://www.eisai.com/news/2022/index.html",
-        "anchor_text": "2022 Release",
-        "score": 52
-      },
-      {
-        "url": "https://www.eisai.com/news/2021/index.html",
-        "anchor_text": "2021 Release",
-        "score": 52
-      },
-      {
-        "url": "https://www.eisai.com/news/2020/index.html",
-        "anchor_text": "2020 Release",
-        "score": 52
-      },
-      {
-        "url": "https://www.eisai.com/news/2019/index.html",
-        "anchor_text": "2019 Release",
-        "score": 52
-      },
-      {
-        "url": "https://www.eisai.com/news/2018/index.html",
-        "anchor_text": "2018 Release",
-        "score": 52
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/environment/data/index.html",
-        "anchor_text": "Data",
-        "score": 51
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/society/customer/index.html",
-        "anchor_text": "Relationship with Customers",
-        "score": 51
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/society/employee/index.html",
-        "anchor_text": "Relationship with Our Employees",
-        "score": 51
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/society/advocacy/index.html",
-        "anchor_text": "Relationship with Industry Associations and Patient Groups (Advocacy)",
-        "score": 51
-      },
-      {
-        "url": "https://www.eisai.com/company/governance/compensation/index.html",
-        "anchor_text": "Compensation for Corporate Executives",
-        "score": 51
-      },
-      {
-        "url": "https://www.eisai.com/ir/management/disclosurepolicy/index.html",
-        "anchor_text": "Eisai Group Disclosure Policy",
-        "score": 50
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/people/dementia/index.html",
-        "anchor_text": "Dementia",
-        "score": 50
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/society/partner/index.html",
-        "anchor_text": "Relationship with Business Partners",
-        "score": 50
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/society/social/index.html",
-        "anchor_text": "Relationship with People throughout Society",
-        "score": 49
-      },
-      {
-        "url": "https://www.eisai.com/company/governance/cgsystem_2/index.html",
-        "anchor_text": "Board of Directors, Committees and Support Structure",
-        "score": 49
-      },
-      {
-        "url": "https://www.eisai.com/company/governance/initiative/index.html",
-        "anchor_text": "Corporate Governance Initiatives",
-        "score": 49
-      },
-      {
-        "url": "https://www.eisai.com/innovation/research/rd_sites/index.html",
-        "anchor_text": "Eisai's Drug Discovery, Research and Development Sites Worldwide",
-        "score": 48
-      },
-      {
-        "url": "https://www.eisai.com/innovation/research/research/index.html",
-        "anchor_text": "Flow of R&D (Drug Creation Research)",
-        "score": 48
-      },
-      {
-        "url": "https://www.eisai.com/innovation/research/pipeline/index.html",
-        "anchor_text": "Latest Major R&D Pipeline",
-        "score": 48
-      },
-      {
-        "url": "https://www.eisai.com/innovation/ecosystem/collabo/index.html",
-        "anchor_text": "Collaboration with Other Industries and Local Municipalities",
-        "score": 48
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/people/cancer/index.html",
-        "anchor_text": "Oncology",
-        "score": 48
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/esg_data/data/index.html",
-        "anchor_text": "ESG Data and Independent Assurance",
-        "score": 48
-      },
-      {
-        "url": "https://www.eisai.com/company/governance/cghistory/index.html",
-        "anchor_text": "History of Enhancing the Company's Corporate Governance",
-        "score": 48
-      },
-      {
-        "url": "https://www.eisai.com/innovation/research/digital/index.html",
-        "anchor_text": "Use of Digital Technology",
-        "score": 47
-      },
-      {
-        "url": "https://www.eisai.com/ir/management/capitalpolicy/index.html",
-        "anchor_text": "Basic Policy for Capital Strategy",
-        "score": 47
-      },
-      {
-        "url": "https://www.eisai.com/ir/financial_data/factsheet/index.html",
-        "anchor_text": "Fact Sheet",
-        "score": 47
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/esg_data/gri/index.html",
-        "anchor_text": "GRI Content Index",
-        "score": 47
-      },
-      {
-        "url": "https://www.eisai.com/company/governance/cgsystem/index.html",
-        "anchor_text": "Corporate Governance System and Features",
-        "score": 47
-      },
-      {
-        "url": "https://www.eisai.com/company/business/production/index.html",
-        "anchor_text": "Production and Logistics (Demand Chain Systems)",
-        "score": 47
-      },
-      {
-        "url": "https://www.eisai.com/ir/financial_data/forecast/index.html",
-        "anchor_text": "Business Forecast",
-        "score": 46
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/people/atm/index.html",
-        "anchor_text": "Access to Medicines",
-        "score": 45
-      },
-      {
-        "url": "https://www.eisai.com/company/governance/policy/index.html",
-        "anchor_text": "Basic Approach to Corporate Governance",
-        "score": 45
-      },
-      {
-        "url": "https://www.eisai.com/company/business/products/index.html",
-        "anchor_text": "Products",
-        "score": 45
-      },
-      {
-        "url": "https://www.eisai.com/innovation/open_innovation/index.html",
-        "anchor_text": "Open Innovation",
-        "score": 44
-      },
-      {
-        "url": "https://www.eisai.com/innovation/ecosystem/bbm/index.html",
-        "anchor_text": "Collaborations with Partners on Blood Biomarkers",
-        "score": 44
-      },
-      {
-        "url": "https://www.eisai.com/ir/library/presentations/index.html",
-        "anchor_text": "Presentations",
-        "score": 44
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/environment/index.html",
-        "anchor_text": "Environment",
-        "score": 44
-      },
-      {
-        "url": "https://www.eisai.com/company/governance/audit/index.html",
-        "anchor_text": "Internal Audit",
-        "score": 44
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/management/index.html",
-        "anchor_text": "Eisai’s Sustainability",
-        "score": 43
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/governance/index.html",
-        "anchor_text": "Governance",
-        "score": 43
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/evaluation/index.html",
-        "anchor_text": "Third-Party Assessment",
-        "score": 43
-      },
-      {
-        "url": "https://www.eisai.com/company/profile/officer/index.html",
-        "anchor_text": "Corporate Executives",
-        "score": 43
-      },
-      {
-        "url": "https://www.eisai.com/company/profile/history/index.html",
-        "anchor_text": "Eisai: The First 80 Years",
-        "score": 43
-      },
-      {
-        "url": "https://www.eisai.com/ir/management/strategy/index.html",
-        "anchor_text": "Medium-term Business Plan and Its Progress",
-        "score": 42
-      },
-      {
-        "url": "https://www.eisai.com/company/profile/office/index.html",
-        "anchor_text": "Japan Business Sites",
-        "score": 42
-      },
-      {
-        "url": "https://www.eisai.com/company/profile/group/index.html",
-        "anchor_text": "Worldwide",
-        "score": 41
-      },
-      {
-        "url": "https://www.eisai.com/ir/library/settlement/index.html",
-        "anchor_text": "Financial Reports",
-        "score": 41
-      },
-      {
-        "url": "https://www.eisai.com/ir/library/securities/index.html",
-        "anchor_text": "Annual Securities Reports",
-        "score": 41
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/esg_data/index.html",
-        "anchor_text": "ESG Data & Report",
-        "score": 41
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/message/index.html",
-        "anchor_text": "Message from Top Management",
-        "score": 40
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/society/index.html",
-        "anchor_text": "Social",
-        "score": 40
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/people/index.html",
-        "anchor_text": "Patients & People",
-        "score": 39
-      },
-      {
-        "url": "https://www.eisai.com/innovation/ecosystem/index.html",
-        "anchor_text": "Ecosystem",
-        "score": 38
-      },
-      {
-        "url": "https://www.eisai.com/innovation/research/index.html",
-        "anchor_text": "Research and Development (R&D)",
-        "score": 37
-      },
-      {
-        "url": "https://www.eisai.com/ir/management/basicpolicy.html",
-        "anchor_text": "Basic Policies Regarding Persons to Control the Determination of Financial and Business Policies of the Company",
-        "score": 37
-      },
-      {
-        "url": "https://www.eisai.com/ir/library/annual/index.html",
-        "anchor_text": "Value Creation Report / Human Capital Report",
-        "score": 37
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/news/index.html",
-        "anchor_text": "Sustainability Topics",
-        "score": 37
-      },
-      {
-        "url": "https://www.eisai.com/ir/stock/analyst/index.html",
-        "anchor_text": "Analyst Coverage",
-        "score": 36
-      },
-      {
-        "url": "https://www.eisai.com/ir/stock/meeting/index.html",
-        "anchor_text": "General Meeting of Shareholders",
-        "score": 36
-      },
-      {
-        "url": "https://www.eisai.com/company/governance/index.html",
-        "anchor_text": "Corporate Governance",
-        "score": 36
-      },
-      {
-        "url": "https://www.eisai.com/company/philosophy/index.html",
-        "anchor_text": "Corporate Mission",
-        "score": 36
-      },
-      {
-        "url": "https://www.eisai.com/community_guidelines/index.html",
-        "anchor_text": "SNS Community Guidelines",
-        "score": 36
-      },
-      {
-        "url": "https://www.eisai.com/ir/financial_data/index.html",
-        "anchor_text": "Financial Data",
-        "score": 35
-      },
-      {
-        "url": "https://www.eisai.com/ir/stock/report/index.html",
-        "anchor_text": "Shareholder Reports",
-        "score": 35
-      },
-      {
-        "url": "https://www.eisai.com/ir/stock/stock/index.html",
-        "anchor_text": "Stock Information",
-        "score": 34
-      },
-      {
-        "url": "https://www.eisai.com/ir/stock/bonds/index.html",
-        "anchor_text": "Bonds and Ratings",
-        "score": 34
-      },
-      {
-        "url": "https://www.eisai.com/company/business/index.html",
-        "anchor_text": "Business Activities",
-        "score": 34
-      },
-      {
-        "url": "https://www.eisai.com/company/message/index.html",
-        "anchor_text": "Message from Top Management",
-        "score": 33
-      },
-      {
-        "url": "https://www.eisai.com/company/profile/index.html",
-        "anchor_text": "Corporate Information",
-        "score": 33
-      },
-      {
-        "url": "https://www.eisai.com/innovation/cvc/index.html",
-        "anchor_text": "Corporate Venture Capital",
-        "score": 32
-      },
-      {
-        "url": "https://www.eisai.com/company/glance/index.html",
-        "anchor_text": "Eisai at a Glance",
-        "score": 32
-      },
-      {
-        "url": "https://www.eisai.com/ir/management/index.html",
-        "anchor_text": "Management Policy",
-        "score": 31
-      },
-      {
-        "url": "https://www.eisai.com/company/video/index.html",
-        "anchor_text": "Video Library",
-        "score": 31
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/index.html",
-        "anchor_text": "Sustainability",
-        "score": 30
-      },
-      {
-        "url": "https://www.eisai.com/ir/calendar/index.html",
-        "anchor_text": "IR Events",
-        "score": 29
-      },
-      {
-        "url": "https://www.eisai.com/accessibility/index.html",
-        "anchor_text": "Accessibility",
-        "score": 29
-      },
-      {
-        "url": "https://www.eisai.com/ir/library/index.html",
-        "anchor_text": "IR Library",
-        "score": 28
-      },
-      {
-        "url": "https://www.eisai.com/sustainability/news/",
-        "anchor_text": "Sustainability Topics",
-        "score": 27
-      },
-      {
-        "url": "https://www.eisai.com/innovation/index.html",
-        "anchor_text": "Innovation",
-        "score": 26
-      },
-      {
-        "url": "https://www.eisai.com/ir/stock/index.html",
-        "anchor_text": "Stock & Bond Information",
-        "score": 26
-      },
-      {
-        "url": "https://www.eisai.com/aboutsite/index.html",
-        "anchor_text": "Terms of Use",
-        "score": 25
-      },
-      {
-        "url": "https://www.eisai.com/news/index2017.html",
-        "anchor_text": "2017 Release",
-        "score": 24
-      },
-      {
-        "url": "https://www.eisai.com/news/index2016.html",
-        "anchor_text": "2016 Release",
-        "score": 24
-      },
-      {
-        "url": "https://www.eisai.com/news/index2015.html",
-        "anchor_text": "2015 Release",
-        "score": 24
-      },
-      {
-        "url": "https://www.eisai.com/news/index2014.html",
-        "anchor_text": "2014 Release",
-        "score": 24
-      },
-      {
-        "url": "https://www.eisai.com/news/index2013.html",
-        "anchor_text": "2013 Release",
-        "score": 24
-      },
-      {
-        "url": "https://www.eisai.com/news/index2012.html",
-        "anchor_text": "2012 Release",
-        "score": 24
-      },
-      {
-        "url": "https://www.eisai.com/news/index2011.html",
-        "anchor_text": "2011 Release",
-        "score": 24
-      },
-      {
-        "url": "https://www.eisai.com/news/index2010.html",
-        "anchor_text": "2010 Release",
-        "score": 24
-      },
-      {
-        "url": "https://www.eisai.com/news/index2009.html",
-        "anchor_text": "2009 Release",
-        "score": 24
-      },
-      {
-        "url": "https://www.eisai.com/news/index2008.html",
-        "anchor_text": "2008 Release",
-        "score": 24
-      },
-      {
-        "url": "https://www.eisai.com/news/index2007.html",
-        "anchor_text": "2007 Release",
-        "score": 24
-      },
-      {
-        "url": "https://www.eisai.com/inquiry/index.html",
-        "anchor_text": "Contact Us",
-        "score": 23
-      },
-      {
-        "url": "https://www.eisai.com/company/index.html",
-        "anchor_text": "About Eisai",
-        "score": 23
-      },
-      {
-        "url": "https://www.eisai.com/sitemap/index.html",
-        "anchor_text": "Sitemap",
-        "score": 23
-      },
-      {
-        "url": "https://www.eisai.com/privacy/index.html",
-        "anchor_text": "Privacy Policy",
-        "score": 23
-      },
-      {
-        "url": "https://www.eisai.com/browser/index.html",
-        "anchor_text": "Recommended Environment",
-        "score": 23
-      },
-      {
-        "url": "https://www.eisai.com/news/index.html#agree",
-        "anchor_text": "Yes",
-        "score": 20
-      },
-      {
-        "url": "https://www.eisai.com/news/index.html#decline",
-        "anchor_text": "No",
-        "score": 20
-      },
-      {
-        "url": "https://www.eisai.com/news/index.html#tgl-1",
-        "anchor_text": "MenuOpen",
-        "score": 20
-      },
-      {
-        "url": "https://www.eisai.com/news/index.html",
-        "anchor_text": "News Release",
-        "score": 20
-      },
-      {
-        "url": "https://www.eisai.com/news/index.html#2026",
-        "anchor_text": "2026 Release",
-        "score": 20
-      },
-      {
-        "url": "https://www.eisai.com/news/index.html#2025",
-        "anchor_text": "2025 Release",
-        "score": 20
-      },
-      {
-        "url": "https://www.eisai.com/news/index.html#top",
-        "anchor_text": "",
-        "score": 20
-      },
-      {
-        "url": "https://www.eisai.com/hhc/index.html",
-        "anchor_text": "Eisai'shhcConcept",
-        "score": 19
-      },
-      {
-        "url": "https://www.eisai.com/hhc/index.html#anc-01",
-        "anchor_text": "Mission and Results",
-        "score": 19
-      },
-      {
-        "url": "https://www.eisai.com/hhc/index.html#anc-02",
-        "anchor_text": "“Socialization” is Key to Conceiving and Implementing Our Activities",
-        "score": 19
-      },
-      {
-        "url": "https://www.eisai.com/hhc/index.html#anc-03",
-        "anchor_text": "hhcDriven Innovation Activities (hhcActivities)",
-        "score": 19
-      },
-      {
-        "url": "https://www.eisai.com/hhc/index.html#anc-04",
-        "anchor_text": "hhcActivities",
-        "score": 19
-      },
-      {
-        "url": "https://www.eisai.com/hhc/index.html#anc-05",
-        "anchor_text": "Empowering People to Realize Their Fullest Life",
-        "score": 19
-      },
-      {
-        "url": "https://www.eisai.com/ir/index.html",
-        "anchor_text": "Investors",
-        "score": 18
-      },
-      {
-        "url": "https://www.eisai.com/index.html",
-        "anchor_text": "Home",
-        "score": 13
-      }
-    ]
-  },
-  {
     "company": "Sumitomo Pharma",
     "press_url": "https://www.sumitomo-pharma.com/news/",
     "candidate_links": [
@@ -55020,7 +53202,7 @@
       },
       {
         "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260430_1.html",
-        "anchor_text": "30 APR 2026NewNutraceuticalsOtsuka Launches \"Educational Materials and Resources by Otsuka\" for Educators to Support Health Education in Schools Providing Free Digital Health Education Materials on Heat Illness Prevention and Nutrition Education",
+        "anchor_text": "30 APR 2026NutraceuticalsOtsuka Launches \"Educational Materials and Resources by Otsuka\" for Educators to Support Health Education in Schools Providing Free Digital Health Education Materials on Heat Illness Prevention and Nutrition Education",
         "score": 80
       },
       {
@@ -55707,11 +53889,6 @@
         "url": "https://www.otsuka.co.jp/en/partnering-and-licensing/inquiry-form/form",
         "anchor_text": "Partnering/Licensing Activities",
         "score": 64
-      },
-      {
-        "url": "https://www.otsuka.co.jp/en/research-and-development/open-innovation/",
-        "anchor_text": "Otsuka's Open Innovation",
-        "score": 63
       },
       {
         "url": "https://www.otsuka.co.jp/en/company/offices-and-facilities-in-japan/",
@@ -57283,7 +55460,7 @@
       },
       {
         "url": "https://www.kyowakirin.com/privacy_policy/index.html",
-        "anchor_text": "Privacy Policy.",
+        "anchor_text": "More information",
         "score": 30
       },
       {
@@ -57474,7 +55651,7 @@
       },
       {
         "url": "https://www.ono-pharma.com/en/ir/library/financial_results",
-        "anchor_text": "",
+        "anchor_text": "May.08.2026Management / FinanceAnnouncement on Financial Results for FY2025",
         "score": 40
       },
       {
@@ -61463,9 +59640,9 @@
         "score": 257
       },
       {
-        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/Johnson--Johnson-study-shows-TREMFYA-guselkumab-is-the-first-and-only-IL-23-inhibitor-to-demonstrate-efficacy-in-perianal-fistulizing-Crohns-disease/default.aspx",
+        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/Johnson--Johnson-launches-Generation-Fine-a-New-Movement-Encouraging-Patients-to-Expect-More-from-Depression-Treatment-and-Aim-for-Remission/default.aspx",
         "anchor_text": "Read article",
-        "score": 239
+        "score": 231
       },
       {
         "url": "https://ir.intracellulartherapies.com/events-and-presentations/events/event-details/2026/Johnson--Johnson-to-Participate-in-the-Bernsteins-42nd-Annual-Strategic-Decisions-Conference/default.aspx",
@@ -62335,14 +60512,14 @@
         "score": 108
       },
       {
+        "url": "https://investors.karyopharm.com/2026-05-07-Karyopharm-to-Report-First-Quarter-2026-Financial-Results-on-May-14,-2026",
+        "anchor_text": "Karyopharm to Report First Quarter 2026 Financial Results on May 14, 2026",
+        "score": 97
+      },
+      {
         "url": "https://investors.karyopharm.com/2026-03-24-Karyopharm-Announces-30-Million-Private-Placement-with-RA-Capital",
         "anchor_text": "Karyopharm Announces $30 Million Private Placement with RA Capital",
         "score": 89
-      },
-      {
-        "url": "https://investors.karyopharm.com/2025-12-08-Karyopharm-to-Participate-in-Bairds-Biotech-Discovery-Series",
-        "anchor_text": "Karyopharm to Participate in Baird's Biotech Discovery Series",
-        "score": 84
       },
       {
         "url": "https://investors.karyopharm.com/publications-and-presentations",
@@ -62948,6 +61125,16 @@
         "score": 115
       },
       {
+        "url": "https://ir.novavax.com/press-releases/2026-05-07-Novavax-to-Participate-in-BofA-Securities-2026-Health-Care-Conference",
+        "anchor_text": "Read full article",
+        "score": 110
+      },
+      {
+        "url": "https://ir.novavax.com/press-releases/2026-05-07-Novavax-to-Participate-in-BofA-Securities-2026-Health-Care-Conference?asPDF=1",
+        "anchor_text": "Download",
+        "score": 110
+      },
+      {
         "url": "https://ir.novavax.com/press-releases/2026-04-29-Novavax-to-Report-First-Quarter-2026-Financial-Results-on-May-6,-2026",
         "anchor_text": "Read full article",
         "score": 110
@@ -62956,16 +61143,6 @@
         "url": "https://ir.novavax.com/press-releases/2026-04-29-Novavax-to-Report-First-Quarter-2026-Financial-Results-on-May-6,-2026?asPDF=1",
         "anchor_text": "Download",
         "score": 110
-      },
-      {
-        "url": "https://ir.novavax.com/press-releases/2025-11-12-Novavax-to-Participate-in-Jefferies-London-Healthcare-Conference",
-        "anchor_text": "Read full article",
-        "score": 105
-      },
-      {
-        "url": "https://ir.novavax.com/press-releases/2025-11-12-Novavax-to-Participate-in-Jefferies-London-Healthcare-Conference?asPDF=1",
-        "anchor_text": "Download",
-        "score": 105
       },
       {
         "url": "https://ir.novavax.com/press-releases/2026-01-20-Novavax-Announces-Entering-into-a-License-Agreement-with-Pfizer",
@@ -63045,6 +61222,11 @@
       {
         "url": "https://ir.novavax.com/press-releases#ot-preferences-link",
         "anchor_text": "Your Privacy Choices",
+        "score": 27
+      },
+      {
+        "url": "https://ir.novavax.com/cookies-policy",
+        "anchor_text": "More information",
         "score": 27
       },
       {
@@ -64265,7 +62447,7 @@
       },
       {
         "url": "https://ir.mirati.com/about-us/global-diversity-and-inclusion/diversity-and-inclusion-report.html",
-        "anchor_text": "Global inclusion and diversity report",
+        "anchor_text": "Global inclusion report",
         "score": 92
       },
       {
@@ -65808,6 +63990,11 @@
         "score": 194
       },
       {
+        "url": "https://ir.prothena.com/investors/press-releases/news-details/2026/Prothena-Reports-First-Quarter-2026-Financial-Results-and-Business-Highlights/default.aspx",
+        "anchor_text": "Prothena Reports First Quarter 2026 Financial Results and Business Highlights",
+        "score": 181
+      },
+      {
         "url": "https://ir.prothena.com/investors/press-releases/news-details/2026/Prothena-to-Report-First-Quarter-2026-Financial-Results-on-May-7/default.aspx",
         "anchor_text": "Prothena to Report First Quarter 2026 Financial Results on May 7",
         "score": 168
@@ -66846,6 +65033,11 @@
         "score": 149
       },
       {
+        "url": "https://oxb.com/news/oxb-to-exhibit-and-present-at-the-30th-annual-meeting-of-the-american-society-of-cell-and-gene-therapy-asgct/",
+        "anchor_text": "View details >",
+        "score": 131
+      },
+      {
         "url": "https://oxb.com/news/oxb-announces-date-for-capital-markets-day-and-participation-in-upcoming-investor-conferences/",
         "anchor_text": "View details >",
         "score": 116
@@ -66864,11 +65056,6 @@
         "url": "https://oxb.com/news/oxb-signs-new-multi-year-commercial-supply-agreement-with-bristol-myers-squibb/",
         "anchor_text": "View details >",
         "score": 101
-      },
-      {
-        "url": "https://oxb.com/news/oxb-to-participate-in-upcoming-investor-conferences-and-events/",
-        "anchor_text": "View details >",
-        "score": 85
       },
       {
         "url": "https://oxb.com/news/preliminary-results-for-the-year-ended-31-december-2025/",
@@ -67755,6 +65942,11 @@
         "score": 140
       },
       {
+        "url": "https://www.asimov.com/news/asimov-completes-lead-optimization-campaign-with-mabylon-ag-to-advance-trispecific-antibody-for-tree-pollen-allergies",
+        "anchor_text": "Read more",
+        "score": 137
+      },
+      {
         "url": "https://www.asimov.com/news/asimov-announces-ind-approval-and-clinical-dosing-of-bispecific-antibody-produced-using-cho-edge-expression-system",
         "anchor_text": "Read more",
         "score": 134
@@ -67848,11 +66040,6 @@
         "url": "https://www.asimov.com/news/mit-startup-exchange-names-asimov-to-stex25",
         "anchor_text": "Read more",
         "score": 63
-      },
-      {
-        "url": "https://www.asimov.com/news/cho-edge-system-licensed-by-novo-nordisk",
-        "anchor_text": "Read more",
-        "score": 60
       },
       {
         "url": "https://www.asimov.com/cho-edge-expression-system",
@@ -69424,7 +67611,7 @@
       },
       {
         "url": "https://chem-space.com/privacy-policy",
-        "anchor_text": "More...",
+        "anchor_text": "Privacy Policy",
         "score": 27
       },
       {
@@ -70353,11 +68540,6 @@
         "url": "https://cresset-group.com/about/people/",
         "anchor_text": "People",
         "score": 20
-      },
-      {
-        "url": "https://cresset-group.com/science/sab/",
-        "anchor_text": "Scientific advisory board",
-        "score": 19
       },
       {
         "url": "https://cresset-group.com/about/news/#content",
@@ -72290,152 +70472,6 @@
     ]
   },
   {
-    "company": "Storm Therapeutics",
-    "press_url": "https://www.stormtherapeutics.com/news/",
-    "candidate_links": [
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/storm-therapeutics-and-alidabio-announce-strategic-collaboration-to-accelerate-development-of-cancer-therapies-targeting-rna/",
-        "anchor_text": "Read more",
-        "score": 164
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/storm-therapeutics-announces-first-patient-dosed-in-clinical-collaboration-to-evaluate-stc-15-in-combination-with-loqtorzi/",
-        "anchor_text": "Read more",
-        "score": 162
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/storm-therapeutics-secures-56-million-series-c-financing-and-doses-first-patient-in-phase-2-sarcoma-trial-of-stc-15/",
-        "anchor_text": "Read more",
-        "score": 155
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/storm-therapeutics-presents-new-clinical-data-on-its-first-in-class-mettl3-inhibitor-stc-15-at-sitc-2024/",
-        "anchor_text": "Read more",
-        "score": 144
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/storm-therapeutics-appoints-veteran-cancer-drug-developer-dr-eric-martin-as-chief-development-officer/",
-        "anchor_text": "Read more",
-        "score": 141
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/platform/rna-modifying-enzymes/",
-        "anchor_text": "RNA modifying enzymes",
-        "score": 48
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/page10/",
-        "anchor_text": "10",
-        "score": 46
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/page11/",
-        "anchor_text": "11",
-        "score": 46
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/page2/",
-        "anchor_text": "Next",
-        "score": 45
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/page3/",
-        "anchor_text": "3",
-        "score": 45
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/page4/",
-        "anchor_text": "4",
-        "score": 45
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/page5/",
-        "anchor_text": "5",
-        "score": 45
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/page6/",
-        "anchor_text": "6",
-        "score": 45
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/page7/",
-        "anchor_text": "7",
-        "score": 45
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/page8/",
-        "anchor_text": "8",
-        "score": 45
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/page9/",
-        "anchor_text": "9",
-        "score": 45
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/storm-in-the-news/",
-        "anchor_text": "STORM in the News",
-        "score": 40
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/about/leadership-team/",
-        "anchor_text": "Leadership team",
-        "score": 39
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/about/board-members/",
-        "anchor_text": "Board members",
-        "score": 37
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/",
-        "anchor_text": "1",
-        "score": 37
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/clinical-trials/",
-        "anchor_text": "Clinical trials",
-        "score": 31
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/privacy-policy/",
-        "anchor_text": "Privacy policy",
-        "score": 30
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/platform/publications/",
-        "anchor_text": "Publications",
-        "score": 29
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/about/investors/",
-        "anchor_text": "Investors",
-        "score": 23
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/stc-15/",
-        "anchor_text": "STC-15",
-        "score": 22
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/contact/",
-        "anchor_text": "Contact",
-        "score": 13
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/about/",
-        "anchor_text": "About us",
-        "score": 11
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/",
-        "anchor_text": "",
-        "score": 3
-      }
-    ]
-  },
-  {
     "company": "Cellarity",
     "press_url": "https://www.cellarity.com/news",
     "candidate_links": [
@@ -72764,6 +70800,11 @@
       {
         "url": "https://www.tempus.com/life-sciences/algorithmic-tests/",
         "anchor_text": "AI-enabled Algorithms",
+        "score": 49
+      },
+      {
+        "url": "https://www.tempus.com/life-sciences/foundation-models/",
+        "anchor_text": "Foundation Models",
         "score": 49
       },
       {
@@ -74214,6 +72255,11 @@
         "score": 155
       },
       {
+        "url": "https://investors.10xgenomics.com/news/news-details/2026/10x-Genomics-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+        "anchor_text": "Read More",
+        "score": 139
+      },
+      {
         "url": "https://investors.10xgenomics.com/resources/investor-email-alerts/default.aspx",
         "anchor_text": "Unsubscribe",
         "score": 61
@@ -75170,14 +73216,14 @@
         "score": 63
       },
       {
-        "url": "https://www.nuclera.com/webinars-events/gpcr-nanodisc-announcment/",
-        "anchor_text": "Webinar:Assay-ready GPCRs in 48 hours: Unveiling eProtein Discovery™ Nanodiscs",
-        "score": 59
-      },
-      {
         "url": "https://www.nuclera.com/company/corporate-social-responsibility/",
         "anchor_text": "Corporate Social Responsibility",
         "score": 57
+      },
+      {
+        "url": "https://www.nuclera.com/event-webinar/pegs_boston_us/",
+        "anchor_text": "PEGS Boston:Join us for talks on AI-driven antibody screening and automated GPCR expression.",
+        "score": 46
       },
       {
         "url": "https://www.nuclera.com/faster-route-functional-gpcrs/",
@@ -75225,13 +73271,13 @@
         "score": 28
       },
       {
-        "url": "https://www.nuclera.com/latest-news/",
-        "anchor_text": "News",
+        "url": "https://www.nuclera.com/latest-news/#fl-main-content",
+        "anchor_text": "Skip to content",
         "score": 27
       },
       {
-        "url": "https://www.nuclera.com/latest-news/#fl-main-content",
-        "anchor_text": "Skip to content",
+        "url": "https://www.nuclera.com/latest-news/",
+        "anchor_text": "News",
         "score": 27
       },
       {
@@ -76373,11 +74419,6 @@
         "score": 199
       },
       {
-        "url": "https://www.menarini.com/en-us/news/news-detail/italian-excellence-honored-in-washington-lucia-and-alberto-giovanni-aleotti-receive-the-italpress-award-for-menarini-group-s-international-growth.html",
-        "anchor_text": "READ MORE",
-        "score": 192
-      },
-      {
         "url": "https://www.menarini.com/en-us/news/news-detail/thirty-years-of-values-the-fair-play-menarini-international-award-announces-its-2026-edition.html",
         "anchor_text": "READ MORE",
         "score": 139
@@ -76421,6 +74462,11 @@
         "url": "https://www.menarini.com/en-us/oncology/hematologic-malignancies/blastic-plasmacytoid-dendritic-cell-neoplasm-bpdcn.html",
         "anchor_text": "BPDCN",
         "score": 114
+      },
+      {
+        "url": "https://www.menarini.com/en-us/news/news-detail/menarini-group-thomas-cueni-appointed-new-member-of-the-board.html",
+        "anchor_text": "READ MORE",
+        "score": 108
       },
       {
         "url": "https://www.menarini.com/en-us/responsibility/standing-with-children-and-young-people-for-their-future.html",
@@ -77846,6 +75892,27 @@
     ]
   },
   {
+    "company": "Galapagos",
+    "press_url": "https://www.glpg.com/press-releases",
+    "candidate_links": [
+      {
+        "url": "https://www.glpg.com/newsroom/subscription/",
+        "anchor_text": "Subscribe here",
+        "score": 29
+      },
+      {
+        "url": "https://www.glpg.com/press-releases",
+        "anchor_text": "{title}",
+        "score": 27
+      },
+      {
+        "url": "https://www.glpg.com/press-releases#main",
+        "anchor_text": "Skip to content",
+        "score": 27
+      }
+    ]
+  },
+  {
     "company": "Ablynx (Sanofi)",
     "press_url": "https://www.sanofi.com/en/media-room/press-releases",
     "candidate_links": [
@@ -78864,6 +76931,11 @@
         "score": 138
       },
       {
+        "url": "https://crinetics.com/press-releases/crinetics-pharmaceuticals-reports-first-quarter-2026-financial-results-and-provides-business-update/",
+        "anchor_text": "READ MORE",
+        "score": 132
+      },
+      {
         "url": "https://crinetics.com/press-releases/crinetics-pharmaceuticals-announces-january-2026-inducement-grants-under-nasdaq-listing-rule-5635c4/",
         "anchor_text": "READ MORE",
         "score": 132
@@ -78889,11 +76961,6 @@
         "score": 113
       },
       {
-        "url": "https://crinetics.com/press-releases/crinetics-pharmaceuticals-announces-proposed-public-offering-of-common-stock-4/",
-        "anchor_text": "READ MORE",
-        "score": 111
-      },
-      {
         "url": "https://crinetics.com/events/webcast-crinetics-pharmaceuticals-to-report-fourth-quarter-2025-financial-results/",
         "anchor_text": "Webcast: Crinetics to Report Fourth Quarter and Full Year 2025 Financial Results",
         "score": 106
@@ -78910,7 +76977,7 @@
       },
       {
         "url": "https://crinetics.com/events/webcast-crinetics-pharmaceuticals-to-report-first-quarter-2026-financial-results/",
-        "anchor_text": "VIEW DETAILS",
+        "anchor_text": "Webcast: Crinetics Pharmaceuticals to Report First Quarter 2026 Financial Results",
         "score": 105
       },
       {
@@ -79714,6 +77781,11 @@
         "url": "https://ir.travere.com/press-releases/news-details/2026/Travere-Therapeutics-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635c4/default.aspx",
         "anchor_text": "Continue Reading",
         "score": 171
+      },
+      {
+        "url": "https://ir.travere.com/press-releases/news-details/2026/Travere-Therapeutics-to-Participate-at-Upcoming-Investor-Conferences/default.aspx",
+        "anchor_text": "Continue Reading",
+        "score": 160
       },
       {
         "url": "https://ir.travere.com/press-releases/news-details/2026/Travere-Therapeutics-to-Report-First-Quarter-2026-Financial-Results/default.aspx",
@@ -82615,11 +80687,6 @@
         "score": 154
       },
       {
-        "url": "https://ir.lipocine.com/2024-12-17-FDA-Grants-Fast-Track-Designation-to-Lipocine-for-LPCN-1148-as-a-Treatment-for-Sarcopenia-in-Patients-with-Decompensated-Cirrhosis",
-        "anchor_text": "FDA Grants Fast Track Designation to Lipocine for LPCN 1148 as a Treatment for Sarcopenia in Patients with Decompensated Cirrhosis",
-        "score": 154
-      },
-      {
         "url": "https://ir.lipocine.com/2026-01-20-Lipocine-Announces-Completion-of-Enrollment-and-Dosing-in-Phase-3-Trial-of-LPCN-1154-in-Postpartum-Depression-PPD",
         "anchor_text": "Lipocine Announces Completion of Enrollment and Dosing in Phase 3 Trial of LPCN 1154 in Postpartum Depression (PPD)",
         "score": 137
@@ -82658,6 +80725,11 @@
         "url": "https://ir.lipocine.com/2025-11-06-Lipocine-Announces-Financial-Results-for-the-Third-Quarter-Ended-September-30,-2025",
         "anchor_text": "Lipocine Announces Financial Results for the Third Quarter Ended September 30, 2025",
         "score": 107
+      },
+      {
+        "url": "https://ir.lipocine.com/2026-05-07-Lipocine-Announces-Financial-Results-for-the-First-Quarter-Ended-March-31,-2026",
+        "anchor_text": "Lipocine Announces Financial Results for the First Quarter Ended March 31, 2026",
+        "score": 103
       },
       {
         "url": "https://ir.lipocine.com/2025-08-05-Lipocine-Announces-Financial-Results-for-the-Second-Quarter-Ended-June-30,-2025",
@@ -82896,6 +80968,11 @@
         "score": 155
       },
       {
+        "url": "https://ir.kiorapharma.com/news-events/news-releases/detail/249/kiora-pharmaceuticals-reports-first-quarter-2026-financial-results-and-provides-corporate-update",
+        "anchor_text": "Kiora Pharmaceuticals Reports First Quarter 2026 Financial Results and Provides Corporate Update",
+        "score": 154
+      },
+      {
         "url": "https://ir.kiorapharma.com/news-events/news-releases/detail/244/kiora-pharmaceuticals-to-present-at-oppenheimers-36th-annual-healthcare-life-sciences-conference",
         "anchor_text": "Kiora Pharmaceuticals to Present at Oppenheimer's 36th Annual Healthcare Life Sciences Conference",
         "score": 154
@@ -82903,11 +80980,6 @@
       {
         "url": "https://ir.kiorapharma.com/news-events/news-releases/detail/243/retinal-disease-expert-dr-taiji-sakamoto-joins-kiora-pharmaceuticals-scientific-advisory-board",
         "anchor_text": "Retinal Disease Expert Dr. Taiji Sakamoto Joins Kiora Pharmaceuticals' Scientific Advisory Board",
-        "score": 152
-      },
-      {
-        "url": "https://ir.kiorapharma.com/news-events/news-releases/detail/239/kiora-pharmaceuticals-to-participate-in-the-2025-maxim-growth-summit-and-eyecelerator-aao-2025",
-        "anchor_text": "Kiora Pharmaceuticals to Participate in the 2025 Maxim Growth Summit and Eyecelerator @ AAO 2025",
         "score": 152
       },
       {
@@ -83276,6 +81348,11 @@
         "url": "https://hingebio.com/2022/03/topologically-engineered-antibodies-and-fc-fusion-proteins-a-new-class-of-multifunctional-therapeutic-candidates-for-sars-cov-2-cancer-and-other-disease/",
         "anchor_text": "Topologically engineered antibodies and Fc-fusion proteins: a new class of multifunctional therapeutic candidates for SARS-CoV-2, cancer, and other disease",
         "score": 205
+      },
+      {
+        "url": "https://hingebio.com/2024/11/hinge-bio-presents-preclinical-data-from-its-gem-dimer-programs-targeting-b-cell-depletion-at-the-american-college-of-rheumatology-acr-convergence-2024/",
+        "anchor_text": "Hinge Bio Presents Preclinical Data from its GEM-DIMER™ Programs Targeting B Cell Depletion at the American College of Rheumatology (ACR) Convergence 2024",
+        "score": 204
       },
       {
         "url": "https://hingebio.com/2025/09/anti-cd19-cd20-bispecific-antibody-with-dual-fc-domains-mediates-enhanced-effector-functions-and-durable-depletion-of-memory-b-cells-in-vivo/",
@@ -83751,6 +81828,11 @@
     ]
   },
   {
+    "company": "Dr. Reddy's Laboratories",
+    "press_url": "https://www.drreddys.com/media/",
+    "candidate_links": []
+  },
+  {
     "company": "Tata Consultancy Services",
     "press_url": "https://www.tcs.com/newsroom",
     "candidate_links": []
@@ -83779,6 +81861,497 @@
     "company": "Telangana Life Sciences",
     "press_url": "https://lifesciences.telangana.gov.in/news/",
     "candidate_links": []
+  },
+  {
+    "company": "Cipla",
+    "press_url": "https://www.cipla.com/media-centre/media-releases",
+    "candidate_links": [
+      {
+        "url": "https://www.cipla.com/cipla-launches-mumbais-first-breathefree-lung-wellness-center-indias-most-advanced-integrated-lung-diagnostics-facility",
+        "anchor_text": "Cipla launches Mumbai’s first Breathefree Lung Wellness Center, India’s Most  Advanced Integrated Lung Diagnostics Facility",
+        "score": 132
+      },
+      {
+        "url": "https://www.cipla.com/press-releases-statements/cipla-expands-us-respiratory-portfolio-approval-nintedanib-capsules-100mg",
+        "anchor_text": "Cipla Expands U.S. Respiratory Portfolio with Approval of Nintedanib Capsules (100mg & 150mg) for Idiopathic Pulmonary Fibrosis",
+        "score": 114
+      },
+      {
+        "url": "https://www.cipla.com/press-releases-statements/cipla-partners-immunoact-launch-talicabtagene-autoleucel-anti-cd19-car-t",
+        "anchor_text": "Cipla partners with ImmunoACT to launch talicabtagene autoleucel, an anti-CD19 CAR-T cell therapy for blood cancers in Africa",
+        "score": 113
+      },
+      {
+        "url": "https://www.cipla.com/press-releases-statements/cipla-foundation-partners-tata-iisc-medical-school-set-centre-pulmonary",
+        "anchor_text": "Cipla Foundation partners with Tata IISc Medical School to set up Centre for Pulmonary Medicine to Advance Respiratory Care & Research",
+        "score": 112
+      },
+      {
+        "url": "https://www.cipla.com/press-releases-statements/cipla-receives-us-fda-approval-first-ab-rated-generic-ventolinr-hfa",
+        "anchor_text": "Cipla Receives U.S. FDA Approval for First AB-Rated Generic of Ventolin®  HFA",
+        "score": 108
+      },
+      {
+        "url": "https://www.cipla.com/press-releases-statements/cipla-strengthens-us-portfolio-launch-generic-saxendar-liraglutide",
+        "anchor_text": "Cipla strengthens US portfolio with the launch of generic Saxenda® (Liraglutide Injection) for weight management therapy",
+        "score": 107
+      },
+      {
+        "url": "https://www.cipla.com/press-releases-statements/cipla-celebrates-90-years-commemorative-amar-chitra-katha-comic",
+        "anchor_text": "Cipla celebrates 90 years with commemorative  Amar Chitra Katha comic",
+        "score": 104
+      },
+      {
+        "url": "https://www.cipla.com/sustainability/accelerating-community-wellbeing/community-wellbeing-initiatives",
+        "anchor_text": "Community Initiatives",
+        "score": 96
+      },
+      {
+        "url": "https://www.cipla.com/sustainability/accelerating-community-wellbeing/employees-wellbeing-initiatives",
+        "anchor_text": "Employee Initiatives",
+        "score": 96
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory/paediatric-asthma",
+        "anchor_text": "Paediatric Asthma",
+        "score": 76
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory/nebulization",
+        "anchor_text": "Nebulization",
+        "score": 71
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory/asthma",
+        "anchor_text": "Asthma",
+        "score": 65
+      },
+      {
+        "url": "https://www.cipla.com/sustainability/enhancing-access-and-affordability",
+        "anchor_text": "Enhancing Access and Affordability",
+        "score": 64
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory/copd",
+        "anchor_text": "COPD",
+        "score": 63
+      },
+      {
+        "url": "https://www.cipla.com/sustainability/accelerating-community-wellbeing",
+        "anchor_text": "Accelerated Community Well-being",
+        "score": 62
+      },
+      {
+        "url": "https://www.cipla.com/about-us/board-directors/committees-board-old",
+        "anchor_text": "Committees of the Board",
+        "score": 62
+      },
+      {
+        "url": "https://www.cipla.com/sustainability/championing-climate-positivity",
+        "anchor_text": "Championing Climate Positivity",
+        "score": 60
+      },
+      {
+        "url": "https://www.cipla.com/about-us/board-directors/committees-board",
+        "anchor_text": "Committees of Board",
+        "score": 58
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory",
+        "anchor_text": "Respiratory",
+        "score": 56
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/cipla-generics/cipcal_500",
+        "anchor_text": "Cipcal",
+        "score": 56
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/cipla-generics/easylax-l",
+        "anchor_text": "Easylax-L",
+        "score": 55
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/our-therapies/hiv-aids",
+        "anchor_text": "HIV/AIDS",
+        "score": 53
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/our-therapies/oncology",
+        "anchor_text": "Oncology",
+        "score": 53
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/cipla-generics/easylax",
+        "anchor_text": "Easylax",
+        "score": 53
+      },
+      {
+        "url": "https://www.cipla.com/about-us/cipla-archive/dr-yk-hamied",
+        "anchor_text": "Scientist with a Heart- Dr. Y K Hamied",
+        "score": 52
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/cipla-generics/cipcal",
+        "anchor_text": "Cipcal",
+        "score": 52
+      },
+      {
+        "url": "https://www.cipla.com/sustainability/raising-bar-governance",
+        "anchor_text": "Raising the Bar on Governance",
+        "score": 52
+      },
+      {
+        "url": "https://www.cipla.com/about-us/90-years-of-caring-for-life",
+        "anchor_text": "90 years of caring for life",
+        "score": 51
+      },
+      {
+        "url": "https://www.cipla.com/investors/intimation-stock-exchanges",
+        "anchor_text": "Intimation to stock Exchanges",
+        "score": 51
+      },
+      {
+        "url": "https://www.cipla.com/disclosures-under-regulation-46-lodr",
+        "anchor_text": "Disclosure under regulation 46 of SEBI",
+        "score": 49
+      },
+      {
+        "url": "https://www.cipla.com/about-us/milestones-and-awards-old",
+        "anchor_text": "Milestones and Awards",
+        "score": 49
+      },
+      {
+        "url": "https://www.cipla.com/board-directors/committees-board",
+        "anchor_text": "CSR Committee",
+        "score": 47
+      },
+      {
+        "url": "https://www.cipla.com/investors/investor-presentation",
+        "anchor_text": "Investor Presentation",
+        "score": 46
+      },
+      {
+        "url": "https://www.cipla.com/about-us/management-council-old",
+        "anchor_text": "Management Council",
+        "score": 46
+      },
+      {
+        "url": "https://www.cipla.com/about-us/milestones-and-awards",
+        "anchor_text": "Milestones and Awards",
+        "score": 45
+      },
+      {
+        "url": "https://www.cipla.com/investors/corporate-governance",
+        "anchor_text": "Corporate Governance",
+        "score": 45
+      },
+      {
+        "url": "https://www.cipla.com/investors/shareholding-pattern",
+        "anchor_text": "Shareholding Pattern",
+        "score": 45
+      },
+      {
+        "url": "https://www.cipla.com/caution-notice-recruitment-fraud",
+        "anchor_text": "Caution Notice - \"Recruitment Fraud\"",
+        "score": 45
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/cipla-generics",
+        "anchor_text": "Cipla Generics",
+        "score": 43
+      },
+      {
+        "url": "https://www.cipla.com/investors/scheme-arrangement",
+        "anchor_text": "Scheme of Arrangement",
+        "score": 43
+      },
+      {
+        "url": "https://www.cipla.com/investors/investor-resources",
+        "anchor_text": "Investor Resources",
+        "score": 43
+      },
+      {
+        "url": "https://www.cipla.com/media-centre/media-releases#main-content",
+        "anchor_text": "Skip to main content",
+        "score": 42
+      },
+      {
+        "url": "https://www.cipla.com/media-centre/media-releases",
+        "anchor_text": "×",
+        "score": 42
+      },
+      {
+        "url": "https://www.cipla.com/about-us/management-council",
+        "anchor_text": "Management Council",
+        "score": 42
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/our-therapies",
+        "anchor_text": "Other Therapies",
+        "score": 42
+      },
+      {
+        "url": "https://www.cipla.com/investors/quarterly-results",
+        "anchor_text": "Quarterly Results",
+        "score": 42
+      },
+      {
+        "url": "https://www.cipla.com/investors/investor-contacts",
+        "anchor_text": "Investor Contact",
+        "score": 42
+      },
+      {
+        "url": "https://www.cipla.com/careers/inclusion-diversity",
+        "anchor_text": "Diversity & Inclusion",
+        "score": 42
+      },
+      {
+        "url": "https://www.cipla.com/about-us/onecipla-credo-old",
+        "anchor_text": "Our Credo",
+        "score": 42
+      },
+      {
+        "url": "https://www.cipla.com/careers/business-functions",
+        "anchor_text": "Business Functions",
+        "score": 41
+      },
+      {
+        "url": "https://www.cipla.com/careers/holistic-wellbeing",
+        "anchor_text": "Holistic Wellbeing",
+        "score": 41
+      },
+      {
+        "url": "https://www.cipla.com/about-us/cipla-archive-old",
+        "anchor_text": "Our History - Cipla Archives",
+        "score": 41
+      },
+      {
+        "url": "https://www.cipla.com/chatbot-api-terms-conditions",
+        "anchor_text": "Terms & Condition",
+        "score": 41
+      },
+      {
+        "url": "https://www.cipla.com/about-us/code-conduct-old",
+        "anchor_text": "Code of Conduct",
+        "score": 40
+      },
+      {
+        "url": "https://www.cipla.com/about-us/board-directors",
+        "anchor_text": "Board of Directors",
+        "score": 39
+      },
+      {
+        "url": "https://www.cipla.com/investors/annual-reports",
+        "anchor_text": "Annual Reports",
+        "score": 39
+      },
+      {
+        "url": "https://www.cipla.com/investors/unclaimed-data",
+        "anchor_text": "Unclaimed Data",
+        "score": 39
+      },
+      {
+        "url": "https://www.cipla.com/careers/cipla-university",
+        "anchor_text": "Cipla University",
+        "score": 39
+      },
+      {
+        "url": "https://www.cipla.com/chatbot-api-privacy-policy",
+        "anchor_text": "Privacy Policy",
+        "score": 39
+      },
+      {
+        "url": "https://www.cipla.com/about-us/onecipla-credo",
+        "anchor_text": "Our Credo",
+        "score": 38
+      },
+      {
+        "url": "https://www.cipla.com/legacy-of-care-comic-book",
+        "anchor_text": "Legacy of Care | Comic Book",
+        "score": 38
+      },
+      {
+        "url": "https://www.cipla.com/cipla-launches-ciposcillo",
+        "anchor_text": "Cipla launches Ciposcillo® – A next-generation oscillometer  device for respiratory diagnostics",
+        "score": 38
+      },
+      {
+        "url": "https://www.cipla.com/about-us/manufacturing",
+        "anchor_text": "Manufacturing",
+        "score": 37
+      },
+      {
+        "url": "https://www.cipla.com/about-us/cipla-archive",
+        "anchor_text": "Our History - Cipla Archives",
+        "score": 37
+      },
+      {
+        "url": "https://www.cipla.com/our-presence/australia",
+        "anchor_text": "Australia",
+        "score": 37
+      },
+      {
+        "url": "https://www.cipla.com/chatbot-api-terms-of-use",
+        "anchor_text": "Terms of Use",
+        "score": 37
+      },
+      {
+        "url": "https://www.cipla.com/about-us/code-conduct",
+        "anchor_text": "Code of Conduct",
+        "score": 36
+      },
+      {
+        "url": "https://www.cipla.com/careers/life-at-cipla",
+        "anchor_text": "Life at Cipla",
+        "score": 36
+      },
+      {
+        "url": "https://www.cipla.com/csr/cipla-foundation",
+        "anchor_text": "CSR-Cipla Foundation",
+        "score": 35
+      },
+      {
+        "url": "https://www.cipla.com/about-us/quality-old",
+        "anchor_text": "Quality",
+        "score": 35
+      },
+      {
+        "url": "https://www.cipla.com/chatbot-api-disclaimer",
+        "anchor_text": "Disclaimer",
+        "score": 35
+      },
+      {
+        "url": "https://www.cipla.com/our-presence/brazil",
+        "anchor_text": "Brazil",
+        "score": 34
+      },
+      {
+        "url": "https://www.cipla.com/our-presence/europe",
+        "anchor_text": "Europe",
+        "score": 34
+      },
+      {
+        "url": "https://www.cipla.com/our-presence/uganda",
+        "anchor_text": "Uganda",
+        "score": 34
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/api",
+        "anchor_text": "API",
+        "score": 32
+      },
+      {
+        "url": "https://www.cipla.com/media-centre/news",
+        "anchor_text": "In the News",
+        "score": 32
+      },
+      {
+        "url": "https://www.cipla.com/about-us/quality",
+        "anchor_text": "Quality",
+        "score": 31
+      },
+      {
+        "url": "https://www.cipla.com/cipla-diagnostics",
+        "anchor_text": "Cipla Diagnostics",
+        "score": 30
+      },
+      {
+        "url": "https://www.cipla.com/cipla-malaysia",
+        "anchor_text": "Malaysia",
+        "score": 27
+      },
+      {
+        "url": "https://www.cipla.com/cipla-srilanka",
+        "anchor_text": "Sri Lanka",
+        "score": 27
+      },
+      {
+        "url": "https://www.cipla.com/privacy-policy",
+        "anchor_text": "More info",
+        "score": 27
+      },
+      {
+        "url": "https://www.cipla.com/cipla-morocco",
+        "anchor_text": "Morocco",
+        "score": 26
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings",
+        "anchor_text": "Our Offerings",
+        "score": 26
+      },
+      {
+        "url": "https://www.cipla.com/about-us-old",
+        "anchor_text": "Cipla At a Glance",
+        "score": 25
+      },
+      {
+        "url": "https://www.cipla.com/investors/disclaimer",
+        "anchor_text": "Disclaimer",
+        "score": 25
+      },
+      {
+        "url": "https://www.cipla.com/media-centre",
+        "anchor_text": "Media Center",
+        "score": 25
+      },
+      {
+        "url": "https://www.cipla.com/cipla-nepal",
+        "anchor_text": "Nepal",
+        "score": 24
+      },
+      {
+        "url": "https://www.cipla.com/covid-care",
+        "anchor_text": "Covid Care",
+        "score": 23
+      },
+      {
+        "url": "https://www.cipla.com/contact-us",
+        "anchor_text": "Contact Us",
+        "score": 23
+      },
+      {
+        "url": "https://www.cipla.com/cipla-amr",
+        "anchor_text": "AMR",
+        "score": 22
+      },
+      {
+        "url": "https://www.cipla.com/about-us",
+        "anchor_text": "About Us",
+        "score": 21
+      },
+      {
+        "url": "https://www.cipla.com/sustainability",
+        "anchor_text": "Sustainability",
+        "score": 17
+      },
+      {
+        "url": "https://www.cipla.com/dsafe.html",
+        "anchor_text": "Drug Safety Reporting",
+        "score": 13
+      },
+      {
+        "url": "https://www.cipla.com/investors",
+        "anchor_text": "Investors",
+        "score": 12
+      },
+      {
+        "url": "https://www.cipla.com/careers",
+        "anchor_text": "Careers",
+        "score": 10
+      },
+      {
+        "url": "https://www.cipla.com/sitemap",
+        "anchor_text": "Sitemap",
+        "score": 10
+      },
+      {
+        "url": "https://www.cipla.com/",
+        "anchor_text": "Our Presence",
+        "score": 3
+      }
+    ]
   },
   {
     "company": "Medpace",
@@ -85658,6 +84231,11 @@
     ]
   },
   {
+    "company": "Eisai",
+    "press_url": "https://www.eisai.com/news/index.html",
+    "candidate_links": []
+  },
+  {
     "company": "Lupin Limited",
     "press_url": "ttps://www.lupin.com/media/press-releases",
     "candidate_links": []
@@ -85808,6 +84386,11 @@
     "candidate_links": []
   },
   {
+    "company": "Storm Therapeutics",
+    "press_url": "https://www.stormtherapeutics.com/news/",
+    "candidate_links": []
+  },
+  {
     "company": "Absci Corporation",
     "press_url": "https://investors.absci.com/news-and-events/news-releases",
     "candidate_links": []
@@ -85815,11 +84398,6 @@
   {
     "company": "Springworks Therapeutics",
     "press_url": "https://ir.springworkstx.com/news-releases",
-    "candidate_links": []
-  },
-  {
-    "company": "Galapagos",
-    "press_url": "https://www.glpg.com/press-releases",
     "candidate_links": []
   },
   {

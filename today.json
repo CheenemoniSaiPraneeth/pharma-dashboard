@@ -1,156 +1,240 @@
 [
     {
-        "company": "Sartorius Stedim India Pvt Ltd",
-        "url": "https://www.sartorius.com/en/company/newsroom/corporate-news/sartorius-completes-placement-of-bond-with-a-volume-of-500-million-euros-1824718",
-        "score": 136,
-        "date_added": "2026-05-07",
+        "company": "Amgen",
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/05/amgen-to-present-at-the-bank-of-america-merrill-lynch-global-healthcare-conference",
+        "score": 160,
+        "date_added": "2026-05-09",
         "article_like": true
     },
     {
-        "company": "Simson Pharma Limited",
-        "url": "https://www.simsonpharma.com/blog-details/understanding-api-impurity-standards-in-pharmaceutical-development",
-        "score": 94,
-        "date_added": "2026-05-07",
+        "company": "Novartis",
+        "url": "https://www.novartis.com/news/media-releases/novartis-breaks-ground-denton-texas-radioligand-therapy-site-construction-now-underway-across-all-new-us-facilities",
+        "score": 152,
+        "date_added": "2026-05-09",
         "article_like": true
     },
     {
-        "company": "Abiogenesis Clinpharm Private Limited",
-        "url": "https://abiogenesisclinpharm.com/uk-clinical-trials-reform-2026-ich-e6r3/",
-        "score": 55,
-        "date_added": "2026-05-07",
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/05/Hero-Wipes-Fire-Efficacy-Study",
+        "score": 109,
+        "date_added": "2026-05-09",
         "article_like": true
     },
     {
-        "company": "KPMG",
-        "url": "https://kpmg.com/xx/en/media/press-releases/2026/05/kpmg-expands-global-alliance-partnership-with-service-now.html",
-        "score": 147,
-        "date_added": "2026-05-07",
+        "company": "Google DeepMind",
+        "url": "https://deepmind.google/blog/alphaevolve-impact/",
+        "score": 41,
+        "date_added": "2026-05-09",
         "article_like": true
     },
     {
-        "company": "Cipla",
-        "url": "https://www.cipla.com/cipla-launches-ciposcillo",
-        "score": 38,
-        "date_added": "2026-05-07",
-        "article_like": true
-    },
-    {
-        "company": "GSK",
-        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-presents-latest-respiratory-research-to-advance-patient-care-at-ats-2026/",
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/feature-articles/when-accuracy-matters--how-multiomics-helps-separate-malignant-a.html",
         "score": 125,
-        "date_added": "2026-05-07",
+        "date_added": "2026-05-09",
         "article_like": true
     },
     {
-        "company": "PPD (Thermo Fisher)",
-        "url": "https://www.ppd.com/news-item/thermo-fisher-leader-cro-2026-isg-provider-lens-ai-clinical-trials/",
-        "score": 94,
-        "date_added": "2026-05-07",
+        "company": "Lupin",
+        "url": "https://www.lupin.com/media/perspectives/the-intergenerational-impact-of-investing-in-women-s-health",
+        "score": 95,
+        "date_added": "2026-05-09",
+        "article_like": true
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/media/press-releases/lupin-fy-2026-and-q4-fy-2026-results",
+        "score": 74,
+        "date_added": "2026-05-09",
+        "article_like": true
+    },
+    {
+        "company": "Mylan (Viatris)",
+        "url": "https://newsroom.viatris.com/2026-05-07-Viatris-to-Present-at-the-Bank-of-America-Securities-2026-Healthcare-Conference",
+        "score": 103,
+        "date_added": "2026-05-09",
+        "article_like": true
+    },
+    {
+        "company": "Mylan (Viatris)",
+        "url": "https://newsroom.viatris.com/2026-05-07-Viatris-Reports-First-Quarter-2026-Financial-Results",
+        "score": 76,
+        "date_added": "2026-05-09",
+        "article_like": true
+    },
+    {
+        "company": "Mylan (Viatris)",
+        "url": "https://newsroom.viatris.com/2026-05-07-Viatris-Reports-First-Quarter-2026-Financial-Results#assets_2429_123914-140",
+        "score": 76,
+        "date_added": "2026-05-09",
+        "article_like": true
+    },
+    {
+        "company": "Mylan (Viatris)",
+        "url": "https://newsroom.viatris.com/press-releases?o=210",
+        "score": 27,
+        "date_added": "2026-05-09",
         "article_like": true
     },
     {
         "company": "Labcorp Drug Development",
-        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/fentanyl-drives-overdose-deaths-rapid-testing-essential.html",
-        "score": 133,
-        "date_added": "2026-05-07",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-publishes-2025-corporate-responsibility-report.html",
+        "score": 138,
+        "date_added": "2026-05-09",
         "article_like": true
     },
     {
-        "company": "Roche",
-        "url": "https://www.roche.com/media/releases/med-cor-2026-05-07",
-        "score": 50,
-        "date_added": "2026-05-07",
+        "company": "DNAnexus",
+        "url": "https://www.dnanexus.com/press/dnanexus-wins-medtech-breakthroughs-pharmatech-innovation-award",
+        "score": 84,
+        "date_added": "2026-05-09",
         "article_like": true
     },
     {
-        "company": "AbbVie",
-        "url": "https://news.abbvie.com/2026-05-06-AbbVie-to-Present-at-the-Bank-of-America-Securities-Healthcare-Conference",
+        "company": "Tempus",
+        "url": "https://www.tempus.com/life-sciences/foundation-models/",
+        "score": 49,
+        "date_added": "2026-05-09",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/software/genesis-solutions",
+        "score": 60,
+        "date_added": "2026-05-09",
+        "article_like": true
+    },
+    {
+        "company": "Stryker",
+        "url": "https://www.stryker.com/us/en/about/news/2026/stryker-completes-acquisition-of-amplitude-vascular-systems.html",
+        "score": 134,
+        "date_added": "2026-05-09",
+        "article_like": true
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/about/news-and-media/caris-submits-application-to-nysdoh-for-caris-assure-blood-based-testing-authorization/",
+        "score": 127,
+        "date_added": "2026-05-09",
+        "article_like": true
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-reports-first-quarter-2026-financial-results/",
+        "score": 105,
+        "date_added": "2026-05-09",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-launches-generation-fine-a-new-movement-encouraging-patients-to-expect-more-from-depression-treatment-and-aim-for-remission",
+        "score": 184,
+        "date_added": "2026-05-09",
+        "article_like": true
+    },
+    {
+        "company": "Gilead Sciences",
+        "url": "https://www.gilead.com/news/news-details/2026/gilead-sciences-announces-first-quarter-financial-results",
+        "score": 124,
+        "date_added": "2026-05-09",
+        "article_like": true
+    },
+    {
+        "company": "Daiichi Sankyo",
+        "url": "https://www.daiichisankyo.com/media/press_release/detail/index_3353.html",
+        "score": 51,
+        "date_added": "2026-05-09",
+        "article_like": true
+    },
+    {
+        "company": "Alnylam Pharmaceuticals",
+        "url": "https://investors.alnylam.com/press-release?id=29831",
+        "score": 26,
+        "date_added": "2026-05-09",
+        "article_like": true
+    },
+    {
+        "company": "Generate Biomedicines",
+        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-expands-board-of-directors-with-appointment-of-marsha-fanucci",
+        "score": 110,
+        "date_added": "2026-05-09",
+        "article_like": true
+    },
+    {
+        "company": "AbCellera",
+        "url": "https://www.abcellera.com/news/abcellera-to-present-at-upcoming-investor-conferences-in-may-and-june-2026",
+        "score": 94,
+        "date_added": "2026-05-09",
+        "article_like": true
+    },
+    {
+        "company": "KaryoPharm Therapeutics",
+        "url": "https://investors.karyopharm.com/2026-05-07-Karyopharm-to-Report-First-Quarter-2026-Financial-Results-on-May-14,-2026",
         "score": 97,
-        "date_added": "2026-05-07",
-        "article_like": true
-    },
-    {
-        "company": "BeiGene",
-        "url": "https://ir.beonemedicines.com/news/beone-medicines-announces-first-quarter-2026-financial-results-and-business-updates/b1bc8b58-c16d-4266-a5f9-5c4862ec45ba",
-        "score": 142,
-        "date_added": "2026-05-07",
-        "article_like": true
-    },
-    {
-        "company": "CRISPR Therapeutics",
-        "url": "https://crisprtx.com/about-us/press-releases-and-presentations/crispr-therapeutics-to-present-at-the-bank-of-america-securities-2026-global-healthcare-conference",
-        "score": 157,
-        "date_added": "2026-05-07",
-        "article_like": true
-    },
-    {
-        "company": "Immunocore",
-        "url": "https://www.immunocore.com/investors/news/press-releases/detail/130/immunocore-reports-first-quarter-financial-results-and-provides-a-business-update",
-        "score": 145,
-        "date_added": "2026-05-07",
-        "article_like": true
-    },
-    {
-        "company": "Insilico Medicine",
-        "url": "https://insilico.com/news/tmikccj2f1-advancing-drug-discovery-from-automation",
-        "score": 71,
-        "date_added": "2026-05-07",
-        "article_like": true
-    },
-    {
-        "company": "IQVIA",
-        "url": "https://www.iqvia.com/newsroom/2026/05/iqvia-cfo-to-speak-at-bank-of-america-health-care-conference-2026",
-        "score": 126,
-        "date_added": "2026-05-07",
-        "article_like": true
-    },
-    {
-        "company": "Catalent",
-        "url": "https://www.catalent.com/pharma-services/",
-        "score": 31,
-        "date_added": "2026-05-07",
-        "article_like": true
-    },
-    {
-        "company": "UCB",
-        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-cancer-research-uk-and-cancer-research-horizons-announce-new-strategic-alliance-to-accelerate-development-of-novel-cancer-therapies",
-        "score": 186,
-        "date_added": "2026-05-07",
+        "date_added": "2026-05-09",
         "article_like": true
     },
     {
         "company": "Novavax",
-        "url": "https://ir.novavax.com/press-releases/2026-05-06-Novavax-Reports-First-Quarter-2026-Financial-Results-and-Operational-Highlights",
-        "score": 120,
-        "date_added": "2026-05-07",
+        "url": "https://ir.novavax.com/press-releases/2026-05-07-Novavax-to-Participate-in-BofA-Securities-2026-Health-Care-Conference",
+        "score": 110,
+        "date_added": "2026-05-09",
         "article_like": true
     },
     {
         "company": "Novavax",
-        "url": "https://ir.novavax.com/press-releases/2026-05-06-Novavax-Reports-First-Quarter-2026-Financial-Results-and-Operational-Highlights?asPDF=1",
-        "score": 120,
-        "date_added": "2026-05-07",
+        "url": "https://ir.novavax.com/press-releases/2026-05-07-Novavax-to-Participate-in-BofA-Securities-2026-Health-Care-Conference?asPDF=1",
+        "score": 110,
+        "date_added": "2026-05-09",
         "article_like": true
     },
     {
-        "company": "Genethon",
-        "url": "https://www.genethon.fr/essais-cliniques-basket-une-methodologie-innovante-pour-accelerer-le-developpement-de-traitements-pour-les-maladies-rares/",
+        "company": "OXB (Oxford Biomedica)",
+        "url": "https://oxb.com/news/oxb-to-exhibit-and-present-at-the-30th-annual-meeting-of-the-american-society-of-cell-and-gene-therapy-asgct/",
+        "score": 131,
+        "date_added": "2026-05-09",
+        "article_like": true
+    },
+    {
+        "company": "Asimov",
+        "url": "https://www.asimov.com/news/asimov-completes-lead-optimization-campaign-with-mabylon-ag-to-advance-trispecific-antibody-for-tree-pollen-allergies",
         "score": 137,
-        "date_added": "2026-05-07",
-        "article_like": true
-    },
-    {
-        "company": "Abridge",
-        "url": "https://www.abridge.com/blog/mayo-clinic-ambient-ai-nursing",
-        "score": 50,
-        "date_added": "2026-05-07",
+        "date_added": "2026-05-09",
         "article_like": true
     },
     {
         "company": "Menarini Group",
-        "url": "https://www.menarini.com/en-us/news/news-detail/thirty-years-of-values-the-fair-play-menarini-international-award-announces-its-2026-edition.html",
-        "score": 139,
-        "date_added": "2026-05-07",
+        "url": "https://www.menarini.com/en-us/news/news-detail/menarini-group-thomas-cueni-appointed-new-member-of-the-board.html",
+        "score": 108,
+        "date_added": "2026-05-09",
+        "article_like": true
+    },
+    {
+        "company": "Galapagos",
+        "url": "https://www.glpg.com/press-releases#main",
+        "score": 27,
+        "date_added": "2026-05-09",
+        "article_like": true
+    },
+    {
+        "company": "Crinetics Pharmaceuticals",
+        "url": "https://crinetics.com/press-releases/crinetics-pharmaceuticals-reports-first-quarter-2026-financial-results-and-provides-business-update/",
+        "score": 132,
+        "date_added": "2026-05-09",
+        "article_like": true
+    },
+    {
+        "company": "Lipocine",
+        "url": "https://ir.lipocine.com/2026-05-07-Lipocine-Announces-Financial-Results-for-the-First-Quarter-Ended-March-31,-2026",
+        "score": 103,
+        "date_added": "2026-05-09",
+        "article_like": true
+    },
+    {
+        "company": "Kiora Pharmaceuticals",
+        "url": "https://ir.kiorapharma.com/news-events/news-releases/detail/249/kiora-pharmaceuticals-reports-first-quarter-2026-financial-results-and-provides-corporate-update",
+        "score": 154,
+        "date_added": "2026-05-09",
         "article_like": true
     }
 ]
