@@ -7500,127 +7500,6 @@
     ]
   },
   {
-    "company": "Thermo Fisher Scientific",
-    "press_url": "https://www.thermofisher.com/blog/",
-    "candidate_links": [
-      {
-        "url": "https://www.thermofisher.com/blog/accelerating-science-blog-subscribe/",
-        "anchor_text": "subscribe",
-        "score": 58
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/clinical-conversations/",
-        "anchor_text": "Clinical Conversations",
-        "score": 45
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/identifying-threats/",
-        "anchor_text": "Identifying Threats",
-        "score": 42
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/atomic-resolution/",
-        "anchor_text": "Life in Atomic Resolution",
-        "score": 40
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/new-thermo-fisher/",
-        "anchor_text": "New on ThermoFisher.com",
-        "score": 40
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/ask-a-scientist/",
-        "anchor_text": "Ask a Scientist",
-        "score": 38
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/life-in-the-lab/",
-        "anchor_text": "Life in the Lab",
-        "score": 38
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/contact-us/",
-        "anchor_text": "Contact",
-        "score": 33
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/about-us/",
-        "anchor_text": "About Us",
-        "score": 31
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/behindthebench/",
-        "anchor_text": "Behind the Bench",
-        "score": 27
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/semiconductors/",
-        "anchor_text": "Illuminating Semiconductors",
-        "score": 27
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/biotechnology/",
-        "anchor_text": "Biotech at Scale",
-        "score": 26
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/connectedlab/",
-        "anchor_text": "The Connected Lab",
-        "score": 25
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/analyteguru/",
-        "anchor_text": "AnalyteGuru",
-        "score": 24
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/oempowered/",
-        "anchor_text": "OEMpowered",
-        "score": 23
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/materials/",
-        "anchor_text": "Advancing Materials",
-        "score": 22
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/locations/",
-        "anchor_text": "Locations",
-        "score": 22
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/sitemap/",
-        "anchor_text": "Sitemap",
-        "score": 20
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/mining/",
-        "anchor_text": "Advancing Mining",
-        "score": 19
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/metals/",
-        "anchor_text": "Analyzing Metals",
-        "score": 19
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/food/",
-        "anchor_text": "Examining Food",
-        "score": 17
-      },
-      {
-        "url": "https://www.thermofisher.com/",
-        "anchor_text": "Thermo Fisher Scientific",
-        "score": 3
-      },
-      {
-        "url": "https://www.thermofisher.com",
-        "anchor_text": "Thermo Fisher Scientific",
-        "score": 0
-      }
-    ]
-  },
-  {
     "company": "Gland Pharma Limited",
     "press_url": "https://glandpharma.com/resource/news",
     "candidate_links": [
@@ -9812,12 +9691,12 @@
         "score": 83
       },
       {
-        "url": "https://insilicominds.com/insilicominds-ikiminds-pvt-ltd-insilicotrials-meet-the-dcgi/",
+        "url": "https://insilicominds.com/new-quantitative-medicine-center-of-excellence-at-fdas-cder/",
         "anchor_text": "Read More »",
         "score": 75
       },
       {
-        "url": "https://insilicominds.com/new-quantitative-medicine-center-of-excellence-at-fdas-cder/",
+        "url": "https://insilicominds.com/insilicominds-ikiminds-pvt-ltd-insilicotrials-meet-the-dcgi/",
         "anchor_text": "Read More »",
         "score": 75
       },
@@ -17440,19 +17319,9 @@
     "press_url": "https://www.sailife.com/news",
     "candidate_links": [
       {
-        "url": "https://www.sailife.com/sai-life-sciences-agility-life-sciences-and-centrix-pharma-solutions-announce-an-integrated-cmc-partnership-to-accelerate-drug-development-for-innovators/",
-        "anchor_text": "Read more",
-        "score": 169
-      },
-      {
         "url": "https://www.sailife.com/mabtech-and-sai-life-sciences-announce-strategic-collaboration-to-advance-immunology-research-with-eyra-platform-at-sai-boston-site/",
         "anchor_text": "Read more",
         "score": 147
-      },
-      {
-        "url": "https://www.sailife.com/sai-life-sciences-launches-child-safety-awareness-program-in-government-schools-in-hyderabad-with-sankalp-foundation/",
-        "anchor_text": "Read more",
-        "score": 132
       },
       {
         "url": "https://www.sailife.com/pushing-boundaries-in-organic-chemistry-iisc-prof-santanu-mukherjee-at-sai-life-sciences/",
@@ -17463,16 +17332,6 @@
         "url": "https://www.sailife.com/india-is-evolving-from-being-a-tactical-supplier-to-a-strategic-partner-to-global-pharma/",
         "anchor_text": "Read more",
         "score": 104
-      },
-      {
-        "url": "https://www.sailife.com/where-nature-inspires-innovation-university-of-kansas-prof-apurba-dutta-visits-sai/",
-        "anchor_text": "Read more",
-        "score": 98
-      },
-      {
-        "url": "https://www.sailife.com/sai-life-sciences-set-to-double-process-rd-capacity-with-new-facility-in-hyderabad/",
-        "anchor_text": "Read more",
-        "score": 98
       },
       {
         "url": "https://www.sailife.com/sai-life-sciences-recognized-as-a-best-organization-for-women-bow-2026-by-et-edge/",
@@ -17488,11 +17347,6 @@
         "url": "https://www.sailife.com/kudikunta-lake-restoration-completed-marking-the-revival-of-an-urban-water-body/",
         "anchor_text": "Read more",
         "score": 95
-      },
-      {
-        "url": "https://www.sailife.com/sai-life-sciences-becomes-a-signatory-to-the-un-womens-empowerment-principles/",
-        "anchor_text": "Read more",
-        "score": 93
       },
       {
         "url": "https://www.sailife.com/inside-sai-life-sciences-integrated-rd-campus-accelerating-drug-development/",
@@ -17541,11 +17395,6 @@
       },
       {
         "url": "https://www.sailife.com/ai-driven-retrosynthesis-integrated-into-discovery-chemistry/",
-        "anchor_text": "Read more",
-        "score": 76
-      },
-      {
-        "url": "https://www.sailife.com/sai-life-sciences-limited-sustains-growth-momentum-in-q2fy26/",
         "anchor_text": "Read more",
         "score": 76
       },
@@ -17720,7 +17569,7 @@
         "score": 21
       },
       {
-        "url": "https://www.sailife.com/news/page/5/?ajax=true",
+        "url": "https://www.sailife.com/news/page/4/?ajax=true",
         "anchor_text": "next page",
         "score": 21
       },
@@ -30902,11 +30751,6 @@
         "score": 33
       },
       {
-        "url": "https://www.labcorp.com/terms-and-conditions",
-        "anchor_text": "Terms and Conditions",
-        "score": 33
-      },
-      {
         "url": "https://www.labcorp.com/compliance/ethics/slavery",
         "anchor_text": "Combatting Modern Slavery and Human Trafficking Statement",
         "score": 32
@@ -43330,7 +43174,7 @@
       },
       {
         "url": "https://www.takeda.com/newsroom/press-releases/",
-        "anchor_text": "Do not sell or share my personal information",
+        "anchor_text": "Press Releases",
         "score": 41
       },
       {
@@ -46478,6 +46322,11 @@
         "url": "https://www.immunocore.com/clinical-trials",
         "anchor_text": "Clinical Trials",
         "score": 28
+      },
+      {
+        "url": "https://www.immunocore.com/privacy-policy",
+        "anchor_text": "Privacy Policy",
+        "score": 27
       },
       {
         "url": "https://www.immunocore.com/science/publications",
@@ -70472,6 +70321,152 @@
     ]
   },
   {
+    "company": "Storm Therapeutics",
+    "press_url": "https://www.stormtherapeutics.com/news/",
+    "candidate_links": [
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/storm-therapeutics-and-alidabio-announce-strategic-collaboration-to-accelerate-development-of-cancer-therapies-targeting-rna/",
+        "anchor_text": "Read more",
+        "score": 164
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/storm-therapeutics-announces-first-patient-dosed-in-clinical-collaboration-to-evaluate-stc-15-in-combination-with-loqtorzi/",
+        "anchor_text": "Read more",
+        "score": 162
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/storm-therapeutics-secures-56-million-series-c-financing-and-doses-first-patient-in-phase-2-sarcoma-trial-of-stc-15/",
+        "anchor_text": "Read more",
+        "score": 155
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/storm-therapeutics-presents-new-clinical-data-on-its-first-in-class-mettl3-inhibitor-stc-15-at-sitc-2024/",
+        "anchor_text": "Read more",
+        "score": 144
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/storm-therapeutics-appoints-veteran-cancer-drug-developer-dr-eric-martin-as-chief-development-officer/",
+        "anchor_text": "Read more",
+        "score": 141
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/platform/rna-modifying-enzymes/",
+        "anchor_text": "RNA modifying enzymes",
+        "score": 48
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/page10/",
+        "anchor_text": "10",
+        "score": 46
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/page11/",
+        "anchor_text": "11",
+        "score": 46
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/page2/",
+        "anchor_text": "Next",
+        "score": 45
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/page3/",
+        "anchor_text": "3",
+        "score": 45
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/page4/",
+        "anchor_text": "4",
+        "score": 45
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/page5/",
+        "anchor_text": "5",
+        "score": 45
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/page6/",
+        "anchor_text": "6",
+        "score": 45
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/page7/",
+        "anchor_text": "7",
+        "score": 45
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/page8/",
+        "anchor_text": "8",
+        "score": 45
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/page9/",
+        "anchor_text": "9",
+        "score": 45
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/storm-in-the-news/",
+        "anchor_text": "STORM in the News",
+        "score": 40
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/about/leadership-team/",
+        "anchor_text": "Leadership team",
+        "score": 39
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/about/board-members/",
+        "anchor_text": "Board members",
+        "score": 37
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/",
+        "anchor_text": "1",
+        "score": 37
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/clinical-trials/",
+        "anchor_text": "Clinical trials",
+        "score": 31
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/privacy-policy/",
+        "anchor_text": "Privacy policy",
+        "score": 30
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/platform/publications/",
+        "anchor_text": "Publications",
+        "score": 29
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/about/investors/",
+        "anchor_text": "Investors",
+        "score": 23
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/stc-15/",
+        "anchor_text": "STC-15",
+        "score": 22
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/contact/",
+        "anchor_text": "Contact",
+        "score": 13
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/about/",
+        "anchor_text": "About us",
+        "score": 11
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/",
+        "anchor_text": "",
+        "score": 3
+      }
+    ]
+  },
+  {
     "company": "Cellarity",
     "press_url": "https://www.cellarity.com/news",
     "candidate_links": [
@@ -81848,6 +81843,11 @@
     "candidate_links": []
   },
   {
+    "company": "Thermo Fisher Scientific",
+    "press_url": "https://www.thermofisher.com/blog/",
+    "candidate_links": []
+  },
+  {
     "company": "T-Hub",
     "press_url": "https://t-hub.co/media/",
     "candidate_links": []
@@ -83337,898 +83337,7 @@
   {
     "company": "Merck KGaA",
     "press_url": "https://www.merckgroup.com/en/news/press-releases.html",
-    "candidate_links": [
-      {
-        "url": "https://www.merckgroup.com/en/research/science-space/envisioning-tomorrow/smart-manufacturing-transforming-the-factory-shopfloor.html",
-        "anchor_text": "Company Info",
-        "score": 127
-      },
-      {
-        "url": "https://www.merckgroup.com/en/research/our-approach-to-research-and-development/healthcare/clinical-trials.html",
-        "anchor_text": "Clinical Trials",
-        "score": 105
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/electronics/technologies/delivery-systems-and-services.html",
-        "anchor_text": "Delivery Systems and Services",
-        "score": 93
-      },
-      {
-        "url": "https://www.merckgroup.com/en/sustainability/reports-and-guidelines/sustainability-statement.html",
-        "anchor_text": "Sustainability Statement",
-        "score": 89
-      },
-      {
-        "url": "https://www.merckgroup.com/en/sustainability/business-ethics/compliance/compliance-hotline.html",
-        "anchor_text": "Compliance-Hotline",
-        "score": 89
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/electronics/technologies/metrology-and-inspection.html",
-        "anchor_text": "Metrology and Inspection",
-        "score": 88
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/semiconductors/custom-innovation/intermolecular.html",
-        "anchor_text": "Intermolecular®",
-        "score": 86
-      },
-      {
-        "url": "https://www.merckgroup.com/en/investors/events-and-presentations/annual-general-meeting.html",
-        "anchor_text": "Company Info",
-        "score": 84
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-north-and-west-africa/merck-in-algeria.html",
-        "anchor_text": "Algeria",
-        "score": 84
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-north-and-west-africa/merck-in-tunisia.html",
-        "anchor_text": "Tunisia",
-        "score": 84
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-north-and-west-africa/merck-in-morocco.html",
-        "anchor_text": "Morocco",
-        "score": 84
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-north-east-africa/merck-in-ethiopia.html",
-        "anchor_text": "Ethiopia",
-        "score": 81
-      },
-      {
-        "url": "https://www.merckgroup.com/en/research/open-innovation/futureinsightprize_streaming.html",
-        "anchor_text": "Future Insight Prize",
-        "score": 80
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-south-east-africa/merck-in-nigeria.html",
-        "anchor_text": "Nigeria",
-        "score": 80
-      },
-      {
-        "url": "https://www.merckgroup.com/content/corporate/communications/china-country-site/zh.html",
-        "anchor_text": "China, mainland",
-        "score": 80
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/electronics/technologies/specialty-gases.html",
-        "anchor_text": "Semiconductor Specialty Gases",
-        "score": 79
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-saudi-arabia.html",
-        "anchor_text": "Saudi Arabia",
-        "score": 79
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-north-east-africa/merck-in-egypt.html",
-        "anchor_text": "Egypt",
-        "score": 78
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-south-east-africa/merck-in-ghana.html",
-        "anchor_text": "Ghana",
-        "score": 78
-      },
-      {
-        "url": "https://www.merckgroup.com/en/the-future-transformation/ai-economically-meaningful.html",
-        "anchor_text": "Stories",
-        "score": 77
-      },
-      {
-        "url": "https://www.merckgroup.com/en/the-future-transformation/what-the-crisis-taught-us.html",
-        "anchor_text": "Stories",
-        "score": 76
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-palestine.html",
-        "anchor_text": "Palestine",
-        "score": 76
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/electronics/technologies/thin-films.html",
-        "anchor_text": "Semiconductor Thin Films",
-        "score": 74
-      },
-      {
-        "url": "https://www.merckgroup.com/en/research/our-approach-to-research-and-development.html",
-        "anchor_text": "Our R&D Approach",
-        "score": 74
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-bahrain.html",
-        "anchor_text": "Bahrain",
-        "score": 74
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-lebanon.html",
-        "anchor_text": "Lebanon",
-        "score": 74
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-jordan.html",
-        "anchor_text": "Jordan",
-        "score": 73
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-kuwait.html",
-        "anchor_text": "Kuwait",
-        "score": 73
-      },
-      {
-        "url": "https://www.merckgroup.com/en/sustainability/business-ethics/digital-ethics.html",
-        "anchor_text": "Company Info",
-        "score": 72
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-qatar.html",
-        "anchor_text": "Qatar",
-        "score": 72
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-syria.html",
-        "anchor_text": "Syria",
-        "score": 72
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-yemen.html",
-        "anchor_text": "Yemen",
-        "score": 72
-      },
-      {
-        "url": "https://www.merckgroup.com/en/research/open-innovation/research-challenges.html",
-        "anchor_text": "Research Challenges",
-        "score": 71
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-iran.html",
-        "anchor_text": "Iran",
-        "score": 71
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-iraq.html",
-        "anchor_text": "Iraq",
-        "score": 71
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-oman.html",
-        "anchor_text": "Oman",
-        "score": 71
-      },
-      {
-        "url": "https://www.merckgroup.com/en/research/science-space/envisioning-tomorrow.html",
-        "anchor_text": "Envisioning Tomorrow",
-        "score": 70
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-uae.html",
-        "anchor_text": "United Arab Emirates",
-        "score": 70
-      },
-      {
-        "url": "https://www.merckgroup.com/en/research/open-innovation/research-grants.html",
-        "anchor_text": "Research Grants",
-        "score": 67
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/electronics/technologies/formulations.html",
-        "anchor_text": "Semiconductor Formulations",
-        "score": 66
-      },
-      {
-        "url": "https://www.merckgroup.com/en/research/open-innovation/innovation-cup.html",
-        "anchor_text": "Innovation Cup",
-        "score": 66
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-north-and-west-africa.html",
-        "anchor_text": "Ivory Coast",
-        "score": 65
-      },
-      {
-        "url": "https://www.merckgroup.com/en/media-center/press-release-subscription.html",
-        "anchor_text": "Subscribe to News Releases",
-        "score": 64
-      },
-      {
-        "url": "https://www.merckgroup.com/en/sustainability/products-and-innovation.html",
-        "anchor_text": "Products & Innovation",
-        "score": 63
-      },
-      {
-        "url": "https://www.merckgroup.com/en/sustainability/sustainability-strategy.html",
-        "anchor_text": "Company Info",
-        "score": 63
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/electronics/technologies/optronics.html",
-        "anchor_text": "Optronics",
-        "score": 63
-      },
-      {
-        "url": "https://www.merckgroup.com/en/company/periodic-table-of-elements-app.html",
-        "anchor_text": "Applications & Industry",
-        "score": 63
-      },
-      {
-        "url": "https://www.merckgroup.com/en/sustainability/reports-and-guidelines.html",
-        "anchor_text": "Reports & Guidelines",
-        "score": 62
-      },
-      {
-        "url": "https://www.merckgroup.com/en/deployment-testing/privacy-statement.html",
-        "anchor_text": "Privacy Statement",
-        "score": 61
-      },
-      {
-        "url": "https://www.merckgroup.com/en/deployment-testing/privacy-statement.html#3-2-2-cookies",
-        "anchor_text": "Cookie Policy",
-        "score": 61
-      },
-      {
-        "url": "https://www.merckgroup.com/en/stories/potential-of-mrna-technology.html",
-        "anchor_text": "Stories",
-        "score": 61
-      },
-      {
-        "url": "https://www.merckgroup.com/en/sustainability/community-engagement.html",
-        "anchor_text": "Community Engagement",
-        "score": 60
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/neurology-and-immunology.html",
-        "anchor_text": "Neurology & Immunology",
-        "score": 59
-      },
-      {
-        "url": "https://www.merckgroup.com/en/news-stories/events-and-highlights.html",
-        "anchor_text": "Events & Highlights",
-        "score": 59
-      },
-      {
-        "url": "https://www.merckgroup.com/en/investors/events-and-presentations.html",
-        "anchor_text": "Events & Presentations",
-        "score": 59
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-north-macedonia.html",
-        "anchor_text": "North Macedonia",
-        "score": 59
-      },
-      {
-        "url": "https://www.merckgroup.com/en/media-center/press-kits/q4-2025.html",
-        "anchor_text": "Company Info",
-        "score": 58
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-czech-republic.html",
-        "anchor_text": "Czech Republic",
-        "score": 58
-      },
-      {
-        "url": "https://www.merckgroup.com/en/investors/reports-and-financials.html",
-        "anchor_text": "Reports &  Financials",
-        "score": 57
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-south-africa.html",
-        "anchor_text": "Zimbabwe",
-        "score": 56
-      },
-      {
-        "url": "https://www.merckgroup.com/en/sustainability/business-ethics.html",
-        "anchor_text": "Business Ethics",
-        "score": 55
-      },
-      {
-        "url": "https://www.merckgroup.com/en/investors/corporate-governance.html",
-        "anchor_text": "Corporate Governance",
-        "score": 55
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-philippines.html",
-        "anchor_text": "Philippines",
-        "score": 55
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-new-zealand.html",
-        "anchor_text": "New Zealand",
-        "score": 55
-      },
-      {
-        "url": "https://www.merckgroup.com/en/sustainability/health-for-all.html",
-        "anchor_text": "Health Equity",
-        "score": 54
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/discovery-solutions.html",
-        "anchor_text": "Discovery Solutions",
-        "score": 54
-      },
-      {
-        "url": "https://www.merckgroup.com/en/media-center/download-gallery.html",
-        "anchor_text": "Download Gallery",
-        "score": 54
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-bangladesh.html",
-        "anchor_text": "Bangladesh",
-        "score": 54
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-luxembourg.html",
-        "anchor_text": "Luxembourg",
-        "score": 54
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/advanced-solutions.html",
-        "anchor_text": "Advanced Solutions",
-        "score": 53
-      },
-      {
-        "url": "https://www.merckgroup.com/en/research/healthcare-pipeline.html",
-        "anchor_text": "Healthcare Pipeline",
-        "score": 53
-      },
-      {
-        "url": "https://www.merckgroup.com/en/research/global-r-and-d-hubs.html",
-        "anchor_text": "Global R&D Hubs",
-        "score": 53
-      },
-      {
-        "url": "https://www.merckgroup.com/en/investors/creditor-relations.html",
-        "anchor_text": "Creditor Relations",
-        "score": 53
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-singapore.html",
-        "anchor_text": "Singapore",
-        "score": 53
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-venezuela.html",
-        "anchor_text": "Venezuela",
-        "score": 53
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-australia.html",
-        "anchor_text": "Australia",
-        "score": 53
-      },
-      {
-        "url": "https://www.merckgroup.com/en/company/strategy-and-values.html",
-        "anchor_text": "Strategy & Values",
-        "score": 52
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/process-solutions.html",
-        "anchor_text": "Process Solutions",
-        "score": 52
-      },
-      {
-        "url": "https://www.merckgroup.com/en/media-center/press-contacts.html",
-        "anchor_text": "Media Contacts",
-        "score": 52
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-malaysia.html",
-        "anchor_text": "Malaysia",
-        "score": 52
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-thailand.html",
-        "anchor_text": "Thailand",
-        "score": 52
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-bulgaria.html",
-        "anchor_text": "Bulgaria",
-        "score": 52
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-slovakia.html",
-        "anchor_text": "Slovakia",
-        "score": 52
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-slovenia.html",
-        "anchor_text": "Slovenia",
-        "score": 52
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-paraguay.html",
-        "anchor_text": "Paraguay",
-        "score": 52
-      },
-      {
-        "url": "https://www.merckgroup.com/en/company/building-belonging.html",
-        "anchor_text": "Building Belonging",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/general-medicine.html",
-        "anchor_text": "General Medicine",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/vibrant-thoughts.html",
-        "anchor_text": "Vibrant Thoughts",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/investors/shares-and-bonds.html",
-        "anchor_text": "Shares",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/investors/contact-services.html",
-        "anchor_text": "IR Contact & Services",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-albania.html",
-        "anchor_text": "Albania",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-baltics.html",
-        "anchor_text": "Lithuania",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-belarus.html",
-        "anchor_text": "Belarus",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-belgium.html",
-        "anchor_text": "Belgium",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-croatia.html",
-        "anchor_text": "Croatia",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-hungary.html",
-        "anchor_text": "Hungary",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-ireland.html",
-        "anchor_text": "Ireland",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-ukraine.html",
-        "anchor_text": "Ukraine",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-bolivia.html",
-        "anchor_text": "Bolivia",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-uruguay.html",
-        "anchor_text": "Uruguay",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-israel.html",
-        "anchor_text": "Israel",
-        "score": 50
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-cyprus.html",
-        "anchor_text": "Cyprus",
-        "score": 50
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-serbia.html",
-        "anchor_text": "Serbia",
-        "score": 50
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-panama.html",
-        "anchor_text": "Panama",
-        "score": 50
-      },
-      {
-        "url": "https://www.merckgroup.com/en/research/open-innovation.html",
-        "anchor_text": "Open Innovation",
-        "score": 49
-      },
-      {
-        "url": "https://www.merckgroup.com/de/company/merck-in-germany.html",
-        "anchor_text": "Germany",
-        "score": 49
-      },
-      {
-        "url": "https://www.merckgroup.com/en/the-future-transformation.html",
-        "anchor_text": "CEO Blog",
-        "score": 48
-      },
-      {
-        "url": "https://www.merckgroup.com/en/media-center/press-kits.html",
-        "anchor_text": "Press Kits",
-        "score": 48
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-peru.html",
-        "anchor_text": "Perú",
-        "score": 48
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/life-science.html",
-        "anchor_text": "Life Science",
-        "score": 47
-      },
-      {
-        "url": "https://www.merckgroup.com/en/research/science-space.html",
-        "anchor_text": "Science Space",
-        "score": 47
-      },
-      {
-        "url": "https://www.merckgroup.com/en/research/ai-research.html",
-        "anchor_text": "Artificial Intelligence - AI Research",
-        "score": 45
-      },
-      {
-        "url": "https://www.merckgroup.com/en/stories/what-is-mrna.html",
-        "anchor_text": "Applications & Industry",
-        "score": 45
-      },
-      {
-        "url": "https://www.merckgroup.com/en/investors/why-invest.html",
-        "anchor_text": "Why Invest",
-        "score": 45
-      },
-      {
-        "url": "https://www.merckgroup.com/en/news/press-releases.html#main-content",
-        "anchor_text": "Skip to main content",
-        "score": 44
-      },
-      {
-        "url": "https://www.merckgroup.com/en/news/press-releases.html",
-        "anchor_text": "",
-        "score": 44
-      },
-      {
-        "url": "https://www.merckgroup.com/uk-en/privacy-statement.html",
-        "anchor_text": "Privacy Statement",
-        "score": 43
-      },
-      {
-        "url": "https://www.merckgroup.com/en/company/our-impact.html",
-        "anchor_text": "Our Impact",
-        "score": 43
-      },
-      {
-        "url": "https://www.merckgroup.com/en/company/contact-us.html",
-        "anchor_text": "Contact us",
-        "score": 43
-      },
-      {
-        "url": "https://www.merckgroup.com/en/careers/job-search.html",
-        "anchor_text": "Our job search",
-        "score": 43
-      },
-      {
-        "url": "https://www.merckgroup.com/en/supplier-information.html",
-        "anchor_text": "Suppliers",
-        "score": 43
-      },
-      {
-        "url": "https://www.merckgroup.com/en/sustainability/environment.html",
-        "anchor_text": "Environment",
-        "score": 41
-      },
-      {
-        "url": "https://www.merckgroup.com/en/privacy-statement.html",
-        "anchor_text": "Privacy Statement",
-        "score": 40
-      },
-      {
-        "url": "https://www.merckgroup.com/en/sustainability/employees.html",
-        "anchor_text": "Employees",
-        "score": 39
-      },
-      {
-        "url": "https://www.merckgroup.com/en/legal-disclaimer.html",
-        "anchor_text": "Legal Disclaimer",
-        "score": 39
-      },
-      {
-        "url": "https://www.merckgroup.com/en/company/ourheadquarters.html",
-        "anchor_text": "Headquarters",
-        "score": 38
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/electronics.html",
-        "anchor_text": "Electronics",
-        "score": 36
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/healthcare.html",
-        "anchor_text": "Healthcare",
-        "score": 35
-      },
-      {
-        "url": "https://www.merckgroup.com/en/news-stories.html",
-        "anchor_text": "News & Media",
-        "score": 35
-      },
-      {
-        "url": "https://www.merckgroup.com/en/terms-of-use.html",
-        "anchor_text": "Terms Of Use",
-        "score": 35
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/fertility.html",
-        "anchor_text": "Fertility",
-        "score": 34
-      },
-      {
-        "url": "https://www.merckgroup.com/en/company/management.html",
-        "anchor_text": "Management",
-        "score": 33
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/oncology.html",
-        "anchor_text": "Oncology",
-        "score": 33
-      },
-      {
-        "url": "https://www.merckgroup.com/central-america.html",
-        "anchor_text": "Trinidad and Tobago",
-        "score": 33
-      },
-      {
-        "url": "https://www.merckgroup.com/en/company/history.html",
-        "anchor_text": "History",
-        "score": 30
-      },
-      {
-        "url": "https://www.merckgroup.com/en/sustainability.html",
-        "anchor_text": "Sustainability",
-        "score": 27
-      },
-      {
-        "url": "https://www.merckgroup.com/en/partnering.html",
-        "anchor_text": "Partnering",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/in-en.html",
-        "anchor_text": "India",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/id-id.html",
-        "anchor_text": "Indonesia",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/jp-ja.html",
-        "anchor_text": "Japan",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/kr-ko.html",
-        "anchor_text": "South Korea",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/tw-zh.html",
-        "anchor_text": "Taiwan",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/tr-tr.html",
-        "anchor_text": "Türkiye",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/vn-vi.html",
-        "anchor_text": "Vietnam",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/at-de.html",
-        "anchor_text": "Austria",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/dk-da.html",
-        "anchor_text": "Denmark",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/fi-fi.html",
-        "anchor_text": "Finland",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/fr-fr.html",
-        "anchor_text": "France",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/gr-el.html",
-        "anchor_text": "Greece",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/it-it.html",
-        "anchor_text": "Italy",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/nl-en.html",
-        "anchor_text": "Netherlands",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/no-no.html",
-        "anchor_text": "Norway",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/pl-pl.html",
-        "anchor_text": "Poland",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/pt-pt.html",
-        "anchor_text": "Portugal",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/ro-ro.html",
-        "anchor_text": "Romania",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/ru-ru.html",
-        "anchor_text": "Russian Federation",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/es-es.html",
-        "anchor_text": "Spain",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/se-sv.html",
-        "anchor_text": "Sweden",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/ch-en.html",
-        "anchor_text": "Switzerland",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/uk-en.html",
-        "anchor_text": "United Kingdom",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/ar-es.html",
-        "anchor_text": "Argentina",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/br-pt.html",
-        "anchor_text": "Brazil",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/cl-es.html",
-        "anchor_text": "Chile",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/co-es.html",
-        "anchor_text": "Colombia",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/ec-es.html",
-        "anchor_text": "Ecuador",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/mx-es.html",
-        "anchor_text": "Mexico",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise.html",
-        "anchor_text": "Expertise",
-        "score": 22
-      },
-      {
-        "url": "https://www.merckgroup.com/en/investors.html",
-        "anchor_text": "Investor Relations",
-        "score": 22
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide.html",
-        "anchor_text": "Mozambique",
-        "score": 22
-      },
-      {
-        "url": "https://www.merckgroup.com/en/locations.html",
-        "anchor_text": "Locations",
-        "score": 22
-      },
-      {
-        "url": "https://www.merckgroup.com/en/research.html",
-        "anchor_text": "Research",
-        "score": 21
-      },
-      {
-        "url": "https://www.merckgroup.com/en/company.html",
-        "anchor_text": "Company",
-        "score": 20
-      },
-      {
-        "url": "https://www.merckgroup.com/en/sitemap.html",
-        "anchor_text": "Sitemap",
-        "score": 20
-      },
-      {
-        "url": "https://www.merckgroup.com/en/events.html",
-        "anchor_text": "Events",
-        "score": 19
-      },
-      {
-        "url": "https://www.merckgroup.com/en/news.html",
-        "anchor_text": "News",
-        "score": 17
-      },
-      {
-        "url": "https://www.merckgroup.com/en/404.html",
-        "anchor_text": "EN",
-        "score": 16
-      },
-      {
-        "url": "https://www.merckgroup.com/en.html",
-        "anchor_text": "Our homepage",
-        "score": 10
-      },
-      {
-        "url": "https://www.merckgroup.com",
-        "anchor_text": "https://www.merckgroup.com",
-        "score": 0
-      }
-    ]
+    "candidate_links": []
   },
   {
     "company": "Eisai",
@@ -84383,11 +83492,6 @@
   {
     "company": "4D Molecular Therapeutics",
     "press_url": "https://ir.4dmoleculartherapeutics.com/press-releases",
-    "candidate_links": []
-  },
-  {
-    "company": "Storm Therapeutics",
-    "press_url": "https://www.stormtherapeutics.com/news/",
     "candidate_links": []
   },
   {
