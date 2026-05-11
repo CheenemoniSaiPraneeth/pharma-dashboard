@@ -1,1 +1,72 @@
-[]
+[
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/05/ey-report-ai-is-reshaping-consumer-products-selection-accelerating-brand-consideration-risk",
+        "score": 160,
+        "date_added": "2026-05-11",
+        "article_like": true
+    },
+    {
+        "company": "Rx Propellant",
+        "url": "https://rxpropellant.com/made-in-india-trusted-by-the-world/",
+        "score": 50,
+        "date_added": "2026-05-11",
+        "article_like": true
+    },
+    {
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-enters-exclusive-collaboration-with-sbp-group-a-market-leader-in-hepatology-in-china-to-accelerate-bepirovirsen-at-launch/",
+        "score": 174,
+        "date_added": "2026-05-11",
+        "article_like": true
+    },
+    {
+        "company": "Daiichi Sankyo",
+        "url": "https://www.daiichisankyo.com/media/press_release/detail/index_3352.html",
+        "score": 51,
+        "date_added": "2026-05-11",
+        "article_like": true
+    },
+    {
+        "company": "Daiichi Sankyo",
+        "url": "https://www.daiichisankyo.com/media/press_release/detail/index_3354.html",
+        "score": 51,
+        "date_added": "2026-05-11",
+        "article_like": true
+    },
+    {
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260511153000_1251.html?year=2026&category=",
+        "score": 53,
+        "date_added": "2026-05-11",
+        "article_like": true
+    },
+    {
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260511_eWorldStarAwards.pdf&src=[%0],[%1]&rep=130,1251",
+        "score": 26,
+        "date_added": "2026-05-11",
+        "article_like": true
+    },
+    {
+        "company": "Bavarian Nordic",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7515",
+        "score": 30,
+        "date_added": "2026-05-11",
+        "article_like": true
+    },
+    {
+        "company": "Genethon",
+        "url": "https://www.genethon.fr/asgct-2026-genethon-affirme-son-leadership-scientifique-avec-21-communications-dont-8-presentations-orales/",
+        "score": 122,
+        "date_added": "2026-05-11",
+        "article_like": true
+    },
+    {
+        "company": "Nuclera",
+        "url": "https://www.nuclera.com/nuclera-launches-antibody-triage-service-to-advance-ai-driven-antibody-discovery/",
+        "score": 96,
+        "date_added": "2026-05-11",
+        "article_like": true
+    }
+]

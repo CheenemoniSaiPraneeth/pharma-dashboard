@@ -546,6 +546,582 @@
     ]
   },
   {
+    "company": "Dr. Reddy's Laboratories",
+    "press_url": "https://www.drreddys.com/media/",
+    "candidate_links": [
+      {
+        "url": "https://www.drreddys.com/our-science/development-streams/apis-active-pharmaceutical-ingredients/",
+        "anchor_text": "APIs (Active Pharmaceutical Ingredients)",
+        "score": 90
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/environmental-sustainability/",
+        "anchor_text": "Environmental Sustainability",
+        "score": 89
+      },
+      {
+        "url": "https://www.drreddys.com/our-products/business-focus/apis-active-pharmaceutical-ingredients/",
+        "anchor_text": "APIs (Active Pharmaceutical Ingredients)",
+        "score": 86
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/affiliates/dr-reddy-s-foundations/",
+        "anchor_text": "Dr Reddy’s Foundations",
+        "score": 84
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/planet/commitment-to-the-planet/",
+        "anchor_text": "Commitment to the Planet",
+        "score": 82
+      },
+      {
+        "url": "https://www.drreddys.com/investors/governance/code-of-business-conduct-and-ethics-cobe/",
+        "anchor_text": "Code of Business Conduct and Ethics (COBE)",
+        "score": 81
+      },
+      {
+        "url": "https://www.drreddys.com/investors/investor-services/other-stock-exchange-intimations/",
+        "anchor_text": "Other Stock Exchange Intimations",
+        "score": 80
+      },
+      {
+        "url": "https://www.drreddys.com/investors/reports-and-filings/37th-annual-general-meeting/",
+        "anchor_text": "37th Annual General Meeting",
+        "score": 77
+      },
+      {
+        "url": "https://www.drreddys.com/our-products/business-focus/differentiated-formulations/",
+        "anchor_text": "Differentiated Formulations",
+        "score": 75
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/change-makers/",
+        "anchor_text": "Change Makers",
+        "score": 74
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/planet/carbon-footprint/",
+        "anchor_text": "Carbon Footprint",
+        "score": 74
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/healthcare-professionals/",
+        "anchor_text": "Healthcare Professionals",
+        "score": 73
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/our-approach/",
+        "anchor_text": "Our Approach",
+        "score": 73
+      },
+      {
+        "url": "https://www.drreddys.com/our-science/development-streams/proprietary-products/",
+        "anchor_text": "Proprietary Products",
+        "score": 72
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/livelihoods/",
+        "anchor_text": "Livelihoods",
+        "score": 72
+      },
+      {
+        "url": "https://www.drreddys.com/investors/investor-services/investor-meeting-details/",
+        "anchor_text": "Investor Meeting Details",
+        "score": 72
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/healthcare/",
+        "anchor_text": "Healthcare",
+        "score": 71
+      },
+      {
+        "url": "https://www.drreddys.com/investors/investor-services/statutory-communication/",
+        "anchor_text": "Statutory Communication",
+        "score": 71
+      },
+      {
+        "url": "https://www.drreddys.com/investors/investor-services/shareholder-information/",
+        "anchor_text": "Shareholder Information",
+        "score": 71
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/education/",
+        "anchor_text": "Education",
+        "score": 70
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/affiliates/partners/",
+        "anchor_text": "Partners",
+        "score": 70
+      },
+      {
+        "url": "https://www.drreddys.com/investors/investor-services/shareholder-s-contacts/",
+        "anchor_text": "Shareholder’s Contacts",
+        "score": 70
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/humans-of-dr-reddy-s/",
+        "anchor_text": "Humans of Dr. Reddy’s",
+        "score": 69
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/planet/initiatives/",
+        "anchor_text": "Initiatives",
+        "score": 69
+      },
+      {
+        "url": "https://www.drreddys.com/investors/governance/corporate-governance-reports/",
+        "anchor_text": "Corporate Governance Reports",
+        "score": 69
+      },
+      {
+        "url": "https://www.drreddys.com/investors/governance/information-to-stakeholders/",
+        "anchor_text": "Information to Stakeholders",
+        "score": 68
+      },
+      {
+        "url": "https://www.drreddys.com/investors/reports-and-filings/quarterly-reports/",
+        "anchor_text": "Quarterly Reports",
+        "score": 67
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/life-at-drreddys/",
+        "anchor_text": "Life at Dr.Reddy's",
+        "score": 65
+      },
+      {
+        "url": "https://www.drreddys.com/investors/governance/internal-control-systems/",
+        "anchor_text": "Internal Control Systems",
+        "score": 65
+      },
+      {
+        "url": "https://www.drreddys.com/investors/investor-services/investor-handbook/",
+        "anchor_text": "Investor Handbook",
+        "score": 65
+      },
+      {
+        "url": "https://www.drreddys.com/our-products/business-focus/over-the-counter/",
+        "anchor_text": "Over-the-counter",
+        "score": 64
+      },
+      {
+        "url": "https://www.drreddys.com/investors/reports-and-filings/annual-reports/",
+        "anchor_text": "Annual Reports",
+        "score": 64
+      },
+      {
+        "url": "https://www.drreddys.com/investors/governance/committees-of-the-board/",
+        "anchor_text": "Committees of the Board",
+        "score": 64
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/our-heritage/an-unfinished-agenda/",
+        "anchor_text": "An Unfinished Agenda",
+        "score": 63
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/sustainability/",
+        "anchor_text": "Sustainability",
+        "score": 63
+      },
+      {
+        "url": "https://www.drreddys.com/investors/shares/share-transfer-information/",
+        "anchor_text": "Share Transfer Information",
+        "score": 63
+      },
+      {
+        "url": "https://www.drreddys.com/investors/governance/policies-and-documents/",
+        "anchor_text": "Policies and Documents",
+        "score": 63
+      },
+      {
+        "url": "https://www.drreddys.com/investors/shares/unpaid-unclaimed-dividend/",
+        "anchor_text": "Unpaid & Unclaimed Dividend",
+        "score": 62
+      },
+      {
+        "url": "https://www.drreddys.com/our-science/development-streams/biologics/",
+        "anchor_text": "Biologics",
+        "score": 61
+      },
+      {
+        "url": "https://www.drreddys.com/investors/reports-and-filings/sec-filings/",
+        "anchor_text": "SEC Filings",
+        "score": 61
+      },
+      {
+        "url": "https://www.drreddys.com/investors/reports-and-filings/moa-and-aoa/",
+        "anchor_text": "MoA and AoA",
+        "score": 61
+      },
+      {
+        "url": "https://www.drreddys.com/investors/governance/compliance-with-nyse/",
+        "anchor_text": "Compliance with NYSE",
+        "score": 61
+      },
+      {
+        "url": "https://www.drreddys.com/investors/investor-services/credit-rating/",
+        "anchor_text": "Credit Rating",
+        "score": 61
+      },
+      {
+        "url": "https://www.drreddys.com/our-science/development-streams/generics/",
+        "anchor_text": "Generics",
+        "score": 60
+      },
+      {
+        "url": "https://www.drreddys.com/investors/shares/equity-dividend-history/",
+        "anchor_text": "Equity & Dividend History",
+        "score": 60
+      },
+      {
+        "url": "https://www.drreddys.com/investors/governance/ombudsperson-policy/",
+        "anchor_text": "Ombudsperson Policy",
+        "score": 60
+      },
+      {
+        "url": "https://www.drreddys.com/investors/investor-services/amalgamation/",
+        "anchor_text": "Amalgamation",
+        "score": 60
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/leadership/board-of-directors/",
+        "anchor_text": "Board Of Directors",
+        "score": 59
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/leadership/management-council/",
+        "anchor_text": "Management Council",
+        "score": 59
+      },
+      {
+        "url": "https://www.drreddys.com/our-products/business-focus/biologics/",
+        "anchor_text": "Biologics",
+        "score": 57
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/patients/",
+        "anchor_text": "Patients",
+        "score": 57
+      },
+      {
+        "url": "https://www.drreddys.com/investors/presentations/earnings-call/",
+        "anchor_text": "Earnings Call",
+        "score": 57
+      },
+      {
+        "url": "https://www.drreddys.com/investors/shares/shareholding-pattern/",
+        "anchor_text": "Shareholding Pattern",
+        "score": 57
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/our-employees-respond-covid19/",
+        "anchor_text": "our employees respond covid19",
+        "score": 57
+      },
+      {
+        "url": "https://www.drreddys.com/our-products/business-focus/generics/",
+        "anchor_text": "Generics",
+        "score": 56
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/our-heritage/our-founder/",
+        "anchor_text": "Our Founder",
+        "score": 54
+      },
+      {
+        "url": "https://www.drreddys.com/investors/shares/analyst-coverage/",
+        "anchor_text": "Analyst Coverage",
+        "score": 53
+      },
+      {
+        "url": "https://www.drreddys.com/partners/login-for-current-partners/",
+        "anchor_text": "Login for Current Partners",
+        "score": 53
+      },
+      {
+        "url": "https://www.drreddys.com/investors/shares/stock-updates/",
+        "anchor_text": "Stock Updates",
+        "score": 50
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/about-us/milestones/",
+        "anchor_text": "Milestones",
+        "score": 49
+      },
+      {
+        "url": "https://www.drreddys.com/our-science/research-philosophy/",
+        "anchor_text": "Research Philosophy",
+        "score": 49
+      },
+      {
+        "url": "https://www.drreddys.com/our-products/therapeutic-focus/",
+        "anchor_text": "Therapeutic Focus",
+        "score": 48
+      },
+      {
+        "url": "https://www.drreddys.com/investors/shares/share-price/",
+        "anchor_text": "Share Price",
+        "score": 48
+      },
+      {
+        "url": "https://www.drreddys.com/contact-us/medical-information/",
+        "anchor_text": "Medical Information",
+        "score": 48
+      },
+      {
+        "url": "https://www.drreddys.com/investors/presentations/presentations/",
+        "anchor_text": "Presentations",
+        "score": 47
+      },
+      {
+        "url": "https://www.drreddys.com/partners/prospective-partners/",
+        "anchor_text": "Prospective Partners",
+        "score": 47
+      },
+      {
+        "url": "https://www.drreddys.com/our-products/business-focus/",
+        "anchor_text": "Our Products",
+        "score": 45
+      },
+      {
+        "url": "https://www.drreddys.com/media/dr-reddys-in-the-news/",
+        "anchor_text": "Dr. Reddy's in the news",
+        "score": 45
+      },
+      {
+        "url": "https://www.drreddys.com/contact-us/global-locations/",
+        "anchor_text": "Global Locations",
+        "score": 45
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/featured-stories/",
+        "anchor_text": "Featured Stories",
+        "score": 44
+      },
+      {
+        "url": "https://www.drreddys.com/our-science/capabilities/",
+        "anchor_text": "Capabilities",
+        "score": 42
+      },
+      {
+        "url": "https://www.drreddys.com/partners/post-an-enquiry/",
+        "anchor_text": "Post an Enquiry",
+        "score": 42
+      },
+      {
+        "url": "https://www.drreddys.com/contact-us/key-contacts/",
+        "anchor_text": "Key Contacts",
+        "score": 41
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/who-we-are/",
+        "anchor_text": "Who We Are",
+        "score": 38
+      },
+      {
+        "url": "https://www.drreddys.com/our-products/quality/",
+        "anchor_text": "Quality",
+        "score": 38
+      },
+      {
+        "url": "https://www.drreddys.com/media/press-releases/",
+        "anchor_text": "Press Releases",
+        "score": 38
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/about-us/",
+        "anchor_text": "Our Story",
+        "score": 36
+      },
+      {
+        "url": "https://www.drreddys.com/investors/shares/buyback/",
+        "anchor_text": "Buyback",
+        "score": 34
+      },
+      {
+        "url": "https://www.drreddys.com/media/media-kit/",
+        "anchor_text": "Media Kit",
+        "score": 33
+      },
+      {
+        "url": "https://www.drreddys.com/cookie-policy.aspx",
+        "anchor_text": "Cookie Policy.",
+        "score": 31
+      },
+      {
+        "url": "https://www.drreddys.com/united-states/",
+        "anchor_text": "United States",
+        "score": 29
+      },
+      {
+        "url": "https://www.drreddys.com/south-africa/",
+        "anchor_text": "South Africa",
+        "score": 28
+      },
+      {
+        "url": "https://www.drreddys.com/new-zealand/",
+        "anchor_text": "New Zealand",
+        "score": 27
+      },
+      {
+        "url": "https://www.drreddys.com/privacy-policy",
+        "anchor_text": "Privacy Notice",
+        "score": 27
+      },
+      {
+        "url": "https://www.drreddys.com/cookie-policy",
+        "anchor_text": "Cookie Policy",
+        "score": 26
+      },
+      {
+        "url": "https://www.drreddys.com/terms-of-use",
+        "anchor_text": "Terms Of Use",
+        "score": 25
+      },
+      {
+        "url": "https://www.drreddys.com/accessibility",
+        "anchor_text": "Accessibility",
+        "score": 16
+      },
+      {
+        "url": "https://www.drreddys.com/australia/",
+        "anchor_text": "Australia",
+        "score": 15
+      },
+      {
+        "url": "https://www.drreddys.com/search.aspx",
+        "anchor_text": "",
+        "score": 14
+      },
+      {
+        "url": "https://www.drreddys.com/germany/",
+        "anchor_text": "Germany",
+        "score": 13
+      },
+      {
+        "url": "https://www.drreddys.com/canada/",
+        "anchor_text": "Canada",
+        "score": 12
+      },
+      {
+        "url": "https://www.drreddys.com/russia/",
+        "anchor_text": "Russia",
+        "score": 12
+      },
+      {
+        "url": "https://www.drreddys.com/china/",
+        "anchor_text": "China",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/india/",
+        "anchor_text": "India",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2022",
+        "anchor_text": "2022",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2021",
+        "anchor_text": "2021",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2020",
+        "anchor_text": "2020",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2019",
+        "anchor_text": "2019",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2018",
+        "anchor_text": "2018",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2017",
+        "anchor_text": "2017",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2016",
+        "anchor_text": "2016",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2015",
+        "anchor_text": "2015",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2014",
+        "anchor_text": "2014",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2013",
+        "anchor_text": "2013",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2012",
+        "anchor_text": "2012",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2011",
+        "anchor_text": "2011",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2010",
+        "anchor_text": "2010",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2009",
+        "anchor_text": "2009",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2008",
+        "anchor_text": "2008",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2007",
+        "anchor_text": "2007",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2006",
+        "anchor_text": "2006",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2005",
+        "anchor_text": "2005",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2001",
+        "anchor_text": "2001",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/",
+        "anchor_text": "",
+        "score": 3
+      }
+    ]
+  },
+  {
     "company": "Amgen",
     "press_url": "https://www.amgen.com/newsroom/press-releases",
     "candidate_links": [
@@ -5161,49 +5737,9 @@
         "score": 160
       },
       {
-        "url": "https://www.veeva.com/resources/unilever-reckitt-estee-lauder-nestle-basf-and-evonik-to-speak-at-veevas-virtual-summit-for-consumer-goods-and-chemical-industries/",
-        "anchor_text": "Read Press Release",
-        "score": 157
-      },
-      {
-        "url": "https://www.veeva.com/resources/court-rejects-medidata-lawsuit-against-veeva-for-lack-of-evidence-blocks-medidatas-moves-to-limit-competition-and-employee-rights/",
-        "anchor_text": "Read Press Release",
-        "score": 157
-      },
-      {
-        "url": "https://www.veeva.com/medtech/news/new-research-finds-87-of-medtechs-lack-consistent-methods-to-share-product-information-across-global-regulatory-teams/%20",
-        "anchor_text": "Read Press Release",
-        "score": 153
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-first-customer-win-and-april-2024-availability-for-vault-crm-the-next-generation-of-crm-for-life-sciences/",
-        "anchor_text": "Read Press Release",
-        "score": 149
-      },
-      {
-        "url": "https://www.veeva.com/resources/st-cloud-state-university-and-veeva-partner-to-deliver-real-world-clinical-technology-experience-to-medtech-students/",
-        "anchor_text": "Read Press Release",
-        "score": 144
-      },
-      {
-        "url": "https://www.veeva.com/medtech/resources/veeva-medtech-clinical-trials-report-signals-significant-opportunity-to-improve-data-delivery-and-quality/",
-        "anchor_text": "Read Press Release",
-        "score": 143
-      },
-      {
-        "url": "https://www.veeva.com/resources/largest-ever-industry-report-reveals-video-meetings-3x-more-effective-and-companies-using-them-most-gain-advantage/",
-        "anchor_text": "Read Press Release",
-        "score": 142
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-announces-esource-application-for-research-sites-to-eliminate-paper-and-streamline-clinical-trial-data-flow/",
         "anchor_text": "Read Press Release",
         "score": 141
-      },
-      {
-        "url": "https://www.veeva.com/resources/leading-pharma-adopts-veeva-vault-validation-management-for-digital-validation-execution-and-improved-efficiency/",
-        "anchor_text": "Read Press Release",
-        "score": 140
       },
       {
         "url": "https://www.veeva.com/resources/more-than-125-customers-worldwide-live-on-vault-crm-as-veeva-accelerates-the-industrys-agentic-transformation/",
@@ -5211,69 +5747,9 @@
         "score": 137
       },
       {
-        "url": "https://www.veeva.com/resources/minaris-regenerative-medicine-streamlining-contract-manufacturing-with-veeva-vault-quality-suite-applications/",
-        "anchor_text": "Read Press Release",
-        "score": 137
-      },
-      {
-        "url": "https://www.veeva.com/resources/boehringer-ingelheim-partners-with-veeva-to-advance-its-clinical-and-regulatory-operations-in-animal-health/",
-        "anchor_text": "Read Press Release",
-        "score": 135
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-and-sarah-cannon-research-institute-form-strategic-collaboration-to-advance-oncology-clinical-trials/",
-        "anchor_text": "Read Press Release",
-        "score": 134
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-pulse-reveals-digital-content-more-than-twice-as-effective-in-driving-promotional-response-globally/",
-        "anchor_text": "Read Press Release",
-        "score": 133
-      },
-      {
-        "url": "https://www.veeva.com/resources/more-than-2000-biopharma-leaders-come-together-at-veeva-rd-and-quality-summit-to-advance-drug-development/",
-        "anchor_text": "Read Press Release",
-        "score": 133
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-clinical-database-crosses-200-study-milestone-cuts-time-to-aggregate-and-clean-study-data-by-30-50/",
-        "anchor_text": "Read Press Release",
-        "score": 132
-      },
-      {
         "url": "https://www.veeva.com/resources/iqvia-and-veeva-announce-long-term-clinical-and-commercial-partnerships-and-resolution-of-all-disputes/",
         "anchor_text": "Learn More",
         "score": 130
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-hcp-access-improves-segmentation-and-targeting-with-brick-level-hcp-access-data-for-20-countries/",
-        "anchor_text": "Read Press Release",
-        "score": 130
-      },
-      {
-        "url": "https://www.veeva.com/resources/new-batch-release-application-for-life-sciences-manufacturing-to-speed-time-to-market-and-reduce-cost/",
-        "anchor_text": "Read Press Release",
-        "score": 129
-      },
-      {
-        "url": "https://www.veeva.com/resources/merck-kgaa-darmstadt-germany-partners-with-veeva-to-transform-medical-information-operations-globally/",
-        "anchor_text": "Read Press Release",
-        "score": 129
-      },
-      {
-        "url": "https://www.veeva.com/resources/more-than-450-companies-adopt-veeva-vault-etmf-for-improved-trial-efficiency-and-inspection-readiness/",
-        "anchor_text": "Read Press Release",
-        "score": 129
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-commercial-summit-connects-nearly-1500-life-sciences-leaders-across-sales-medical-and-marketing/",
-        "anchor_text": "Learn More",
-        "score": 129
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-pulse-shows-post-pandemic-hcp-access-nearing-80-in-key-specialties-driven-by-digital-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 129
       },
       {
         "url": "https://www.veeva.com/resources/veeva-opendata-and-veeva-network-mdm-enable-coordinated-customer-engagement-for-boehringer-ingelheim/",
@@ -5281,72 +5757,12 @@
         "score": 128
       },
       {
-        "url": "https://www.veeva.com/resources/biopharmas-boost-marketing-effectiveness-by-23-by-synchronizing-digital-media-with-field-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 127
-      },
-      {
-        "url": "https://www.veeva.com/medtech/news/new-study-finds-88-of-medtechs-prioritizing-postmarket-quality-modernization-within-next-3-years",
-        "anchor_text": "Read Press Release",
-        "score": 126
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-pulse-report-finds-content-driven-engagement-lags-despite-proven-boost-to-treatment-adoption/",
-        "anchor_text": "Read Press Release",
-        "score": 126
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-vault-rim-driving-greater-speed-and-compliance-for-more-than-350-life-sciences-organizations/",
-        "anchor_text": "Read Press Release",
-        "score": 126
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-announces-collaboration-with-global-biotech-to-further-accelerate-clinical-trial-innovation/",
         "anchor_text": "Read Press Release",
         "score": 125
       },
       {
-        "url": "https://www.veeva.com/resources/biopharma-leaders-come-together-at-veeva-commercial-summit-to-advance-customer-centric-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 125
-      },
-      {
-        "url": "https://www.veeva.com/resources/southern-star-research-adopts-veeva-vault-etmf-and-veeva-vault-ctms-to-streamline-trial-processes/",
-        "anchor_text": "Read Press Release",
-        "score": 125
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-compass-modernizes-prescriber-data-with-new-approach-designed-for-todays-complex-therapies/",
-        "anchor_text": "Read Press Release",
-        "score": 124
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-pulse-reveals-digital-content-more-than-twice-as-effective-in-driving-promotional-response/",
-        "anchor_text": "Read Press Release",
-        "score": 124
-      },
-      {
-        "url": "https://www.veeva.com/medtech/resources/industrywide-survey-reveals-centralizing-regulatory-is-number-one-priority-for-medtech/",
-        "anchor_text": "Read Press Release",
-        "score": 124
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-announces-environmental-monitoring-solution-to-modernize-quality-control-in-manufacturing/",
-        "anchor_text": "Read Press Release",
-        "score": 123
-      },
-      {
-        "url": "https://www.veeva.com/resources/major-release-of-veeva-site-connect-streamlines-clinical-trial-execution-for-sites-and-sponsors/",
-        "anchor_text": "Read Press Release",
-        "score": 123
-      },
-      {
-        "url": "https://www.veeva.com/resources/life-sciences-community-advances-toward-next-phase-of-innovation-at-veeva-rd-and-quality-summit/",
-        "anchor_text": "Read Press Release",
-        "score": 123
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-crossix-introduces-new-products-to-advance-omnichannel-marketing-for-life-sciences-brands/",
         "anchor_text": "Read Press Release",
         "score": 123
       },
@@ -5356,17 +5772,7 @@
         "score": 122
       },
       {
-        "url": "https://www.veeva.com/resources/life-sciences-brands-reach-clinically-relevant-audiences-with-new-veeva-crossix-prime-segments/",
-        "anchor_text": "Read Press Release",
-        "score": 122
-      },
-      {
         "url": "https://www.veeva.com/resources/industry-research-finds-establishing-a-foundation-for-ai-is-top-priority-for-cpg-enterprises/",
-        "anchor_text": "Read Press Release",
-        "score": 120
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-cdb-application-to-streamline-aggregation-cleaning-and-transformation-of-clinical-data/",
         "anchor_text": "Read Press Release",
         "score": 120
       },
@@ -5376,157 +5782,7 @@
         "score": 119
       },
       {
-        "url": "https://www.veeva.com/resources/new-veeva-pulse-findings-show-connected-engagement-creates-an-advantage-as-hcp-access-drops/",
-        "anchor_text": "Read Press Release",
-        "score": 119
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-introduces-link-workflow-a-no-code-platform-for-building-custom-workflow-applications/",
-        "anchor_text": "Read Press Release",
-        "score": 119
-      },
-      {
-        "url": "https://www.veeva.com/resources/a-growing-number-of-biopharmas-leverage-veeva-compass-patient-to-improve-commercialization/",
-        "anchor_text": "Read Press Release",
-        "score": 118
-      },
-      {
-        "url": "https://www.veeva.com/resources/new-veeva-china-campaign-manager-drives-precision-omnichannel-marketing-for-life-sciences/",
-        "anchor_text": "Read Press Release",
-        "score": 117
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-vault-crm-suite-to-unlock-greater-customer-centricity-with-launch-of-service-center/",
-        "anchor_text": "Learn More",
-        "score": 117
-      },
-      {
-        "url": "https://www.veeva.com/resources/top-biopharma-brands-reach-audiences-10x-more-qualified-with-veeva-crossix-prime-segments/",
-        "anchor_text": "Read Press Release",
-        "score": 117
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-becomes-first-life-sciences-training-solutions-provider-to-gain-iacet-accreditation/",
-        "anchor_text": "Read Press Release",
-        "score": 117
-      },
-      {
-        "url": "https://www.veeva.com/resources/ani-pharmaceuticals-adopts-veeva-commercial-cloud-to-better-support-rare-disease-patients/",
-        "anchor_text": "Read Press Release",
-        "score": 117
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-vault-lims-gains-momentum-as-companies-unify-quality-assurance-and-quality-control/",
-        "anchor_text": "Read Press Release",
-        "score": 116
-      },
-      {
-        "url": "https://www.veeva.com/resources/more-than-350-companies-increase-efficiency-and-compliance-with-veeva-training-solutions/",
-        "anchor_text": "Read Press Release",
-        "score": 116
-      },
-      {
-        "url": "https://www.veeva.com/medtech/news/report-reveals-70-of-medtechs-use-manual-processes-for-managing-content-and-claims/",
-        "anchor_text": "Read Press Release",
-        "score": 115
-      },
-      {
-        "url": "https://www.veeva.com/resources/new-veeva-vault-submissions-publishing-elearning-application-speeds-employee-onboarding/",
-        "anchor_text": "Read Press Release",
-        "score": 115
-      },
-      {
-        "url": "https://www.veeva.com/resources/more-than-75-emerging-biotechs-use-veeva-basics-across-clinical-regulatory-and-quality/",
-        "anchor_text": "Read Press Release",
-        "score": 114
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-pulse-shows-doctors-opening-up-two-way-communications-doubles-digital-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 114
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-rd-and-quality-summit-brings-together-biopharma-leaders-to-accelerate-innovation/",
-        "anchor_text": "Read Press Release",
-        "score": 114
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-new-digital-hazard-analysis-and-critical-control-point-haccp-solution/",
-        "anchor_text": "Read Press Release",
-        "score": 113
-      },
-      {
-        "url": "https://www.veeva.com/resources/anthem-biosciences-launches-veeva-vault-quality-for-greater-efficiency-and-compliance/",
-        "anchor_text": "Read Press Release",
-        "score": 113
-      },
-      {
-        "url": "https://www.veeva.com/resources/leo-pharma-connects-affiliates-with-veeva-vault-safety-to-transform-safety-operations/",
-        "anchor_text": "Read Press Release",
-        "score": 113
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-introduces-study-portal-and-veevaid-to-streamline-research-site-trial-execution/",
-        "anchor_text": "Read Press Release",
-        "score": 113
-      },
-      {
-        "url": "https://www.veeva.com/medtech/news/new-veeva-link-medtech-provides-real-time-data-to-optimize-scientific-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 113
-      },
-      {
-        "url": "https://www.veeva.com/resources/global-cdmo-adare-pharma-solutions-harmonizing-quality-with-veeva-vault-quality-suite/",
-        "anchor_text": "Read Press Release",
-        "score": 113
-      },
-      {
-        "url": "https://www.veeva.com/resources/lotus-clinical-research-expands-partnership-with-veeva-to-accelerate-clinical-trials/",
-        "anchor_text": "Read Press Release",
-        "score": 112
-      },
-      {
-        "url": "https://www.veeva.com/medtech/news/medtech-industry-establishes-foundation-for-clinical-trials-with-veeva-medtech/",
-        "anchor_text": "Read Press Release",
-        "score": 111
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-expands-relationship-with-accenture-to-help-customers-transition-to-vault-crm/",
-        "anchor_text": "Read Press Release",
-        "score": 111
-      },
-      {
-        "url": "https://www.veeva.com/resources/six-of-the-top-20-pharma-select-veeva-vault-edc-as-company-standard-for-new-trials/",
-        "anchor_text": "Learn More",
-        "score": 110
-      },
-      {
-        "url": "https://www.veeva.com/medtech/news/for-the-second-year-in-a-row-veeva-medtech-named-best-overall-medtech-software",
-        "anchor_text": "Read Press Release",
-        "score": 108
-      },
-      {
-        "url": "https://www.veeva.com/resources/vita-global-sciences-partners-with-veeva-to-streamline-clinical-data-management/",
-        "anchor_text": "Read Press Release",
-        "score": 107
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-ai-agents-now-available-to-increase-productivity-and-customer-centricity/",
-        "anchor_text": "Read Press Release",
-        "score": 106
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-direct-data-api-now-included-with-vault-platform-to-enable-ai-innovation/",
-        "anchor_text": "Read Press Release",
-        "score": 106
-      },
-      {
-        "url": "https://www.veeva.com/resources/troy-animal-healthcare-strengthens-quality-operations-with-veeva-vault-quality/",
-        "anchor_text": "Read Press Release",
-        "score": 106
-      },
-      {
-        "url": "https://www.veeva.com/resources/ucb-and-veeva-collaborate-to-advance-the-patient-experience-in-clinical-trials/",
         "anchor_text": "Read Press Release",
         "score": 106
       },
@@ -5536,27 +5792,7 @@
         "score": 105
       },
       {
-        "url": "https://www.veeva.com/resources/life-sciences-leaders-advance-unified-engagement-at-veeva-commercial-summit/",
-        "anchor_text": "Read Press Release",
-        "score": 103
-      },
-      {
-        "url": "https://www.veeva.com/resources/targeted-pre-launch-scientific-outreach-drives-40-faster-treatment-adoption/",
-        "anchor_text": "Read Press Release",
-        "score": 103
-      },
-      {
-        "url": "https://www.veeva.com/resources/recipharm-harmonizes-its-global-quality-operations-with-veeva-vault-quality/",
-        "anchor_text": "Read Press Release",
-        "score": 103
-      },
-      {
         "url": "https://www.veeva.com/resources/13-of-the-top-20-biopharmas-standardize-globally-on-veeva-link-key-people/",
-        "anchor_text": "Read Press Release",
-        "score": 101
-      },
-      {
-        "url": "https://www.veeva.com/medtech/news/veeva-vault-qms-adds-field-actions-and-recall-management-for-medtech/",
         "anchor_text": "Read Press Release",
         "score": 101
       },
@@ -5566,102 +5802,12 @@
         "score": 100
       },
       {
-        "url": "https://www.veeva.com/resources/boehringer-ingelheim-partners-with-veeva-to-launch-one-medicine-platform/",
-        "anchor_text": "Read Press Release",
-        "score": 100
-      },
-      {
-        "url": "https://www.veeva.com/resources/top-biopharma-commits-to-veeva-vault-crm-for-global-customer-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 99
-      },
-      {
-        "url": "https://www.veeva.com/resources/leading-asia-pacific-biopharmas-power-digital-engagement-with-veeva-crm/",
-        "anchor_text": "Read Press Release",
-        "score": 99
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-introduces-new-epro-application-for-faster-access-to-patient-data/",
-        "anchor_text": "Read Press Release",
-        "score": 99
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-pulse-data-shows-new-science-calls-for-more-connected-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 98
-      },
-      {
-        "url": "https://www.veeva.com/resources/new-service-center-in-veeva-vault-crm-suite-unifies-sales-and-service/",
-        "anchor_text": "Read Press Release",
-        "score": 97
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-completes-study-migrations-to-veeva-vault-edc-for-top-biopharma/",
-        "anchor_text": "Read Press Release",
-        "score": 97
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-statement-in-support-of-proposed-ftc-rule-to-ban-non-competes/",
-        "anchor_text": "Read Press Release",
-        "score": 95
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-and-zifo-partner-to-accelerate-quality-control-modernization/",
-        "anchor_text": "Read Press Release",
-        "score": 94
-      },
-      {
-        "url": "https://www.veeva.com/resources/40-cros-select-veeva-vault-ctms-to-drive-clinical-trial-operations/",
-        "anchor_text": "Read Press Release",
-        "score": 94
-      },
-      {
         "url": "https://www.veeva.com/resources/novo-nordisk-international-operations-commits-to-veeva-vault-crm/",
         "anchor_text": "Read Press Release",
         "score": 92
       },
       {
-        "url": "https://www.veeva.com/resources/more-than-200-companies-advance-trial-management-with-veeva-ctms/",
-        "anchor_text": "Read Press Release",
-        "score": 92
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-unveils-vault-crm-next-generation-of-crm-for-life-sciences/",
-        "anchor_text": "Read Press Release",
-        "score": 92
-      },
-      {
-        "url": "https://www.veeva.com/resources/modular-content-powers-omnichannel-engagement-at-speed-and-scale/",
-        "anchor_text": "Learn More",
-        "score": 92
-      },
-      {
-        "url": "https://www.veeva.com/medtech/news/18-of-the-top-20-medtech-companies-partner-with-veeva-medtech",
-        "anchor_text": "Read Press Release",
-        "score": 91
-      },
-      {
-        "url": "https://www.veeva.com/resources/tigermed-advances-clinical-data-management-with-veeva-vault-edc/",
-        "anchor_text": "Read Press Release",
-        "score": 91
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-research-site-clinical-trial-management-system/",
-        "anchor_text": "Read Press Release",
-        "score": 90
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-delivers-vault-crm-suite-with-vault-crm-campaign-manager/",
-        "anchor_text": "Read Press Release",
-        "score": 90
-      },
-      {
         "url": "https://www.veeva.com/resources/leaders-come-together-to-advance-the-industry-at-veeva-summit/",
-        "anchor_text": "Read Press Release",
-        "score": 89
-      },
-      {
-        "url": "https://www.veeva.com/resources/now-available-veeva-compass-suite-of-commercial-data-products/",
         "anchor_text": "Read Press Release",
         "score": 89
       },
@@ -5676,54 +5822,9 @@
         "score": 88
       },
       {
-        "url": "https://www.veeva.com/resources/bayer-commits-to-veeva-vault-crm-and-veeva-opendata-globally/",
-        "anchor_text": "Read Press Release",
-        "score": 88
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-announces-fourth-quarter-and-fiscal-year-2026-results/",
         "anchor_text": "Read Press Release",
         "score": 87
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fourth-quarter-and-fiscal-year-2025-results/",
-        "anchor_text": "Read Press Release",
-        "score": 87
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fourth-quarter-and-fiscal-year-2024-results/",
-        "anchor_text": "Read Press Release",
-        "score": 87
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fourth-quarter-and-fiscal-year-2023-results/",
-        "anchor_text": "Read Press Release",
-        "score": 87
-      },
-      {
-        "url": "https://www.veeva.com/resources/top-global-biopharmas-standardize-on-veeva-china-crm-suite/",
-        "anchor_text": "Read Press Release",
-        "score": 86
-      },
-      {
-        "url": "https://www.veeva.com/resources/kemwell-biopharma-drives-quality-excellence-with-veeva-qms/",
-        "anchor_text": "Read Press Release",
-        "score": 86
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-partners-with-sanofi-to-transform-its-quality-system/",
-        "anchor_text": "Read Press Release",
-        "score": 86
-      },
-      {
-        "url": "https://www.veeva.com/resources/batavia-optimizes-global-qa-with-veeva-vault-quality-suite/",
-        "anchor_text": "Read Press Release",
-        "score": 86
-      },
-      {
-        "url": "https://www.veeva.com/resources/veranex-accelerates-clinical-trials-with-veeva-vault-cdms/",
-        "anchor_text": "Read Press Release",
-        "score": 85
       },
       {
         "url": "https://www.veeva.com/resources/veeva-and-biomarin-form-long-term-strategic-partnership/",
@@ -5736,57 +5837,7 @@
         "score": 82
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-business-consulting-expands-with-new-rd-services/",
-        "anchor_text": "Read Press Release",
-        "score": 82
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-vault-lims-to-support-civica-rx-quality-control/",
-        "anchor_text": "Read Press Release",
-        "score": 81
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-vault-edc-surpasses-1000-study-start-milestone/",
-        "anchor_text": "Read Press Release",
-        "score": 80
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-and-merck-form-long-term-strategic-partnership/",
-        "anchor_text": "Read Press Release",
-        "score": 80
-      },
-      {
-        "url": "https://www.veeva.com/resources/astellas-chooses-veeva-vault-crm-as-global-standard/",
-        "anchor_text": "Read Press Release",
-        "score": 79
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-vault-crm-now-available-for-all-new-customers/",
-        "anchor_text": "Read Press Release",
-        "score": 79
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-clinical-study-training-application/",
-        "anchor_text": "Read Press Release",
-        "score": 79
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2026-second-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 78
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2025-second-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 78
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2024-second-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 78
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2023-second-quarter-results/",
         "anchor_text": "Read Press Release",
         "score": 78
       },
@@ -5801,36 +5852,6 @@
         "score": 77
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2026-first-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 77
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2025-third-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 77
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2025-first-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 77
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2024-third-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 77
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2024-first-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 77
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2023-third-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 77
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-announces-expanded-partnership-with-roche/",
         "anchor_text": "Read Press Release",
         "score": 75
@@ -5841,37 +5862,7 @@
         "score": 75
       },
       {
-        "url": "https://www.veeva.com/resources/boehringer-ingelheim-commits-to-veeva-vault-crm/",
-        "anchor_text": "Read Press Release",
-        "score": 75
-      },
-      {
-        "url": "https://www.veeva.com/resources/walgreens-and-veeva-form-strategic-partnership/",
-        "anchor_text": "Learn More",
-        "score": 74
-      },
-      {
-        "url": "https://www.veeva.com/resources/indero-marks-40th-study-live-with-veeva-rtsm/",
-        "anchor_text": "Read Press Release",
-        "score": 72
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-introduces-veeva-vault-crm-for-medtech/",
-        "anchor_text": "Read Press Release",
-        "score": 72
-      },
-      {
         "url": "https://www.veeva.com/resources/gilead-sciences-commits-to-veeva-vault-crm/",
-        "anchor_text": "Read Press Release",
-        "score": 70
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-introduces-vault-basics-for-biotechs/",
-        "anchor_text": "Read Press Release",
-        "score": 70
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-vault-crm-campaign-manager/",
         "anchor_text": "Read Press Release",
         "score": 70
       },
@@ -5906,11 +5897,6 @@
         "score": 61
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-launches-ai-partner-program/",
-        "anchor_text": "Read Press Release",
-        "score": 61
-      },
-      {
         "url": "https://www.veeva.com/resources/merck-commits-to-veeva-vault-crm/",
         "anchor_text": "Read Press Release",
         "score": 60
@@ -5918,11 +5904,6 @@
       {
         "url": "https://www.veeva.com/products/vault-medical/veeva-medinquiry/",
         "anchor_text": "Veeva MedInquiryStreamline inquiry intake and fulfillment",
-        "score": 59
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-ai-in-vault-crm/",
-        "anchor_text": "Read Press Release",
         "score": 59
       },
       {
@@ -6078,11 +6059,6 @@
       {
         "url": "https://www.veeva.com/eu/compliant-content-at-scale/",
         "anchor_text": "Tailor Content at Scale",
-        "score": 47
-      },
-      {
-        "url": "https://www.veeva.com/resources/announcing-veeva-ai/",
-        "anchor_text": "Read Press Release",
         "score": 47
       },
       {
@@ -7496,6 +7472,127 @@
         "url": "https://www.solix.com/",
         "anchor_text": "English",
         "score": 3
+      }
+    ]
+  },
+  {
+    "company": "Thermo Fisher Scientific",
+    "press_url": "https://www.thermofisher.com/blog/",
+    "candidate_links": [
+      {
+        "url": "https://www.thermofisher.com/blog/accelerating-science-blog-subscribe/",
+        "anchor_text": "subscribe",
+        "score": 58
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/clinical-conversations/",
+        "anchor_text": "Clinical Conversations",
+        "score": 45
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/identifying-threats/",
+        "anchor_text": "Identifying Threats",
+        "score": 42
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/atomic-resolution/",
+        "anchor_text": "Life in Atomic Resolution",
+        "score": 40
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/new-thermo-fisher/",
+        "anchor_text": "New on ThermoFisher.com",
+        "score": 40
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/ask-a-scientist/",
+        "anchor_text": "Ask a Scientist",
+        "score": 38
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/life-in-the-lab/",
+        "anchor_text": "Life in the Lab",
+        "score": 38
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/contact-us/",
+        "anchor_text": "Contact",
+        "score": 33
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/about-us/",
+        "anchor_text": "About Us",
+        "score": 31
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/behindthebench/",
+        "anchor_text": "Behind the Bench",
+        "score": 27
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/semiconductors/",
+        "anchor_text": "Illuminating Semiconductors",
+        "score": 27
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/biotechnology/",
+        "anchor_text": "Biotech at Scale",
+        "score": 26
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/connectedlab/",
+        "anchor_text": "The Connected Lab",
+        "score": 25
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/analyteguru/",
+        "anchor_text": "AnalyteGuru",
+        "score": 24
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/oempowered/",
+        "anchor_text": "OEMpowered",
+        "score": 23
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/materials/",
+        "anchor_text": "Advancing Materials",
+        "score": 22
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/locations/",
+        "anchor_text": "Locations",
+        "score": 22
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/sitemap/",
+        "anchor_text": "Sitemap",
+        "score": 20
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/mining/",
+        "anchor_text": "Advancing Mining",
+        "score": 19
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/metals/",
+        "anchor_text": "Analyzing Metals",
+        "score": 19
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/food/",
+        "anchor_text": "Examining Food",
+        "score": 17
+      },
+      {
+        "url": "https://www.thermofisher.com/",
+        "anchor_text": "Thermo Fisher Scientific",
+        "score": 3
+      },
+      {
+        "url": "https://www.thermofisher.com",
+        "anchor_text": "Thermo Fisher Scientific",
+        "score": 0
       }
     ]
   },
@@ -9206,192 +9303,6 @@
         "url": "https://o2h.com/",
         "anchor_text": "",
         "score": 3
-      }
-    ]
-  },
-  {
-    "company": "AdametNext",
-    "press_url": "https://adametnext.com/blog/",
-    "candidate_links": [
-      {
-        "url": "https://adametnext.com/competitive-intelligence/",
-        "anchor_text": "Competitive Intelligence",
-        "score": 40
-      },
-      {
-        "url": "https://adametnext.com/marketing-analytics/",
-        "anchor_text": "Marketing Analytics",
-        "score": 35
-      },
-      {
-        "url": "https://adametnext.com/classic-sidebar/",
-        "anchor_text": "How to make the most of a nontraditional startup community",
-        "score": 31
-      },
-      {
-        "url": "https://adametnext.com/classic-sidebar/#respond",
-        "anchor_text": "No comments yet",
-        "score": 31
-      },
-      {
-        "url": "https://adametnext.com/modern-sidebar/",
-        "anchor_text": "Read more",
-        "score": 30
-      },
-      {
-        "url": "https://adametnext.com/modern-sidebar/#respond",
-        "anchor_text": "No comments yet",
-        "score": 30
-      },
-      {
-        "url": "https://adametnext.com/gallery-post/",
-        "anchor_text": "How can you help your team transition to remote with this essential guide",
-        "score": 28
-      },
-      {
-        "url": "https://adametnext.com/category/development/",
-        "anchor_text": "Development",
-        "score": 28
-      },
-      {
-        "url": "https://adametnext.com/gallery-post/#respond",
-        "anchor_text": "No comments yet",
-        "score": 28
-      },
-      {
-        "url": "https://adametnext.com/category/technology/",
-        "anchor_text": "Technology",
-        "score": 27
-      },
-      {
-        "url": "https://adametnext.com/contact-us/",
-        "anchor_text": "Contact Us",
-        "score": 26
-      },
-      {
-        "url": "https://adametnext.com/video-post/",
-        "anchor_text": "The best remote UX and UI design conferences to attend in 2020",
-        "score": 26
-      },
-      {
-        "url": "https://adametnext.com/video-post/#respond",
-        "anchor_text": "No comments yet",
-        "score": 26
-      },
-      {
-        "url": "https://adametnext.com/audio-post/",
-        "anchor_text": "Read more",
-        "score": 26
-      },
-      {
-        "url": "https://adametnext.com/audio-post/#respond",
-        "anchor_text": "No comments yet",
-        "score": 26
-      },
-      {
-        "url": "https://adametnext.com/category/business/",
-        "anchor_text": "Business",
-        "score": 25
-      },
-      {
-        "url": "https://adametnext.com/category/software/",
-        "anchor_text": "Software",
-        "score": 25
-      },
-      {
-        "url": "https://adametnext.com/about-us/",
-        "anchor_text": "About Us",
-        "score": 24
-      },
-      {
-        "url": "https://adametnext.com/category/general/",
-        "anchor_text": "General",
-        "score": 24
-      },
-      {
-        "url": "https://adametnext.com/category/science/",
-        "anchor_text": "Science",
-        "score": 24
-      },
-      {
-        "url": "https://adametnext.com/author/admin143/",
-        "anchor_text": "admin143",
-        "score": 23
-      },
-      {
-        "url": "https://adametnext.com/category/design/",
-        "anchor_text": "Design",
-        "score": 23
-      },
-      {
-        "url": "https://adametnext.com/tag/marketing/",
-        "anchor_text": "Marketing(3)",
-        "score": 21
-      },
-      {
-        "url": "https://adametnext.com/tag/creative/",
-        "anchor_text": "Creative(4)",
-        "score": 20
-      },
-      {
-        "url": "https://adametnext.com/tag/internet/",
-        "anchor_text": "Internet(4)",
-        "score": 20
-      },
-      {
-        "url": "https://adametnext.com/tag/popular/",
-        "anchor_text": "Popular(3)",
-        "score": 19
-      },
-      {
-        "url": "https://adametnext.com/tag/startup/",
-        "anchor_text": "Startup(3)",
-        "score": 19
-      },
-      {
-        "url": "https://adametnext.com/tag/mobile/",
-        "anchor_text": "Mobile(4)",
-        "score": 18
-      },
-      {
-        "url": "https://adametnext.com/forecasting/",
-        "anchor_text": "Forecasting",
-        "score": 17
-      },
-      {
-        "url": "https://adametnext.com/careers/",
-        "anchor_text": "Careers",
-        "score": 13
-      },
-      {
-        "url": "https://adametnext.com/classic/",
-        "anchor_text": "Problems everyone has when working remotely and how to solve them",
-        "score": 13
-      },
-      {
-        "url": "https://adametnext.com/classic/#respond",
-        "anchor_text": "No comments yet",
-        "score": 13
-      },
-      {
-        "url": "https://adametnext.com/modern/",
-        "anchor_text": "Are enterprise teams the next big thing in the freelance revolution?",
-        "score": 12
-      },
-      {
-        "url": "https://adametnext.com/modern/#respond",
-        "anchor_text": "No comments yet",
-        "score": 12
-      },
-      {
-        "url": "https://adametnext.com/blog/",
-        "anchor_text": "Subscribe",
-        "score": 10
-      },
-      {
-        "url": "https://adametnext.com",
-        "anchor_text": "Adamet Next",
-        "score": 0
       }
     ]
   },
@@ -17319,9 +17230,19 @@
     "press_url": "https://www.sailife.com/news",
     "candidate_links": [
       {
+        "url": "https://www.sailife.com/sai-life-sciences-agility-life-sciences-and-centrix-pharma-solutions-announce-an-integrated-cmc-partnership-to-accelerate-drug-development-for-innovators/",
+        "anchor_text": "Read more",
+        "score": 169
+      },
+      {
         "url": "https://www.sailife.com/mabtech-and-sai-life-sciences-announce-strategic-collaboration-to-advance-immunology-research-with-eyra-platform-at-sai-boston-site/",
         "anchor_text": "Read more",
         "score": 147
+      },
+      {
+        "url": "https://www.sailife.com/sai-life-sciences-launches-child-safety-awareness-program-in-government-schools-in-hyderabad-with-sankalp-foundation/",
+        "anchor_text": "Read more",
+        "score": 132
       },
       {
         "url": "https://www.sailife.com/pushing-boundaries-in-organic-chemistry-iisc-prof-santanu-mukherjee-at-sai-life-sciences/",
@@ -17332,6 +17253,16 @@
         "url": "https://www.sailife.com/india-is-evolving-from-being-a-tactical-supplier-to-a-strategic-partner-to-global-pharma/",
         "anchor_text": "Read more",
         "score": 104
+      },
+      {
+        "url": "https://www.sailife.com/where-nature-inspires-innovation-university-of-kansas-prof-apurba-dutta-visits-sai/",
+        "anchor_text": "Read more",
+        "score": 98
+      },
+      {
+        "url": "https://www.sailife.com/sai-life-sciences-set-to-double-process-rd-capacity-with-new-facility-in-hyderabad/",
+        "anchor_text": "Read more",
+        "score": 98
       },
       {
         "url": "https://www.sailife.com/sai-life-sciences-recognized-as-a-best-organization-for-women-bow-2026-by-et-edge/",
@@ -17347,6 +17278,11 @@
         "url": "https://www.sailife.com/kudikunta-lake-restoration-completed-marking-the-revival-of-an-urban-water-body/",
         "anchor_text": "Read more",
         "score": 95
+      },
+      {
+        "url": "https://www.sailife.com/sai-life-sciences-becomes-a-signatory-to-the-un-womens-empowerment-principles/",
+        "anchor_text": "Read more",
+        "score": 93
       },
       {
         "url": "https://www.sailife.com/inside-sai-life-sciences-integrated-rd-campus-accelerating-drug-development/",
@@ -17395,6 +17331,11 @@
       },
       {
         "url": "https://www.sailife.com/ai-driven-retrosynthesis-integrated-into-discovery-chemistry/",
+        "anchor_text": "Read more",
+        "score": 76
+      },
+      {
+        "url": "https://www.sailife.com/sai-life-sciences-limited-sustains-growth-momentum-in-q2fy26/",
         "anchor_text": "Read more",
         "score": 76
       },
@@ -17569,7 +17510,7 @@
         "score": 21
       },
       {
-        "url": "https://www.sailife.com/news/page/4/?ajax=true",
+        "url": "https://www.sailife.com/news/page/5/?ajax=true",
         "anchor_text": "next page",
         "score": 21
       },
@@ -21410,14 +21351,14 @@
         "score": 168
       },
       {
-        "url": "https://www.ey.com/en_gl/newsroom/2026/03/ey-survey-autonomous-ai-is-no-longer-theoretical-as-adoption-grows-despite-ongoing-trust-concerns",
-        "anchor_text": "EY survey: Autonomous AI is no longer theoretical as adoption grows despite ongoing trust concerns",
-        "score": 166
-      },
-      {
         "url": "https://www.ey.com/en_gl/newsroom/2026/05/geopolitics-tops-the-ceo-agenda-as-leaders-tighten-focus-on-profitability-ai-and-strategic-deals",
         "anchor_text": "Geopolitics tops the CEO agenda as leaders tighten focus on profitability, AI and strategic deals",
         "score": 165
+      },
+      {
+        "url": "https://www.ey.com/en_gl/newsroom/2026/05/ey-report-ai-is-reshaping-consumer-products-selection-accelerating-brand-consideration-risk",
+        "anchor_text": "EY report: AI is reshaping consumer products selection, accelerating brand consideration risk",
+        "score": 160
       },
       {
         "url": "https://www.ey.com/en_gl/newsroom/2026/04/ey-launches-enterprise-scale-agentic-ai-to-redefine-the-audit-experience-for-the-ai-era",
@@ -22195,6 +22136,11 @@
         "score": 42
       },
       {
+        "url": "https://www.ey.com/en_gl/people/gigi-o-brien",
+        "anchor_text": "Gigi O’Brien",
+        "score": 42
+      },
+      {
         "url": "https://www.ey.com/en_gl/people/sarah-graham",
         "anchor_text": "Sarah Graham",
         "score": 42
@@ -22863,11 +22809,6 @@
         "url": "https://www.ey.com/en_jm",
         "anchor_text": "JamaicaEnglish",
         "score": 8
-      },
-      {
-        "url": "https://www.ey.com/en_jp",
-        "anchor_text": "JapanEnglish",
-        "score": 8
       }
     ]
   },
@@ -23238,14 +23179,19 @@
         "score": 62
       },
       {
-        "url": "https://rxpropellant.com/designing-labs-for-the-unknown/",
-        "anchor_text": "Designing Labs for the Unknown",
-        "score": 46
+        "url": "https://rxpropellant.com/made-in-india-trusted-by-the-world/",
+        "anchor_text": "Made in India, Trusted by the World",
+        "score": 50
       },
       {
         "url": "https://rxpropellant.com/bio-international-convention/",
         "anchor_text": "Bio International Convention",
         "score": 44
+      },
+      {
+        "url": "https://rxpropellant.com/2026/05/",
+        "anchor_text": "May 2026",
+        "score": 40
       },
       {
         "url": "https://rxpropellant.com/2026/04/",
@@ -27468,14 +27414,14 @@
         "score": 178
       },
       {
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-enters-exclusive-collaboration-with-sbp-group-a-market-leader-in-hepatology-in-china-to-accelerate-bepirovirsen-at-launch/",
+        "anchor_text": "11 May 2026GSK enters exclusive collaboration with SBP Group, a market leader in hepatology in China, to accelerate bepirovirsen at launchBepirovirsen is a potential first-in-class treatment for chronic hepatitis B, under priority regulatory review in China",
+        "score": 174
+      },
+      {
         "url": "https://www.gsk.com/en-gb/media/press-releases/bepirovirsen-accepted-for-regulatory-review-in-china-as-a-potential-first-in-class-functional-cure-for-chronic-hepatitis-b/",
         "anchor_text": "30 March 2026Bepirovirsen accepted for regulatory review in China as a potential first-in-class functional cure for chronic hepatitis BSubmission supported by statistically significant and clinically meaningful functional cure rates in pivotal Phase III B-Well trials",
         "score": 171
-      },
-      {
-        "url": "https://www.gsk.com/en-gb/media/press-releases/linerixibat-accepted-for-priority-review-in-china-for-cholestatic-pruritus-in-patients-with-primary-biliary-cholangitis/",
-        "anchor_text": "26 February 2026Linerixibat accepted for priority review in China for cholestatic pruritus in patients with primary biliary cholangitisSubmission based on data from positive GLISTEN phase III trial",
-        "score": 168
       },
       {
         "url": "https://www.gsk.com/en-gb/careers/experienced-professionals/research-and-development/chemical-manufacturing-and-controls-cmc-medicine-development-and-supply-mds/",
@@ -30748,6 +30694,11 @@
       {
         "url": "https://www.labcorp.com/modalities/vaccines/assays",
         "anchor_text": "Vaccines",
+        "score": 33
+      },
+      {
+        "url": "https://www.labcorp.com/terms-and-conditions",
+        "anchor_text": "Terms and Conditions",
         "score": 33
       },
       {
@@ -38636,7 +38587,7 @@
       },
       {
         "url": "https://www.roche.com/investors/bonds",
-        "anchor_text": "Share price315.30CHF- 3.00(-0.94%)Today",
+        "anchor_text": "Share price315.40CHF+ 0.10(+0.03%)Today",
         "score": 20
       },
       {
@@ -41391,11 +41342,6 @@
         "score": 60
       },
       {
-        "url": "https://www.daiichisankyo.com/about_us/mission-strength/our_workplace/",
-        "anchor_text": "Our Workplace",
-        "score": 59
-      },
-      {
         "url": "https://www.daiichisankyo.com/sustainability/performance-reports/news/",
         "anchor_text": "Sustainability Topics",
         "score": 59
@@ -41459,11 +41405,6 @@
         "url": "https://www.daiichisankyo.com/sustainability/stakeholder_engagement/patients/",
         "anchor_text": "With Healthcare Professionals",
         "score": 56
-      },
-      {
-        "url": "https://www.daiichisankyo.com/about_us/mission-strength/strengths/",
-        "anchor_text": "Our Strengths",
-        "score": 55
       },
       {
         "url": "https://www.daiichisankyo.com/about_us/governance/criteria_for_independence/",
@@ -42804,6 +42745,16 @@
         "url": "https://www.daiichisankyo.com/media/press_release/detail/index_3353.html",
         "anchor_text": "Differences Between Consolidated Results for Fiscal 2016 and Fiscal 2015",
         "score": 51
+      },
+      {
+        "url": "https://www.daiichisankyo.com/media/press_release/detail/index_3352.html",
+        "anchor_text": "Daiichi Sankyo Announces “Partial Amendment to the Articles of Incorporation” and “Election of a candidate for Member of the Audit and Supervisory Board”",
+        "score": 51
+      },
+      {
+        "url": "https://www.daiichisankyo.com/media/press_release/detail/index_3354.html",
+        "anchor_text": "Daiichi Sankyo Initiates ENVISAGE-TAVI AF Study Investigating Once-Daily Lixiana® (edoxaban) in Patients with Atrial Fibrillation Undergoing Transcatheter Aortic Valve Implantation",
+        "score": 51
       }
     ]
   },
@@ -43174,7 +43125,7 @@
       },
       {
         "url": "https://www.takeda.com/newsroom/press-releases/",
-        "anchor_text": "Press Releases",
+        "anchor_text": "Do not sell or share my personal information",
         "score": 41
       },
       {
@@ -46322,11 +46273,6 @@
         "url": "https://www.immunocore.com/clinical-trials",
         "anchor_text": "Clinical Trials",
         "score": 28
-      },
-      {
-        "url": "https://www.immunocore.com/privacy-policy",
-        "anchor_text": "Privacy Policy",
-        "score": 27
       },
       {
         "url": "https://www.immunocore.com/science/publications",
@@ -50615,11 +50561,6 @@
         "score": 45
       },
       {
-        "url": "https://www.catalent.com/events/isct-annual-meeting/",
-        "anchor_text": "ISCT Annual Meeting",
-        "score": 44
-      },
-      {
         "url": "https://www.catalent.com/our-locations/asia-pacific/",
         "anchor_text": "Asia Pacific",
         "score": 44
@@ -50640,13 +50581,13 @@
         "score": 40
       },
       {
-        "url": "https://www.catalent.com/events/bos-basel-2026/",
-        "anchor_text": "BOS Basel 2026",
+        "url": "https://www.catalent.com/events/tides-usa-2026/",
+        "anchor_text": "TIDES USA 2026",
         "score": 39
       },
       {
-        "url": "https://www.catalent.com/events/tides-usa-2026/",
-        "anchor_text": "TIDES USA 2026",
+        "url": "https://www.catalent.com/events/bos-basel-2026/",
+        "anchor_text": "BOS Basel 2026",
         "score": 39
       },
       {
@@ -50831,14 +50772,14 @@
         "score": 178
       },
       {
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-enters-exclusive-collaboration-with-sbp-group-a-market-leader-in-hepatology-in-china-to-accelerate-bepirovirsen-at-launch/",
+        "anchor_text": "11 May 2026GSK enters exclusive collaboration with SBP Group, a market leader in hepatology in China, to accelerate bepirovirsen at launchBepirovirsen is a potential first-in-class treatment for chronic hepatitis B, under priority regulatory review in China",
+        "score": 174
+      },
+      {
         "url": "https://www.gsk.com/en-gb/media/press-releases/bepirovirsen-accepted-for-regulatory-review-in-china-as-a-potential-first-in-class-functional-cure-for-chronic-hepatitis-b/",
         "anchor_text": "30 March 2026Bepirovirsen accepted for regulatory review in China as a potential first-in-class functional cure for chronic hepatitis BSubmission supported by statistically significant and clinically meaningful functional cure rates in pivotal Phase III B-Well trials",
         "score": 171
-      },
-      {
-        "url": "https://www.gsk.com/en-gb/media/press-releases/linerixibat-accepted-for-priority-review-in-china-for-cholestatic-pruritus-in-patients-with-primary-biliary-cholangitis/",
-        "anchor_text": "26 February 2026Linerixibat accepted for priority review in China for cholestatic pruritus in patients with primary biliary cholangitisSubmission based on data from positive GLISTEN phase III trial",
-        "score": 168
       },
       {
         "url": "https://www.gsk.com/en-gb/careers/experienced-professionals/research-and-development/chemical-manufacturing-and-controls-cmc-medicine-development-and-supply-mds/",
@@ -54567,6 +54508,11 @@
         "score": 56
       },
       {
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260511153000_1251.html?year=2026&category=",
+        "anchor_text": "Chugai’s Pharmaceutical Packaging Leveraging Proprietary Technologies Wins the “WorldStar Winner 2026” at the “WorldStar Global Packaging Awards 2026” from the World Packaging Organization",
+        "score": 53
+      },
+      {
         "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260424170002_1247.html?year=2026&category=",
         "anchor_text": "Chugai Announces 2026 1st Quarter Results",
         "score": 53
@@ -54969,6 +54915,11 @@
       {
         "url": "https://www.chugai-pharm.co.jp/english/innovation/",
         "anchor_text": "Innovation",
+        "score": 26
+      },
+      {
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260511_eWorldStarAwards.pdf&src=[%0],[%1]&rep=130,1251",
+        "anchor_text": "[PDF\n                            379KB]",
         "score": 26
       },
       {
@@ -61220,6 +61171,11 @@
         "score": 30
       },
       {
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7515",
+        "anchor_text": "Bavarian Nordic – Completion of Share Buy-Back Program",
+        "score": 30
+      },
+      {
         "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7512",
         "anchor_text": "Bavarian Nordic – Transactions in Connection with Share Buy-Back Program",
         "score": 30
@@ -61337,11 +61293,6 @@
       {
         "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7424",
         "anchor_text": "Bavarian Nordic – Transactions in Connection with Share Buy-Back Program",
-        "score": 30
-      },
-      {
-        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7403",
-        "anchor_text": "Bavarian Nordic Launches Planned Share Buy-Back Program",
         "score": 30
       },
       {
@@ -65459,6 +65410,11 @@
         "score": 124
       },
       {
+        "url": "https://www.genethon.fr/asgct-2026-genethon-affirme-son-leadership-scientifique-avec-21-communications-dont-8-presentations-orales/",
+        "anchor_text": "(plus)",
+        "score": 122
+      },
+      {
         "url": "https://www.genethon.fr/nouvelles-avancees-dans-le-traitement-de-la-sla-la-banque-dadn-de-genethon-impliquee-dans-lessai-mirocals/",
         "anchor_text": "(plus)",
         "score": 121
@@ -65682,11 +65638,6 @@
         "url": "https://www.genethon.fr/notre-science/nos-equipes/",
         "anchor_text": "Nos équipes de recherche et plateformes",
         "score": 43
-      },
-      {
-        "url": "https://www.genethon.fr/gnt0004-ou-en-est-on/",
-        "anchor_text": "(plus)",
-        "score": 36
       },
       {
         "url": "https://www.genethon.fr/newsroom/actualites/page/2",
@@ -70086,14 +70037,14 @@
         "score": 93
       },
       {
-        "url": "https://www.3ds.com/products/biovia/materials-studio/chemicals-catalysts",
-        "anchor_text": "Chemicals & Catalysts",
-        "score": 71
-      },
-      {
         "url": "https://www.3ds.com/careers/jobs/pr-communications-specialist-nam-547757",
         "anchor_text": "PR & Communications…",
         "score": 69
+      },
+      {
+        "url": "https://www.3ds.com/products/biovia/all-products",
+        "anchor_text": "All Products",
+        "score": 45
       },
       {
         "url": "https://www.3ds.com/newsroom/search",
@@ -73176,14 +73127,14 @@
         "score": 109
       },
       {
-        "url": "https://www.nuclera.com/nuclera-expands-global-reach-with-new-distribution-partners-across-apac-and-middle-east/",
-        "anchor_text": "Company AnnouncementsGeneral NewsNuclera Expands Global Footprint with New Distribution Partnerships Across APAC and the Middle EastMay 6, 2025",
-        "score": 103
-      },
-      {
         "url": "https://www.nuclera.com/nuclera-launches-gpcr-focused-nanodisc-panel-to-streamline-membrane-protein-production/",
         "anchor_text": "Company AnnouncementsGeneral NewsNuclera launches GPCR-focused nanodisc panel to streamline membrane protein productionMarch 30, 2026",
         "score": 102
+      },
+      {
+        "url": "https://www.nuclera.com/nuclera-launches-antibody-triage-service-to-advance-ai-driven-antibody-discovery/",
+        "anchor_text": "Company AnnouncementsNuclera launches antibody triage service to advance AI-driven antibody discoveryMay 11, 2026",
+        "score": 96
       },
       {
         "url": "https://www.nuclera.com/nuclera-eprotein-discovery-system-installed-at-leading-universities-in-taiwan/",
@@ -73214,11 +73165,6 @@
         "url": "https://www.nuclera.com/company/corporate-social-responsibility/",
         "anchor_text": "Corporate Social Responsibility",
         "score": 57
-      },
-      {
-        "url": "https://www.nuclera.com/event-webinar/pegs_boston_us/",
-        "anchor_text": "PEGS Boston:Join us for talks on AI-driven antibody screening and automated GPCR expression.",
-        "score": 46
       },
       {
         "url": "https://www.nuclera.com/faster-route-functional-gpcrs/",
@@ -73473,14 +73419,14 @@
         "score": 178
       },
       {
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-enters-exclusive-collaboration-with-sbp-group-a-market-leader-in-hepatology-in-china-to-accelerate-bepirovirsen-at-launch/",
+        "anchor_text": "11 May 2026GSK enters exclusive collaboration with SBP Group, a market leader in hepatology in China, to accelerate bepirovirsen at launchBepirovirsen is a potential first-in-class treatment for chronic hepatitis B, under priority regulatory review in China",
+        "score": 174
+      },
+      {
         "url": "https://www.gsk.com/en-gb/media/press-releases/bepirovirsen-accepted-for-regulatory-review-in-china-as-a-potential-first-in-class-functional-cure-for-chronic-hepatitis-b/",
         "anchor_text": "30 March 2026Bepirovirsen accepted for regulatory review in China as a potential first-in-class functional cure for chronic hepatitis BSubmission supported by statistically significant and clinically meaningful functional cure rates in pivotal Phase III B-Well trials",
         "score": 171
-      },
-      {
-        "url": "https://www.gsk.com/en-gb/media/press-releases/linerixibat-accepted-for-priority-review-in-china-for-cholestatic-pruritus-in-patients-with-primary-biliary-cholangitis/",
-        "anchor_text": "26 February 2026Linerixibat accepted for priority review in China for cholestatic pruritus in patients with primary biliary cholangitisSubmission based on data from positive GLISTEN phase III trial",
-        "score": 168
       },
       {
         "url": "https://www.gsk.com/en-gb/careers/experienced-professionals/research-and-development/chemical-manufacturing-and-controls-cmc-medicine-development-and-supply-mds/",
@@ -81823,11 +81769,6 @@
     ]
   },
   {
-    "company": "Dr. Reddy's Laboratories",
-    "press_url": "https://www.drreddys.com/media/",
-    "candidate_links": []
-  },
-  {
     "company": "Tata Consultancy Services",
     "press_url": "https://www.tcs.com/newsroom",
     "candidate_links": []
@@ -81843,8 +81784,8 @@
     "candidate_links": []
   },
   {
-    "company": "Thermo Fisher Scientific",
-    "press_url": "https://www.thermofisher.com/blog/",
+    "company": "AdametNext",
+    "press_url": "https://adametnext.com/blog/",
     "candidate_links": []
   },
   {
@@ -83337,7 +83278,898 @@
   {
     "company": "Merck KGaA",
     "press_url": "https://www.merckgroup.com/en/news/press-releases.html",
-    "candidate_links": []
+    "candidate_links": [
+      {
+        "url": "https://www.merckgroup.com/en/research/science-space/envisioning-tomorrow/smart-manufacturing-transforming-the-factory-shopfloor.html",
+        "anchor_text": "Company Info",
+        "score": 127
+      },
+      {
+        "url": "https://www.merckgroup.com/en/research/our-approach-to-research-and-development/healthcare/clinical-trials.html",
+        "anchor_text": "Clinical Trials",
+        "score": 105
+      },
+      {
+        "url": "https://www.merckgroup.com/en/expertise/electronics/technologies/delivery-systems-and-services.html",
+        "anchor_text": "Delivery Systems and Services",
+        "score": 93
+      },
+      {
+        "url": "https://www.merckgroup.com/en/sustainability/reports-and-guidelines/sustainability-statement.html",
+        "anchor_text": "Sustainability Statement",
+        "score": 89
+      },
+      {
+        "url": "https://www.merckgroup.com/en/sustainability/business-ethics/compliance/compliance-hotline.html",
+        "anchor_text": "Compliance-Hotline",
+        "score": 89
+      },
+      {
+        "url": "https://www.merckgroup.com/en/expertise/electronics/technologies/metrology-and-inspection.html",
+        "anchor_text": "Metrology and Inspection",
+        "score": 88
+      },
+      {
+        "url": "https://www.merckgroup.com/en/expertise/semiconductors/custom-innovation/intermolecular.html",
+        "anchor_text": "Intermolecular®",
+        "score": 86
+      },
+      {
+        "url": "https://www.merckgroup.com/en/investors/events-and-presentations/annual-general-meeting.html",
+        "anchor_text": "Company Info",
+        "score": 84
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-north-and-west-africa/merck-in-algeria.html",
+        "anchor_text": "Algeria",
+        "score": 84
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-north-and-west-africa/merck-in-tunisia.html",
+        "anchor_text": "Tunisia",
+        "score": 84
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-north-and-west-africa/merck-in-morocco.html",
+        "anchor_text": "Morocco",
+        "score": 84
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-north-east-africa/merck-in-ethiopia.html",
+        "anchor_text": "Ethiopia",
+        "score": 81
+      },
+      {
+        "url": "https://www.merckgroup.com/en/research/open-innovation/futureinsightprize_streaming.html",
+        "anchor_text": "Future Insight Prize",
+        "score": 80
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-south-east-africa/merck-in-nigeria.html",
+        "anchor_text": "Nigeria",
+        "score": 80
+      },
+      {
+        "url": "https://www.merckgroup.com/content/corporate/communications/china-country-site/zh.html",
+        "anchor_text": "China, mainland",
+        "score": 80
+      },
+      {
+        "url": "https://www.merckgroup.com/en/expertise/electronics/technologies/specialty-gases.html",
+        "anchor_text": "Semiconductor Specialty Gases",
+        "score": 79
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-saudi-arabia.html",
+        "anchor_text": "Saudi Arabia",
+        "score": 79
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-north-east-africa/merck-in-egypt.html",
+        "anchor_text": "Egypt",
+        "score": 78
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-south-east-africa/merck-in-ghana.html",
+        "anchor_text": "Ghana",
+        "score": 78
+      },
+      {
+        "url": "https://www.merckgroup.com/en/the-future-transformation/ai-economically-meaningful.html",
+        "anchor_text": "Stories",
+        "score": 77
+      },
+      {
+        "url": "https://www.merckgroup.com/en/the-future-transformation/what-the-crisis-taught-us.html",
+        "anchor_text": "Stories",
+        "score": 76
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-palestine.html",
+        "anchor_text": "Palestine",
+        "score": 76
+      },
+      {
+        "url": "https://www.merckgroup.com/en/expertise/electronics/technologies/thin-films.html",
+        "anchor_text": "Semiconductor Thin Films",
+        "score": 74
+      },
+      {
+        "url": "https://www.merckgroup.com/en/research/our-approach-to-research-and-development.html",
+        "anchor_text": "Our R&D Approach",
+        "score": 74
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-bahrain.html",
+        "anchor_text": "Bahrain",
+        "score": 74
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-lebanon.html",
+        "anchor_text": "Lebanon",
+        "score": 74
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-jordan.html",
+        "anchor_text": "Jordan",
+        "score": 73
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-kuwait.html",
+        "anchor_text": "Kuwait",
+        "score": 73
+      },
+      {
+        "url": "https://www.merckgroup.com/en/sustainability/business-ethics/digital-ethics.html",
+        "anchor_text": "Company Info",
+        "score": 72
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-qatar.html",
+        "anchor_text": "Qatar",
+        "score": 72
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-syria.html",
+        "anchor_text": "Syria",
+        "score": 72
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-yemen.html",
+        "anchor_text": "Yemen",
+        "score": 72
+      },
+      {
+        "url": "https://www.merckgroup.com/en/research/open-innovation/research-challenges.html",
+        "anchor_text": "Research Challenges",
+        "score": 71
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-iran.html",
+        "anchor_text": "Iran",
+        "score": 71
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-iraq.html",
+        "anchor_text": "Iraq",
+        "score": 71
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-oman.html",
+        "anchor_text": "Oman",
+        "score": 71
+      },
+      {
+        "url": "https://www.merckgroup.com/en/research/science-space/envisioning-tomorrow.html",
+        "anchor_text": "Envisioning Tomorrow",
+        "score": 70
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-uae.html",
+        "anchor_text": "United Arab Emirates",
+        "score": 70
+      },
+      {
+        "url": "https://www.merckgroup.com/en/research/open-innovation/research-grants.html",
+        "anchor_text": "Research Grants",
+        "score": 67
+      },
+      {
+        "url": "https://www.merckgroup.com/en/expertise/electronics/technologies/formulations.html",
+        "anchor_text": "Semiconductor Formulations",
+        "score": 66
+      },
+      {
+        "url": "https://www.merckgroup.com/en/research/open-innovation/innovation-cup.html",
+        "anchor_text": "Innovation Cup",
+        "score": 66
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-north-and-west-africa.html",
+        "anchor_text": "Ivory Coast",
+        "score": 65
+      },
+      {
+        "url": "https://www.merckgroup.com/en/media-center/press-release-subscription.html",
+        "anchor_text": "Subscribe to News Releases",
+        "score": 64
+      },
+      {
+        "url": "https://www.merckgroup.com/en/sustainability/products-and-innovation.html",
+        "anchor_text": "Products & Innovation",
+        "score": 63
+      },
+      {
+        "url": "https://www.merckgroup.com/en/sustainability/sustainability-strategy.html",
+        "anchor_text": "Company Info",
+        "score": 63
+      },
+      {
+        "url": "https://www.merckgroup.com/en/expertise/electronics/technologies/optronics.html",
+        "anchor_text": "Optronics",
+        "score": 63
+      },
+      {
+        "url": "https://www.merckgroup.com/en/company/periodic-table-of-elements-app.html",
+        "anchor_text": "Applications & Industry",
+        "score": 63
+      },
+      {
+        "url": "https://www.merckgroup.com/en/sustainability/reports-and-guidelines.html",
+        "anchor_text": "Reports & Guidelines",
+        "score": 62
+      },
+      {
+        "url": "https://www.merckgroup.com/en/deployment-testing/privacy-statement.html",
+        "anchor_text": "Privacy Statement",
+        "score": 61
+      },
+      {
+        "url": "https://www.merckgroup.com/en/deployment-testing/privacy-statement.html#3-2-2-cookies",
+        "anchor_text": "Cookie Policy",
+        "score": 61
+      },
+      {
+        "url": "https://www.merckgroup.com/en/stories/potential-of-mrna-technology.html",
+        "anchor_text": "Stories",
+        "score": 61
+      },
+      {
+        "url": "https://www.merckgroup.com/en/sustainability/community-engagement.html",
+        "anchor_text": "Community Engagement",
+        "score": 60
+      },
+      {
+        "url": "https://www.merckgroup.com/en/expertise/neurology-and-immunology.html",
+        "anchor_text": "Neurology & Immunology",
+        "score": 59
+      },
+      {
+        "url": "https://www.merckgroup.com/en/news-stories/events-and-highlights.html",
+        "anchor_text": "Events & Highlights",
+        "score": 59
+      },
+      {
+        "url": "https://www.merckgroup.com/en/investors/events-and-presentations.html",
+        "anchor_text": "Events & Presentations",
+        "score": 59
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-north-macedonia.html",
+        "anchor_text": "North Macedonia",
+        "score": 59
+      },
+      {
+        "url": "https://www.merckgroup.com/en/media-center/press-kits/q4-2025.html",
+        "anchor_text": "Company Info",
+        "score": 58
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-czech-republic.html",
+        "anchor_text": "Czech Republic",
+        "score": 58
+      },
+      {
+        "url": "https://www.merckgroup.com/en/investors/reports-and-financials.html",
+        "anchor_text": "Reports &  Financials",
+        "score": 57
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-south-africa.html",
+        "anchor_text": "Zimbabwe",
+        "score": 56
+      },
+      {
+        "url": "https://www.merckgroup.com/en/sustainability/business-ethics.html",
+        "anchor_text": "Business Ethics",
+        "score": 55
+      },
+      {
+        "url": "https://www.merckgroup.com/en/investors/corporate-governance.html",
+        "anchor_text": "Corporate Governance",
+        "score": 55
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-philippines.html",
+        "anchor_text": "Philippines",
+        "score": 55
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-new-zealand.html",
+        "anchor_text": "New Zealand",
+        "score": 55
+      },
+      {
+        "url": "https://www.merckgroup.com/en/sustainability/health-for-all.html",
+        "anchor_text": "Health Equity",
+        "score": 54
+      },
+      {
+        "url": "https://www.merckgroup.com/en/expertise/discovery-solutions.html",
+        "anchor_text": "Discovery Solutions",
+        "score": 54
+      },
+      {
+        "url": "https://www.merckgroup.com/en/media-center/download-gallery.html",
+        "anchor_text": "Download Gallery",
+        "score": 54
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-bangladesh.html",
+        "anchor_text": "Bangladesh",
+        "score": 54
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-luxembourg.html",
+        "anchor_text": "Luxembourg",
+        "score": 54
+      },
+      {
+        "url": "https://www.merckgroup.com/en/expertise/advanced-solutions.html",
+        "anchor_text": "Advanced Solutions",
+        "score": 53
+      },
+      {
+        "url": "https://www.merckgroup.com/en/research/healthcare-pipeline.html",
+        "anchor_text": "Healthcare Pipeline",
+        "score": 53
+      },
+      {
+        "url": "https://www.merckgroup.com/en/research/global-r-and-d-hubs.html",
+        "anchor_text": "Global R&D Hubs",
+        "score": 53
+      },
+      {
+        "url": "https://www.merckgroup.com/en/investors/creditor-relations.html",
+        "anchor_text": "Creditor Relations",
+        "score": 53
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-singapore.html",
+        "anchor_text": "Singapore",
+        "score": 53
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-venezuela.html",
+        "anchor_text": "Venezuela",
+        "score": 53
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-australia.html",
+        "anchor_text": "Australia",
+        "score": 53
+      },
+      {
+        "url": "https://www.merckgroup.com/en/company/strategy-and-values.html",
+        "anchor_text": "Strategy & Values",
+        "score": 52
+      },
+      {
+        "url": "https://www.merckgroup.com/en/expertise/process-solutions.html",
+        "anchor_text": "Process Solutions",
+        "score": 52
+      },
+      {
+        "url": "https://www.merckgroup.com/en/media-center/press-contacts.html",
+        "anchor_text": "Media Contacts",
+        "score": 52
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-malaysia.html",
+        "anchor_text": "Malaysia",
+        "score": 52
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-thailand.html",
+        "anchor_text": "Thailand",
+        "score": 52
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-bulgaria.html",
+        "anchor_text": "Bulgaria",
+        "score": 52
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-slovakia.html",
+        "anchor_text": "Slovakia",
+        "score": 52
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-slovenia.html",
+        "anchor_text": "Slovenia",
+        "score": 52
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-paraguay.html",
+        "anchor_text": "Paraguay",
+        "score": 52
+      },
+      {
+        "url": "https://www.merckgroup.com/en/company/building-belonging.html",
+        "anchor_text": "Building Belonging",
+        "score": 51
+      },
+      {
+        "url": "https://www.merckgroup.com/en/expertise/general-medicine.html",
+        "anchor_text": "General Medicine",
+        "score": 51
+      },
+      {
+        "url": "https://www.merckgroup.com/en/expertise/vibrant-thoughts.html",
+        "anchor_text": "Vibrant Thoughts",
+        "score": 51
+      },
+      {
+        "url": "https://www.merckgroup.com/en/investors/shares-and-bonds.html",
+        "anchor_text": "Shares",
+        "score": 51
+      },
+      {
+        "url": "https://www.merckgroup.com/en/investors/contact-services.html",
+        "anchor_text": "IR Contact & Services",
+        "score": 51
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-albania.html",
+        "anchor_text": "Albania",
+        "score": 51
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-baltics.html",
+        "anchor_text": "Lithuania",
+        "score": 51
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-belarus.html",
+        "anchor_text": "Belarus",
+        "score": 51
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-belgium.html",
+        "anchor_text": "Belgium",
+        "score": 51
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-croatia.html",
+        "anchor_text": "Croatia",
+        "score": 51
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-hungary.html",
+        "anchor_text": "Hungary",
+        "score": 51
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-ireland.html",
+        "anchor_text": "Ireland",
+        "score": 51
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-ukraine.html",
+        "anchor_text": "Ukraine",
+        "score": 51
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-bolivia.html",
+        "anchor_text": "Bolivia",
+        "score": 51
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-uruguay.html",
+        "anchor_text": "Uruguay",
+        "score": 51
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-israel.html",
+        "anchor_text": "Israel",
+        "score": 50
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-cyprus.html",
+        "anchor_text": "Cyprus",
+        "score": 50
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-serbia.html",
+        "anchor_text": "Serbia",
+        "score": 50
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-panama.html",
+        "anchor_text": "Panama",
+        "score": 50
+      },
+      {
+        "url": "https://www.merckgroup.com/en/research/open-innovation.html",
+        "anchor_text": "Open Innovation",
+        "score": 49
+      },
+      {
+        "url": "https://www.merckgroup.com/de/company/merck-in-germany.html",
+        "anchor_text": "Germany",
+        "score": 49
+      },
+      {
+        "url": "https://www.merckgroup.com/en/the-future-transformation.html",
+        "anchor_text": "CEO Blog",
+        "score": 48
+      },
+      {
+        "url": "https://www.merckgroup.com/en/media-center/press-kits.html",
+        "anchor_text": "Press Kits",
+        "score": 48
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide/merck-in-peru.html",
+        "anchor_text": "Perú",
+        "score": 48
+      },
+      {
+        "url": "https://www.merckgroup.com/en/expertise/life-science.html",
+        "anchor_text": "Life Science",
+        "score": 47
+      },
+      {
+        "url": "https://www.merckgroup.com/en/research/science-space.html",
+        "anchor_text": "Science Space",
+        "score": 47
+      },
+      {
+        "url": "https://www.merckgroup.com/en/research/ai-research.html",
+        "anchor_text": "Artificial Intelligence - AI Research",
+        "score": 45
+      },
+      {
+        "url": "https://www.merckgroup.com/en/stories/what-is-mrna.html",
+        "anchor_text": "Applications & Industry",
+        "score": 45
+      },
+      {
+        "url": "https://www.merckgroup.com/en/investors/why-invest.html",
+        "anchor_text": "Why Invest",
+        "score": 45
+      },
+      {
+        "url": "https://www.merckgroup.com/en/news/press-releases.html#main-content",
+        "anchor_text": "Skip to main content",
+        "score": 44
+      },
+      {
+        "url": "https://www.merckgroup.com/en/news/press-releases.html",
+        "anchor_text": "",
+        "score": 44
+      },
+      {
+        "url": "https://www.merckgroup.com/uk-en/privacy-statement.html",
+        "anchor_text": "Privacy Statement",
+        "score": 43
+      },
+      {
+        "url": "https://www.merckgroup.com/en/company/our-impact.html",
+        "anchor_text": "Our Impact",
+        "score": 43
+      },
+      {
+        "url": "https://www.merckgroup.com/en/company/contact-us.html",
+        "anchor_text": "Contact us",
+        "score": 43
+      },
+      {
+        "url": "https://www.merckgroup.com/en/careers/job-search.html",
+        "anchor_text": "Our job search",
+        "score": 43
+      },
+      {
+        "url": "https://www.merckgroup.com/en/supplier-information.html",
+        "anchor_text": "Suppliers",
+        "score": 43
+      },
+      {
+        "url": "https://www.merckgroup.com/en/sustainability/environment.html",
+        "anchor_text": "Environment",
+        "score": 41
+      },
+      {
+        "url": "https://www.merckgroup.com/en/privacy-statement.html",
+        "anchor_text": "Privacy Statement",
+        "score": 40
+      },
+      {
+        "url": "https://www.merckgroup.com/en/sustainability/employees.html",
+        "anchor_text": "Employees",
+        "score": 39
+      },
+      {
+        "url": "https://www.merckgroup.com/en/legal-disclaimer.html",
+        "anchor_text": "Legal Disclaimer",
+        "score": 39
+      },
+      {
+        "url": "https://www.merckgroup.com/en/company/ourheadquarters.html",
+        "anchor_text": "Headquarters",
+        "score": 38
+      },
+      {
+        "url": "https://www.merckgroup.com/en/expertise/electronics.html",
+        "anchor_text": "Electronics",
+        "score": 36
+      },
+      {
+        "url": "https://www.merckgroup.com/en/expertise/healthcare.html",
+        "anchor_text": "Healthcare",
+        "score": 35
+      },
+      {
+        "url": "https://www.merckgroup.com/en/news-stories.html",
+        "anchor_text": "News & Media",
+        "score": 35
+      },
+      {
+        "url": "https://www.merckgroup.com/en/terms-of-use.html",
+        "anchor_text": "Terms Of Use",
+        "score": 35
+      },
+      {
+        "url": "https://www.merckgroup.com/en/expertise/fertility.html",
+        "anchor_text": "Fertility",
+        "score": 34
+      },
+      {
+        "url": "https://www.merckgroup.com/en/company/management.html",
+        "anchor_text": "Management",
+        "score": 33
+      },
+      {
+        "url": "https://www.merckgroup.com/en/expertise/oncology.html",
+        "anchor_text": "Oncology",
+        "score": 33
+      },
+      {
+        "url": "https://www.merckgroup.com/central-america.html",
+        "anchor_text": "Trinidad and Tobago",
+        "score": 33
+      },
+      {
+        "url": "https://www.merckgroup.com/en/company/history.html",
+        "anchor_text": "History",
+        "score": 30
+      },
+      {
+        "url": "https://www.merckgroup.com/en/sustainability.html",
+        "anchor_text": "Sustainability",
+        "score": 27
+      },
+      {
+        "url": "https://www.merckgroup.com/en/partnering.html",
+        "anchor_text": "Partnering",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/in-en.html",
+        "anchor_text": "India",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/id-id.html",
+        "anchor_text": "Indonesia",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/jp-ja.html",
+        "anchor_text": "Japan",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/kr-ko.html",
+        "anchor_text": "South Korea",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/tw-zh.html",
+        "anchor_text": "Taiwan",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/tr-tr.html",
+        "anchor_text": "Türkiye",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/vn-vi.html",
+        "anchor_text": "Vietnam",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/at-de.html",
+        "anchor_text": "Austria",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/dk-da.html",
+        "anchor_text": "Denmark",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/fi-fi.html",
+        "anchor_text": "Finland",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/fr-fr.html",
+        "anchor_text": "France",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/gr-el.html",
+        "anchor_text": "Greece",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/it-it.html",
+        "anchor_text": "Italy",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/nl-en.html",
+        "anchor_text": "Netherlands",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/no-no.html",
+        "anchor_text": "Norway",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/pl-pl.html",
+        "anchor_text": "Poland",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/pt-pt.html",
+        "anchor_text": "Portugal",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/ro-ro.html",
+        "anchor_text": "Romania",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/ru-ru.html",
+        "anchor_text": "Russian Federation",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/es-es.html",
+        "anchor_text": "Spain",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/se-sv.html",
+        "anchor_text": "Sweden",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/ch-en.html",
+        "anchor_text": "Switzerland",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/uk-en.html",
+        "anchor_text": "United Kingdom",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/ar-es.html",
+        "anchor_text": "Argentina",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/br-pt.html",
+        "anchor_text": "Brazil",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/cl-es.html",
+        "anchor_text": "Chile",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/co-es.html",
+        "anchor_text": "Colombia",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/ec-es.html",
+        "anchor_text": "Ecuador",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/mx-es.html",
+        "anchor_text": "Mexico",
+        "score": 23
+      },
+      {
+        "url": "https://www.merckgroup.com/en/expertise.html",
+        "anchor_text": "Expertise",
+        "score": 22
+      },
+      {
+        "url": "https://www.merckgroup.com/en/investors.html",
+        "anchor_text": "Investor Relations",
+        "score": 22
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide.html",
+        "anchor_text": "Mozambique",
+        "score": 22
+      },
+      {
+        "url": "https://www.merckgroup.com/en/locations.html",
+        "anchor_text": "Locations",
+        "score": 22
+      },
+      {
+        "url": "https://www.merckgroup.com/en/research.html",
+        "anchor_text": "Research",
+        "score": 21
+      },
+      {
+        "url": "https://www.merckgroup.com/en/company.html",
+        "anchor_text": "Company",
+        "score": 20
+      },
+      {
+        "url": "https://www.merckgroup.com/en/sitemap.html",
+        "anchor_text": "Sitemap",
+        "score": 20
+      },
+      {
+        "url": "https://www.merckgroup.com/en/events.html",
+        "anchor_text": "Events",
+        "score": 19
+      },
+      {
+        "url": "https://www.merckgroup.com/en/news.html",
+        "anchor_text": "News",
+        "score": 17
+      },
+      {
+        "url": "https://www.merckgroup.com/en/404.html",
+        "anchor_text": "EN",
+        "score": 16
+      },
+      {
+        "url": "https://www.merckgroup.com/en.html",
+        "anchor_text": "Our homepage",
+        "score": 10
+      },
+      {
+        "url": "https://www.merckgroup.com",
+        "anchor_text": "https://www.merckgroup.com",
+        "score": 0
+      }
+    ]
   },
   {
     "company": "Eisai",
