@@ -104038,5 +104038,523 @@
         "score": 96,
         "date_added": "2026-05-11",
         "article_like": true
+    },
+    {
+        "company": "Amgen",
+        "url": "https://www.amgen.com/responsibility/sustainability-highlights-report",
+        "score": 62,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/sv/Sverige",
+        "score": 15,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Veeva Systems",
+        "url": "https://www.veeva.com/medtech/news/smithnephew-establishes-unified-quality-foundation-worldwide-with-veeva-quality-cloud/%20",
+        "score": 121,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Sartorius Stedim India Pvt Ltd",
+        "url": "https://www.sartorius.com/en/company/newsroom/blog/our-journey-in-china-celebrating-30-years-and-beyond-1778650",
+        "score": 106,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Sai Life Sciences",
+        "url": "https://www.sailife.com/sai-life-sciences-becomes-first-indian-crdmo-with-a-site-powered-by-100-renewable-energy/",
+        "score": 104,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/feature-articles/how-illumina-employees-work-to-move-healthcare-toward-precision-.html",
+        "score": 125,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Agilisium",
+        "url": "https://www.agilisium.com/context-ai/clinical/protocol-digitization-agent",
+        "score": 64,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Agilisium",
+        "url": "https://www.agilisium.com/context-ai/commercial/value-dossier-agent",
+        "score": 58,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "KPMG",
+        "url": "https://kpmg.com/xx/en/media/press-releases/2026/05/ai-adoption-in-finance-doubles-but-assurance-readiness-determines-who-wins.html",
+        "score": 164,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-publishes-study-showing-whole-exome-measurement-of-tumor-mutational-burden-results/",
+        "score": 143,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/news/?query-0-page=53#caris-query-filter",
+        "score": 10,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-05-12",
+        "score": 50,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-reinforces-its-leadership-in-advancing-neuropsychiatry-with-new-portfolio-and-pipeline-data-at-apa-and-ascp",
+        "score": 168,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-to-participate-in-the-goldman-sachs-47th-annual-global-healthcare-conference",
+        "score": 137,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Daiichi Sankyo",
+        "url": "https://www.daiichisankyo.com/about_us/mission-strength/vision/our_strategy/",
+        "score": 67,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Alnylam Pharmaceuticals",
+        "url": "https://investors.alnylam.com/press-release?id=29841",
+        "score": 26,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "AbCellera",
+        "url": "https://www.abcellera.com/news/abcellera-reports-q1-2026-business-results-announces-positive-interim-phase-1-clinical-data-for-abcl635",
+        "score": 123,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "AbCellera",
+        "url": "https://www.abcellera.com/news?f36088d5_page=30",
+        "score": 7,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "IQVIA",
+        "url": "https://www.iqvia.com/newsroom/2026/05/iqvia-board-of-directors-approves-2-billion-increase-in-share-repurchase-authorization",
+        "score": 147,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Eisai",
+        "url": "https://www.eisai.com/news/2026/news202625.html",
+        "score": 57,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Disc Medicine",
+        "url": "https://ir.discmedicine.com/news-releases/news-release-details/disc-medicine-participate-upcoming-investor-conferences-8",
+        "score": 109,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Intra-Cellular Therapies",
+        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/Johnson--Johnson-reinforces-its-leadership-in-advancing-neuropsychiatry-with-new-portfolio-and-pipeline-data-at-APA-and-ASCP/default.aspx",
+        "score": 215,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Intra-Cellular Therapies",
+        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/Johnson--Johnson-to-Participate-in-the-Goldman-Sachs-47th-Annual-Global-Healthcare-Conference/default.aspx",
+        "score": 184,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "ProQR Therapeutics",
+        "url": "https://ir.proqr.com/press-releases/proqr-announces-multiple-upcoming-scientific-conference-presentations-highlighting-the-breadth-of-its-axiomertm-rna-editing-platform",
+        "score": 162,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Bavarian Nordic",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7516",
+        "score": 30,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Agenus",
+        "url": "https://investor.agenusbio.com/news/news-details/2026/Agenus-Reports-First-Quarter-2026-Financial-Results-and-Highlights-BOTBAL-Execution-Across-Global-Access-and-Phase-3-Development/default.aspx",
+        "score": 210,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Chemaxon",
+        "url": "https://chemaxon.com/services/early-development/regulatory-affairs-consulting/",
+        "score": 76,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/news-media/newsroom/uncommon-nature-thinking-differently-shape-future-medical-dermatology",
+        "score": 106,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/news-media/newsroom/skin-academy-advancing-scientific-exchange-and-holistic-care-medical",
+        "score": 105,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/news-media/newsroom/2025-year-review-entering-era-sustained-growth",
+        "score": 83,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/dermatology/rare-skin-diseases/congenital-epidermolysis-bullosa",
+        "score": 80,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/news-media/newsroom/annual-general-shareholders-meeting",
+        "score": 72,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/news-media/newsroom/financial-results-q1-2026",
+        "score": 62,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/dermatology/hidradenitis-suppurativa",
+        "score": 51,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/dermatology/keratinocyte-cancer",
+        "score": 46,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/dermatology/rare-skin-diseases",
+        "score": 45,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/dermatology/atopic-dermatitis",
+        "score": 44,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/dermatology/actinic-keratosis",
+        "score": 44,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/innovation/rd-collaboration",
+        "score": 42,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/dermatology/alopecia-areata",
+        "score": 42,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/innovation/clinical-trials",
+        "score": 41,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/news-media/media-resources",
+        "score": 41,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/contact/report-side-effect",
+        "score": 41,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/news-media/event-calendar",
+        "score": 40,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/healthcare-professional",
+        "score": 36,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/investors/innovation/pipeline",
+        "score": 36,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/news-media/newsroom",
+        "score": 34,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/news-media/contact",
+        "score": 33,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/company/about-us",
+        "score": 31,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/investors/reports/annual",
+        "score": 31,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/privacy-policy-hcp",
+        "score": 31,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/dermatology/onychomycosis",
+        "score": 30,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/terms-conditions",
+        "score": 29,
+        "date_added": "2026-05-12",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/company/sustainability",
+        "score": 27,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/innovation/partnering",
+        "score": 26,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/dermatology/psoriasis",
+        "score": 26,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/dermatology/vitiligo",
+        "score": 25,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/terms-of-use",
+        "score": 25,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/innovation/pipeline",
+        "score": 24,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/website-map",
+        "score": 24,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/news-media",
+        "score": 23,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/company/suppliers",
+        "score": 22,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/company/integrity",
+        "score": 22,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/company/locations",
+        "score": 22,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/dermatology/acne",
+        "score": 21,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/company/history",
+        "score": 20,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/company/purpose",
+        "score": 20,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/company/faq",
+        "score": 16,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/dermatology",
+        "score": 14,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/innovation",
+        "score": 13,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/patients",
+        "score": 11,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/company",
+        "score": 10,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/contact",
+        "score": 10,
+        "date_added": "2026-05-12",
+        "article_like": false
+    },
+    {
+        "company": "Omeros Corporation",
+        "url": "https://investor.omeros.com/news/news-details/2026/Omeros-Corporation-to-Announce-First-Quarter-Financial-Results-on-May-13-2026/default.aspx",
+        "score": 159,
+        "date_added": "2026-05-12",
+        "article_like": false
     }
 ]
