@@ -1,282 +1,212 @@
 [
     {
-        "company": "Amgen",
-        "url": "https://www.amgen.com/responsibility/sustainability-highlights-report",
-        "score": 62,
-        "date_added": "2026-05-12",
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/cs/Ceska-Republika",
+        "score": 33,
+        "date_added": "2026-05-13",
         "article_like": true
     },
     {
         "company": "Sartorius Stedim India Pvt Ltd",
-        "url": "https://www.sartorius.com/en/company/newsroom/blog/our-journey-in-china-celebrating-30-years-and-beyond-1778650",
-        "score": 106,
-        "date_added": "2026-05-12",
+        "url": "https://www.sartorius.com/en/company/newsroom/blog/every-drop-tells-a-story-water-sustainability-at-sartorius-bangalore-1825128",
+        "score": 122,
+        "date_added": "2026-05-13",
         "article_like": true
     },
     {
-        "company": "Sai Life Sciences",
-        "url": "https://www.sailife.com/sai-life-sciences-becomes-first-indian-crdmo-with-a-site-powered-by-100-renewable-energy/",
-        "score": 104,
-        "date_added": "2026-05-12",
+        "company": "BIRAC",
+        "url": "https://www.birac.nic.in/desc_new.php?id=1328",
+        "score": 15,
+        "date_added": "2026-05-13",
         "article_like": true
     },
     {
-        "company": "Illumina",
-        "url": "https://www.illumina.com/company/news-center/feature-articles/how-illumina-employees-work-to-move-healthcare-toward-precision-.html",
-        "score": 125,
-        "date_added": "2026-05-12",
+        "company": "BIRAC",
+        "url": "https://www.birac.nic.in/desc_new.php?id=1330",
+        "score": 15,
+        "date_added": "2026-05-13",
         "article_like": true
     },
     {
-        "company": "Agilisium",
-        "url": "https://www.agilisium.com/context-ai/clinical/protocol-digitization-agent",
-        "score": 64,
-        "date_added": "2026-05-12",
+        "company": "Medtronic",
+        "url": "https://news.medtronic.com/mental-health-matters-at-medtronic-explore-our-employee-benefits-newsroom",
+        "score": 86,
+        "date_added": "2026-05-13",
         "article_like": true
     },
     {
-        "company": "Agilisium",
-        "url": "https://www.agilisium.com/context-ai/commercial/value-dossier-agent",
-        "score": 58,
-        "date_added": "2026-05-12",
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/publications/2026/the-new-rules-of-m-and-a-in-power-and-utilities",
+        "score": 107,
+        "date_added": "2026-05-13",
         "article_like": true
     },
     {
-        "company": "KPMG",
-        "url": "https://kpmg.com/xx/en/media/press-releases/2026/05/ai-adoption-in-finance-doubles-but-assurance-readiness-determines-who-wins.html",
-        "score": 164,
-        "date_added": "2026-05-12",
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/press/13may2026-beauty-next-wave-consumers-aesthetics-longevity",
+        "score": 78,
+        "date_added": "2026-05-13",
         "article_like": true
     },
     {
-        "company": "Caris Life Sciences",
-        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-publishes-study-showing-whole-exome-measurement-of-tumor-mutational-burden-results/",
-        "score": 143,
-        "date_added": "2026-05-12",
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/04/ey-named-a-horizon-3-market-leader-in-data-modernization-and-ai-services",
+        "score": 141,
+        "date_added": "2026-05-13",
         "article_like": true
     },
     {
-        "company": "Caris Life Sciences",
-        "url": "https://www.carislifesciences.com/news/?query-0-page=53#caris-query-filter",
-        "score": 10,
-        "date_added": "2026-05-12",
+        "company": "Granules India",
+        "url": "http://granulesindia.com/our-purpose-vision-values/",
+        "score": 41,
+        "date_added": "2026-05-13",
         "article_like": true
     },
     {
-        "company": "Roche",
-        "url": "https://www.roche.com/media/releases/med-cor-2026-05-12",
-        "score": 50,
-        "date_added": "2026-05-12",
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-and-epic-expand-collaboration-advance-diagnostic.html",
+        "score": 140,
+        "date_added": "2026-05-13",
+        "article_like": true
+    },
+    {
+        "company": "AstraZeneca",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/eneboparatide-normalised-serum-calcium-and-achieved-independence-from-supplements-in-31-1-percent-of-adults-with-HypoPT-in-CALYPSO-Phase-iii-trial.html",
+        "score": 247,
+        "date_added": "2026-05-13",
         "article_like": true
     },
     {
         "company": "Johnson & Johnson",
-        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-reinforces-its-leadership-in-advancing-neuropsychiatry-with-new-portfolio-and-pipeline-data-at-apa-and-ascp",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-showcases-hematology-leadership-with-30-presentations-at-the-2026-european-hematology-association-eha-congress",
+        "score": 171,
+        "date_added": "2026-05-13",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-advances-the-standard-of-calcium-modification-with-global-launch-of-shockwave-c2-aero-coronary-ivl-catheter",
         "score": 168,
-        "date_added": "2026-05-12",
+        "date_added": "2026-05-13",
         "article_like": true
     },
     {
-        "company": "Johnson & Johnson",
-        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-to-participate-in-the-goldman-sachs-47th-annual-global-healthcare-conference",
-        "score": 137,
-        "date_added": "2026-05-12",
+        "company": "Astellas Pharma",
+        "url": "https://newsroom.astellas.com/2026-05-12-IZERVAY-R-avacincaptad-pegol-intravitreal-solution-Demonstrated-Increased-Probability-of-Maintaining-Driving-Eligibility-in-Geographic-Atrophy-Patients",
+        "score": 175,
+        "date_added": "2026-05-13",
         "article_like": true
     },
     {
-        "company": "Alnylam Pharmaceuticals",
-        "url": "https://investors.alnylam.com/press-release?id=29841",
-        "score": 26,
-        "date_added": "2026-05-12",
+        "company": "Takeda Pharmaceutical",
+        "url": "https://www.takeda.com/newsroom/newsreleases/2026/continuation-of-stock-compensation-plan-for-directors-and-stock-grant-system-for-company-management-in-japan-2026/",
+        "score": 187,
+        "date_added": "2026-05-13",
         "article_like": true
     },
     {
-        "company": "AbCellera",
-        "url": "https://www.abcellera.com/news/abcellera-reports-q1-2026-business-results-announces-positive-interim-phase-1-clinical-data-for-abcl635",
-        "score": 123,
-        "date_added": "2026-05-12",
+        "company": "Takeda Pharmaceutical",
+        "url": "https://www.takeda.com/newsroom/newsreleases/2026/takeda-reports-fourth-quarter-fy2025-results/",
+        "score": 118,
+        "date_added": "2026-05-13",
         "article_like": true
     },
     {
-        "company": "AbCellera",
-        "url": "https://www.abcellera.com/news?f36088d5_page=30",
-        "score": 7,
-        "date_added": "2026-05-12",
+        "company": "Isomorphic Labs",
+        "url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-b-investment-round",
+        "score": 75,
+        "date_added": "2026-05-13",
         "article_like": true
     },
     {
-        "company": "IQVIA",
-        "url": "https://www.iqvia.com/newsroom/2026/05/iqvia-board-of-directors-approves-2-billion-increase-in-share-repurchase-authorization",
-        "score": 147,
-        "date_added": "2026-05-12",
-        "article_like": true
-    },
-    {
-        "company": "Eisai",
-        "url": "https://www.eisai.com/news/2026/news202625.html",
-        "score": 57,
-        "date_added": "2026-05-12",
+        "company": "Sumitomo Pharma",
+        "url": "https://www.sumitomo-pharma.com/news/20260513-1.html",
+        "score": 35,
+        "date_added": "2026-05-13",
         "article_like": true
     },
     {
         "company": "Disc Medicine",
-        "url": "https://ir.discmedicine.com/news-releases/news-release-details/disc-medicine-participate-upcoming-investor-conferences-8",
-        "score": 109,
-        "date_added": "2026-05-12",
+        "url": "https://ir.discmedicine.com/news-releases/news-release-details/disc-medicine-announces-multiple-presentations-across-3",
+        "score": 107,
+        "date_added": "2026-05-13",
         "article_like": true
     },
     {
         "company": "ProQR Therapeutics",
-        "url": "https://ir.proqr.com/press-releases/proqr-announces-multiple-upcoming-scientific-conference-presentations-highlighting-the-breadth-of-its-axiomertm-rna-editing-platform",
-        "score": 162,
-        "date_added": "2026-05-12",
+        "url": "https://ir.proqr.com/press-releases/proqr-announces-first-quarter-2026-operating-and-financial-results",
+        "score": 96,
+        "date_added": "2026-05-13",
+        "article_like": true
+    },
+    {
+        "company": "KaryoPharm Therapeutics",
+        "url": "https://investors.karyopharm.com/2026-05-12-Karyopharm-to-Participate-at-Upcoming-Investor-Conferences",
+        "score": 82,
+        "date_added": "2026-05-13",
         "article_like": true
     },
     {
         "company": "Bavarian Nordic",
-        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7516",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7521",
         "score": 30,
-        "date_added": "2026-05-12",
+        "date_added": "2026-05-13",
         "article_like": true
     },
     {
-        "company": "Chemaxon",
-        "url": "https://chemaxon.com/services/early-development/regulatory-affairs-consulting/",
-        "score": 76,
-        "date_added": "2026-05-12",
+        "company": "Valneva",
+        "url": "https://valneva.com/press-release/valneva-reports-first-quarter-2026-financial-results-and-provides-corporate-updates/",
+        "score": 115,
+        "date_added": "2026-05-13",
         "article_like": true
     },
     {
-        "company": "Almirall",
-        "url": "https://www.almirall.com/news-media/newsroom/uncommon-nature-thinking-differently-shape-future-medical-dermatology",
-        "score": 106,
-        "date_added": "2026-05-12",
+        "company": "Dotmatics",
+        "url": "https://www.dotmatics.com/news/introducing-luma-agent",
+        "score": 42,
+        "date_added": "2026-05-13",
         "article_like": true
     },
     {
-        "company": "Almirall",
-        "url": "https://www.almirall.com/news-media/newsroom/skin-academy-advancing-scientific-exchange-and-holistic-care-medical",
-        "score": 105,
-        "date_added": "2026-05-12",
+        "company": "Chemspace",
+        "url": "https://chem-space.com/news/automation-in-drug-discovery",
+        "score": 48,
+        "date_added": "2026-05-13",
         "article_like": true
     },
     {
-        "company": "Almirall",
-        "url": "https://www.almirall.com/news-media/newsroom/2025-year-review-entering-era-sustained-growth",
-        "score": 83,
-        "date_added": "2026-05-12",
+        "company": "Enamine",
+        "url": "https://enamine.net/news-press-releases/press-releases/leveraging-public-infrastructure-for-private-innovation-enamine-and-pal-align",
+        "score": 129,
+        "date_added": "2026-05-13",
         "article_like": true
     },
     {
-        "company": "Almirall",
-        "url": "https://www.almirall.com/dermatology/rare-skin-diseases/congenital-epidermolysis-bullosa",
+        "company": "BioSolveIT",
+        "url": "https://www.biosolveit.de/2026/05/13/hpsee-high-performance-docking-without-the-gpu-price-tag/",
+        "score": 114,
+        "date_added": "2026-05-13",
+        "article_like": true
+    },
+    {
+        "company": "Abridge",
+        "url": "https://www.abridge.com/blog/scaling-open-ai-gpt-models-nursing",
+        "score": 54,
+        "date_added": "2026-05-13",
+        "article_like": true
+    },
+    {
+        "company": "Oxford Nanopore Technologies",
+        "url": "https://nanoporetech.com/news/action-for-me-announces-research-study-for-me-and-long-covid",
         "score": 80,
-        "date_added": "2026-05-12",
+        "date_added": "2026-05-13",
         "article_like": true
     },
     {
-        "company": "Almirall",
-        "url": "https://www.almirall.com/news-media/newsroom/annual-general-shareholders-meeting",
-        "score": 72,
-        "date_added": "2026-05-12",
-        "article_like": true
-    },
-    {
-        "company": "Almirall",
-        "url": "https://www.almirall.com/news-media/newsroom/financial-results-q1-2026",
-        "score": 62,
-        "date_added": "2026-05-12",
-        "article_like": true
-    },
-    {
-        "company": "Almirall",
-        "url": "https://www.almirall.com/dermatology/hidradenitis-suppurativa",
-        "score": 51,
-        "date_added": "2026-05-12",
-        "article_like": true
-    },
-    {
-        "company": "Almirall",
-        "url": "https://www.almirall.com/dermatology/keratinocyte-cancer",
-        "score": 46,
-        "date_added": "2026-05-12",
-        "article_like": true
-    },
-    {
-        "company": "Almirall",
-        "url": "https://www.almirall.com/dermatology/rare-skin-diseases",
-        "score": 45,
-        "date_added": "2026-05-12",
-        "article_like": true
-    },
-    {
-        "company": "Almirall",
-        "url": "https://www.almirall.com/dermatology/atopic-dermatitis",
-        "score": 44,
-        "date_added": "2026-05-12",
-        "article_like": true
-    },
-    {
-        "company": "Almirall",
-        "url": "https://www.almirall.com/dermatology/actinic-keratosis",
-        "score": 44,
-        "date_added": "2026-05-12",
-        "article_like": true
-    },
-    {
-        "company": "Almirall",
-        "url": "https://www.almirall.com/innovation/rd-collaboration",
-        "score": 42,
-        "date_added": "2026-05-12",
-        "article_like": true
-    },
-    {
-        "company": "Almirall",
-        "url": "https://www.almirall.com/dermatology/alopecia-areata",
-        "score": 42,
-        "date_added": "2026-05-12",
-        "article_like": true
-    },
-    {
-        "company": "Almirall",
-        "url": "https://www.almirall.com/innovation/clinical-trials",
-        "score": 41,
-        "date_added": "2026-05-12",
-        "article_like": true
-    },
-    {
-        "company": "Almirall",
-        "url": "https://www.almirall.com/news-media/media-resources",
-        "score": 41,
-        "date_added": "2026-05-12",
-        "article_like": true
-    },
-    {
-        "company": "Almirall",
-        "url": "https://www.almirall.com/contact/report-side-effect",
-        "score": 41,
-        "date_added": "2026-05-12",
-        "article_like": true
-    },
-    {
-        "company": "Almirall",
-        "url": "https://www.almirall.com/healthcare-professional",
-        "score": 36,
-        "date_added": "2026-05-12",
-        "article_like": true
-    },
-    {
-        "company": "Almirall",
-        "url": "https://www.almirall.com/privacy-policy-hcp",
-        "score": 31,
-        "date_added": "2026-05-12",
-        "article_like": true
-    },
-    {
-        "company": "Almirall",
-        "url": "https://www.almirall.com/terms-conditions",
-        "score": 29,
-        "date_added": "2026-05-12",
+        "company": "Calico Life Sciences",
+        "url": "https://www.calicolabs.com/story/our-story-taking-a-long-term-view-on-tackling-aging-and-increasing-healthspan/",
+        "score": 101,
+        "date_added": "2026-05-13",
         "article_like": true
     }
 ]
