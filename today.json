@@ -1,212 +1,156 @@
 [
     {
-        "company": "ALS Global",
-        "url": "https://www.alsglobal.com/cs/Ceska-Republika",
-        "score": 33,
-        "date_added": "2026-05-13",
+        "company": "Tredence",
+        "url": "https://www.tredence.com/solution/agentic-process-automation-rapid",
+        "score": 56,
+        "date_added": "2026-05-14",
         "article_like": true
     },
     {
-        "company": "Sartorius Stedim India Pvt Ltd",
-        "url": "https://www.sartorius.com/en/company/newsroom/blog/every-drop-tells-a-story-water-sustainability-at-sartorius-bangalore-1825128",
-        "score": 122,
-        "date_added": "2026-05-13",
-        "article_like": true
-    },
-    {
-        "company": "BIRAC",
-        "url": "https://www.birac.nic.in/desc_new.php?id=1328",
-        "score": 15,
-        "date_added": "2026-05-13",
-        "article_like": true
-    },
-    {
-        "company": "BIRAC",
-        "url": "https://www.birac.nic.in/desc_new.php?id=1330",
-        "score": 15,
-        "date_added": "2026-05-13",
-        "article_like": true
-    },
-    {
-        "company": "Medtronic",
-        "url": "https://news.medtronic.com/mental-health-matters-at-medtronic-explore-our-employee-benefits-newsroom",
-        "score": 86,
-        "date_added": "2026-05-13",
+        "company": "Simson Pharma Limited",
+        "url": "https://www.simsonpharma.com/blog-details/what-are-pharmaceutical-reference-standards-and-why-do-they-matter",
+        "score": 94,
+        "date_added": "2026-05-14",
         "article_like": true
     },
     {
         "company": "Boston Consulting Group",
-        "url": "https://www.bcg.com/publications/2026/the-new-rules-of-m-and-a-in-power-and-utilities",
-        "score": 107,
-        "date_added": "2026-05-13",
+        "url": "https://www.bcg.com/industries/retail/restaurant-industry",
+        "score": 54,
+        "date_added": "2026-05-14",
         "article_like": true
     },
     {
-        "company": "Boston Consulting Group",
-        "url": "https://www.bcg.com/press/13may2026-beauty-next-wave-consumers-aesthetics-longevity",
-        "score": 78,
-        "date_added": "2026-05-13",
+        "company": "Lupin",
+        "url": "https://www.lupin.com/media/perspectives/how-innovation-leads-to-impact-making-science-led-treatment-accessible-in-india",
+        "score": 115,
+        "date_added": "2026-05-14",
         "article_like": true
     },
     {
-        "company": "EY-Parthenon",
-        "url": "https://www.ey.com/en_gl/newsroom/2026/04/ey-named-a-horizon-3-market-leader-in-data-modernization-and-ai-services",
-        "score": 141,
-        "date_added": "2026-05-13",
+        "company": "Lupin",
+        "url": "https://www.lupin.com/media/press-releases/lupin-receives-u-s-fda-approval-for-famotidine-injection-usp",
+        "score": 98,
+        "date_added": "2026-05-14",
         "article_like": true
     },
     {
-        "company": "Granules India",
-        "url": "http://granulesindia.com/our-purpose-vision-values/",
-        "score": 41,
-        "date_added": "2026-05-13",
+        "company": "WuXi Biologics",
+        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-included-in-2026-dow-jones-best-in-class-world-index-and-emerging-markets-index/",
+        "score": 126,
+        "date_added": "2026-05-14",
         "article_like": true
     },
     {
         "company": "Labcorp Drug Development",
-        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-and-epic-expand-collaboration-advance-diagnostic.html",
-        "score": 140,
-        "date_added": "2026-05-13",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/new-heart-health-guidelines-start-early-age-30-what-you-need-know.html",
+        "score": 143,
+        "date_added": "2026-05-14",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/courses/clinical-education",
+        "score": 49,
+        "date_added": "2026-05-14",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/test/foundationonerpgx",
+        "score": 27,
+        "date_added": "2026-05-14",
+        "article_like": true
+    },
+    {
+        "company": "Pfizer",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/european-commission-approves-pfizers-hympavzi-treatment",
+        "score": 114,
+        "date_added": "2026-05-14",
         "article_like": true
     },
     {
         "company": "AstraZeneca",
-        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/eneboparatide-normalised-serum-calcium-and-achieved-independence-from-supplements-in-31-1-percent-of-adults-with-HypoPT-in-CALYPSO-Phase-iii-trial.html",
-        "score": 247,
-        "date_added": "2026-05-13",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/imfinzi-ev-improves-efs-os-in-bladder-cancer.html",
+        "score": 145,
+        "date_added": "2026-05-14",
         "article_like": true
     },
     {
-        "company": "Johnson & Johnson",
-        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-showcases-hematology-leadership-with-30-presentations-at-the-2026-european-hematology-association-eha-congress",
-        "score": 171,
-        "date_added": "2026-05-13",
-        "article_like": true
-    },
-    {
-        "company": "Johnson & Johnson",
-        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-advances-the-standard-of-calcium-modification-with-global-launch-of-shockwave-c2-aero-coronary-ivl-catheter",
-        "score": 168,
-        "date_added": "2026-05-13",
+        "company": "Gilead Sciences",
+        "url": "https://www.gilead.com/news/news-details/2026/gilead-to-present-new-data-advancing-care-in-pbc-and-viral-hepatitis-at-easl-2026",
+        "score": 148,
+        "date_added": "2026-05-14",
         "article_like": true
     },
     {
         "company": "Astellas Pharma",
-        "url": "https://newsroom.astellas.com/2026-05-12-IZERVAY-R-avacincaptad-pegol-intravitreal-solution-Demonstrated-Increased-Probability-of-Maintaining-Driving-Eligibility-in-Geographic-Atrophy-Patients",
-        "score": 175,
-        "date_added": "2026-05-13",
+        "url": "https://newsroom.astellas.com/2026-05-14-astellas-submits-supplemental-new-drug-application-in-japan-for-padcev-plus-keytruda-in-cisplatin-eligible-patients-with-mibc",
+        "score": 149,
+        "date_added": "2026-05-14",
         "article_like": true
     },
     {
-        "company": "Takeda Pharmaceutical",
-        "url": "https://www.takeda.com/newsroom/newsreleases/2026/continuation-of-stock-compensation-plan-for-directors-and-stock-grant-system-for-company-management-in-japan-2026/",
-        "score": 187,
-        "date_added": "2026-05-13",
+        "company": "BeiGene",
+        "url": "https://ir.beonemedicines.com/news/beone-medicines-beqalzitm-sonrotoclax-approved-by-us-fda-as-first-and-only-bcl2-inhibitor-for/a57256f1-5e36-427a-94c3-2b6be7f2bfb9",
+        "score": 152,
+        "date_added": "2026-05-14",
         "article_like": true
     },
     {
-        "company": "Takeda Pharmaceutical",
-        "url": "https://www.takeda.com/newsroom/newsreleases/2026/takeda-reports-fourth-quarter-fy2025-results/",
-        "score": 118,
-        "date_added": "2026-05-13",
+        "company": "WuXi AppTec",
+        "url": "https://www.wuxiapptec.com/news/media-coverage/qdm4rn5iitdfhuj3z31j996z",
+        "score": 61,
+        "date_added": "2026-05-14",
         "article_like": true
     },
     {
-        "company": "Isomorphic Labs",
-        "url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-b-investment-round",
-        "score": 75,
-        "date_added": "2026-05-13",
+        "company": "ICON plc",
+        "url": "https://www.iconplc.com/news-events/press-releases/icon-expands-us-early-phase-research-capabilities",
+        "score": 93,
+        "date_added": "2026-05-14",
         "article_like": true
     },
     {
-        "company": "Sumitomo Pharma",
-        "url": "https://www.sumitomo-pharma.com/news/20260513-1.html",
-        "score": 35,
-        "date_added": "2026-05-13",
+        "company": "IQVIA",
+        "url": "https://www.iqvia.com/newsroom/2026/05/iqvia-and-kexing-biopharm-expand-strategic-collaboration",
+        "score": 117,
+        "date_added": "2026-05-14",
         "article_like": true
     },
     {
-        "company": "Disc Medicine",
-        "url": "https://ir.discmedicine.com/news-releases/news-release-details/disc-medicine-announces-multiple-presentations-across-3",
-        "score": 107,
-        "date_added": "2026-05-13",
+        "company": "Catalent",
+        "url": "https://www.catalent.com/catalent-news/catalent-and-elpida-therapeutics-enter-strategic-partnership-for-late-phase-aav-manufacturing/",
+        "score": 125,
+        "date_added": "2026-05-14",
         "article_like": true
     },
     {
-        "company": "ProQR Therapeutics",
-        "url": "https://ir.proqr.com/press-releases/proqr-announces-first-quarter-2026-operating-and-financial-results",
-        "score": 96,
-        "date_added": "2026-05-13",
+        "company": "Ipsen",
+        "url": "https://www.ipsen.com/press-release/ipsen-unveils-corabotase-a-first-in-class-recombinant-neuroinhibitor-rni-at-the-scale-symposium-3294602/",
+        "score": 135,
+        "date_added": "2026-05-14",
         "article_like": true
     },
     {
-        "company": "KaryoPharm Therapeutics",
-        "url": "https://investors.karyopharm.com/2026-05-12-Karyopharm-to-Participate-at-Upcoming-Investor-Conferences",
-        "score": 82,
-        "date_added": "2026-05-13",
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260514153000_1250.html?year=2026&category=",
+        "score": 53,
+        "date_added": "2026-05-14",
         "article_like": true
     },
     {
-        "company": "Bavarian Nordic",
-        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7521",
-        "score": 30,
-        "date_added": "2026-05-13",
-        "article_like": true
-    },
-    {
-        "company": "Valneva",
-        "url": "https://valneva.com/press-release/valneva-reports-first-quarter-2026-financial-results-and-provides-corporate-updates/",
-        "score": 115,
-        "date_added": "2026-05-13",
-        "article_like": true
-    },
-    {
-        "company": "Dotmatics",
-        "url": "https://www.dotmatics.com/news/introducing-luma-agent",
-        "score": 42,
-        "date_added": "2026-05-13",
-        "article_like": true
-    },
-    {
-        "company": "Chemspace",
-        "url": "https://chem-space.com/news/automation-in-drug-discovery",
-        "score": 48,
-        "date_added": "2026-05-13",
-        "article_like": true
-    },
-    {
-        "company": "Enamine",
-        "url": "https://enamine.net/news-press-releases/press-releases/leveraging-public-infrastructure-for-private-innovation-enamine-and-pal-align",
-        "score": 129,
-        "date_added": "2026-05-13",
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260514eGazyva_INS_NDA.pdf&src=[%0],[%1]&rep=130,1250",
+        "score": 26,
+        "date_added": "2026-05-14",
         "article_like": true
     },
     {
         "company": "BioSolveIT",
-        "url": "https://www.biosolveit.de/2026/05/13/hpsee-high-performance-docking-without-the-gpu-price-tag/",
-        "score": 114,
-        "date_added": "2026-05-13",
-        "article_like": true
-    },
-    {
-        "company": "Abridge",
-        "url": "https://www.abridge.com/blog/scaling-open-ai-gpt-models-nursing",
-        "score": 54,
-        "date_added": "2026-05-13",
-        "article_like": true
-    },
-    {
-        "company": "Oxford Nanopore Technologies",
-        "url": "https://nanoporetech.com/news/action-for-me-announces-research-study-for-me-and-long-covid",
-        "score": 80,
-        "date_added": "2026-05-13",
-        "article_like": true
-    },
-    {
-        "company": "Calico Life Sciences",
-        "url": "https://www.calicolabs.com/story/our-story-taking-a-long-term-view-on-tackling-aging-and-increasing-healthspan/",
-        "score": 101,
-        "date_added": "2026-05-13",
+        "url": "https://www.biosolveit.de/2026/05/13/summer-2026-scientific-challenge-deadline-approaching/",
+        "score": 111,
+        "date_added": "2026-05-14",
         "article_like": true
     }
 ]
