@@ -1,156 +1,107 @@
 [
     {
-        "company": "Tredence",
-        "url": "https://www.tredence.com/solution/agentic-process-automation-rapid",
-        "score": 56,
-        "date_added": "2026-05-14",
-        "article_like": true
-    },
-    {
-        "company": "Simson Pharma Limited",
-        "url": "https://www.simsonpharma.com/blog-details/what-are-pharmaceutical-reference-standards-and-why-do-they-matter",
-        "score": 94,
-        "date_added": "2026-05-14",
-        "article_like": true
-    },
-    {
-        "company": "Boston Consulting Group",
-        "url": "https://www.bcg.com/industries/retail/restaurant-industry",
-        "score": 54,
-        "date_added": "2026-05-14",
+        "company": "Veeva Systems",
+        "url": "https://www.veeva.com/resources/veeva-commercial-summit-to-feature-biopharmas-ai-successes-and-the-path-to-agentic-commercial/",
+        "score": 121,
+        "date_added": "2026-05-15",
         "article_like": true
     },
     {
         "company": "Lupin",
-        "url": "https://www.lupin.com/media/perspectives/how-innovation-leads-to-impact-making-science-led-treatment-accessible-in-india",
-        "score": 115,
-        "date_added": "2026-05-14",
+        "url": "https://www.lupin.com/media/press-releases/lupin-inaugurates-atharv-ability-an-advanced-multidisciplinary-neuro-rehabilitation-center-in-delhi",
+        "score": 137,
+        "date_added": "2026-05-15",
         "article_like": true
     },
     {
-        "company": "Lupin",
-        "url": "https://www.lupin.com/media/press-releases/lupin-receives-u-s-fda-approval-for-famotidine-injection-usp",
-        "score": 98,
-        "date_added": "2026-05-14",
+        "company": "Tempus",
+        "url": "https://www.tempus.com/news/pr/tempus-expands-strategic-collaboration-with-bristol-myers-squibb-to-enhance-the-probability-of-success-across-clinical-development-programs-in-oncology-and-neuroscience/",
+        "score": 196,
+        "date_added": "2026-05-15",
         "article_like": true
     },
     {
-        "company": "WuXi Biologics",
-        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-included-in-2026-dow-jones-best-in-class-world-index-and-emerging-markets-index/",
-        "score": 126,
-        "date_added": "2026-05-14",
-        "article_like": true
-    },
-    {
-        "company": "Labcorp Drug Development",
-        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/new-heart-health-guidelines-start-early-age-30-what-you-need-know.html",
-        "score": 143,
-        "date_added": "2026-05-14",
-        "article_like": true
-    },
-    {
-        "company": "GE HealthCare",
-        "url": "https://www.gehealthcare.com/en-us/courses/clinical-education",
-        "score": 49,
-        "date_added": "2026-05-14",
-        "article_like": true
-    },
-    {
-        "company": "Foundation Medicine",
-        "url": "https://www.foundationmedicine.com/test/foundationonerpgx",
-        "score": 27,
-        "date_added": "2026-05-14",
-        "article_like": true
-    },
-    {
-        "company": "Pfizer",
-        "url": "https://www.pfizer.com/news/press-release/press-release-detail/european-commission-approves-pfizers-hympavzi-treatment",
-        "score": 114,
-        "date_added": "2026-05-14",
-        "article_like": true
-    },
-    {
-        "company": "AstraZeneca",
-        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/imfinzi-ev-improves-efs-os-in-bladder-cancer.html",
-        "score": 145,
-        "date_added": "2026-05-14",
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/groundbreaking-global-survey-captures-the-significant-patient-burden-experienced-with-current-standard-of-care-bladder-cancer-treatments-underscoring-urgency-for-continued-innovation",
+        "score": 227,
+        "date_added": "2026-05-15",
         "article_like": true
     },
     {
         "company": "Gilead Sciences",
-        "url": "https://www.gilead.com/news/news-details/2026/gilead-to-present-new-data-advancing-care-in-pbc-and-viral-hepatitis-at-easl-2026",
-        "score": 148,
-        "date_added": "2026-05-14",
+        "url": "https://www.gilead.com/news/news-details/2026/gilead-prices-3-billion-of-senior-unsecured-notes",
+        "score": 116,
+        "date_added": "2026-05-15",
         "article_like": true
     },
     {
         "company": "Astellas Pharma",
-        "url": "https://newsroom.astellas.com/2026-05-14-astellas-submits-supplemental-new-drug-application-in-japan-for-padcev-plus-keytruda-in-cisplatin-eligible-patients-with-mibc",
-        "score": 149,
-        "date_added": "2026-05-14",
+        "url": "https://newsroom.astellas.com/2026-05-15-notice-regarding-continuation-of-the-performance-linked-stock-compensation-scheme-and-performance-linked-stock-delivery-scheme-for-the-domestic-and-global-astellas-group-executives",
+        "score": 204,
+        "date_added": "2026-05-15",
         "article_like": true
     },
     {
-        "company": "BeiGene",
-        "url": "https://ir.beonemedicines.com/news/beone-medicines-beqalzitm-sonrotoclax-approved-by-us-fda-as-first-and-only-bcl2-inhibitor-for/a57256f1-5e36-427a-94c3-2b6be7f2bfb9",
-        "score": 152,
-        "date_added": "2026-05-14",
+        "company": "Astellas Pharma",
+        "url": "https://newsroom.astellas.com/2026-05-15-chinas-nmpa-accepts-ndapplication-for-izervay-for-the-treatment-of-geographic-atrophy-secondary-to-age-related-macular-degeneration",
+        "score": 155,
+        "date_added": "2026-05-15",
         "article_like": true
     },
     {
-        "company": "WuXi AppTec",
-        "url": "https://www.wuxiapptec.com/news/media-coverage/qdm4rn5iitdfhuj3z31j996z",
-        "score": 61,
-        "date_added": "2026-05-14",
-        "article_like": true
-    },
-    {
-        "company": "ICON plc",
-        "url": "https://www.iconplc.com/news-events/press-releases/icon-expands-us-early-phase-research-capabilities",
-        "score": 93,
-        "date_added": "2026-05-14",
-        "article_like": true
-    },
-    {
-        "company": "IQVIA",
-        "url": "https://www.iqvia.com/newsroom/2026/05/iqvia-and-kexing-biopharm-expand-strategic-collaboration",
-        "score": 117,
-        "date_added": "2026-05-14",
+        "company": "Astellas Pharma",
+        "url": "https://newsroom.astellas.com/2026-05-15-notice-regarding-continuation-of-the-performance-linked-stock-compensation-scheme",
+        "score": 105,
+        "date_added": "2026-05-15",
         "article_like": true
     },
     {
         "company": "Catalent",
-        "url": "https://www.catalent.com/catalent-news/catalent-and-elpida-therapeutics-enter-strategic-partnership-for-late-phase-aav-manufacturing/",
-        "score": 125,
-        "date_added": "2026-05-14",
+        "url": "https://www.catalent.com/events/fce-pharma-2026/",
+        "score": 40,
+        "date_added": "2026-05-15",
         "article_like": true
     },
     {
         "company": "Ipsen",
-        "url": "https://www.ipsen.com/press-release/ipsen-unveils-corabotase-a-first-in-class-recombinant-neuroinhibitor-rni-at-the-scale-symposium-3294602/",
-        "score": 135,
-        "date_added": "2026-05-14",
+        "url": "https://www.ipsen.com/press-release/late-breaking-data-from-easl-reinforces-iqirvos-impact-on-alp-reduction-with-fatigue-and-pruritus-improvement-in-patients-with-pbc-3295548/",
+        "score": 170,
+        "date_added": "2026-05-15",
         "article_like": true
     },
     {
-        "company": "Chugai Pharmaceutical",
-        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260514153000_1250.html?year=2026&category=",
-        "score": 53,
-        "date_added": "2026-05-14",
+        "company": "KaryoPharm Therapeutics",
+        "url": "https://investors.karyopharm.com/2026-05-14-Karyopharm-Reports-First-Quarter-2026-Financial-Results-and-Completion-of-Phase-3-Endometrial-Cancer-Trial-Enrollment",
+        "score": 141,
+        "date_added": "2026-05-15",
         "article_like": true
     },
     {
-        "company": "Chugai Pharmaceutical",
-        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260514eGazyva_INS_NDA.pdf&src=[%0],[%1]&rep=130,1250",
-        "score": 26,
-        "date_added": "2026-05-14",
+        "company": "Argenx",
+        "url": "https://argenx.com/content/dam/argenx-corp/media-documents/ARGX_Q1_2026_Slides_Final.pdf ",
+        "score": 91,
+        "date_added": "2026-05-15",
         "article_like": true
     },
     {
-        "company": "BioSolveIT",
-        "url": "https://www.biosolveit.de/2026/05/13/summer-2026-scientific-challenge-deadline-approaching/",
-        "score": 111,
-        "date_added": "2026-05-14",
+        "company": "Oxford Nanopore Technologies",
+        "url": "https://nanoporetech.com/blog/science-unlocked-publication-picks-from-april-2026",
+        "score": 70,
+        "date_added": "2026-05-15",
+        "article_like": true
+    },
+    {
+        "company": "Menarini Group",
+        "url": "https://www.menarini.com/en-us/news/news-detail/menarini-group-announces-new-data-at-the-american-society-of-clinical-oncology-asco-2026-annual-meeting.html",
+        "score": 150,
+        "date_added": "2026-05-15",
+        "article_like": true
+    },
+    {
+        "company": "Affinia Therapeutics",
+        "url": "https://affiniatx.com/affinia-therapeutics-presents-aftx-201-data-and-upbeat-clinical-trial-design-for-bag3-associated-dilated-cardiomyopathy-alongside-advances-in-bbb-penetrant-aav-capsids-and-proprietary-manufactu/",
+        "score": 209,
+        "date_added": "2026-05-15",
         "article_like": true
     }
 ]
