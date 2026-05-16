@@ -1,107 +1,163 @@
 [
     {
-        "company": "Veeva Systems",
-        "url": "https://www.veeva.com/resources/veeva-commercial-summit-to-feature-biopharmas-ai-successes-and-the-path-to-agentic-commercial/",
-        "score": 121,
-        "date_added": "2026-05-15",
+        "company": "InSilicoMinds",
+        "url": "https://insilicominds.com/while-the-world-talks-about-the-massive-10-billion-india-uzbekistan-%f0%9f%87%ba%f0%9f%87%bf-%f0%9f%87%ae%f0%9f%87%b3-eurasian-pharma-corridor/",
+        "score": 158,
+        "date_added": "2026-05-16",
+        "article_like": true
+    },
+    {
+        "company": "InSilicoMinds",
+        "url": "https://insilicominds.com/a-meaningful-meeting-towards-building-insilico-india/",
+        "score": 68,
+        "date_added": "2026-05-16",
         "article_like": true
     },
     {
         "company": "Lupin",
-        "url": "https://www.lupin.com/media/press-releases/lupin-inaugurates-atharv-ability-an-advanced-multidisciplinary-neuro-rehabilitation-center-in-delhi",
-        "score": 137,
-        "date_added": "2026-05-15",
+        "url": "https://www.lupin.com/investors/important-communication-for-shareholders",
+        "score": 65,
+        "date_added": "2026-05-16",
+        "article_like": true
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/investors/financial-statements-of-subsidiaries",
+        "score": 61,
+        "date_added": "2026-05-16",
+        "article_like": true
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/investors/unclaimed-dividend-and-shares",
+        "score": 54,
+        "date_added": "2026-05-16",
+        "article_like": true
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/investors/stock-exchange-intimations",
+        "score": 51,
+        "date_added": "2026-05-16",
+        "article_like": true
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/investors/integrated-annual-report",
+        "score": 49,
+        "date_added": "2026-05-16",
+        "article_like": true
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/investors/financial-information",
+        "score": 46,
+        "date_added": "2026-05-16",
+        "article_like": true
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/investors/agm-egm-postal-ballot",
+        "score": 46,
+        "date_added": "2026-05-16",
+        "article_like": true
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/investors/shareholding-pattern",
+        "score": 45,
+        "date_added": "2026-05-16",
+        "article_like": true
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/investors/quarterly-results",
+        "score": 42,
+        "date_added": "2026-05-16",
+        "article_like": true
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/investors/investor-contacts",
+        "score": 42,
+        "date_added": "2026-05-16",
+        "article_like": true
+    },
+    {
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/rise-blood-based-biomarkers-primary-care-assess-cognitive-decline.html",
+        "score": 143,
+        "date_added": "2026-05-16",
         "article_like": true
     },
     {
         "company": "Tempus",
-        "url": "https://www.tempus.com/news/pr/tempus-expands-strategic-collaboration-with-bristol-myers-squibb-to-enhance-the-probability-of-success-across-clinical-development-programs-in-oncology-and-neuroscience/",
-        "score": 196,
-        "date_added": "2026-05-15",
+        "url": "https://www.tempus.com/resources/content/case-studies/tempus-next-pathways-unlocked-critical-insights-into-the-ansclc-patient-journey-with-bristol-myers-squibb-bms/",
+        "score": 162,
+        "date_added": "2026-05-16",
         "article_like": true
     },
     {
-        "company": "Johnson & Johnson",
-        "url": "https://www.jnj.com/media-center/press-releases/groundbreaking-global-survey-captures-the-significant-patient-burden-experienced-with-current-standard-of-care-bladder-cancer-treatments-underscoring-urgency-for-continued-innovation",
-        "score": 227,
-        "date_added": "2026-05-15",
+        "company": "Siemens Healthineers",
+        "url": "https://www.siemens-healthineers.com/press/releases/northwestern-medicine",
+        "score": 53,
+        "date_added": "2026-05-16",
         "article_like": true
     },
     {
-        "company": "Gilead Sciences",
-        "url": "https://www.gilead.com/news/news-details/2026/gilead-prices-3-billion-of-senior-unsecured-notes",
-        "score": 116,
-        "date_added": "2026-05-15",
+        "company": "Genentech",
+        "url": "https://www.gene.com/media/press-releases/15112/2026-05-15/fda-approves-genentechs-tecentriq-for-ad",
+        "score": 99,
+        "date_added": "2026-05-16",
         "article_like": true
     },
     {
-        "company": "Astellas Pharma",
-        "url": "https://newsroom.astellas.com/2026-05-15-notice-regarding-continuation-of-the-performance-linked-stock-compensation-scheme-and-performance-linked-stock-delivery-scheme-for-the-domestic-and-global-astellas-group-executives",
-        "score": 204,
-        "date_added": "2026-05-15",
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-publishes-study-on-the-caris-lookback-program/",
+        "score": 106,
+        "date_added": "2026-05-16",
         "article_like": true
     },
     {
-        "company": "Astellas Pharma",
-        "url": "https://newsroom.astellas.com/2026-05-15-chinas-nmpa-accepts-ndapplication-for-izervay-for-the-treatment-of-geographic-atrophy-secondary-to-age-related-macular-degeneration",
-        "score": 155,
-        "date_added": "2026-05-15",
-        "article_like": true
-    },
-    {
-        "company": "Astellas Pharma",
-        "url": "https://newsroom.astellas.com/2026-05-15-notice-regarding-continuation-of-the-performance-linked-stock-compensation-scheme",
-        "score": 105,
-        "date_added": "2026-05-15",
+        "company": "AstraZeneca",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/enhertu-approved-in-two-her2-early-bc-settings.html",
+        "score": 147,
+        "date_added": "2026-05-16",
         "article_like": true
     },
     {
         "company": "Catalent",
-        "url": "https://www.catalent.com/events/fce-pharma-2026/",
-        "score": 40,
-        "date_added": "2026-05-15",
+        "url": "https://www.catalent.com/events/crs-2026-annual-meetingantibody-industrial-symposium/",
+        "score": 77,
+        "date_added": "2026-05-16",
         "article_like": true
     },
     {
-        "company": "Ipsen",
-        "url": "https://www.ipsen.com/press-release/late-breaking-data-from-easl-reinforces-iqirvos-impact-on-alp-reduction-with-fatigue-and-pruritus-improvement-in-patients-with-pbc-3295548/",
-        "score": 170,
-        "date_added": "2026-05-15",
+        "company": "Catalent",
+        "url": "https://www.catalent.com/events/european-pharma-outsourcing-summit-2026/",
+        "score": 64,
+        "date_added": "2026-05-16",
         "article_like": true
     },
     {
-        "company": "KaryoPharm Therapeutics",
-        "url": "https://investors.karyopharm.com/2026-05-14-Karyopharm-Reports-First-Quarter-2026-Financial-Results-and-Completion-of-Phase-3-Endometrial-Cancer-Trial-Enrollment",
-        "score": 141,
-        "date_added": "2026-05-15",
+        "company": "Catalent",
+        "url": "https://www.catalent.com/events/als-drug-development-summit-2026/",
+        "score": 57,
+        "date_added": "2026-05-16",
         "article_like": true
     },
     {
-        "company": "Argenx",
-        "url": "https://argenx.com/content/dam/argenx-corp/media-documents/ARGX_Q1_2026_Slides_Final.pdf ",
-        "score": 91,
-        "date_added": "2026-05-15",
+        "company": "Catalent",
+        "url": "https://www.catalent.com/events/issn-annual-conference-2026/",
+        "score": 52,
+        "date_added": "2026-05-16",
         "article_like": true
     },
     {
-        "company": "Oxford Nanopore Technologies",
-        "url": "https://nanoporetech.com/blog/science-unlocked-publication-picks-from-april-2026",
-        "score": 70,
-        "date_added": "2026-05-15",
-        "article_like": true
-    },
-    {
-        "company": "Menarini Group",
-        "url": "https://www.menarini.com/en-us/news/news-detail/menarini-group-announces-new-data-at-the-american-society-of-clinical-oncology-asco-2026-annual-meeting.html",
-        "score": 150,
-        "date_added": "2026-05-15",
-        "article_like": true
-    },
-    {
-        "company": "Affinia Therapeutics",
-        "url": "https://affiniatx.com/affinia-therapeutics-presents-aftx-201-data-and-upbeat-clinical-trial-design-for-bag3-associated-dilated-cardiomyopathy-alongside-advances-in-bbb-penetrant-aav-capsids-and-proprietary-manufactu/",
-        "score": 209,
-        "date_added": "2026-05-15",
+        "company": "OXB (Oxford Biomedica)",
+        "url": "https://oxb.com/investor-events/capital-markets-event-2026/",
+        "score": 60,
+        "date_added": "2026-05-16",
         "article_like": true
     }
 ]
