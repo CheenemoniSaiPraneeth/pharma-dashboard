@@ -1035,11 +1035,6 @@
         "score": 10
       },
       {
-        "url": "https://www.amgen.com/privacy",
-        "anchor_text": "www.amgen.com/privacy",
-        "score": 10
-      },
-      {
         "url": "https://www.amgen.com/about",
         "anchor_text": "Overview",
         "score": 8
@@ -2778,7 +2773,7 @@
       },
       {
         "url": "https://www.novartis.com/news#cookie-settings-button",
-        "anchor_text": "Cookie Settings",
+        "anchor_text": "Cookie settings",
         "score": 7
       },
       {
@@ -5161,6 +5156,16 @@
         "score": 160
       },
       {
+        "url": "https://www.veeva.com/resources/unilever-reckitt-estee-lauder-nestle-basf-and-evonik-to-speak-at-veevas-virtual-summit-for-consumer-goods-and-chemical-industries/",
+        "anchor_text": "Read Press Release",
+        "score": 157
+      },
+      {
+        "url": "https://www.veeva.com/resources/court-rejects-medidata-lawsuit-against-veeva-for-lack-of-evidence-blocks-medidatas-moves-to-limit-competition-and-employee-rights/",
+        "anchor_text": "Read Press Release",
+        "score": 157
+      },
+      {
         "url": "https://www.veeva.com/medtech/news/new-research-finds-87-of-medtechs-lack-consistent-methods-to-share-product-information-across-global-regulatory-teams/%20",
         "anchor_text": "Read Press Release",
         "score": 153
@@ -5174,6 +5179,16 @@
         "url": "https://www.veeva.com/resources/st-cloud-state-university-and-veeva-partner-to-deliver-real-world-clinical-technology-experience-to-medtech-students/",
         "anchor_text": "Read Press Release",
         "score": 144
+      },
+      {
+        "url": "https://www.veeva.com/medtech/resources/veeva-medtech-clinical-trials-report-signals-significant-opportunity-to-improve-data-delivery-and-quality/",
+        "anchor_text": "Read Press Release",
+        "score": 143
+      },
+      {
+        "url": "https://www.veeva.com/resources/largest-ever-industry-report-reveals-video-meetings-3x-more-effective-and-companies-using-them-most-gain-advantage/",
+        "anchor_text": "Read Press Release",
+        "score": 142
       },
       {
         "url": "https://www.veeva.com/resources/veeva-announces-esource-application-for-research-sites-to-eliminate-paper-and-streamline-clinical-trial-data-flow/",
@@ -5206,6 +5221,16 @@
         "score": 134
       },
       {
+        "url": "https://www.veeva.com/resources/veeva-pulse-reveals-digital-content-more-than-twice-as-effective-in-driving-promotional-response-globally/",
+        "anchor_text": "Read Press Release",
+        "score": 133
+      },
+      {
+        "url": "https://www.veeva.com/resources/more-than-2000-biopharma-leaders-come-together-at-veeva-rd-and-quality-summit-to-advance-drug-development/",
+        "anchor_text": "Read Press Release",
+        "score": 133
+      },
+      {
         "url": "https://www.veeva.com/resources/veeva-clinical-database-crosses-200-study-milestone-cuts-time-to-aggregate-and-clean-study-data-by-30-50/",
         "anchor_text": "Read Press Release",
         "score": 132
@@ -5236,6 +5261,16 @@
         "score": 129
       },
       {
+        "url": "https://www.veeva.com/resources/veeva-commercial-summit-connects-nearly-1500-life-sciences-leaders-across-sales-medical-and-marketing/",
+        "anchor_text": "Learn More",
+        "score": 129
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-pulse-shows-post-pandemic-hcp-access-nearing-80-in-key-specialties-driven-by-digital-engagement/",
+        "anchor_text": "Read Press Release",
+        "score": 129
+      },
+      {
         "url": "https://www.veeva.com/resources/veeva-opendata-and-veeva-network-mdm-enable-coordinated-customer-engagement-for-boehringer-ingelheim/",
         "anchor_text": "Read Press Release",
         "score": 128
@@ -5256,6 +5291,11 @@
         "score": 126
       },
       {
+        "url": "https://www.veeva.com/resources/veeva-vault-rim-driving-greater-speed-and-compliance-for-more-than-350-life-sciences-organizations/",
+        "anchor_text": "Read Press Release",
+        "score": 126
+      },
+      {
         "url": "https://www.veeva.com/resources/veeva-announces-collaboration-with-global-biotech-to-further-accelerate-clinical-trial-innovation/",
         "anchor_text": "Read Press Release",
         "score": 125
@@ -5269,6 +5309,21 @@
         "url": "https://www.veeva.com/resources/southern-star-research-adopts-veeva-vault-etmf-and-veeva-vault-ctms-to-streamline-trial-processes/",
         "anchor_text": "Read Press Release",
         "score": 125
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-compass-modernizes-prescriber-data-with-new-approach-designed-for-todays-complex-therapies/",
+        "anchor_text": "Read Press Release",
+        "score": 124
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-pulse-reveals-digital-content-more-than-twice-as-effective-in-driving-promotional-response/",
+        "anchor_text": "Read Press Release",
+        "score": 124
+      },
+      {
+        "url": "https://www.veeva.com/medtech/resources/industrywide-survey-reveals-centralizing-regulatory-is-number-one-priority-for-medtech/",
+        "anchor_text": "Read Press Release",
+        "score": 124
       },
       {
         "url": "https://www.veeva.com/resources/veeva-announces-environmental-monitoring-solution-to-modernize-quality-control-in-manufacturing/",
@@ -5286,7 +5341,17 @@
         "score": 123
       },
       {
+        "url": "https://www.veeva.com/resources/veeva-crossix-introduces-new-products-to-advance-omnichannel-marketing-for-life-sciences-brands/",
+        "anchor_text": "Read Press Release",
+        "score": 123
+      },
+      {
         "url": "https://www.veeva.com/resources/veeva-basics-adopted-by-more-than-100-emerging-biotechs-to-simplify-and-standardize-operations/",
+        "anchor_text": "Read Press Release",
+        "score": 122
+      },
+      {
+        "url": "https://www.veeva.com/resources/life-sciences-brands-reach-clinically-relevant-audiences-with-new-veeva-crossix-prime-segments/",
         "anchor_text": "Read Press Release",
         "score": 122
       },
@@ -5302,6 +5367,11 @@
       },
       {
         "url": "https://www.veeva.com/resources/industry-research-finds-establishing-a-foundation-for-ai-is-top-priority-for-cpg-enterprises/",
+        "anchor_text": "Read Press Release",
+        "score": 120
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-cdb-application-to-streamline-aggregation-cleaning-and-transformation-of-clinical-data/",
         "anchor_text": "Read Press Release",
         "score": 120
       },
@@ -5406,6 +5476,11 @@
         "score": 113
       },
       {
+        "url": "https://www.veeva.com/resources/global-cdmo-adare-pharma-solutions-harmonizing-quality-with-veeva-vault-quality-suite/",
+        "anchor_text": "Read Press Release",
+        "score": 113
+      },
+      {
         "url": "https://www.veeva.com/resources/lotus-clinical-research-expands-partnership-with-veeva-to-accelerate-clinical-trials/",
         "anchor_text": "Read Press Release",
         "score": 112
@@ -5414,6 +5489,16 @@
         "url": "https://www.veeva.com/medtech/news/medtech-industry-establishes-foundation-for-clinical-trials-with-veeva-medtech/",
         "anchor_text": "Read Press Release",
         "score": 111
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-expands-relationship-with-accenture-to-help-customers-transition-to-vault-crm/",
+        "anchor_text": "Read Press Release",
+        "score": 111
+      },
+      {
+        "url": "https://www.veeva.com/resources/six-of-the-top-20-pharma-select-veeva-vault-edc-as-company-standard-for-new-trials/",
+        "anchor_text": "Learn More",
+        "score": 110
       },
       {
         "url": "https://www.veeva.com/medtech/news/for-the-second-year-in-a-row-veeva-medtech-named-best-overall-medtech-software",
@@ -5496,6 +5581,11 @@
         "score": 99
       },
       {
+        "url": "https://www.veeva.com/resources/veeva-introduces-new-epro-application-for-faster-access-to-patient-data/",
+        "anchor_text": "Read Press Release",
+        "score": 99
+      },
+      {
         "url": "https://www.veeva.com/resources/veeva-pulse-data-shows-new-science-calls-for-more-connected-engagement/",
         "anchor_text": "Read Press Release",
         "score": 98
@@ -5511,7 +5601,17 @@
         "score": 97
       },
       {
+        "url": "https://www.veeva.com/resources/veeva-statement-in-support-of-proposed-ftc-rule-to-ban-non-competes/",
+        "anchor_text": "Read Press Release",
+        "score": 95
+      },
+      {
         "url": "https://www.veeva.com/resources/veeva-and-zifo-partner-to-accelerate-quality-control-modernization/",
+        "anchor_text": "Read Press Release",
+        "score": 94
+      },
+      {
+        "url": "https://www.veeva.com/resources/40-cros-select-veeva-vault-ctms-to-drive-clinical-trial-operations/",
         "anchor_text": "Read Press Release",
         "score": 94
       },
@@ -5523,6 +5623,16 @@
       {
         "url": "https://www.veeva.com/resources/more-than-200-companies-advance-trial-management-with-veeva-ctms/",
         "anchor_text": "Read Press Release",
+        "score": 92
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-unveils-vault-crm-next-generation-of-crm-for-life-sciences/",
+        "anchor_text": "Read Press Release",
+        "score": 92
+      },
+      {
+        "url": "https://www.veeva.com/resources/modular-content-powers-omnichannel-engagement-at-speed-and-scale/",
+        "anchor_text": "Learn More",
         "score": 92
       },
       {
@@ -5586,6 +5696,11 @@
         "score": 87
       },
       {
+        "url": "https://www.veeva.com/resources/veeva-announces-fourth-quarter-and-fiscal-year-2023-results/",
+        "anchor_text": "Read Press Release",
+        "score": 87
+      },
+      {
         "url": "https://www.veeva.com/resources/top-global-biopharmas-standardize-on-veeva-china-crm-suite/",
         "anchor_text": "Read Press Release",
         "score": 86
@@ -5599,6 +5714,16 @@
         "url": "https://www.veeva.com/resources/veeva-partners-with-sanofi-to-transform-its-quality-system/",
         "anchor_text": "Read Press Release",
         "score": 86
+      },
+      {
+        "url": "https://www.veeva.com/resources/batavia-optimizes-global-qa-with-veeva-vault-quality-suite/",
+        "anchor_text": "Read Press Release",
+        "score": 86
+      },
+      {
+        "url": "https://www.veeva.com/resources/veranex-accelerates-clinical-trials-with-veeva-vault-cdms/",
+        "anchor_text": "Read Press Release",
+        "score": 85
       },
       {
         "url": "https://www.veeva.com/resources/veeva-and-biomarin-form-long-term-strategic-partnership/",
@@ -5626,6 +5751,11 @@
         "score": 80
       },
       {
+        "url": "https://www.veeva.com/resources/veeva-and-merck-form-long-term-strategic-partnership/",
+        "anchor_text": "Read Press Release",
+        "score": 80
+      },
+      {
         "url": "https://www.veeva.com/resources/astellas-chooses-veeva-vault-crm-as-global-standard/",
         "anchor_text": "Read Press Release",
         "score": 79
@@ -5647,6 +5777,11 @@
       },
       {
         "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2024-second-quarter-results/",
+        "anchor_text": "Read Press Release",
+        "score": 78
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2023-second-quarter-results/",
         "anchor_text": "Read Press Release",
         "score": 78
       },
@@ -5686,6 +5821,11 @@
         "score": 77
       },
       {
+        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2023-third-quarter-results/",
+        "anchor_text": "Read Press Release",
+        "score": 77
+      },
+      {
         "url": "https://www.veeva.com/resources/veeva-announces-expanded-partnership-with-roche/",
         "anchor_text": "Read Press Release",
         "score": 75
@@ -5707,6 +5847,11 @@
       },
       {
         "url": "https://www.veeva.com/resources/indero-marks-40th-study-live-with-veeva-rtsm/",
+        "anchor_text": "Read Press Release",
+        "score": 72
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-introduces-veeva-vault-crm-for-medtech/",
         "anchor_text": "Read Press Release",
         "score": 72
       },
@@ -8625,192 +8770,6 @@
     ]
   },
   {
-    "company": "AdametNext",
-    "press_url": "https://adametnext.com/blog/",
-    "candidate_links": [
-      {
-        "url": "https://adametnext.com/competitive-intelligence/",
-        "anchor_text": "Competitive Intelligence",
-        "score": 40
-      },
-      {
-        "url": "https://adametnext.com/marketing-analytics/",
-        "anchor_text": "Marketing Analytics",
-        "score": 35
-      },
-      {
-        "url": "https://adametnext.com/classic-sidebar/",
-        "anchor_text": "How to make the most of a nontraditional startup community",
-        "score": 31
-      },
-      {
-        "url": "https://adametnext.com/classic-sidebar/#respond",
-        "anchor_text": "No comments yet",
-        "score": 31
-      },
-      {
-        "url": "https://adametnext.com/modern-sidebar/",
-        "anchor_text": "Read more",
-        "score": 30
-      },
-      {
-        "url": "https://adametnext.com/modern-sidebar/#respond",
-        "anchor_text": "No comments yet",
-        "score": 30
-      },
-      {
-        "url": "https://adametnext.com/gallery-post/",
-        "anchor_text": "How can you help your team transition to remote with this essential guide",
-        "score": 28
-      },
-      {
-        "url": "https://adametnext.com/category/development/",
-        "anchor_text": "Development",
-        "score": 28
-      },
-      {
-        "url": "https://adametnext.com/gallery-post/#respond",
-        "anchor_text": "No comments yet",
-        "score": 28
-      },
-      {
-        "url": "https://adametnext.com/category/technology/",
-        "anchor_text": "Technology",
-        "score": 27
-      },
-      {
-        "url": "https://adametnext.com/contact-us/",
-        "anchor_text": "Contact Us",
-        "score": 26
-      },
-      {
-        "url": "https://adametnext.com/video-post/",
-        "anchor_text": "The best remote UX and UI design conferences to attend in 2020",
-        "score": 26
-      },
-      {
-        "url": "https://adametnext.com/video-post/#respond",
-        "anchor_text": "No comments yet",
-        "score": 26
-      },
-      {
-        "url": "https://adametnext.com/audio-post/",
-        "anchor_text": "Read more",
-        "score": 26
-      },
-      {
-        "url": "https://adametnext.com/audio-post/#respond",
-        "anchor_text": "No comments yet",
-        "score": 26
-      },
-      {
-        "url": "https://adametnext.com/category/business/",
-        "anchor_text": "Business",
-        "score": 25
-      },
-      {
-        "url": "https://adametnext.com/category/software/",
-        "anchor_text": "Software",
-        "score": 25
-      },
-      {
-        "url": "https://adametnext.com/about-us/",
-        "anchor_text": "About Us",
-        "score": 24
-      },
-      {
-        "url": "https://adametnext.com/category/general/",
-        "anchor_text": "General",
-        "score": 24
-      },
-      {
-        "url": "https://adametnext.com/category/science/",
-        "anchor_text": "Science",
-        "score": 24
-      },
-      {
-        "url": "https://adametnext.com/author/admin143/",
-        "anchor_text": "admin143",
-        "score": 23
-      },
-      {
-        "url": "https://adametnext.com/category/design/",
-        "anchor_text": "Design",
-        "score": 23
-      },
-      {
-        "url": "https://adametnext.com/tag/marketing/",
-        "anchor_text": "Marketing(3)",
-        "score": 21
-      },
-      {
-        "url": "https://adametnext.com/tag/creative/",
-        "anchor_text": "Creative(4)",
-        "score": 20
-      },
-      {
-        "url": "https://adametnext.com/tag/internet/",
-        "anchor_text": "Internet(4)",
-        "score": 20
-      },
-      {
-        "url": "https://adametnext.com/tag/popular/",
-        "anchor_text": "Popular(3)",
-        "score": 19
-      },
-      {
-        "url": "https://adametnext.com/tag/startup/",
-        "anchor_text": "Startup(3)",
-        "score": 19
-      },
-      {
-        "url": "https://adametnext.com/tag/mobile/",
-        "anchor_text": "Mobile(4)",
-        "score": 18
-      },
-      {
-        "url": "https://adametnext.com/forecasting/",
-        "anchor_text": "Forecasting",
-        "score": 17
-      },
-      {
-        "url": "https://adametnext.com/careers/",
-        "anchor_text": "Careers",
-        "score": 13
-      },
-      {
-        "url": "https://adametnext.com/classic/",
-        "anchor_text": "Problems everyone has when working remotely and how to solve them",
-        "score": 13
-      },
-      {
-        "url": "https://adametnext.com/classic/#respond",
-        "anchor_text": "No comments yet",
-        "score": 13
-      },
-      {
-        "url": "https://adametnext.com/modern/",
-        "anchor_text": "Are enterprise teams the next big thing in the freelance revolution?",
-        "score": 12
-      },
-      {
-        "url": "https://adametnext.com/modern/#respond",
-        "anchor_text": "No comments yet",
-        "score": 12
-      },
-      {
-        "url": "https://adametnext.com/blog/",
-        "anchor_text": "Subscribe",
-        "score": 10
-      },
-      {
-        "url": "https://adametnext.com",
-        "anchor_text": "Adamet Next",
-        "score": 0
-      }
-    ]
-  },
-  {
     "company": "Genotypic Technology Pvt Ltd",
     "press_url": "https://genotypic.co.in/aboutus/news/",
     "candidate_links": [
@@ -9071,11 +9030,6 @@
     "press_url": "https://insilicominds.com/news-blogs/",
     "candidate_links": [
       {
-        "url": "https://insilicominds.com/while-the-world-talks-about-the-massive-10-billion-india-uzbekistan-%f0%9f%87%ba%f0%9f%87%bf-%f0%9f%87%ae%f0%9f%87%b3-eurasian-pharma-corridor/",
-        "anchor_text": "Read More »",
-        "score": 158
-      },
-      {
         "url": "https://insilicominds.com/fda-releases-two-new-chapters-for-its-draft-guidance-on-the-preventive-controls-for-human-food-rule-food-allergen-program-acidified-foods/",
         "anchor_text": "Read More »",
         "score": 153
@@ -9091,9 +9045,9 @@
         "score": 131
       },
       {
-        "url": "https://insilicominds.com/passage-of-senate-bill-s-5002-fda-modernization-act-2-0-relating-to-animal-testing/",
+        "url": "https://insilicominds.com/while-the-world-talks-about-the-massive-10-billion-india-uzbekistan-eurasian-pharma-corridor/",
         "anchor_text": "Read More »",
-        "score": 98
+        "score": 108
       },
       {
         "url": "https://insilicominds.com/fda-model-integrated-evidence-mie-industry-meeting-pilot-program-for-generic-drugs/",
@@ -9945,11 +9899,6 @@
       {
         "url": "https://sciex.com/applications/life-science-research",
         "anchor_text": "Life science research",
-        "score": 49
-      },
-      {
-        "url": "https://sciex.com/Hidden/legal-pages/cookie-notice",
-        "anchor_text": "Cookie Notice",
         "score": 49
       },
       {
@@ -16578,11 +16527,6 @@
         "score": 29
       },
       {
-        "url": "https://www.bioconbiologics.com/cookie-notice/",
-        "anchor_text": "More information",
-        "score": 29
-      },
-      {
         "url": "https://www.bioconbiologics.com/terms-of-use/",
         "anchor_text": "| Terms of Use",
         "score": 28
@@ -16764,11 +16708,6 @@
         "score": 98
       },
       {
-        "url": "https://www.sailife.com/sai-life-sciences-set-to-double-process-rd-capacity-with-new-facility-in-hyderabad/",
-        "anchor_text": "Read more",
-        "score": 98
-      },
-      {
         "url": "https://www.sailife.com/sai-life-sciences-recognized-as-a-best-organization-for-women-bow-2026-by-et-edge/",
         "anchor_text": "Read more",
         "score": 97
@@ -16802,6 +16741,11 @@
         "url": "https://www.sailife.com/structural-biology-capabilities-launched-with-x-ray-crystallography/",
         "anchor_text": "Read more",
         "score": 83
+      },
+      {
+        "url": "https://www.sailife.com/sai-life-sciences-grows-topline-by-29-doubles-net-profit-in-fy26/",
+        "anchor_text": "Read more",
+        "score": 80
       },
       {
         "url": "https://www.sailife.com/ai-enabled-production-and-material-planning-platform-implemented/",
@@ -18417,11 +18361,6 @@
         "score": 49
       },
       {
-        "url": "https://www.illumina.com/company/legal/cookie-policy.html",
-        "anchor_text": "Cookie Policy",
-        "score": 49
-      },
-      {
         "url": "https://www.illumina.com/systems/sequencing-platforms.html",
         "anchor_text": "Sequencing Platforms",
         "score": 48
@@ -18553,7 +18492,7 @@
       },
       {
         "url": "https://www.illumina.com/company/legal/privacy.html",
-        "anchor_text": "Privacy Policy",
+        "anchor_text": "Privacy",
         "score": 33
       },
       {
@@ -21415,11 +21354,6 @@
         "score": 54
       },
       {
-        "url": "https://www.ey.com/en_gl/legal-and-privacy/cookie-policy",
-        "anchor_text": "Review our Cookie Policy for more information",
-        "score": 54
-      },
-      {
         "url": "https://www.ey.com/en_gl/services/strategy-transactions",
         "anchor_text": "Transactions and Corporate Finance by EY-Parthenon",
         "score": 53
@@ -22328,6 +22262,11 @@
         "url": "https://www.ey.com/en_jm",
         "anchor_text": "JamaicaEnglish",
         "score": 8
+      },
+      {
+        "url": "https://www.ey.com/en_jp",
+        "anchor_text": "JapanEnglish",
+        "score": 8
       }
     ]
   },
@@ -22649,11 +22588,6 @@
       {
         "url": "https://www2.deloitte.com/global/en/legal/privacy.html?icid=bn_privacy",
         "anchor_text": "Privacy",
-        "score": 37
-      },
-      {
-        "url": "https://www2.deloitte.com/global/en/legal/cookies.html?hidebanner=true",
-        "anchor_text": "Cookie notice",
         "score": 37
       },
       {
@@ -26487,7 +26421,7 @@
       },
       {
         "url": "https://newsroom.viatris.com/press-releases",
-        "anchor_text": "Cookie Settings",
+        "anchor_text": "Cookie\n                                                Setting",
         "score": 27
       },
       {
@@ -30216,11 +30150,6 @@
         "score": 49
       },
       {
-        "url": "https://www.labcorp.com/hipaa-privacy/web-privacy-policy",
-        "anchor_text": "Website Privacy Policy",
-        "score": 47
-      },
-      {
         "url": "https://www.labcorp.com/content/labcorp/us/en/newsroom.html",
         "anchor_text": "Newsroom",
         "score": 46
@@ -30278,11 +30207,6 @@
       {
         "url": "https://www.labcorp.com/modalities/vaccines/assays",
         "anchor_text": "Vaccines",
-        "score": 33
-      },
-      {
-        "url": "https://www.labcorp.com/terms-and-conditions",
-        "anchor_text": "Terms and Conditions",
         "score": 33
       },
       {
@@ -32444,11 +32368,6 @@
         "score": 54
       },
       {
-        "url": "https://www.siemens-healthineers.com/press/releases/northwestern-medicine",
-        "anchor_text": "Learn more",
-        "score": 53
-      },
-      {
         "url": "https://www.siemens-healthineers.com/support-documentation/online-services",
         "anchor_text": "Online services",
         "score": 52
@@ -32481,11 +32400,6 @@
       {
         "url": "https://www.siemens-healthineers.com/perspectives/digital-patient-twin",
         "anchor_text": "Digital TwinWhat is a digital patient twin?",
-        "score": 48
-      },
-      {
-        "url": "https://www.siemens-healthineers.com/press/releases/new-artis-family",
-        "anchor_text": "Learn more",
         "score": 48
       },
       {
@@ -32624,6 +32538,11 @@
         "score": 31
       },
       {
+        "url": "https://www.siemens-healthineers.com/press/releases/estro2026",
+        "anchor_text": "Learn more",
+        "score": 31
+      },
+      {
         "url": "https://www.siemens-healthineers.com/products-services",
         "anchor_text": "Products & Services",
         "score": 30
@@ -32641,6 +32560,11 @@
       {
         "url": "https://www.siemens-healthineers.com/medical-imaging",
         "anchor_text": "Medical imaging",
+        "score": 28
+      },
+      {
+        "url": "https://www.siemens-healthineers.com/press/releases/2026q2",
+        "anchor_text": "Learn more",
         "score": 28
       },
       {
@@ -35038,7 +34962,7 @@
       },
       {
         "url": "https://www.edwards.com/legal/privacy-policy",
-        "anchor_text": "Privacy Statement",
+        "anchor_text": "Privacy Policy",
         "score": 35
       },
       {
@@ -36402,11 +36326,6 @@
         "score": 104
       },
       {
-        "url": "https://www.carislifesciences.com/privacy-website-policies/do-not-sell-or-share-my-personal-information/",
-        "anchor_text": "webform",
-        "score": 87
-      },
-      {
         "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-launches-caris-mi-clarity/",
         "anchor_text": "Read more: Caris Life Sciences Launches Caris MI Clarity, the First and Only AI-Powered Test to Predict Both Early and Late Distant Recurrence Risk in Breast Cancer at the Time of Diagnosis",
         "score": 86
@@ -36539,11 +36458,6 @@
       {
         "url": "https://www.carislifesciences.com/physicians/physician-tests/mi-profile/",
         "anchor_text": "MI Profile",
-        "score": 57
-      },
-      {
-        "url": "https://www.carislifesciences.com/privacy-website-policies/privacy-notice/",
-        "anchor_text": "Privacy Notice",
         "score": 57
       },
       {
@@ -36913,11 +36827,6 @@
         "score": 46
       },
       {
-        "url": "https://www.foundationmedicine.com/california-individual-rights-form",
-        "anchor_text": "Consumer Rights Request Form",
-        "score": 46
-      },
-      {
         "url": "https://www.foundationmedicine.com/foundation-medicine-publications",
         "anchor_text": "Foundation Medicine Publications",
         "score": 45
@@ -37209,7 +37118,7 @@
       },
       {
         "url": "https://www.foundationmedicine.com/privacy",
-        "anchor_text": "Privacy Policy",
+        "anchor_text": "Privacy & Website Policies",
         "score": 10
       },
       {
@@ -38068,11 +37977,6 @@
         "url": "https://www.roche.com/ad-hoc-announcement",
         "anchor_text": "Ad-hoc announcements",
         "score": 32
-      },
-      {
-        "url": "https://www.roche.com/us-privacy-policy",
-        "anchor_text": "Privacy Policy",
-        "score": 30
       },
       {
         "url": "https://www.roche.com/investors/annualreport25",
@@ -40545,11 +40449,6 @@
         "score": 50
       },
       {
-        "url": "https://www.gilead.com/privacy-statements/cookie-statement",
-        "anchor_text": "Cookie Policy.",
-        "score": 50
-      },
-      {
         "url": "https://www.gilead.com/company/leadership/keeley-wettan",
         "anchor_text": "Keeley Cain Wettan",
         "score": 49
@@ -42724,7 +42623,7 @@
       },
       {
         "url": "https://www.takeda.com/newsroom/press-releases/",
-        "anchor_text": "Do not sell or share my personal information",
+        "anchor_text": "Press Releases",
         "score": 41
       },
       {
@@ -42784,7 +42683,7 @@
       },
       {
         "url": "https://www.takeda.com/privacy-notice/",
-        "anchor_text": "More Information",
+        "anchor_text": "Privacy Notice",
         "score": 30
       },
       {
@@ -44916,7 +44815,7 @@
       },
       {
         "url": "https://crisprtx.com/about-us/privacy-policy",
-        "anchor_text": "Privacy & cookie policy",
+        "anchor_text": "Privacy Policy",
         "score": 38
       },
       {
@@ -49013,11 +48912,6 @@
         "score": 26
       },
       {
-        "url": "https://www.iconplc.com/site-cookies",
-        "anchor_text": "Cookie Notice",
-        "score": 25
-      },
-      {
         "url": "https://www.iconplc.com/news-events",
         "anchor_text": "News & Events",
         "score": 24
@@ -50125,13 +50019,13 @@
         "score": 73
       },
       {
-        "url": "https://www.catalent.com/events/european-pharma-outsourcing-summit-2026/",
-        "anchor_text": "European Pharma Outsourcing Summit 2026",
+        "url": "https://www.catalent.com/events/catalent-2026-dia-china-contact-us-form/",
+        "anchor_text": "Catalent 2026 DIA China Contact Us Form",
         "score": 64
       },
       {
-        "url": "https://www.catalent.com/events/catalent-2026-dia-china-contact-us-form/",
-        "anchor_text": "Catalent 2026 DIA China Contact Us Form",
+        "url": "https://www.catalent.com/events/european-pharma-outsourcing-summit-2026/",
+        "anchor_text": "European Pharma Outsourcing Summit 2026",
         "score": 64
       },
       {
@@ -50170,11 +50064,6 @@
         "score": 46
       },
       {
-        "url": "https://www.catalent.com/events/asgct-annual-meeting/",
-        "anchor_text": "ASGCT Annual Meeting",
-        "score": 45
-      },
-      {
         "url": "https://www.catalent.com/our-locations/latin-america/",
         "anchor_text": "Latin America",
         "score": 45
@@ -50200,24 +50089,19 @@
         "score": 42
       },
       {
-        "url": "https://www.catalent.com/events/ddf-berlin-2026/",
-        "anchor_text": "DDF Berlin 2026",
+        "url": "https://www.catalent.com/events/fce-pharma-2026/",
+        "anchor_text": "FCE Pharma 2026",
         "score": 40
       },
       {
-        "url": "https://www.catalent.com/events/fce-pharma-2026/",
-        "anchor_text": "FCE Pharma 2026",
+        "url": "https://www.catalent.com/events/ddf-berlin-2026/",
+        "anchor_text": "DDF Berlin 2026",
         "score": 40
       },
       {
         "url": "https://www.catalent.com/events/bos-basel-2026/",
         "anchor_text": "BOS Basel 2026",
         "score": 39
-      },
-      {
-        "url": "https://www.catalent.com/events/pegs-boston/",
-        "anchor_text": "PEGS Boston",
-        "score": 36
       },
       {
         "url": "https://www.catalent.com/about-us/overview/",
@@ -51478,7 +51362,7 @@
       },
       {
         "url": "https://www.ucb.com/stories-media/press-releases#Cookie-Preferences",
-        "anchor_text": "Cookie Preferences",
+        "anchor_text": "Cookie preferences",
         "score": 43
       },
       {
@@ -51573,7 +51457,7 @@
       },
       {
         "url": "https://www.ucb.com/Cookie-policy",
-        "anchor_text": "Cookie Policy.",
+        "anchor_text": "Cookie policies",
         "score": 26
       },
       {
@@ -51728,6 +51612,11 @@
     "press_url": "https://www.ipsen.com/media-room/press-releases/",
     "candidate_links": [
       {
+        "url": "https://www.ipsen.com/press-release/ipsen-presents-first-in-class-late-breaking-phase-ii-corabotase-data-in-glabellar-lines-showing-sustained-duration-of-effect-reinforced-by-consistently-high-patient-satisfaction-3296217/",
+        "anchor_text": "Ipsen presents first-in-class late-breaking Phase II corabotase data in glabellar lines showing sustained duration of effect reinforced by consistently high patient satisfaction",
+        "score": 217
+      },
+      {
         "url": "https://www.ipsen.com/press-release/ojemda-approved-in-the-european-union-as-the-first-targeted-therapy-in-relapsed-or-refractory-pediatric-low-grade-glioma-regardless-of-braf-alteration-3278647/",
         "anchor_text": "Ojemda® approved in the European Union as the first targeted therapy in relapsed or refractory pediatric low-grade glioma regardless of BRAF alteration",
         "score": 190
@@ -51736,11 +51625,6 @@
         "url": "https://www.ipsen.com/press-release/late-breaking-data-from-easl-reinforces-iqirvos-impact-on-alp-reduction-with-fatigue-and-pruritus-improvement-in-patients-with-pbc-3295548/",
         "anchor_text": "Late-breaking data from EASL reinforces IQIRVO’s impact on ALP reduction with fatigue and pruritus improvement in patients with PBC",
         "score": 170
-      },
-      {
-        "url": "https://www.ipsen.com/press-release/ipsen-announces-that-beech-tree-has-obtained-an-exemption-from-the-obligation-to-submit-a-public-tender-offer-3267937/",
-        "anchor_text": "Ipsen announces that Beech Tree has obtained an exemption from the obligation to submit a public tender offer",
-        "score": 149
       },
       {
         "url": "https://www.ipsen.com/press-release/ipsen-unveils-corabotase-a-first-in-class-recombinant-neuroinhibitor-rni-at-the-scale-symposium-3294602/",
@@ -59058,11 +58942,6 @@
         "score": 26
       },
       {
-        "url": "https://ir.discmedicine.com/cookie-notice",
-        "anchor_text": "Cookie Notice.",
-        "score": 26
-      },
-      {
         "url": "https://ir.discmedicine.com/site-map",
         "anchor_text": "Sitemap",
         "score": 21
@@ -59180,7 +59059,7 @@
       },
       {
         "url": "https://ir.intracellulartherapies.com/press-releases",
-        "anchor_text": "Customize Cookie Settings",
+        "anchor_text": "Customize cookie settings",
         "score": 27
       },
       {
@@ -60661,11 +60540,6 @@
       {
         "url": "https://ir.novavax.com/press-releases#ot-preferences-link",
         "anchor_text": "Your Privacy Choices",
-        "score": 27
-      },
-      {
-        "url": "https://ir.novavax.com/cookies-policy",
-        "anchor_text": "More information",
         "score": 27
       },
       {
@@ -66024,11 +65898,6 @@
         "score": 26
       },
       {
-        "url": "https://www.dotmatics.com/cookie-notice",
-        "anchor_text": "Cookie Notice",
-        "score": 26
-      },
-      {
         "url": "https://www.dotmatics.com/case-studies",
         "anchor_text": "Case Studies",
         "score": 25
@@ -70357,11 +70226,6 @@
         "score": 14
       },
       {
-        "url": "https://www.tempus.com/privacy/",
-        "anchor_text": "Read our Privacy Policy",
-        "score": 13
-      },
-      {
         "url": "https://www.tempus.com/events/",
         "anchor_text": "All",
         "score": 12
@@ -71388,19 +71252,9 @@
         "score": 28
       },
       {
-        "url": "https://grail.com/privacy-notices",
-        "anchor_text": "Privacy Notices",
-        "score": 28
-      },
-      {
         "url": "https://grail.com/our-history/",
         "anchor_text": "Our History",
         "score": 27
-      },
-      {
-        "url": "https://grail.com/cookie-notice",
-        "anchor_text": "More information",
-        "score": 26
       },
       {
         "url": "https://grail.com/our-partners",
@@ -71988,11 +71842,6 @@
         "url": "https://nanoporetech.com/resource-centre?resourceType=[\"Application+note\"]&sort=desc_published_time",
         "anchor_text": "Application notes",
         "score": 28
-      },
-      {
-        "url": "https://nanoporetech.com/privacy-policy",
-        "anchor_text": "View our privacy policy here",
-        "score": 27
       },
       {
         "url": "https://nanoporetech.com/cookie-policy",
@@ -76106,7 +75955,7 @@
       },
       {
         "url": "https://crinetics.com/privacy-policy/",
-        "anchor_text": "More information",
+        "anchor_text": "Privacy Policy",
         "score": 30
       },
       {
@@ -78978,19 +78827,9 @@
         "score": 28
       },
       {
-        "url": "https://grail.com/privacy-notices",
-        "anchor_text": "Privacy Notices",
-        "score": 28
-      },
-      {
         "url": "https://grail.com/our-history/",
         "anchor_text": "Our History",
         "score": 27
-      },
-      {
-        "url": "https://grail.com/cookie-notice",
-        "anchor_text": "More information",
-        "score": 26
       },
       {
         "url": "https://grail.com/our-partners",
@@ -80919,6 +80758,11 @@
   {
     "company": "Lonza",
     "press_url": "https://www.lonza.com/news",
+    "candidate_links": []
+  },
+  {
+    "company": "AdametNext",
+    "press_url": "https://adametnext.com/blog/",
     "candidate_links": []
   },
   {
@@ -83462,7 +83306,328 @@
   {
     "company": "Chemspace",
     "press_url": "https://chem-space.com/news",
-    "candidate_links": []
+    "candidate_links": [
+      {
+        "url": "https://chem-space.com/drug-discovery-cro/integrated-discovery-services",
+        "anchor_text": "Integration Solutions",
+        "score": 63
+      },
+      {
+        "url": "https://chem-space.com/drug-discovery-cro/fragment-based-drug-discovery",
+        "anchor_text": "Fragment-based Drug Discovery",
+        "score": 63
+      },
+      {
+        "url": "https://chem-space.com/news/phenotypic-screening-in-drug-discovery",
+        "anchor_text": "Read more",
+        "score": 58
+      },
+      {
+        "url": "https://chem-space.com/news/chemspace-alipheron-freedom-spacce-5",
+        "anchor_text": "Read more",
+        "score": 56
+      },
+      {
+        "url": "https://chem-space.com/news/pharmacology-in-drug-development",
+        "anchor_text": "Read more",
+        "score": 52
+      },
+      {
+        "url": "https://chem-space.com/news/chemical-space-in-drug-discovery",
+        "anchor_text": "Read more",
+        "score": 52
+      },
+      {
+        "url": "https://chem-space.com/drug-discovery-cro/del-ml-cs-approach",
+        "anchor_text": "DEL-ML",
+        "score": 52
+      },
+      {
+        "url": "https://chem-space.com/news/freedom-space-article-benchmark",
+        "anchor_text": "Read more",
+        "score": 51
+      },
+      {
+        "url": "https://chem-space.com/news/chemspace-target-identification",
+        "anchor_text": "Read more",
+        "score": 51
+      },
+      {
+        "url": "https://chem-space.com/news/discount-real-freedom-compounds",
+        "anchor_text": "Read more",
+        "score": 51
+      },
+      {
+        "url": "https://chem-space.com/drug-discovery-cro/molecular-docking",
+        "anchor_text": "Molecular Docking",
+        "score": 51
+      },
+      {
+        "url": "https://chem-space.com/purchasing-saas/compound-management",
+        "anchor_text": "Compound Management",
+        "score": 50
+      },
+      {
+        "url": "https://chem-space.com/news/israel-conference-announcement",
+        "anchor_text": "Read more",
+        "score": 50
+      },
+      {
+        "url": "https://chem-space.com/news/automation-in-drug-discovery",
+        "anchor_text": "Read more",
+        "score": 48
+      },
+      {
+        "url": "https://chem-space.com/news/trillion-scale-online-search",
+        "anchor_text": "Read more",
+        "score": 48
+      },
+      {
+        "url": "https://chem-space.com/news/biologics-for-research-stat6",
+        "anchor_text": "Read more",
+        "score": 48
+      },
+      {
+        "url": "https://chem-space.com/news/freedom-space-new-version",
+        "anchor_text": "Read more",
+        "score": 45
+      },
+      {
+        "url": "https://chem-space.com/news/control-in-an-experiment",
+        "anchor_text": "Read more",
+        "score": 44
+      },
+      {
+        "url": "https://chem-space.com/news/chemspace-askcos-webinar",
+        "anchor_text": "Read more",
+        "score": 44
+      },
+      {
+        "url": "https://chem-space.com/news/antibodies-special-offer",
+        "anchor_text": "Read more",
+        "score": 44
+      },
+      {
+        "url": "https://chem-space.com/ai-supported-focused-libraries",
+        "anchor_text": "AI-Supported Focused Libraries",
+        "score": 43
+      },
+      {
+        "url": "https://chem-space.com/news/freedom-space-biosolve",
+        "anchor_text": "Read more",
+        "score": 42
+      },
+      {
+        "url": "https://chem-space.com/news/chemspace-pharmacelera",
+        "anchor_text": "Read more",
+        "score": 42
+      },
+      {
+        "url": "https://chem-space.com/news/chemspace-bld-catalog",
+        "anchor_text": "Read more",
+        "score": 41
+      },
+      {
+        "url": "https://chem-space.com/news/ambeed-catalog-update",
+        "anchor_text": "Read more",
+        "score": 41
+      },
+      {
+        "url": "https://chem-space.com/news/opendel-discounts",
+        "anchor_text": "Read more",
+        "score": 37
+      },
+      {
+        "url": "https://chem-space.com/news/molecule-to-watch",
+        "anchor_text": "Read more",
+        "score": 37
+      },
+      {
+        "url": "https://chem-space.com/news/chemspace-askcos",
+        "anchor_text": "Read more",
+        "score": 36
+      },
+      {
+        "url": "https://chem-space.com/news/christmas-delays",
+        "anchor_text": "Read more",
+        "score": 36
+      },
+      {
+        "url": "https://chem-space.com/promotional-materials",
+        "anchor_text": "Promo materials",
+        "score": 34
+      },
+      {
+        "url": "https://chem-space.com/news/what-is-dmpk",
+        "anchor_text": "Read more",
+        "score": 32
+      },
+      {
+        "url": "https://chem-space.com/drug-discovery-cro",
+        "anchor_text": "Discovery CRO",
+        "score": 31
+      },
+      {
+        "url": "https://chem-space.com/news/ligand-ai",
+        "anchor_text": "Read more",
+        "score": 29
+      },
+      {
+        "url": "https://chem-space.com/purchasing-saas",
+        "anchor_text": "Integration Solutions",
+        "score": 28
+      },
+      {
+        "url": "https://chem-space.com/purchasing-saas#custom-features",
+        "anchor_text": "Custom Features",
+        "score": 28
+      },
+      {
+        "url": "https://chem-space.com/purchasing-saas#integrated-procurement",
+        "anchor_text": "Integrated Procurement",
+        "score": 28
+      },
+      {
+        "url": "https://chem-space.com/news/page-39",
+        "anchor_text": "39",
+        "score": 27
+      },
+      {
+        "url": "https://chem-space.com/privacy-policy",
+        "anchor_text": "Privacy Policy",
+        "score": 27
+      },
+      {
+        "url": "https://chem-space.com/freedom-space",
+        "anchor_text": "Freedom Space 5.0",
+        "score": 26
+      },
+      {
+        "url": "https://chem-space.com/news/page-2",
+        "anchor_text": "2",
+        "score": 26
+      },
+      {
+        "url": "https://chem-space.com/news/page-3",
+        "anchor_text": "3",
+        "score": 26
+      },
+      {
+        "url": "https://chem-space.com/news/page-4",
+        "anchor_text": "4",
+        "score": 26
+      },
+      {
+        "url": "https://chem-space.com/news/page-5",
+        "anchor_text": "5",
+        "score": 26
+      },
+      {
+        "url": "https://chem-space.com/sds-coa",
+        "anchor_text": "SDS/CoA",
+        "score": 20
+      },
+      {
+        "url": "https://chem-space.com/user/register",
+        "anchor_text": "I need to register",
+        "score": 18
+      },
+      {
+        "url": "https://chem-space.com/user/forgot",
+        "anchor_text": "I forgot password",
+        "score": 16
+      },
+      {
+        "url": "https://chem-space.com/publications",
+        "anchor_text": "Publications",
+        "score": 15
+      },
+      {
+        "url": "https://chem-space.com/user/login",
+        "anchor_text": "Sign in",
+        "score": 15
+      },
+      {
+        "url": "https://chem-space.com/biologics",
+        "anchor_text": "Biologics",
+        "score": 12
+      },
+      {
+        "url": "https://chem-space.com/compounds",
+        "anchor_text": "Compound sets",
+        "score": 12
+      },
+      {
+        "url": "https://chem-space.com/tutorials",
+        "anchor_text": "Tutorials",
+        "score": 12
+      },
+      {
+        "url": "https://chem-space.com/supplier",
+        "anchor_text": "Suppliers",
+        "score": 11
+      },
+      {
+        "url": "https://chem-space.com/contacts",
+        "anchor_text": "Contacts",
+        "score": 11
+      },
+      {
+        "url": "https://chem-space.com/search",
+        "anchor_text": "Chemical search",
+        "score": 9
+      },
+      {
+        "url": "https://chem-space.com/events",
+        "anchor_text": "Events",
+        "score": 9
+      },
+      {
+        "url": "https://chem-space.com/about",
+        "anchor_text": "About us",
+        "score": 8
+      },
+      {
+        "url": "https://chem-space.com/terms",
+        "anchor_text": "Terms and Conditions",
+        "score": 8
+      },
+      {
+        "url": "https://chem-space.com/news#login-modal",
+        "anchor_text": "",
+        "score": 7
+      },
+      {
+        "url": "https://chem-space.com/news",
+        "anchor_text": "",
+        "score": 7
+      },
+      {
+        "url": "https://chem-space.com/sale",
+        "anchor_text": "Sale %",
+        "score": 7
+      },
+      {
+        "url": "https://chem-space.com/news#Enquire",
+        "anchor_text": "",
+        "score": 7
+      },
+      {
+        "url": "https://chem-space.com/cart",
+        "anchor_text": "0",
+        "score": 7
+      },
+      {
+        "url": "https://chem-space.com/news?currency=eur",
+        "anchor_text": "eur",
+        "score": 7
+      },
+      {
+        "url": "https://chem-space.com/",
+        "anchor_text": "",
+        "score": 3
+      }
+    ]
   },
   {
     "company": "Absci Corporation",
