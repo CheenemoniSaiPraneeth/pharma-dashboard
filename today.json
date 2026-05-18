@@ -1,23 +1,86 @@
 [
     {
-        "company": "InSilicoMinds",
-        "url": "https://insilicominds.com/while-the-world-talks-about-the-massive-10-billion-india-uzbekistan-eurasian-pharma-corridor/",
-        "score": 108,
-        "date_added": "2026-05-17",
+        "company": "Novartis",
+        "url": "https://www.novartis.com/news/media-releases/new-psmaddition-data-show-58-lower-risk-psa-progression-pluvicto-metastatic-hormone-sensitive-prostate-cancer",
+        "score": 146,
+        "date_added": "2026-05-18",
         "article_like": true
     },
     {
-        "company": "Sai Life Sciences",
-        "url": "https://www.sailife.com/sai-life-sciences-grows-topline-by-29-doubles-net-profit-in-fy26/",
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-s-rsv-vaccine-arexvy-receives-expanded-approval-in-japan-for-adults-aged-18-59-at-increased-risk/",
+        "score": 149,
+        "date_added": "2026-05-18",
+        "article_like": true
+    },
+    {
+        "company": "AstraZeneca",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/Baxdrostat-MNR-2026.html",
+        "score": 120,
+        "date_added": "2026-05-18",
+        "article_like": true
+    },
+    {
+        "company": "WuXi AppTec",
+        "url": "https://www.wuxiapptec.com/news/wuxi-news/v1bj6wuxvxdn4a55fcsnwt38",
+        "score": 56,
+        "date_added": "2026-05-18",
+        "article_like": true
+    },
+    {
+        "company": "ICON plc",
+        "url": "https://www.iconplc.com/insights/therapeutics/central-nervous-system/bridging-science-and-clinical-operability",
+        "score": 105,
+        "date_added": "2026-05-18",
+        "article_like": true
+    },
+    {
+        "company": "Otsuka Pharmaceutical",
+        "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260518_1.html",
         "score": 80,
-        "date_added": "2026-05-17",
+        "date_added": "2026-05-18",
         "article_like": true
     },
     {
-        "company": "Ipsen",
-        "url": "https://www.ipsen.com/press-release/ipsen-presents-first-in-class-late-breaking-phase-ii-corabotase-data-in-glabellar-lines-showing-sustained-duration-of-effect-reinforced-by-consistently-high-patient-satisfaction-3296217/",
-        "score": 217,
-        "date_added": "2026-05-17",
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260518153001_1249.html?year=2026&category=",
+        "score": 53,
+        "date_added": "2026-05-18",
+        "article_like": true
+    },
+    {
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260518153000_1244.html?year=2026&category=",
+        "score": 53,
+        "date_added": "2026-05-18",
+        "article_like": true
+    },
+    {
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260518_eAlecensa_TACKLE_approval.pdf&src=[%0],[%1]&rep=130,1249",
+        "score": 26,
+        "date_added": "2026-05-18",
+        "article_like": true
+    },
+    {
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260518_eF1_alecensa_approval.pdf&src=[%0],[%1]&rep=130,1244",
+        "score": 26,
+        "date_added": "2026-05-18",
+        "article_like": true
+    },
+    {
+        "company": "ProQR Therapeutics",
+        "url": "https://ir.proqr.com/ProQRian-profiles",
+        "score": 30,
+        "date_added": "2026-05-18",
+        "article_like": true
+    },
+    {
+        "company": "Valneva",
+        "url": "https://valneva.com/june-25-2026-combined-general-meeting/",
+        "score": 53,
+        "date_added": "2026-05-18",
         "article_like": true
     }
 ]

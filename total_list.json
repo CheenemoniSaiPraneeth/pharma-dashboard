@@ -546,6 +546,582 @@
     ]
   },
   {
+    "company": "Dr. Reddy's Laboratories",
+    "press_url": "https://www.drreddys.com/media/",
+    "candidate_links": [
+      {
+        "url": "https://www.drreddys.com/our-science/development-streams/apis-active-pharmaceutical-ingredients/",
+        "anchor_text": "APIs (Active Pharmaceutical Ingredients)",
+        "score": 90
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/environmental-sustainability/",
+        "anchor_text": "Environmental Sustainability",
+        "score": 89
+      },
+      {
+        "url": "https://www.drreddys.com/our-products/business-focus/apis-active-pharmaceutical-ingredients/",
+        "anchor_text": "APIs (Active Pharmaceutical Ingredients)",
+        "score": 86
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/affiliates/dr-reddy-s-foundations/",
+        "anchor_text": "Dr Reddy’s Foundations",
+        "score": 84
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/planet/commitment-to-the-planet/",
+        "anchor_text": "Commitment to the Planet",
+        "score": 82
+      },
+      {
+        "url": "https://www.drreddys.com/investors/governance/code-of-business-conduct-and-ethics-cobe/",
+        "anchor_text": "Code of Business Conduct and Ethics (COBE)",
+        "score": 81
+      },
+      {
+        "url": "https://www.drreddys.com/investors/investor-services/other-stock-exchange-intimations/",
+        "anchor_text": "Other Stock Exchange Intimations",
+        "score": 80
+      },
+      {
+        "url": "https://www.drreddys.com/investors/reports-and-filings/37th-annual-general-meeting/",
+        "anchor_text": "37th Annual General Meeting",
+        "score": 77
+      },
+      {
+        "url": "https://www.drreddys.com/our-products/business-focus/differentiated-formulations/",
+        "anchor_text": "Differentiated Formulations",
+        "score": 75
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/change-makers/",
+        "anchor_text": "Change Makers",
+        "score": 74
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/planet/carbon-footprint/",
+        "anchor_text": "Carbon Footprint",
+        "score": 74
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/healthcare-professionals/",
+        "anchor_text": "Healthcare Professionals",
+        "score": 73
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/our-approach/",
+        "anchor_text": "Our Approach",
+        "score": 73
+      },
+      {
+        "url": "https://www.drreddys.com/our-science/development-streams/proprietary-products/",
+        "anchor_text": "Proprietary Products",
+        "score": 72
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/livelihoods/",
+        "anchor_text": "Livelihoods",
+        "score": 72
+      },
+      {
+        "url": "https://www.drreddys.com/investors/investor-services/investor-meeting-details/",
+        "anchor_text": "Investor Meeting Details",
+        "score": 72
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/healthcare/",
+        "anchor_text": "Healthcare",
+        "score": 71
+      },
+      {
+        "url": "https://www.drreddys.com/investors/investor-services/statutory-communication/",
+        "anchor_text": "Statutory Communication",
+        "score": 71
+      },
+      {
+        "url": "https://www.drreddys.com/investors/investor-services/shareholder-information/",
+        "anchor_text": "Shareholder Information",
+        "score": 71
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/education/",
+        "anchor_text": "Education",
+        "score": 70
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/affiliates/partners/",
+        "anchor_text": "Partners",
+        "score": 70
+      },
+      {
+        "url": "https://www.drreddys.com/investors/investor-services/shareholder-s-contacts/",
+        "anchor_text": "Shareholder’s Contacts",
+        "score": 70
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/humans-of-dr-reddy-s/",
+        "anchor_text": "Humans of Dr. Reddy’s",
+        "score": 69
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/planet/initiatives/",
+        "anchor_text": "Initiatives",
+        "score": 69
+      },
+      {
+        "url": "https://www.drreddys.com/investors/governance/corporate-governance-reports/",
+        "anchor_text": "Corporate Governance Reports",
+        "score": 69
+      },
+      {
+        "url": "https://www.drreddys.com/investors/governance/information-to-stakeholders/",
+        "anchor_text": "Information to Stakeholders",
+        "score": 68
+      },
+      {
+        "url": "https://www.drreddys.com/investors/reports-and-filings/quarterly-reports/",
+        "anchor_text": "Quarterly Reports",
+        "score": 67
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/life-at-drreddys/",
+        "anchor_text": "Life at Dr.Reddy's",
+        "score": 65
+      },
+      {
+        "url": "https://www.drreddys.com/investors/governance/internal-control-systems/",
+        "anchor_text": "Internal Control Systems",
+        "score": 65
+      },
+      {
+        "url": "https://www.drreddys.com/investors/investor-services/investor-handbook/",
+        "anchor_text": "Investor Handbook",
+        "score": 65
+      },
+      {
+        "url": "https://www.drreddys.com/our-products/business-focus/over-the-counter/",
+        "anchor_text": "Over-the-counter",
+        "score": 64
+      },
+      {
+        "url": "https://www.drreddys.com/investors/reports-and-filings/annual-reports/",
+        "anchor_text": "Annual Reports",
+        "score": 64
+      },
+      {
+        "url": "https://www.drreddys.com/investors/governance/committees-of-the-board/",
+        "anchor_text": "Committees of the Board",
+        "score": 64
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/our-heritage/an-unfinished-agenda/",
+        "anchor_text": "An Unfinished Agenda",
+        "score": 63
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/sustainability/",
+        "anchor_text": "Sustainability",
+        "score": 63
+      },
+      {
+        "url": "https://www.drreddys.com/investors/shares/share-transfer-information/",
+        "anchor_text": "Share Transfer Information",
+        "score": 63
+      },
+      {
+        "url": "https://www.drreddys.com/investors/governance/policies-and-documents/",
+        "anchor_text": "Policies and Documents",
+        "score": 63
+      },
+      {
+        "url": "https://www.drreddys.com/investors/shares/unpaid-unclaimed-dividend/",
+        "anchor_text": "Unpaid & Unclaimed Dividend",
+        "score": 62
+      },
+      {
+        "url": "https://www.drreddys.com/our-science/development-streams/biologics/",
+        "anchor_text": "Biologics",
+        "score": 61
+      },
+      {
+        "url": "https://www.drreddys.com/investors/reports-and-filings/sec-filings/",
+        "anchor_text": "SEC Filings",
+        "score": 61
+      },
+      {
+        "url": "https://www.drreddys.com/investors/reports-and-filings/moa-and-aoa/",
+        "anchor_text": "MoA and AoA",
+        "score": 61
+      },
+      {
+        "url": "https://www.drreddys.com/investors/governance/compliance-with-nyse/",
+        "anchor_text": "Compliance with NYSE",
+        "score": 61
+      },
+      {
+        "url": "https://www.drreddys.com/investors/investor-services/credit-rating/",
+        "anchor_text": "Credit Rating",
+        "score": 61
+      },
+      {
+        "url": "https://www.drreddys.com/our-science/development-streams/generics/",
+        "anchor_text": "Generics",
+        "score": 60
+      },
+      {
+        "url": "https://www.drreddys.com/investors/shares/equity-dividend-history/",
+        "anchor_text": "Equity & Dividend History",
+        "score": 60
+      },
+      {
+        "url": "https://www.drreddys.com/investors/governance/ombudsperson-policy/",
+        "anchor_text": "Ombudsperson Policy",
+        "score": 60
+      },
+      {
+        "url": "https://www.drreddys.com/investors/investor-services/amalgamation/",
+        "anchor_text": "Amalgamation",
+        "score": 60
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/leadership/board-of-directors/",
+        "anchor_text": "Board Of Directors",
+        "score": 59
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/leadership/management-council/",
+        "anchor_text": "Management Council",
+        "score": 59
+      },
+      {
+        "url": "https://www.drreddys.com/our-products/business-focus/biologics/",
+        "anchor_text": "Biologics",
+        "score": 57
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/patients/",
+        "anchor_text": "Patients",
+        "score": 57
+      },
+      {
+        "url": "https://www.drreddys.com/investors/presentations/earnings-call/",
+        "anchor_text": "Earnings Call",
+        "score": 57
+      },
+      {
+        "url": "https://www.drreddys.com/investors/shares/shareholding-pattern/",
+        "anchor_text": "Shareholding Pattern",
+        "score": 57
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/our-employees-respond-covid19/",
+        "anchor_text": "our employees respond covid19",
+        "score": 57
+      },
+      {
+        "url": "https://www.drreddys.com/our-products/business-focus/generics/",
+        "anchor_text": "Generics",
+        "score": 56
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/our-heritage/our-founder/",
+        "anchor_text": "Our Founder",
+        "score": 54
+      },
+      {
+        "url": "https://www.drreddys.com/investors/shares/analyst-coverage/",
+        "anchor_text": "Analyst Coverage",
+        "score": 53
+      },
+      {
+        "url": "https://www.drreddys.com/partners/login-for-current-partners/",
+        "anchor_text": "Login for Current Partners",
+        "score": 53
+      },
+      {
+        "url": "https://www.drreddys.com/investors/shares/stock-updates/",
+        "anchor_text": "Stock Updates",
+        "score": 50
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/about-us/milestones/",
+        "anchor_text": "Milestones",
+        "score": 49
+      },
+      {
+        "url": "https://www.drreddys.com/our-science/research-philosophy/",
+        "anchor_text": "Research Philosophy",
+        "score": 49
+      },
+      {
+        "url": "https://www.drreddys.com/our-products/therapeutic-focus/",
+        "anchor_text": "Therapeutic Focus",
+        "score": 48
+      },
+      {
+        "url": "https://www.drreddys.com/investors/shares/share-price/",
+        "anchor_text": "Share Price",
+        "score": 48
+      },
+      {
+        "url": "https://www.drreddys.com/contact-us/medical-information/",
+        "anchor_text": "Medical Information",
+        "score": 48
+      },
+      {
+        "url": "https://www.drreddys.com/investors/presentations/presentations/",
+        "anchor_text": "Presentations",
+        "score": 47
+      },
+      {
+        "url": "https://www.drreddys.com/partners/prospective-partners/",
+        "anchor_text": "Prospective Partners",
+        "score": 47
+      },
+      {
+        "url": "https://www.drreddys.com/our-products/business-focus/",
+        "anchor_text": "Our Products",
+        "score": 45
+      },
+      {
+        "url": "https://www.drreddys.com/media/dr-reddys-in-the-news/",
+        "anchor_text": "Dr. Reddy's in the news",
+        "score": 45
+      },
+      {
+        "url": "https://www.drreddys.com/contact-us/global-locations/",
+        "anchor_text": "Global Locations",
+        "score": 45
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/featured-stories/",
+        "anchor_text": "Featured Stories",
+        "score": 44
+      },
+      {
+        "url": "https://www.drreddys.com/our-science/capabilities/",
+        "anchor_text": "Capabilities",
+        "score": 42
+      },
+      {
+        "url": "https://www.drreddys.com/partners/post-an-enquiry/",
+        "anchor_text": "Post an Enquiry",
+        "score": 42
+      },
+      {
+        "url": "https://www.drreddys.com/contact-us/key-contacts/",
+        "anchor_text": "Key Contacts",
+        "score": 41
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/who-we-are/",
+        "anchor_text": "Who We Are",
+        "score": 38
+      },
+      {
+        "url": "https://www.drreddys.com/our-products/quality/",
+        "anchor_text": "Quality",
+        "score": 38
+      },
+      {
+        "url": "https://www.drreddys.com/media/press-releases/",
+        "anchor_text": "Press Releases",
+        "score": 38
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/about-us/",
+        "anchor_text": "Our Story",
+        "score": 36
+      },
+      {
+        "url": "https://www.drreddys.com/investors/shares/buyback/",
+        "anchor_text": "Buyback",
+        "score": 34
+      },
+      {
+        "url": "https://www.drreddys.com/media/media-kit/",
+        "anchor_text": "Media Kit",
+        "score": 33
+      },
+      {
+        "url": "https://www.drreddys.com/cookie-policy.aspx",
+        "anchor_text": "Cookie Policy.",
+        "score": 31
+      },
+      {
+        "url": "https://www.drreddys.com/united-states/",
+        "anchor_text": "United States",
+        "score": 29
+      },
+      {
+        "url": "https://www.drreddys.com/south-africa/",
+        "anchor_text": "South Africa",
+        "score": 28
+      },
+      {
+        "url": "https://www.drreddys.com/new-zealand/",
+        "anchor_text": "New Zealand",
+        "score": 27
+      },
+      {
+        "url": "https://www.drreddys.com/privacy-policy",
+        "anchor_text": "Privacy Notice",
+        "score": 27
+      },
+      {
+        "url": "https://www.drreddys.com/cookie-policy",
+        "anchor_text": "Cookie Policy",
+        "score": 26
+      },
+      {
+        "url": "https://www.drreddys.com/terms-of-use",
+        "anchor_text": "Terms Of Use",
+        "score": 25
+      },
+      {
+        "url": "https://www.drreddys.com/accessibility",
+        "anchor_text": "Accessibility",
+        "score": 16
+      },
+      {
+        "url": "https://www.drreddys.com/australia/",
+        "anchor_text": "Australia",
+        "score": 15
+      },
+      {
+        "url": "https://www.drreddys.com/search.aspx",
+        "anchor_text": "",
+        "score": 14
+      },
+      {
+        "url": "https://www.drreddys.com/germany/",
+        "anchor_text": "Germany",
+        "score": 13
+      },
+      {
+        "url": "https://www.drreddys.com/canada/",
+        "anchor_text": "Canada",
+        "score": 12
+      },
+      {
+        "url": "https://www.drreddys.com/russia/",
+        "anchor_text": "Russia",
+        "score": 12
+      },
+      {
+        "url": "https://www.drreddys.com/china/",
+        "anchor_text": "China",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/india/",
+        "anchor_text": "India",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2022",
+        "anchor_text": "2022",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2021",
+        "anchor_text": "2021",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2020",
+        "anchor_text": "2020",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2019",
+        "anchor_text": "2019",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2018",
+        "anchor_text": "2018",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2017",
+        "anchor_text": "2017",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2016",
+        "anchor_text": "2016",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2015",
+        "anchor_text": "2015",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2014",
+        "anchor_text": "2014",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2013",
+        "anchor_text": "2013",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2012",
+        "anchor_text": "2012",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2011",
+        "anchor_text": "2011",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2010",
+        "anchor_text": "2010",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2009",
+        "anchor_text": "2009",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2008",
+        "anchor_text": "2008",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2007",
+        "anchor_text": "2007",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2006",
+        "anchor_text": "2006",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2005",
+        "anchor_text": "2005",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2001",
+        "anchor_text": "2001",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/",
+        "anchor_text": "",
+        "score": 3
+      }
+    ]
+  },
+  {
     "company": "Amgen",
     "press_url": "https://www.amgen.com/newsroom/press-releases",
     "candidate_links": [
@@ -1422,6 +1998,11 @@
         "score": 152
       },
       {
+        "url": "https://www.novartis.com/news/media-releases/new-psmaddition-data-show-58-lower-risk-psa-progression-pluvicto-metastatic-hormone-sensitive-prostate-cancer",
+        "anchor_text": "Press releaseMay 17, 2026New PSMAddition data show 58% lower risk of PSA progression with Pluvicto® in metastatic hormone-sensitive prostate cancerMore durable, deeper PSA response in patients treated with Pluvicto plus standard of care (ARPI + ADT) vs. SoC aloneDeep PSA reduction higher in patients receiving Pluvicto combination vs. SoC at 12…",
+        "score": 146
+      },
+      {
         "url": "https://www.novartis.com/news/media-releases/novartis-projects-5-6-cc-sales-cagr-2025-2030-long-term-growth-backed-30-potential-high-value-pipeline-assets",
         "anchor_text": "Ad hoc releaseNov 20, 2025Novartis projects +5-6% cc sales CAGR 2025-2030, with long-term growth backed by 30+ potential high-value pipeline assetsAd hoc announcement pursuant to Art. 53 LR  Mid-term sales guidance rolled forward to +5-6% cc CAGR for 2025-2030, following upgrade of 2024-2029 guidance to +6% cc1Peak sales guidance upgraded for…",
         "score": 146
@@ -1440,11 +2021,6 @@
         "url": "https://www.novartis.com/news/media-releases/novartis-agrees-acquire-excellergy-inc-building-allergy-leadership-next-generation-anti-ige-innovation",
         "anchor_text": "Press releaseMar 27, 2026Novartis agrees to acquire Excellergy, Inc., building on allergy leadership with next-generation anti-IgE innovation- Proposed acquisition strengthens Novartis immunology strategy in food allergy and other IgE-driven diseases   - Lead asset Exl-111 builds on proven IgE biology with a differentiated…",
         "score": 139
-      },
-      {
-        "url": "https://www.novartis.com/news/media-releases/novartis-agrees-acquire-pan-mutant-selective-pi3ka-inhibitor-strengthening-its-breast-cancer-pipeline",
-        "anchor_text": "Press releaseMar 20, 2026Novartis agrees to acquire a pan-mutant-selective PI3Kα inhibitor, strengthening its breast cancer pipelineProposed acquisition supports the Novartis oncology strategy in hormone receptor positive, human epidermal growth factor receptor two-negative (HR+/HER2-) breast cancer The lead asset, SNV4818,…",
-        "score": 138
       },
       {
         "url": "https://www.novartis.com/news/media-releases/novartis-presents-new-data-early-symptom-relief-and-long-term-control-complex-skin-diseases-aad-2026",
@@ -8770,6 +9346,192 @@
     ]
   },
   {
+    "company": "AdametNext",
+    "press_url": "https://adametnext.com/blog/",
+    "candidate_links": [
+      {
+        "url": "https://adametnext.com/competitive-intelligence/",
+        "anchor_text": "Competitive Intelligence",
+        "score": 40
+      },
+      {
+        "url": "https://adametnext.com/marketing-analytics/",
+        "anchor_text": "Marketing Analytics",
+        "score": 35
+      },
+      {
+        "url": "https://adametnext.com/classic-sidebar/",
+        "anchor_text": "How to make the most of a nontraditional startup community",
+        "score": 31
+      },
+      {
+        "url": "https://adametnext.com/classic-sidebar/#respond",
+        "anchor_text": "No comments yet",
+        "score": 31
+      },
+      {
+        "url": "https://adametnext.com/modern-sidebar/",
+        "anchor_text": "Read more",
+        "score": 30
+      },
+      {
+        "url": "https://adametnext.com/modern-sidebar/#respond",
+        "anchor_text": "No comments yet",
+        "score": 30
+      },
+      {
+        "url": "https://adametnext.com/gallery-post/",
+        "anchor_text": "How can you help your team transition to remote with this essential guide",
+        "score": 28
+      },
+      {
+        "url": "https://adametnext.com/category/development/",
+        "anchor_text": "Development",
+        "score": 28
+      },
+      {
+        "url": "https://adametnext.com/gallery-post/#respond",
+        "anchor_text": "No comments yet",
+        "score": 28
+      },
+      {
+        "url": "https://adametnext.com/category/technology/",
+        "anchor_text": "Technology",
+        "score": 27
+      },
+      {
+        "url": "https://adametnext.com/contact-us/",
+        "anchor_text": "Contact Us",
+        "score": 26
+      },
+      {
+        "url": "https://adametnext.com/video-post/",
+        "anchor_text": "The best remote UX and UI design conferences to attend in 2020",
+        "score": 26
+      },
+      {
+        "url": "https://adametnext.com/video-post/#respond",
+        "anchor_text": "No comments yet",
+        "score": 26
+      },
+      {
+        "url": "https://adametnext.com/audio-post/",
+        "anchor_text": "Read more",
+        "score": 26
+      },
+      {
+        "url": "https://adametnext.com/audio-post/#respond",
+        "anchor_text": "No comments yet",
+        "score": 26
+      },
+      {
+        "url": "https://adametnext.com/category/business/",
+        "anchor_text": "Business",
+        "score": 25
+      },
+      {
+        "url": "https://adametnext.com/category/software/",
+        "anchor_text": "Software",
+        "score": 25
+      },
+      {
+        "url": "https://adametnext.com/about-us/",
+        "anchor_text": "About Us",
+        "score": 24
+      },
+      {
+        "url": "https://adametnext.com/category/general/",
+        "anchor_text": "General",
+        "score": 24
+      },
+      {
+        "url": "https://adametnext.com/category/science/",
+        "anchor_text": "Science",
+        "score": 24
+      },
+      {
+        "url": "https://adametnext.com/author/admin143/",
+        "anchor_text": "admin143",
+        "score": 23
+      },
+      {
+        "url": "https://adametnext.com/category/design/",
+        "anchor_text": "Design",
+        "score": 23
+      },
+      {
+        "url": "https://adametnext.com/tag/marketing/",
+        "anchor_text": "Marketing(3)",
+        "score": 21
+      },
+      {
+        "url": "https://adametnext.com/tag/creative/",
+        "anchor_text": "Creative(4)",
+        "score": 20
+      },
+      {
+        "url": "https://adametnext.com/tag/internet/",
+        "anchor_text": "Internet(4)",
+        "score": 20
+      },
+      {
+        "url": "https://adametnext.com/tag/popular/",
+        "anchor_text": "Popular(3)",
+        "score": 19
+      },
+      {
+        "url": "https://adametnext.com/tag/startup/",
+        "anchor_text": "Startup(3)",
+        "score": 19
+      },
+      {
+        "url": "https://adametnext.com/tag/mobile/",
+        "anchor_text": "Mobile(4)",
+        "score": 18
+      },
+      {
+        "url": "https://adametnext.com/forecasting/",
+        "anchor_text": "Forecasting",
+        "score": 17
+      },
+      {
+        "url": "https://adametnext.com/careers/",
+        "anchor_text": "Careers",
+        "score": 13
+      },
+      {
+        "url": "https://adametnext.com/classic/",
+        "anchor_text": "Problems everyone has when working remotely and how to solve them",
+        "score": 13
+      },
+      {
+        "url": "https://adametnext.com/classic/#respond",
+        "anchor_text": "No comments yet",
+        "score": 13
+      },
+      {
+        "url": "https://adametnext.com/modern/",
+        "anchor_text": "Are enterprise teams the next big thing in the freelance revolution?",
+        "score": 12
+      },
+      {
+        "url": "https://adametnext.com/modern/#respond",
+        "anchor_text": "No comments yet",
+        "score": 12
+      },
+      {
+        "url": "https://adametnext.com/blog/",
+        "anchor_text": "Subscribe",
+        "score": 10
+      },
+      {
+        "url": "https://adametnext.com",
+        "anchor_text": "Adamet Next",
+        "score": 0
+      }
+    ]
+  },
+  {
     "company": "Genotypic Technology Pvt Ltd",
     "press_url": "https://genotypic.co.in/aboutus/news/",
     "candidate_links": [
@@ -13128,87 +13890,6 @@
     ]
   },
   {
-    "company": "Pharmace Research Laboratory Pvt Ltd",
-    "press_url": "https://www.pharmaceresearch.com/public/news-event/list",
-    "candidate_links": [
-      {
-        "url": "https://www.pharmaceresearch.com/public/news/events/499ea885-0951-4947-aa86-1ea54da129bc",
-        "anchor_text": "Read More",
-        "score": 74
-      },
-      {
-        "url": "https://www.pharmaceresearch.com/public/services/chemical-biology/click-chemistry",
-        "anchor_text": "Click Chemistry",
-        "score": 67
-      },
-      {
-        "url": "https://www.pharmaceresearch.com/public/services/chemical-biology/protacs",
-        "anchor_text": "PROTACs",
-        "score": 59
-      },
-      {
-        "url": "https://www.pharmaceresearch.com/public/services/chemical-biology/dubtacs",
-        "anchor_text": "DUBTACs",
-        "score": 59
-      },
-      {
-        "url": "https://www.pharmaceresearch.com/public/services/chemical-biology/dacs",
-        "anchor_text": "DACs",
-        "score": 56
-      },
-      {
-        "url": "https://www.pharmaceresearch.com/public/services/chemical-biology/adc",
-        "anchor_text": "ADC",
-        "score": 55
-      },
-      {
-        "url": "https://www.pharmaceresearch.com/public/services/medicinal-chemistry",
-        "anchor_text": "Medicinal Chemistry",
-        "score": 52
-      },
-      {
-        "url": "https://www.pharmaceresearch.com/public/services/organic-chemistry",
-        "anchor_text": "Organic Chemistry",
-        "score": 50
-      },
-      {
-        "url": "https://www.pharmaceresearch.com/public/product-category/a",
-        "anchor_text": "Products",
-        "score": 42
-      },
-      {
-        "url": "https://www.pharmaceresearch.com/public/news-event/list",
-        "anchor_text": "News and Events",
-        "score": 39
-      },
-      {
-        "url": "https://www.pharmaceresearch.com/public/company-overview",
-        "anchor_text": "About Us",
-        "score": 38
-      },
-      {
-        "url": "https://www.pharmaceresearch.com/public/contactus",
-        "anchor_text": "Contact Us",
-        "score": 21
-      },
-      {
-        "url": "https://www.pharmaceresearch.com/public/careers",
-        "anchor_text": "Careers",
-        "score": 19
-      },
-      {
-        "url": "https://www.pharmaceresearch.com/public/team",
-        "anchor_text": "Our Team",
-        "score": 16
-      },
-      {
-        "url": "https://www.pharmaceresearch.com/public",
-        "anchor_text": "Home",
-        "score": 9
-      }
-    ]
-  },
-  {
     "company": "Simson Pharma Limited",
     "press_url": "https://www.simsonpharma.com/blog",
     "candidate_links": [
@@ -16380,11 +17061,6 @@
     "company": "Biocon",
     "press_url": "https://www.bioconbiologics.com/news/press-releases/",
     "candidate_links": [
-      {
-        "url": "https://www.bioconbiologics.com/cookie-notice/",
-        "anchor_text": "More information",
-        "score": 29
-      },
       {
         "url": "https://www.bioconbiologics.com/",
         "anchor_text": "Go back to homepage",
@@ -22591,6 +23267,11 @@
         "score": 37
       },
       {
+        "url": "https://www2.deloitte.com/global/en/legal/cookies.html?hidebanner=true",
+        "anchor_text": "Cookie notice",
+        "score": 37
+      },
+      {
         "url": "https://www2.deloitte.com/global/en/legal/legal.html?icid=bn_legal",
         "anchor_text": "Terms of Use",
         "score": 35
@@ -26421,7 +27102,7 @@
       },
       {
         "url": "https://newsroom.viatris.com/press-releases",
-        "anchor_text": "Cookie\n                                                Setting",
+        "anchor_text": "Cookie Settings",
         "score": 27
       },
       {
@@ -26947,6 +27628,11 @@
         "score": 155
       },
       {
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-s-rsv-vaccine-arexvy-receives-expanded-approval-in-japan-for-adults-aged-18-59-at-increased-risk/",
+        "anchor_text": "18 May 2026GSK’s RSV vaccine, Arexvy, receives expanded approval in Japan for adults aged 18–59 at increased riskFirst RSV vaccine approved for adults aged 18-59 years at increased risk and for all adults 60 years and older in Japan",
+        "score": 149
+      },
+      {
         "url": "https://www.gsk.com/en-gb/media/press-releases/bepirovirsen-accepted-for-priority-review-and-granted-breakthrough-therapy-designation-by-the-us-fda/",
         "anchor_text": "28 April 2026Bepirovirsen accepted for priority review and granted Breakthrough Therapy Designation by the US FDABreakthrough Therapy Designation added to Fast Track Designation, recognising potential for substantial improvement over existing treatments",
         "score": 149
@@ -27014,11 +27700,6 @@
       {
         "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-delivers-strong-q1-performance-and-start-to-2026/",
         "anchor_text": "29 April 2026GSK delivers strong Q1 performance and start to 2026Q1 2026 highlights",
-        "score": 101
-      },
-      {
-        "url": "https://www.gsk.com/en-gb/media/press-releases/bepirovirsen-accepted-for-regulatory-review-in-japan/",
-        "anchor_text": "26 February 2026Bepirovirsen accepted for regulatory review in Japan as a potential first-in-class treatment for chronic hepatitis BNearly 1 million people in Japan live with chronic hepatitis B, a leading cause of liver cancer",
         "score": 101
       },
       {
@@ -31313,11 +31994,6 @@
         "score": 14
       },
       {
-        "url": "https://www.tempus.com/privacy/",
-        "anchor_text": "Read our Privacy Policy",
-        "score": 13
-      },
-      {
         "url": "https://www.tempus.com/events/",
         "anchor_text": "All",
         "score": 12
@@ -31689,11 +32365,6 @@
         "url": "https://verily.com/privacy-policy",
         "anchor_text": "Privacy policy",
         "score": 27
-      },
-      {
-        "url": "https://verily.com/cookie-policy",
-        "anchor_text": "Cookie Policy.",
-        "score": 26
       },
       {
         "url": "https://verily.com/contact-us",
@@ -32383,6 +33054,11 @@
         "score": 52
       },
       {
+        "url": "https://www.siemens-healthineers.com/press/releases/photon-flash-therapy",
+        "anchor_text": "Learn more",
+        "score": 52
+      },
+      {
         "url": "https://www.siemens-healthineers.com/support-documentation/cybersecurity",
         "anchor_text": "Cybersecurity at Siemens Healthineers",
         "score": 50
@@ -32535,11 +33211,6 @@
       {
         "url": "https://www.siemens-healthineers.com/investor-relations",
         "anchor_text": "Investor Relations",
-        "score": 31
-      },
-      {
-        "url": "https://www.siemens-healthineers.com/press/releases/estro2026",
-        "anchor_text": "Learn more",
         "score": 31
       },
       {
@@ -36827,6 +37498,11 @@
         "score": 46
       },
       {
+        "url": "https://www.foundationmedicine.com/california-individual-rights-form",
+        "anchor_text": "Consumer Rights Request Form",
+        "score": 46
+      },
+      {
         "url": "https://www.foundationmedicine.com/foundation-medicine-publications",
         "anchor_text": "Foundation Medicine Publications",
         "score": 45
@@ -37118,7 +37794,7 @@
       },
       {
         "url": "https://www.foundationmedicine.com/privacy",
-        "anchor_text": "Privacy & Website Policies",
+        "anchor_text": "Privacy Policy",
         "score": 10
       },
       {
@@ -37683,11 +38359,6 @@
         "score": 10
       },
       {
-        "url": "https://www.pfizer.com/Privacy",
-        "anchor_text": "Privacy Policy",
-        "score": 10
-      },
-      {
         "url": "https://www.pfizer.com/about",
         "anchor_text": "About",
         "score": 8
@@ -38085,7 +38756,7 @@
       },
       {
         "url": "https://www.roche.com/investors/bonds",
-        "anchor_text": "Share price322.80CHF+ 2.80(+0.87%)Today",
+        "anchor_text": "Share price322.30CHF- 0.50(-0.15%)Today",
         "score": 20
       },
       {
@@ -38205,11 +38876,6 @@
         "score": 145
       },
       {
-        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/third-tozorakimab-positive-phase-iii-in-copd.html",
-        "anchor_text": "Tozorakimab met primary endpoint in Phase III MIRANDA trial in patients with COPD20 April 2026",
-        "score": 145
-      },
-      {
         "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/fda-odac-vote-on-camizestrant-breast-cancer.html",
         "anchor_text": "Update on FDA Advisory Committee vote on camizestrant in combination with a CDK4/6 inhibitor for advanced HR-positive breast cancer30 April 2026",
         "score": 144
@@ -38223,6 +38889,11 @@
         "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/breztri-approved-in-the-us-for-asthma.html",
         "anchor_text": "Breztri approved in the US for asthma as first and only triple therapy for patients 12 years of age and older28 April 2026",
         "score": 138
+      },
+      {
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/Baxdrostat-MNR-2026.html",
+        "anchor_text": "Baxfendy approved in the US as the first and only aldosterone synthase inhibitor treatment for adults with hypertension18 May 2026",
+        "score": 120
       },
       {
         "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/q1-2026-results.html",
@@ -38571,7 +39242,7 @@
       },
       {
         "url": "https://www.astrazeneca.com/media-centre/press-releases.html",
-        "anchor_text": "Select Preferences",
+        "anchor_text": "Set Preferences",
         "score": 47
       },
       {
@@ -48381,6 +49052,11 @@
         "score": 61
       },
       {
+        "url": "https://www.wuxiapptec.com/news/wuxi-news/v1bj6wuxvxdn4a55fcsnwt38",
+        "anchor_text": "Read more",
+        "score": 56
+      },
+      {
         "url": "https://www.wuxiapptec.com/news/wuxi-news/o11j18jj5dltcdtm9so5f4sk",
         "anchor_text": "Read more",
         "score": 56
@@ -48397,11 +49073,6 @@
       },
       {
         "url": "https://www.wuxiapptec.com/news/wuxi-news/qw2822xkk8hj0zt42ik9jqqp",
-        "anchor_text": "Read more",
-        "score": 56
-      },
-      {
-        "url": "https://www.wuxiapptec.com/news/wuxi-news/frndj4ox39avbvzytgo4n0x0",
         "anchor_text": "Read more",
         "score": 56
       },
@@ -48522,6 +49193,11 @@
         "score": 106
       },
       {
+        "url": "https://www.iconplc.com/insights/therapeutics/central-nervous-system/bridging-science-and-clinical-operability",
+        "anchor_text": "From innovation to implementation: Navigating neurologic monoclonal antibody developmentStrategies for clinical readiness on day one",
+        "score": 105
+      },
+      {
         "url": "https://www.iconplc.com/news-events/press-releases/icon-provides-update-audit-committee-investigation-and-timing",
         "anchor_text": "ICON provides update on audit committee investigation and timing of fourth quarter and full year 2025 financial results",
         "score": 105
@@ -48569,11 +49245,6 @@
       {
         "url": "https://www.iconplc.com/solutions/consulting/commercial-positioning-consulting",
         "anchor_text": "Commercial Positioning",
-        "score": 71
-      },
-      {
-        "url": "https://www.iconplc.com/insights/transforming-trials/bottlenecks-breakthroughs",
-        "anchor_text": "From bottlenecks to breakthroughsHuman-centred strategies for faster study starts",
         "score": 71
       },
       {
@@ -50019,11 +50690,6 @@
         "score": 73
       },
       {
-        "url": "https://www.catalent.com/events/catalent-2026-dia-china-contact-us-form/",
-        "anchor_text": "Catalent 2026 DIA China Contact Us Form",
-        "score": 64
-      },
-      {
         "url": "https://www.catalent.com/events/european-pharma-outsourcing-summit-2026/",
         "anchor_text": "European Pharma Outsourcing Summit 2026",
         "score": 64
@@ -50089,13 +50755,13 @@
         "score": 42
       },
       {
-        "url": "https://www.catalent.com/events/fce-pharma-2026/",
-        "anchor_text": "FCE Pharma 2026",
+        "url": "https://www.catalent.com/events/ddf-berlin-2026/",
+        "anchor_text": "DDF Berlin 2026",
         "score": 40
       },
       {
-        "url": "https://www.catalent.com/events/ddf-berlin-2026/",
-        "anchor_text": "DDF Berlin 2026",
+        "url": "https://www.catalent.com/events/fce-pharma-2026/",
+        "anchor_text": "FCE Pharma 2026",
         "score": 40
       },
       {
@@ -50300,6 +50966,11 @@
         "score": 155
       },
       {
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-s-rsv-vaccine-arexvy-receives-expanded-approval-in-japan-for-adults-aged-18-59-at-increased-risk/",
+        "anchor_text": "18 May 2026GSK’s RSV vaccine, Arexvy, receives expanded approval in Japan for adults aged 18–59 at increased riskFirst RSV vaccine approved for adults aged 18-59 years at increased risk and for all adults 60 years and older in Japan",
+        "score": 149
+      },
+      {
         "url": "https://www.gsk.com/en-gb/media/press-releases/bepirovirsen-accepted-for-priority-review-and-granted-breakthrough-therapy-designation-by-the-us-fda/",
         "anchor_text": "28 April 2026Bepirovirsen accepted for priority review and granted Breakthrough Therapy Designation by the US FDABreakthrough Therapy Designation added to Fast Track Designation, recognising potential for substantial improvement over existing treatments",
         "score": 149
@@ -50367,11 +51038,6 @@
       {
         "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-delivers-strong-q1-performance-and-start-to-2026/",
         "anchor_text": "29 April 2026GSK delivers strong Q1 performance and start to 2026Q1 2026 highlights",
-        "score": 101
-      },
-      {
-        "url": "https://www.gsk.com/en-gb/media/press-releases/bepirovirsen-accepted-for-regulatory-review-in-japan/",
-        "anchor_text": "26 February 2026Bepirovirsen accepted for regulatory review in Japan as a potential first-in-class treatment for chronic hepatitis BNearly 1 million people in Japan live with chronic hepatitis B, a leading cause of liver cancer",
         "score": 101
       },
       {
@@ -52489,6 +53155,11 @@
         "score": 80
       },
       {
+        "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260518_1.html",
+        "anchor_text": "18 MAY 2026NewNutraceuticalsOtsuka Launches New Program FACEDUO \"Heat Illness Prevention VR\"Enabling Early Awareness and Action Through Simulated Experiences to Help Prevent the Onset and Severity of Heat Illness in Older Adults",
+        "score": 80
+      },
+      {
         "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260430_1.html",
         "anchor_text": "30 APR 2026NutraceuticalsOtsuka Launches \"Educational Materials and Resources by Otsuka\" for Educators to Support Health Education in Schools Providing Free Digital Health Education Materials on Heat Illness Prevention and Nutrition Education",
         "score": 80
@@ -53820,6 +54491,11 @@
         "score": 42
       },
       {
+        "url": "https://www.shionogi.com/global/en/innovation/digital.html",
+        "anchor_text": "Digital Transformation",
+        "score": 42
+      },
+      {
         "url": "https://www.shionogi.com/us/en/privacy-policy.html#Collection",
         "anchor_text": "Privacy Policy",
         "score": 42
@@ -53872,11 +54548,6 @@
       {
         "url": "https://www.shionogi.com/global/en/innovation/cvc.html",
         "anchor_text": "Corporate Venture Capital",
-        "score": 38
-      },
-      {
-        "url": "https://www.shionogi.com/global/en/innovation/wbe.html",
-        "anchor_text": "Wastewater-based Epidemiology Surveillance Service",
         "score": 38
       },
       {
@@ -54009,6 +54680,16 @@
         "url": "https://www.chugai-pharm.co.jp/english/ptn/clinical-trial/index.html",
         "anchor_text": "Clinical Development in Partnership with Patients",
         "score": 56
+      },
+      {
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260518153001_1249.html?year=2026&category=",
+        "anchor_text": "Alecensa Receives the World-First Tumor-Agnostic Approval forALKFusion Gene-Positive Solid Tumors Across Adult and Pediatric Patients",
+        "score": 53
+      },
+      {
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260518153000_1244.html?year=2026&category=",
+        "anchor_text": "Chugai Obtains Approval for FoundationOne CDx Cancer Genomic Profile as a Companion Diagnostic of Alecensa forALKFusion Gene-Positive Solid Tumors",
+        "score": 53
       },
       {
         "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260514153000_1250.html?year=2026&category=",
@@ -54426,6 +55107,16 @@
         "score": 26
       },
       {
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260518_eAlecensa_TACKLE_approval.pdf&src=[%0],[%1]&rep=130,1249",
+        "anchor_text": "[PDF\n                            212KB]",
+        "score": 26
+      },
+      {
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260518_eF1_alecensa_approval.pdf&src=[%0],[%1]&rep=130,1244",
+        "anchor_text": "[PDF\n                            304KB]",
+        "score": 26
+      },
+      {
         "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260514eGazyva_INS_NDA.pdf&src=[%0],[%1]&rep=130,1250",
         "anchor_text": "[PDF\n                            160KB]",
         "score": 26
@@ -54768,7 +55459,7 @@
       },
       {
         "url": "https://www.kyowakirin.com/privacy_policy/index.html",
-        "anchor_text": "More information",
+        "anchor_text": "Privacy Policy.",
         "score": 30
       },
       {
@@ -58942,6 +59633,11 @@
         "score": 26
       },
       {
+        "url": "https://ir.discmedicine.com/cookie-notice",
+        "anchor_text": "Cookie Notice.",
+        "score": 26
+      },
+      {
         "url": "https://ir.discmedicine.com/site-map",
         "anchor_text": "Sitemap",
         "score": 21
@@ -59255,7 +59951,7 @@
         "score": 32
       },
       {
-        "url": "https://ir.proqr.com/proqrian-profiles",
+        "url": "https://ir.proqr.com/ProQRian-profiles",
         "anchor_text": "ProQRian Profiles",
         "score": 30
       },
@@ -61085,6 +61781,11 @@
         "score": 53
       },
       {
+        "url": "https://valneva.com/june-25-2026-combined-general-meeting/",
+        "anchor_text": "June 25, 2026 Combined General Meeting",
+        "score": 53
+      },
+      {
         "url": "https://valneva.com/research-development/lyme-disease/",
         "anchor_text": "Lyme Disease – LB6V (VLA15)",
         "score": 51
@@ -61152,11 +61853,6 @@
       {
         "url": "https://valneva.com/investors/financial-reports/",
         "anchor_text": "Financial Reports",
-        "score": 45
-      },
-      {
-        "url": "https://valneva.com/2025-combined-general-meeting/",
-        "anchor_text": "June 25, 2025 Combined General Meeting",
         "score": 45
       },
       {
@@ -63048,7 +63744,7 @@
       },
       {
         "url": "https://www.ucb.com/stories-media/press-releases#Cookie-Preferences",
-        "anchor_text": "Cookie Preferences",
+        "anchor_text": "Cookie preferences",
         "score": 43
       },
       {
@@ -63143,7 +63839,7 @@
       },
       {
         "url": "https://www.ucb.com/Cookie-policy",
-        "anchor_text": "Cookie Policy.",
+        "anchor_text": "Cookie policies",
         "score": 26
       },
       {
@@ -66522,107 +67218,6 @@
     ]
   },
   {
-    "company": "BenevolentAI",
-    "press_url": "https://www.benevolent.com/news",
-    "candidate_links": [
-      {
-        "url": "https://www.benevolent.com/news-and-media/press-releases-and-in-media/proposed-delisting-merger-benevolentai-osaka-holdings-s-rl-and-publication-notice-extraordinary-general-meeting/",
-        "anchor_text": "Press release06 Feb 2025Proposed Delisting via Merger of BenevolentAI into Osaka Holdings S.à r.l. and Publication of Notice of Extraordinary General MeetingRead more",
-        "score": 174
-      },
-      {
-        "url": "https://www.benevolent.com/news-and-media/blog-and-videos/cso-anne-phelan-talks-emerj-about-challenges-drug-discovery-and-how-ai-can-be-used-tackle/",
-        "anchor_text": "Blog01 Jul 2024CSO, Anne Phelan talks to Emerj about the challenges of drug discovery and how AI can be used to tackle thisRead more",
-        "score": 140
-      },
-      {
-        "url": "https://www.benevolent.com/news-and-media/press-releases-and-in-media/benevolentai-unveils-major-strategic-overhaul-return-original-mission/",
-        "anchor_text": "Press release11 Dec 2024BenevolentAI unveils major strategic overhaul with return to original missionRead more",
-        "score": 132
-      },
-      {
-        "url": "https://www.benevolent.com/news-and-media/blog-and-videos/dr-francois-nader-o-42nd-annual-jp-morgan-healthcare-conference/",
-        "anchor_text": "Video11 Jan 2024Dr Francois Nader • 42nd Annual J.P. Morgan Healthcare ConferenceRead more",
-        "score": 114
-      },
-      {
-        "url": "https://www.benevolent.com/news-and-media/blog-and-videos/keynote-panel-benefits-ai-within-drug-discovery/",
-        "anchor_text": "Video23 Oct 2024Keynote Panel: The benefits of AI within drug discoveryRead more",
-        "score": 98
-      },
-      {
-        "url": "https://www.benevolent.com/news-and-media/press-releases-and-in-media/egm-results-announcement/",
-        "anchor_text": "Press release12 Mar 2025EGM Results announcementRead more",
-        "score": 87
-      },
-      {
-        "url": "https://www.benevolent.com/news-and-media/press-releases-and-in-media/",
-        "anchor_text": "All press releases and in the media",
-        "score": 60
-      },
-      {
-        "url": "https://www.benevolent.com/news-and-media/newsletter-hidden/",
-        "anchor_text": "Newsletter",
-        "score": 50
-      },
-      {
-        "url": "https://www.benevolent.com/news-and-media/blog-and-videos/",
-        "anchor_text": "All blog posts and videos",
-        "score": 48
-      },
-      {
-        "url": "https://www.benevolent.com/news-and-media/press-kit/",
-        "anchor_text": "Press kit",
-        "score": 42
-      },
-      {
-        "url": "https://www.benevolent.com/terms-and-conditions/",
-        "anchor_text": "Terms and conditions",
-        "score": 36
-      },
-      {
-        "url": "https://www.benevolent.com/cookie-declaration/",
-        "anchor_text": "Cookie declaration",
-        "score": 34
-      },
-      {
-        "url": "https://www.benevolent.com/privacy-notice/",
-        "anchor_text": "Privacy policy",
-        "score": 30
-      },
-      {
-        "url": "https://www.benevolent.com/contact-us/",
-        "anchor_text": "Contact us",
-        "score": 26
-      },
-      {
-        "url": "https://www.benevolent.com/accessibility/",
-        "anchor_text": "Accessibility",
-        "score": 19
-      },
-      {
-        "url": "https://www.benevolent.com/investors/",
-        "anchor_text": "Regulatory Archive",
-        "score": 15
-      },
-      {
-        "url": "https://www.benevolent.com/sitemap/",
-        "anchor_text": "Sitemap",
-        "score": 13
-      },
-      {
-        "url": "https://www.benevolent.com/news",
-        "anchor_text": "Cross-domain consent[#BULK_CONSENT_DOMAINS_COUNT#]",
-        "score": 7
-      },
-      {
-        "url": "https://www.benevolent.com/",
-        "anchor_text": "Home",
-        "score": 3
-      }
-    ]
-  },
-  {
     "company": "Exscientia",
     "press_url": "https://www.exscientia.ai/news-events",
     "candidate_links": [
@@ -66743,6 +67338,332 @@
       },
       {
         "url": "https://www.exscientia.ai/",
+        "anchor_text": "",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "company": "Chemspace",
+    "press_url": "https://chem-space.com/news",
+    "candidate_links": [
+      {
+        "url": "https://chem-space.com/drug-discovery-cro/integrated-discovery-services",
+        "anchor_text": "Integration Solutions",
+        "score": 63
+      },
+      {
+        "url": "https://chem-space.com/drug-discovery-cro/fragment-based-drug-discovery",
+        "anchor_text": "Fragment-based Drug Discovery",
+        "score": 63
+      },
+      {
+        "url": "https://chem-space.com/news/phenotypic-screening-in-drug-discovery",
+        "anchor_text": "Read more",
+        "score": 58
+      },
+      {
+        "url": "https://chem-space.com/news/chemspace-alipheron-freedom-spacce-5",
+        "anchor_text": "Read more",
+        "score": 56
+      },
+      {
+        "url": "https://chem-space.com/news/pharmacology-in-drug-development",
+        "anchor_text": "Read more",
+        "score": 52
+      },
+      {
+        "url": "https://chem-space.com/news/chemical-space-in-drug-discovery",
+        "anchor_text": "Read more",
+        "score": 52
+      },
+      {
+        "url": "https://chem-space.com/drug-discovery-cro/del-ml-cs-approach",
+        "anchor_text": "DEL-ML",
+        "score": 52
+      },
+      {
+        "url": "https://chem-space.com/news/freedom-space-article-benchmark",
+        "anchor_text": "Read more",
+        "score": 51
+      },
+      {
+        "url": "https://chem-space.com/news/chemspace-target-identification",
+        "anchor_text": "Read more",
+        "score": 51
+      },
+      {
+        "url": "https://chem-space.com/news/discount-real-freedom-compounds",
+        "anchor_text": "Read more",
+        "score": 51
+      },
+      {
+        "url": "https://chem-space.com/drug-discovery-cro/molecular-docking",
+        "anchor_text": "Molecular Docking",
+        "score": 51
+      },
+      {
+        "url": "https://chem-space.com/purchasing-saas/compound-management",
+        "anchor_text": "Compound Management",
+        "score": 50
+      },
+      {
+        "url": "https://chem-space.com/news/israel-conference-announcement",
+        "anchor_text": "Read more",
+        "score": 50
+      },
+      {
+        "url": "https://chem-space.com/news/automation-in-drug-discovery",
+        "anchor_text": "Read more",
+        "score": 48
+      },
+      {
+        "url": "https://chem-space.com/news/trillion-scale-online-search",
+        "anchor_text": "Read more",
+        "score": 48
+      },
+      {
+        "url": "https://chem-space.com/news/biologics-for-research-stat6",
+        "anchor_text": "Read more",
+        "score": 48
+      },
+      {
+        "url": "https://chem-space.com/news/freedom-space-new-version",
+        "anchor_text": "Read more",
+        "score": 45
+      },
+      {
+        "url": "https://chem-space.com/news/control-in-an-experiment",
+        "anchor_text": "Read more",
+        "score": 44
+      },
+      {
+        "url": "https://chem-space.com/news/chemspace-askcos-webinar",
+        "anchor_text": "Read more",
+        "score": 44
+      },
+      {
+        "url": "https://chem-space.com/news/antibodies-special-offer",
+        "anchor_text": "Read more",
+        "score": 44
+      },
+      {
+        "url": "https://chem-space.com/ai-supported-focused-libraries",
+        "anchor_text": "AI-Supported Focused Libraries",
+        "score": 43
+      },
+      {
+        "url": "https://chem-space.com/news/freedom-space-biosolve",
+        "anchor_text": "Read more",
+        "score": 42
+      },
+      {
+        "url": "https://chem-space.com/news/chemspace-pharmacelera",
+        "anchor_text": "Read more",
+        "score": 42
+      },
+      {
+        "url": "https://chem-space.com/news/chemspace-bld-catalog",
+        "anchor_text": "Read more",
+        "score": 41
+      },
+      {
+        "url": "https://chem-space.com/news/ambeed-catalog-update",
+        "anchor_text": "Read more",
+        "score": 41
+      },
+      {
+        "url": "https://chem-space.com/news/opendel-discounts",
+        "anchor_text": "Read more",
+        "score": 37
+      },
+      {
+        "url": "https://chem-space.com/news/molecule-to-watch",
+        "anchor_text": "Read more",
+        "score": 37
+      },
+      {
+        "url": "https://chem-space.com/news/chemspace-askcos",
+        "anchor_text": "Read more",
+        "score": 36
+      },
+      {
+        "url": "https://chem-space.com/news/christmas-delays",
+        "anchor_text": "Read more",
+        "score": 36
+      },
+      {
+        "url": "https://chem-space.com/promotional-materials",
+        "anchor_text": "Promo materials",
+        "score": 34
+      },
+      {
+        "url": "https://chem-space.com/news/what-is-dmpk",
+        "anchor_text": "Read more",
+        "score": 32
+      },
+      {
+        "url": "https://chem-space.com/drug-discovery-cro",
+        "anchor_text": "Discovery CRO",
+        "score": 31
+      },
+      {
+        "url": "https://chem-space.com/news/ligand-ai",
+        "anchor_text": "Read more",
+        "score": 29
+      },
+      {
+        "url": "https://chem-space.com/purchasing-saas",
+        "anchor_text": "Integration Solutions",
+        "score": 28
+      },
+      {
+        "url": "https://chem-space.com/purchasing-saas#custom-features",
+        "anchor_text": "Custom Features",
+        "score": 28
+      },
+      {
+        "url": "https://chem-space.com/purchasing-saas#integrated-procurement",
+        "anchor_text": "Integrated Procurement",
+        "score": 28
+      },
+      {
+        "url": "https://chem-space.com/news/page-39",
+        "anchor_text": "39",
+        "score": 27
+      },
+      {
+        "url": "https://chem-space.com/privacy-policy",
+        "anchor_text": "Privacy Policy",
+        "score": 27
+      },
+      {
+        "url": "https://chem-space.com/freedom-space",
+        "anchor_text": "Freedom Space 5.0",
+        "score": 26
+      },
+      {
+        "url": "https://chem-space.com/news/page-2",
+        "anchor_text": "2",
+        "score": 26
+      },
+      {
+        "url": "https://chem-space.com/news/page-3",
+        "anchor_text": "3",
+        "score": 26
+      },
+      {
+        "url": "https://chem-space.com/news/page-4",
+        "anchor_text": "4",
+        "score": 26
+      },
+      {
+        "url": "https://chem-space.com/news/page-5",
+        "anchor_text": "5",
+        "score": 26
+      },
+      {
+        "url": "https://chem-space.com/sds-coa",
+        "anchor_text": "SDS/CoA",
+        "score": 20
+      },
+      {
+        "url": "https://chem-space.com/user/register",
+        "anchor_text": "I need to register",
+        "score": 18
+      },
+      {
+        "url": "https://chem-space.com/user/forgot",
+        "anchor_text": "I forgot password",
+        "score": 16
+      },
+      {
+        "url": "https://chem-space.com/publications",
+        "anchor_text": "Publications",
+        "score": 15
+      },
+      {
+        "url": "https://chem-space.com/user/login",
+        "anchor_text": "Sign in",
+        "score": 15
+      },
+      {
+        "url": "https://chem-space.com/biologics",
+        "anchor_text": "Biologics",
+        "score": 12
+      },
+      {
+        "url": "https://chem-space.com/compounds",
+        "anchor_text": "Compound sets",
+        "score": 12
+      },
+      {
+        "url": "https://chem-space.com/tutorials",
+        "anchor_text": "Tutorials",
+        "score": 12
+      },
+      {
+        "url": "https://chem-space.com/supplier",
+        "anchor_text": "Suppliers",
+        "score": 11
+      },
+      {
+        "url": "https://chem-space.com/contacts",
+        "anchor_text": "Contacts",
+        "score": 11
+      },
+      {
+        "url": "https://chem-space.com/search",
+        "anchor_text": "Chemical search",
+        "score": 9
+      },
+      {
+        "url": "https://chem-space.com/events",
+        "anchor_text": "Events",
+        "score": 9
+      },
+      {
+        "url": "https://chem-space.com/about",
+        "anchor_text": "About us",
+        "score": 8
+      },
+      {
+        "url": "https://chem-space.com/terms",
+        "anchor_text": "Terms and Conditions",
+        "score": 8
+      },
+      {
+        "url": "https://chem-space.com/news#login-modal",
+        "anchor_text": "",
+        "score": 7
+      },
+      {
+        "url": "https://chem-space.com/news",
+        "anchor_text": "",
+        "score": 7
+      },
+      {
+        "url": "https://chem-space.com/sale",
+        "anchor_text": "Sale %",
+        "score": 7
+      },
+      {
+        "url": "https://chem-space.com/news#Enquire",
+        "anchor_text": "",
+        "score": 7
+      },
+      {
+        "url": "https://chem-space.com/cart",
+        "anchor_text": "0",
+        "score": 7
+      },
+      {
+        "url": "https://chem-space.com/news?currency=eur",
+        "anchor_text": "eur",
+        "score": 7
+      },
+      {
+        "url": "https://chem-space.com/",
         "anchor_text": "",
         "score": 3
       }
@@ -70226,6 +71147,11 @@
         "score": 14
       },
       {
+        "url": "https://www.tempus.com/privacy/",
+        "anchor_text": "Read our Privacy Policy",
+        "score": 13
+      },
+      {
         "url": "https://www.tempus.com/events/",
         "anchor_text": "All",
         "score": 12
@@ -72384,13 +73310,13 @@
         "score": 28
       },
       {
-        "url": "https://www.nuclera.com/latest-news/#fl-main-content",
-        "anchor_text": "Skip to content",
+        "url": "https://www.nuclera.com/latest-news/",
+        "anchor_text": "News",
         "score": 27
       },
       {
-        "url": "https://www.nuclera.com/latest-news/",
-        "anchor_text": "News",
+        "url": "https://www.nuclera.com/latest-news/#fl-main-content",
+        "anchor_text": "Skip to content",
         "score": 27
       },
       {
@@ -72616,6 +73542,11 @@
         "score": 155
       },
       {
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-s-rsv-vaccine-arexvy-receives-expanded-approval-in-japan-for-adults-aged-18-59-at-increased-risk/",
+        "anchor_text": "18 May 2026GSK’s RSV vaccine, Arexvy, receives expanded approval in Japan for adults aged 18–59 at increased riskFirst RSV vaccine approved for adults aged 18-59 years at increased risk and for all adults 60 years and older in Japan",
+        "score": 149
+      },
+      {
         "url": "https://www.gsk.com/en-gb/media/press-releases/bepirovirsen-accepted-for-priority-review-and-granted-breakthrough-therapy-designation-by-the-us-fda/",
         "anchor_text": "28 April 2026Bepirovirsen accepted for priority review and granted Breakthrough Therapy Designation by the US FDABreakthrough Therapy Designation added to Fast Track Designation, recognising potential for substantial improvement over existing treatments",
         "score": 149
@@ -72683,11 +73614,6 @@
       {
         "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-delivers-strong-q1-performance-and-start-to-2026/",
         "anchor_text": "29 April 2026GSK delivers strong Q1 performance and start to 2026Q1 2026 highlights",
-        "score": 101
-      },
-      {
-        "url": "https://www.gsk.com/en-gb/media/press-releases/bepirovirsen-accepted-for-regulatory-review-in-japan/",
-        "anchor_text": "26 February 2026Bepirovirsen accepted for regulatory review in Japan as a potential first-in-class treatment for chronic hepatitis BNearly 1 million people in Japan live with chronic hepatitis B, a leading cause of liver cancer",
         "score": 101
       },
       {
@@ -80736,11 +81662,6 @@
     ]
   },
   {
-    "company": "Dr. Reddy's Laboratories",
-    "press_url": "https://www.drreddys.com/media/",
-    "candidate_links": []
-  },
-  {
     "company": "Tata Consultancy Services",
     "press_url": "https://www.tcs.com/newsroom",
     "candidate_links": []
@@ -80761,9 +81682,85 @@
     "candidate_links": []
   },
   {
-    "company": "AdametNext",
-    "press_url": "https://adametnext.com/blog/",
-    "candidate_links": []
+    "company": "Pharmace Research Laboratory Pvt Ltd",
+    "press_url": "https://www.pharmaceresearch.com/public/news-event/list",
+    "candidate_links": [
+      {
+        "url": "https://www.pharmaceresearch.com/public/news/events/499ea885-0951-4947-aa86-1ea54da129bc",
+        "anchor_text": "Read More",
+        "score": 74
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public/services/chemical-biology/click-chemistry",
+        "anchor_text": "Click Chemistry",
+        "score": 67
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public/services/chemical-biology/protacs",
+        "anchor_text": "PROTACs",
+        "score": 59
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public/services/chemical-biology/dubtacs",
+        "anchor_text": "DUBTACs",
+        "score": 59
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public/services/chemical-biology/dacs",
+        "anchor_text": "DACs",
+        "score": 56
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public/services/chemical-biology/adc",
+        "anchor_text": "ADC",
+        "score": 55
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public/services/medicinal-chemistry",
+        "anchor_text": "Medicinal Chemistry",
+        "score": 52
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public/services/organic-chemistry",
+        "anchor_text": "Organic Chemistry",
+        "score": 50
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public/product-category/a",
+        "anchor_text": "Products",
+        "score": 42
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public/news-event/list",
+        "anchor_text": "News and Events",
+        "score": 39
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public/company-overview",
+        "anchor_text": "About Us",
+        "score": 38
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public/contactus",
+        "anchor_text": "Contact Us",
+        "score": 21
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public/careers",
+        "anchor_text": "Careers",
+        "score": 19
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public/team",
+        "anchor_text": "Our Team",
+        "score": 16
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public",
+        "anchor_text": "Home",
+        "score": 9
+      }
+    ]
   },
   {
     "company": "T-Hub",
@@ -83304,327 +84301,102 @@
     "candidate_links": []
   },
   {
-    "company": "Chemspace",
-    "press_url": "https://chem-space.com/news",
+    "company": "BenevolentAI",
+    "press_url": "https://www.benevolent.com/news",
     "candidate_links": [
       {
-        "url": "https://chem-space.com/drug-discovery-cro/integrated-discovery-services",
-        "anchor_text": "Integration Solutions",
-        "score": 63
+        "url": "https://www.benevolent.com/news-and-media/press-releases-and-in-media/proposed-delisting-merger-benevolentai-osaka-holdings-s-rl-and-publication-notice-extraordinary-general-meeting/",
+        "anchor_text": "Press release06 Feb 2025Proposed Delisting via Merger of BenevolentAI into Osaka Holdings S.à r.l. and Publication of Notice of Extraordinary General MeetingRead more",
+        "score": 174
       },
       {
-        "url": "https://chem-space.com/drug-discovery-cro/fragment-based-drug-discovery",
-        "anchor_text": "Fragment-based Drug Discovery",
-        "score": 63
+        "url": "https://www.benevolent.com/news-and-media/blog-and-videos/cso-anne-phelan-talks-emerj-about-challenges-drug-discovery-and-how-ai-can-be-used-tackle/",
+        "anchor_text": "Blog01 Jul 2024CSO, Anne Phelan talks to Emerj about the challenges of drug discovery and how AI can be used to tackle thisRead more",
+        "score": 140
       },
       {
-        "url": "https://chem-space.com/news/phenotypic-screening-in-drug-discovery",
-        "anchor_text": "Read more",
-        "score": 58
+        "url": "https://www.benevolent.com/news-and-media/press-releases-and-in-media/benevolentai-unveils-major-strategic-overhaul-return-original-mission/",
+        "anchor_text": "Press release11 Dec 2024BenevolentAI unveils major strategic overhaul with return to original missionRead more",
+        "score": 132
       },
       {
-        "url": "https://chem-space.com/news/chemspace-alipheron-freedom-spacce-5",
-        "anchor_text": "Read more",
-        "score": 56
+        "url": "https://www.benevolent.com/news-and-media/blog-and-videos/dr-francois-nader-o-42nd-annual-jp-morgan-healthcare-conference/",
+        "anchor_text": "Video11 Jan 2024Dr Francois Nader • 42nd Annual J.P. Morgan Healthcare ConferenceRead more",
+        "score": 114
       },
       {
-        "url": "https://chem-space.com/news/pharmacology-in-drug-development",
-        "anchor_text": "Read more",
-        "score": 52
+        "url": "https://www.benevolent.com/news-and-media/blog-and-videos/keynote-panel-benefits-ai-within-drug-discovery/",
+        "anchor_text": "Video23 Oct 2024Keynote Panel: The benefits of AI within drug discoveryRead more",
+        "score": 98
       },
       {
-        "url": "https://chem-space.com/news/chemical-space-in-drug-discovery",
-        "anchor_text": "Read more",
-        "score": 52
+        "url": "https://www.benevolent.com/news-and-media/press-releases-and-in-media/egm-results-announcement/",
+        "anchor_text": "Press release12 Mar 2025EGM Results announcementRead more",
+        "score": 87
       },
       {
-        "url": "https://chem-space.com/drug-discovery-cro/del-ml-cs-approach",
-        "anchor_text": "DEL-ML",
-        "score": 52
+        "url": "https://www.benevolent.com/news-and-media/press-releases-and-in-media/",
+        "anchor_text": "All press releases and in the media",
+        "score": 60
       },
       {
-        "url": "https://chem-space.com/news/freedom-space-article-benchmark",
-        "anchor_text": "Read more",
-        "score": 51
-      },
-      {
-        "url": "https://chem-space.com/news/chemspace-target-identification",
-        "anchor_text": "Read more",
-        "score": 51
-      },
-      {
-        "url": "https://chem-space.com/news/discount-real-freedom-compounds",
-        "anchor_text": "Read more",
-        "score": 51
-      },
-      {
-        "url": "https://chem-space.com/drug-discovery-cro/molecular-docking",
-        "anchor_text": "Molecular Docking",
-        "score": 51
-      },
-      {
-        "url": "https://chem-space.com/purchasing-saas/compound-management",
-        "anchor_text": "Compound Management",
+        "url": "https://www.benevolent.com/news-and-media/newsletter-hidden/",
+        "anchor_text": "Newsletter",
         "score": 50
       },
       {
-        "url": "https://chem-space.com/news/israel-conference-announcement",
-        "anchor_text": "Read more",
-        "score": 50
-      },
-      {
-        "url": "https://chem-space.com/news/automation-in-drug-discovery",
-        "anchor_text": "Read more",
+        "url": "https://www.benevolent.com/news-and-media/blog-and-videos/",
+        "anchor_text": "All blog posts and videos",
         "score": 48
       },
       {
-        "url": "https://chem-space.com/news/trillion-scale-online-search",
-        "anchor_text": "Read more",
-        "score": 48
-      },
-      {
-        "url": "https://chem-space.com/news/biologics-for-research-stat6",
-        "anchor_text": "Read more",
-        "score": 48
-      },
-      {
-        "url": "https://chem-space.com/news/freedom-space-new-version",
-        "anchor_text": "Read more",
-        "score": 45
-      },
-      {
-        "url": "https://chem-space.com/news/control-in-an-experiment",
-        "anchor_text": "Read more",
-        "score": 44
-      },
-      {
-        "url": "https://chem-space.com/news/chemspace-askcos-webinar",
-        "anchor_text": "Read more",
-        "score": 44
-      },
-      {
-        "url": "https://chem-space.com/news/antibodies-special-offer",
-        "anchor_text": "Read more",
-        "score": 44
-      },
-      {
-        "url": "https://chem-space.com/ai-supported-focused-libraries",
-        "anchor_text": "AI-Supported Focused Libraries",
-        "score": 43
-      },
-      {
-        "url": "https://chem-space.com/news/freedom-space-biosolve",
-        "anchor_text": "Read more",
+        "url": "https://www.benevolent.com/news-and-media/press-kit/",
+        "anchor_text": "Press kit",
         "score": 42
       },
       {
-        "url": "https://chem-space.com/news/chemspace-pharmacelera",
-        "anchor_text": "Read more",
-        "score": 42
-      },
-      {
-        "url": "https://chem-space.com/news/chemspace-bld-catalog",
-        "anchor_text": "Read more",
-        "score": 41
-      },
-      {
-        "url": "https://chem-space.com/news/ambeed-catalog-update",
-        "anchor_text": "Read more",
-        "score": 41
-      },
-      {
-        "url": "https://chem-space.com/news/opendel-discounts",
-        "anchor_text": "Read more",
-        "score": 37
-      },
-      {
-        "url": "https://chem-space.com/news/molecule-to-watch",
-        "anchor_text": "Read more",
-        "score": 37
-      },
-      {
-        "url": "https://chem-space.com/news/chemspace-askcos",
-        "anchor_text": "Read more",
+        "url": "https://www.benevolent.com/terms-and-conditions/",
+        "anchor_text": "Terms and conditions",
         "score": 36
       },
       {
-        "url": "https://chem-space.com/news/christmas-delays",
-        "anchor_text": "Read more",
-        "score": 36
-      },
-      {
-        "url": "https://chem-space.com/promotional-materials",
-        "anchor_text": "Promo materials",
+        "url": "https://www.benevolent.com/cookie-declaration/",
+        "anchor_text": "Cookie declaration",
         "score": 34
       },
       {
-        "url": "https://chem-space.com/news/what-is-dmpk",
-        "anchor_text": "Read more",
-        "score": 32
+        "url": "https://www.benevolent.com/privacy-notice/",
+        "anchor_text": "Privacy policy",
+        "score": 30
       },
       {
-        "url": "https://chem-space.com/drug-discovery-cro",
-        "anchor_text": "Discovery CRO",
-        "score": 31
-      },
-      {
-        "url": "https://chem-space.com/news/ligand-ai",
-        "anchor_text": "Read more",
-        "score": 29
-      },
-      {
-        "url": "https://chem-space.com/purchasing-saas",
-        "anchor_text": "Integration Solutions",
-        "score": 28
-      },
-      {
-        "url": "https://chem-space.com/purchasing-saas#custom-features",
-        "anchor_text": "Custom Features",
-        "score": 28
-      },
-      {
-        "url": "https://chem-space.com/purchasing-saas#integrated-procurement",
-        "anchor_text": "Integrated Procurement",
-        "score": 28
-      },
-      {
-        "url": "https://chem-space.com/news/page-39",
-        "anchor_text": "39",
-        "score": 27
-      },
-      {
-        "url": "https://chem-space.com/privacy-policy",
-        "anchor_text": "Privacy Policy",
-        "score": 27
-      },
-      {
-        "url": "https://chem-space.com/freedom-space",
-        "anchor_text": "Freedom Space 5.0",
+        "url": "https://www.benevolent.com/contact-us/",
+        "anchor_text": "Contact us",
         "score": 26
       },
       {
-        "url": "https://chem-space.com/news/page-2",
-        "anchor_text": "2",
-        "score": 26
+        "url": "https://www.benevolent.com/accessibility/",
+        "anchor_text": "Accessibility",
+        "score": 19
       },
       {
-        "url": "https://chem-space.com/news/page-3",
-        "anchor_text": "3",
-        "score": 26
-      },
-      {
-        "url": "https://chem-space.com/news/page-4",
-        "anchor_text": "4",
-        "score": 26
-      },
-      {
-        "url": "https://chem-space.com/news/page-5",
-        "anchor_text": "5",
-        "score": 26
-      },
-      {
-        "url": "https://chem-space.com/sds-coa",
-        "anchor_text": "SDS/CoA",
-        "score": 20
-      },
-      {
-        "url": "https://chem-space.com/user/register",
-        "anchor_text": "I need to register",
-        "score": 18
-      },
-      {
-        "url": "https://chem-space.com/user/forgot",
-        "anchor_text": "I forgot password",
-        "score": 16
-      },
-      {
-        "url": "https://chem-space.com/publications",
-        "anchor_text": "Publications",
+        "url": "https://www.benevolent.com/investors/",
+        "anchor_text": "Regulatory Archive",
         "score": 15
       },
       {
-        "url": "https://chem-space.com/user/login",
-        "anchor_text": "Sign in",
-        "score": 15
+        "url": "https://www.benevolent.com/sitemap/",
+        "anchor_text": "Sitemap",
+        "score": 13
       },
       {
-        "url": "https://chem-space.com/biologics",
-        "anchor_text": "Biologics",
-        "score": 12
-      },
-      {
-        "url": "https://chem-space.com/compounds",
-        "anchor_text": "Compound sets",
-        "score": 12
-      },
-      {
-        "url": "https://chem-space.com/tutorials",
-        "anchor_text": "Tutorials",
-        "score": 12
-      },
-      {
-        "url": "https://chem-space.com/supplier",
-        "anchor_text": "Suppliers",
-        "score": 11
-      },
-      {
-        "url": "https://chem-space.com/contacts",
-        "anchor_text": "Contacts",
-        "score": 11
-      },
-      {
-        "url": "https://chem-space.com/search",
-        "anchor_text": "Chemical search",
-        "score": 9
-      },
-      {
-        "url": "https://chem-space.com/events",
-        "anchor_text": "Events",
-        "score": 9
-      },
-      {
-        "url": "https://chem-space.com/about",
-        "anchor_text": "About us",
-        "score": 8
-      },
-      {
-        "url": "https://chem-space.com/terms",
-        "anchor_text": "Terms and Conditions",
-        "score": 8
-      },
-      {
-        "url": "https://chem-space.com/news#login-modal",
-        "anchor_text": "",
+        "url": "https://www.benevolent.com/news",
+        "anchor_text": "Cross-domain consent[#BULK_CONSENT_DOMAINS_COUNT#]",
         "score": 7
       },
       {
-        "url": "https://chem-space.com/news",
-        "anchor_text": "",
-        "score": 7
-      },
-      {
-        "url": "https://chem-space.com/sale",
-        "anchor_text": "Sale %",
-        "score": 7
-      },
-      {
-        "url": "https://chem-space.com/news#Enquire",
-        "anchor_text": "",
-        "score": 7
-      },
-      {
-        "url": "https://chem-space.com/cart",
-        "anchor_text": "0",
-        "score": 7
-      },
-      {
-        "url": "https://chem-space.com/news?currency=eur",
-        "anchor_text": "eur",
-        "score": 7
-      },
-      {
-        "url": "https://chem-space.com/",
-        "anchor_text": "",
+        "url": "https://www.benevolent.com/",
+        "anchor_text": "Home",
         "score": 3
       }
     ]
