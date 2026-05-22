@@ -1,303 +1,576 @@
 [
     {
-        "company": "Sanofi",
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-05-18-19-30-00-3296985",
-        "score": 107,
-        "date_added": "2026-05-19",
+        "company": "Amgen",
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/05/amgen-announces-retirement-of-chief-financial-officer-peter-griffith",
+        "score": 146,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
-        "company": "ALS Global",
-        "url": "https://www.alsglobal.com/en/News-and-publications/2026/05/ALS-Limited-delivers-record-FY26-result",
-        "score": 118,
-        "date_added": "2026-05-19",
-        "article_like": true
-    },
-    {
-        "company": "Veeva Systems",
-        "url": "https://www.veeva.com/products/veeva-link/medical-insights/",
-        "score": 56,
-        "date_added": "2026-05-19",
+        "company": "Novartis",
+        "url": "https://www.novartis.com/news/media-releases/novartis-advances-rlt-innovation-and-reinforces-leadership-prostate-cancer-breast-cancer-and-hematology-new-data-asco-and-eha",
+        "score": 162,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
         "company": "Sartorius Stedim India Pvt Ltd",
-        "url": "https://www.sartorius.com/en/company/newsroom/blog/diverse-perspectives-strong-team-26-1827342",
-        "score": 89,
-        "date_added": "2026-05-19",
+        "url": "https://www.sartorius.com/en/company/newsroom/corporate-news/sartorius-stedim-biotech-opens-new-competence-center-for-cell-and-gene-therapy-components-in-freiburg-germany-1827444",
+        "score": 173,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Sartorius Stedim India Pvt Ltd",
+        "url": "https://www.sartorius.com/en/company/newsroom/corporate-news/sartorius-opens-new-competence-center-for-cell-and-gene-therapy-components-in-freiburg-germany-1827390",
+        "score": 158,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "JETRO",
+        "url": "https://www.jetro.go.jp/en/news/releases/2026/3841a441b1df614e.html",
+        "score": 79,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "CAS (ACS International India Pvt Ltd.)",
+        "url": "https://www.cas.org/press-releases#main-content",
+        "score": 27,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Simson Pharma Limited",
+        "url": "https://www.simsonpharma.com/blog-details/why-isotope-labelled-standards-are-essential-for-lc-ms-ms-analysis",
+        "score": 94,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Medtronic",
+        "url": "https://news.medtronic.com/2026-05-20-Medtronic-announces-intent-to-acquire-SPR-Therapeutics,-Inc-,-expanding-care-options-for-people-living-with-chronic-pain",
+        "score": 144,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Google DeepMind",
+        "url": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+        "score": 138,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Google DeepMind",
+        "url": "https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+        "score": 98,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Google DeepMind",
+        "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+        "score": 84,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Google DeepMind",
+        "url": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
+        "score": 84,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Google DeepMind",
+        "url": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
+        "score": 83,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Google DeepMind",
+        "url": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/",
+        "score": 78,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Google DeepMind",
+        "url": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
+        "score": 76,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Google DeepMind",
+        "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+        "score": 76,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Google DeepMind",
+        "url": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/",
+        "score": 73,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Google DeepMind",
+        "url": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
+        "score": 58,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=499938cc-6795-4076-8244-19022892376c",
+        "score": 80,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=2f46acc9-1d25-4e73-90de-9252593f9eee",
+        "score": 80,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
         "company": "Boston Consulting Group",
-        "url": "https://www.bcg.com/press/19may2026-most-business-transformations-fail-what-leaders-do-differently",
-        "score": 93,
-        "date_added": "2026-05-19",
+        "url": "https://www.bcg.com/publications/2026/the-capital-opportunity-in-ai-enabled-sustainability",
+        "score": 112,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/publications/2026/built-to-change-how-cities-compete-for-the-future",
+        "score": 109,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/publications/2026/the-future-of-digital-assets-in-finance",
+        "score": 99,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/industries/travel-tourism/hospitality-leisure",
+        "score": 62,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
         "company": "EY-Parthenon",
-        "url": "https://www.ey.com/en_gl/insights/ai/as-ai-moves-from-advice-to-authority-who-defines-its-limits",
-        "score": 96,
-        "date_added": "2026-05-19",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/05/ey-and-microsoft-announce-global-initiative-to-help-clients-scale-ai-enterprise-wide-value-creation-and-move-beyond-experimentation",
+        "score": 200,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
         "company": "EY-Parthenon",
-        "url": "https://www.ey.com/en_gl/ceo/ceo-outlook-global-report",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/05/europe-s-investment-landscape-shifts-as-short-term-global-headwinds-test-fdi-but-long-term-confidence-endures",
+        "score": 178,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/05/energy-affordability-is-in-the-headlines-but-energy-wellbeing-is-the-real-story-ey-research-finds",
+        "score": 166,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/industries/government-infrastructure",
+        "score": 59,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/industries/industrials-energy",
         "score": 52,
-        "date_added": "2026-05-19",
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
-        "company": "Rx Propellant",
-        "url": "https://rxpropellant.com/the-strategic-advantage-of-scientific-ecosystems/",
-        "score": 64,
-        "date_added": "2026-05-19",
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/industries/oil-gas-chemicals",
+        "score": 51,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
-        "company": "Rx Propellant",
-        "url": "https://rxpropellant.com/insights#resource_29",
-        "score": 11,
-        "date_added": "2026-05-19",
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/industries/consumer-health",
+        "score": 49,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
-        "company": "Lupin",
-        "url": "https://www.lupin.com/media/press-releases/lupin-receives-tentative-approval-from-u-s-fda-for-revefenacin-inhalation-solution",
-        "score": 120,
-        "date_added": "2026-05-19",
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/industries/power-utilities",
+        "score": 49,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
-        "company": "Lupin",
-        "url": "https://www.lupin.com/media/press-releases/lupin-makes-its-debut-in-dow-jones-best-in-class-indices-2026",
-        "score": 99,
-        "date_added": "2026-05-19",
+        "company": "KPMG",
+        "url": "https://kpmg.com/xx/en/media/press-releases/2026/05/kpmg-and-anthropic-sign-global-alliance-and-launch-digital-gateway-powered-by-claude.html",
+        "score": 174,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
-        "company": "Mylan (Viatris)",
-        "url": "https://newsroom.viatris.com/2026-05-18-U-S-FDA-Accepts-Viatris-New-Drug-Application-for-Fast-Acting-Meloxicam-for-the-Treatment-of-Moderate-to-Severe-Acute-Pain",
-        "score": 145,
-        "date_added": "2026-05-19",
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/careers/outstanding-people/great-place-to-work/",
+        "score": 74,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
-        "company": "PPD (Thermo Fisher)",
-        "url": "https://www.ppd.com/news-item/thermo-fisher-scientifics-ppd-clinical-research-business-expands-bioanalytical-capabilities-with-new-laboratory-in-gothenburg-sweden/",
-        "score": 160,
-        "date_added": "2026-05-19",
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/careers/outstanding-people/innovating-together/",
+        "score": 74,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
-        "company": "Stryker",
-        "url": "https://www.stryker.com/us/en/about/news/2026/avs-now-part-of-stryker-enrolls-first-patient-in-first-in-human-coronary-intravascular-lithotripsy-study.html",
-        "score": 179,
-        "date_added": "2026-05-19",
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/careers/outstanding-people/meet-our-veterans/",
+        "score": 72,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/careers/outstanding-people/working-together/",
+        "score": 71,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/careers/outstanding-people/",
+        "score": 52,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "WuXi Biologics",
+        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-hosts-third-crdmo-day-in-japan-accelerating-biopharma-innovation-from-ind-to-commercialization/",
+        "score": 141,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "WuXi Biologics",
+        "url": "https://www.wuxibiologics.com/production-systems/microbial-derived-product-services/microbial-product-class/#strain-development",
+        "score": 97,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "WuXi Biologics",
+        "url": "https://www.wuxibiologics.com/capabilities/cell-line-development/",
+        "score": 52,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-launches-mylabcorptm-new-ai-powered-mobile-app-designed.html",
+        "score": 147,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/digital-education-improves-her2-low-awareness.html",
+        "score": 123,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "DNAnexus",
+        "url": "https://www.dnanexus.com/press/dnanexus-scales-ai-driven-capabilities",
+        "score": 59,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/news/pr/tempus-launches-arteraai-prostate-test-for-metastatic-patients-marking-the-first-prostate-digital-pathology-algorithm-in-the-tempus-ecosystem-available-for-clinical-use/",
+        "score": 196,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
         "company": "Boston Scientific",
-        "url": "https://news.bostonscientific.com/2026-05-18-Boston-Scientific-enters-into-2-billion-accelerated-share-repurchase-agreement",
-        "score": 102,
-        "date_added": "2026-05-19",
+        "url": "https://news.bostonscientific.com/2026-05-19-FRACTURE-IDE-trial-of-the-Boston-Scientific-SEISMIQ-TM-4CE-Coronary-Intravascular-Lithotripsy-Catheter-meets-primary-safety-and-effectiveness-endpoints#assets_24889_137191-135",
+        "score": 175,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
         "company": "Boston Scientific",
-        "url": "https://news.bostonscientific.com/2026-05-18-Boston-Scientific-announces-strategic-investment-in-MiRus-LLC",
-        "score": 85,
-        "date_added": "2026-05-19",
+        "url": "https://news.bostonscientific.com/2026-05-19-FRACTURE-IDE-trial-of-the-Boston-Scientific-SEISMIQ-TM-4CE-Coronary-Intravascular-Lithotripsy-Catheter-meets-primary-safety-and-effectiveness-endpoints",
+        "score": 175,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
-        "company": "Genentech",
-        "url": "https://www.gene.com/media/press-releases/15113/2026-05-18/genentech-to-present-new-data-at-asco-20",
-        "score": 99,
-        "date_added": "2026-05-19",
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/press-release/fda-approval-foundationone-cdx-tepmetko",
+        "score": 68,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
-        "company": "Roche",
-        "url": "https://www.roche.com/media/releases/med-cor-2026-05-19",
-        "score": 50,
-        "date_added": "2026-05-19",
+        "company": "Pfizer",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-advances-pivotal-pediatric-pneumococcal-vaccine",
+        "score": 113,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "AstraZeneca",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/astrazeneca-to-showcase-phase-iii-data-at-asco-2026.html",
+        "score": 152,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-advances-creation-of-global-intelligent-or-network-in-collaboration-with-department-of-health-abu-dhabi",
+        "score": 164,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-05-21-Allergan-Aesthetics-Receives-Positive-CHMP-Opinion-for-Boey-R-TrenibotulinumtoxinE-for-the-Temporary-Improvement-of-Moderate-to-Severe-Glabellar-Lines-in-Adults",
+        "score": 184,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-05-21-AbbVie-Announces-New-Data-at-ASCO-2026-Demonstrating-Breadth-and-Momentum-Across-its-Next-Generation-Oncology-Pipeline",
+        "score": 142,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Gilead Sciences",
+        "url": "https://www.gilead.com/news/news-details/2026/gilead-sciences-and-world-health-organization-expand-collaboration-to-help-eliminate-visceral-leishmaniasis-a-fatal-parasitic-disease",
+        "score": 200,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Gilead Sciences",
+        "url": "https://www.gilead.com/news/news-details/2026/new-asco-and-eha-2026-data-demonstrate-gilead-and-kites-momentum-across-antibody-drug-conjugates-and-cell-therapy-in-oncology",
+        "score": 192,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Gilead Sciences",
+        "url": "https://www.gilead.com/news/news-details/2026/gilead-sciences-completes-acquisition-of-tubulis-further-strengthening-oncology-portfolio",
+        "score": 156,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
         "company": "Astellas Pharma",
-        "url": "https://newsroom.astellas.com/2026-05-19-astellas-to-present-data-on-long-term-outcomes-and-clinical-use-of-its-portfolio-across-disease-stages-at-asco-2026",
-        "score": 139,
-        "date_added": "2026-05-19",
+        "url": "https://newsroom.astellas.com/2026-05-22-padcev-in-combination-with-keytruda-receives-positive-chmp-opinion-for-the-treatment-of-patients-with-resectable-mibc-who-are-ineligible-for-cisplatin-based-chemotherapy",
+        "score": 193,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
-        "company": "Takeda Pharmaceutical",
-        "url": "https://www.takeda.com/newsroom/newsreleases/2026/takeda-provides-update-regarding-jury-verdict-in-amitiza-antitrust-litigation-in-the-us-and-related-revision-to-fy2025-financial-results/",
-        "score": 210,
-        "date_added": "2026-05-19",
+        "company": "BeiGene",
+        "url": "https://ir.beonemedicines.com/news/beone-medicines-launches-one-save-changes-everything-a-global-cancer-care-awareness-campaign-with-soccer/7e4f6bce-5e5c-49c8-b26d-d2bd8e6fe85f",
+        "score": 163,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "BeiGene",
+        "url": "https://ir.beonemedicines.com/news/beone-medicines-sets-the-pace-in-oncology-at-asco-and-eha-2026-with-60-abstracts/4a61ff99-a44a-4fcd-b82a-e94566abf124",
+        "score": 139,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Alnylam Pharmaceuticals",
+        "url": "https://investors.alnylam.com/press-release?id=29866",
+        "score": 26,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Sarepta Therapeutics",
+        "url": "https://www.sarepta.com/newsroom/when-timing-matters-micahs-duchenne-story",
+        "score": 65,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Insilico Medicine",
+        "url": "https://insilico.com/news/f8il5i2j91-insilico-medicine-and-saudi-aramco-intro",
+        "score": 71,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Iktos",
+        "url": "https://iktos.ai/resources/news/iktos-engine-apis-for-agentic-workflows-and-computational-chemistry-pipelines",
+        "score": 109,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
         "company": "UCB",
-        "url": "https://www.ucb.com/newsroom/press-releases/article/bimzelxrbimekizumab-demonstrates-superior-efficacy-over-skyrizir-risankizumab-in-psoriatic-arthritis-be-bold-week-16-data",
-        "score": 172,
-        "date_added": "2026-05-19",
+        "url": "https://www.ucb.com/investors/financial-calendar-and-events",
+        "score": 54,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
-        "company": "Mankind Pharma",
-        "url": "https://www.mankindpharma.com/media/press-release/prega-news-partners-with-yes-madam-to-launch-pregmadam-campaign-offering-pamper-deliver-care-for-expecting-mothers",
-        "score": 151,
-        "date_added": "2026-05-19",
+        "company": "Ipsen",
+        "url": "https://www.ipsen.com/press-release/ipsen-announces-late-breaking-data-from-first-head-to-head-study-comparing-dysport-and-botox-in-adults-with-upper-limb-spasticity-3297909/",
+        "score": 169,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
-        "company": "Mankind Pharma",
-        "url": "https://www.mankindpharma.com/media/press-release/rajeev-juneja-contributes-inr-9-17-crore-to-national-defence-fund-marks-continued-support-for-armed-forces",
-        "score": 143,
-        "date_added": "2026-05-19",
+        "company": "Eisai",
+        "url": "https://www.eisai.com/news/2026/news202629.html",
+        "score": 57,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
-        "company": "Mankind Pharma",
-        "url": "https://www.mankindpharma.com/media/press-release/gas-o-fasts-new-campaign-with-rakesh-bedi-is-a-love-letter-to-indias-most-indulgent-eating-habits",
-        "score": 134,
-        "date_added": "2026-05-19",
+        "company": "Eisai",
+        "url": "https://www.eisai.com/news/2026/news202628.html",
+        "score": 57,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
-        "company": "Grail",
-        "url": "https://grail.com/stories/the-nhs-galleri-trial-what-to-expect-in-2026-from-the-worlds-first-randomized-controlled-trial-of-a-multi-cancer-early-detection-test-galleri/",
-        "score": 167,
-        "date_added": "2026-05-19",
+        "company": "Eisai",
+        "url": "https://www.eisai.com/news/2026/news202627.html",
+        "score": 57,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
-        "company": "Grail",
-        "url": "https://grail.com/stories/pathfinder-2-what-to-expect-from-the-largest-u-s-multi-cancer-early-detection-mced-interventional-trial/",
-        "score": 129,
-        "date_added": "2026-05-19",
+        "company": "Eisai",
+        "url": "https://www.eisai.com/news/2026/news202626.html",
+        "score": 57,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
-        "company": "Grail",
-        "url": "https://grail.com/podcasts/30-pathfinder-2-study-results-from-esmo-2025-with-principal-investigator-nima-nabavizadeh-md/",
-        "score": 119,
-        "date_added": "2026-05-19",
+        "company": "Dotmatics",
+        "url": "https://www.dotmatics.com/news/lab-manager-luma-agent-ai-co-scientist",
+        "score": 58,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
-        "company": "Grail",
-        "url": "https://grail.com/stories/not-all-mced-tests-are-created-equal-the-realities-of-mced-test-development-and-validation/",
-        "score": 116,
-        "date_added": "2026-05-19",
+        "company": "Chemspace",
+        "url": "https://chem-space.com/news/cell-based-assays-for-drug-discovery",
+        "score": 56,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
-        "company": "Grail",
-        "url": "https://grail.com/stories/making-sense-of-the-numbers-interpreting-multi-cancer-early-detection-test-performance/",
-        "score": 112,
-        "date_added": "2026-05-19",
+        "company": "Chemical Computing Group (CCG)",
+        "url": "https://www.chemcomp.com/en/UGM-2026-Europe-Agenda.htm",
+        "score": 44,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
-        "company": "Grail",
-        "url": "https://grail.com/stories/why-finding-cancers-before-its-too-late-matters-more-than-ever/",
-        "score": 88,
-        "date_added": "2026-05-19",
+        "company": "BioSolveIT",
+        "url": "https://www.biosolveit.de/2026/05/21/vast-space-by-xtalpi-access-now-with-our-tools/",
+        "score": 104,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
-        "company": "Grail",
-        "url": "https://grail.com/podcasts/27-multi-cancer-early-detection-at-the-doctors-office/",
-        "score": 80,
-        "date_added": "2026-05-19",
+        "company": "Accent Therapeutics",
+        "url": "https://accenttx.com/news-events/accent-therapeutics-atx-295-trial-in-progress-poster-asco-2026/",
+        "score": 92,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
-        "company": "Grail",
-        "url": "https://grail.com/podcasts/28-jacks-journey-with-multi-cancer-early-detection/",
-        "score": 77,
-        "date_added": "2026-05-19",
-        "article_like": true
-    },
-    {
-        "company": "Grail",
-        "url": "https://grail.com/podcasts/29-the-dallas-cowboys-are-detecting-cancer-early/",
-        "score": 75,
-        "date_added": "2026-05-19",
+        "company": "Storm Therapeutics",
+        "url": "https://www.stormtherapeutics.com/news/press-releases/storm-therapeutics-to-present-promising-phase-1-sarcoma-data-demonstrating-activity-of-first-in-class-mettl3-inhibitor-stc-15/",
+        "score": 165,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
         "company": "Grail",
-        "url": "https://grail.com/podcasts/31-when-a-firefighters-cancer-is-detected-early/",
-        "score": 74,
-        "date_added": "2026-05-19",
-        "article_like": true
-    },
-    {
-        "company": "Grail",
-        "url": "https://grail.com/stories/a-historic-moment-in-the-fight-against-cancer/",
-        "score": 71,
-        "date_added": "2026-05-19",
-        "article_like": true
-    },
-    {
-        "company": "Grail",
-        "url": "https://grail.com/podcasts/26-the-role-of-cancer-screening-in-longevity/",
-        "score": 71,
-        "date_added": "2026-05-19",
-        "article_like": true
-    },
-    {
-        "company": "Grail",
-        "url": "https://grail.com/galleri-test/the-science/precision-oncology/",
-        "score": 63,
-        "date_added": "2026-05-19",
-        "article_like": true
-    },
-    {
-        "company": "Grail",
-        "url": "https://grail.com/clinical-evidence/",
-        "score": 33,
-        "date_added": "2026-05-19",
-        "article_like": true
-    },
-    {
-        "company": "Grail",
-        "url": "https://grail.com/newsletter-signup/",
-        "score": 33,
-        "date_added": "2026-05-19",
-        "article_like": true
-    },
-    {
-        "company": "Grail",
-        "url": "https://grail.com/press-releases/#press-releases",
-        "score": 30,
-        "date_added": "2026-05-19",
-        "article_like": true
-    },
-    {
-        "company": "Grail",
-        "url": "https://grail.com/press-releases/#grail-perspectives",
-        "score": 30,
-        "date_added": "2026-05-19",
+        "url": "https://grail.com/press-releases/grail-to-present-at-the-2026-jefferies-global-healthcare-conference/",
+        "score": 100,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
         "company": "Oxford Nanopore Technologies",
-        "url": "https://nanoporetech.com/news/compatible-ecosystem-growth-accelerates-across-oncology-pathogen-and-multiomics-workflows",
-        "score": 109,
-        "date_added": "2026-05-19",
+        "url": "https://nanoporetech.com/news/lonza-and-oxford-nanopore-technologies-launch-direct-rna-sequencing-solution-for-gmp-mrna-quality-control",
+        "score": 125,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Oxford Nanopore Technologies",
+        "url": "https://nanoporetech.com/news/oxford-nanopore-strengthens-executive-leadership-team",
+        "score": 73,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Oxford Nanopore Technologies",
+        "url": "https://nanoporetech.com/news/london-calling-technology-update",
+        "score": 52,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Calico Life Sciences",
+        "url": "https://www.calicolabs.com/press/calico-and-nexo-enter-into-collaboration-to-discover-and-develop-small-molecule-therapies-for-age-related-diseases/",
+        "score": 138,
+        "date_added": "2026-05-22",
+        "article_like": true
+    },
+    {
+        "company": "Calico Life Sciences",
+        "url": "https://www.calicolabs.com/clinical-trials/",
+        "score": 31,
+        "date_added": "2026-05-22",
         "article_like": true
     },
     {
         "company": "Lipocine",
-        "url": "https://ir.lipocine.com/2026-05-18-Lipocine-to-Present-at-A-G-P-s-Annual-Virtual-Healthcare-Company-Showcase",
-        "score": 97,
-        "date_added": "2026-05-19",
+        "url": "https://ir.lipocine.com/2026-05-19-Lipocine-Announces-LPCN-1154-Phase-3-Data-Accepted-for-Oral-Presentation-at-2026-ASCP-Annual-Meeting",
+        "score": 124,
+        "date_added": "2026-05-22",
         "article_like": true
     }
 ]
