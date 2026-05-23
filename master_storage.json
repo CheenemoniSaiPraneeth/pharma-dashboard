@@ -106880,5 +106880,278 @@
         "score": 124,
         "date_added": "2026-05-22",
         "article_like": true
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/answer",
+        "score": 9,
+        "date_added": "2026-05-23",
+        "article_like": false
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/media/press-releases/lupin-receives-china-approval-for-oseltamivir-phosphate-oral-suspension",
+        "score": 109,
+        "date_added": "2026-05-23",
+        "article_like": true
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/news/pr/tempus-launches-artera-ai-prostate-test-for-metastatic-patients-marking-the-first-prostate-digital-pathology-algorithm-in-the-tempus-ecosystem-available-for-clinical-use/",
+        "score": 197,
+        "date_added": "2026-05-23",
+        "article_like": true
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/solutions/next-for-oncology-life-sciences/",
+        "score": 59,
+        "date_added": "2026-05-23",
+        "article_like": true
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/solutions/clinical-trial-recruitment/",
+        "score": 54,
+        "date_added": "2026-05-23",
+        "article_like": true
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/solutions/cdx-and-lab-services/",
+        "score": 48,
+        "date_added": "2026-05-23",
+        "article_like": true
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/solutions/digital-pathology/",
+        "score": 45,
+        "date_added": "2026-05-23",
+        "article_like": true
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/solutions/cro-services/",
+        "score": 40,
+        "date_added": "2026-05-23",
+        "article_like": false
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/patients-clinical-trials/",
+        "score": 40,
+        "date_added": "2026-05-23",
+        "article_like": true
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/solutions/data-and-ai/",
+        "score": 39,
+        "date_added": "2026-05-23",
+        "article_like": false
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/patients-neuro-psych/",
+        "score": 36,
+        "date_added": "2026-05-23",
+        "article_like": true
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/data-collaborations/",
+        "score": 35,
+        "date_added": "2026-05-23",
+        "article_like": true
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/patients-oncology/",
+        "score": 33,
+        "date_added": "2026-05-23",
+        "article_like": true
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/document-library/",
+        "score": 32,
+        "date_added": "2026-05-23",
+        "article_like": true
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/policy-center/",
+        "score": 29,
+        "date_added": "2026-05-23",
+        "article_like": false
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/media-library/",
+        "score": 29,
+        "date_added": "2026-05-23",
+        "article_like": false
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/about-us/#our-team",
+        "score": 24,
+        "date_added": "2026-05-23",
+        "article_like": false
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/about-us/#our-tech",
+        "score": 24,
+        "date_added": "2026-05-23",
+        "article_like": false
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/about-us/#culture",
+        "score": 24,
+        "date_added": "2026-05-23",
+        "article_like": false
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/about-us/#careers",
+        "score": 24,
+        "date_added": "2026-05-23",
+        "article_like": false
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/publications/?tags=oncology",
+        "score": 18,
+        "date_added": "2026-05-23",
+        "article_like": false
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/publications/?tags=cardiology",
+        "score": 18,
+        "date_added": "2026-05-23",
+        "article_like": true
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/publications/?tags=neuro-psych",
+        "score": 18,
+        "date_added": "2026-05-23",
+        "article_like": true
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/content/?tags=providers",
+        "score": 13,
+        "date_added": "2026-05-23",
+        "article_like": true
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/content/?tags=life-sciences",
+        "score": 13,
+        "date_added": "2026-05-23",
+        "article_like": true
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/content/",
+        "score": 13,
+        "date_added": "2026-05-23",
+        "article_like": false
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/events/?libraryType=conference",
+        "score": 12,
+        "date_added": "2026-05-23",
+        "article_like": true
+    },
+    {
+        "company": "Tempus",
+        "url": "https://www.tempus.com/events/?libraryType=webinar",
+        "score": 12,
+        "date_added": "2026-05-23",
+        "article_like": true
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/software/cvit",
+        "score": 47,
+        "date_added": "2026-05-23",
+        "article_like": false
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-to-present-32-studies-at-asco-2026/",
+        "score": 95,
+        "date_added": "2026-05-23",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/press-release/asco-2026",
+        "score": 38,
+        "date_added": "2026-05-23",
+        "article_like": false
+    },
+    {
+        "company": "AstraZeneca",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/datroway-approved-in-us-for-1l-triple-negative-bc.html",
+        "score": 150,
+        "date_added": "2026-05-23",
+        "article_like": true
+    },
+    {
+        "company": "AstraZeneca",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/enhertu-recommended-in-eu-for-her2-solid-tumours.html",
+        "score": 149,
+        "date_added": "2026-05-23",
+        "article_like": true
+    },
+    {
+        "company": "AstraZeneca",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/camizestrant-recommended-for-breast-cancer-in-eu.html",
+        "score": 149,
+        "date_added": "2026-05-23",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-05-22-AbbVie-Announces-Positive-CHMP-Opinion-for-MAVIRET-R-glecaprevir-pibrentasvir-for-the-Treatment-of-Acute-Hepatitis-C-Infection",
+        "score": 150,
+        "date_added": "2026-05-23",
+        "article_like": true
+    },
+    {
+        "company": "Gilead Sciences",
+        "url": "https://www.gilead.com/news/news-details/2026/gilead-receives-chmp-positive-opinion-for-trodelvy-in-first-line-metastatic-triple-negative-breast-cancer-for-patients-not-candidates-for-pd-l1-inhibitors",
+        "score": 221,
+        "date_added": "2026-05-23",
+        "article_like": true
+    },
+    {
+        "company": "Gilead Sciences",
+        "url": "https://www.gilead.com/news/news-details/2026/fda-grants-accelerated-approval-to-gileads-hepcludex-bulevirtide-gmod-the-first-and-only-approved-treatment-for-chronic-hepatitis-delta-virus-hdv",
+        "score": 212,
+        "date_added": "2026-05-23",
+        "article_like": true
+    },
+    {
+        "company": "Schr\u00f6dinger",
+        "url": "https://ir.schrodinger.com/press-releases/news-details/2026/Schrdinger-Reports-Inducement-Grants-under-Nasdaq-Listing-Rule-5635c4-85660ca08/default.aspx",
+        "score": 171,
+        "date_added": "2026-05-23",
+        "article_like": false
+    },
+    {
+        "company": "Crinetics Pharmaceuticals",
+        "url": "https://crinetics.com/press-releases/crinetics-pharmaceuticals-to-participate-in-jefferies-global-healthcare-conference-2026/",
+        "score": 120,
+        "date_added": "2026-05-23",
+        "article_like": true
     }
 ]
