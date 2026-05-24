@@ -5487,7 +5487,7 @@
       },
       {
         "url": "https://www.veeva.com/products/veeva-link/medical-insights/",
-        "anchor_text": "Veeva Medical InsightsAccelerate insights from capture to action",
+        "anchor_text": "Veeva Link Medical InsightsAccelerate insights from capture to action",
         "score": 56
       },
       {
@@ -16474,6 +16474,11 @@
         "score": 147
       },
       {
+        "url": "https://www.sailife.com/sai-life-sciences-launches-child-safety-awareness-program-in-government-schools-in-hyderabad-with-sankalp-foundation/",
+        "anchor_text": "Read more",
+        "score": 132
+      },
+      {
         "url": "https://www.sailife.com/sai-life-sciences-becomes-first-indian-crdmo-with-a-site-powered-by-100-renewable-energy/",
         "anchor_text": "Read more",
         "score": 104
@@ -16482,6 +16487,16 @@
         "url": "https://www.sailife.com/pushing-boundaries-in-organic-chemistry-iisc-prof-santanu-mukherjee-at-sai-life-sciences/",
         "anchor_text": "Read more",
         "score": 104
+      },
+      {
+        "url": "https://www.sailife.com/india-is-evolving-from-being-a-tactical-supplier-to-a-strategic-partner-to-global-pharma/",
+        "anchor_text": "Read more",
+        "score": 104
+      },
+      {
+        "url": "https://www.sailife.com/where-nature-inspires-innovation-university-of-kansas-prof-apurba-dutta-visits-sai/",
+        "anchor_text": "Read more",
+        "score": 98
       },
       {
         "url": "https://www.sailife.com/sai-life-sciences-recognized-as-a-best-organization-for-women-bow-2026-by-et-edge/",
@@ -16497,6 +16512,11 @@
         "url": "https://www.sailife.com/kudikunta-lake-restoration-completed-marking-the-revival-of-an-urban-water-body/",
         "anchor_text": "Read more",
         "score": 95
+      },
+      {
+        "url": "https://www.sailife.com/sai-life-sciences-becomes-a-signatory-to-the-un-womens-empowerment-principles/",
+        "anchor_text": "Read more",
+        "score": 93
       },
       {
         "url": "https://www.sailife.com/inside-sai-life-sciences-integrated-rd-campus-accelerating-drug-development/",
@@ -16524,6 +16544,11 @@
         "score": 80
       },
       {
+        "url": "https://www.sailife.com/decoding-the-signals-of-life-cdfds-dr-rashna-bhandari-visits-sai/",
+        "anchor_text": "Read more",
+        "score": 80
+      },
+      {
         "url": "https://www.sailife.com/new-medicinal-chemistry-block-set-for-inauguration-in-hyderabad/",
         "anchor_text": "Read more",
         "score": 79
@@ -16545,6 +16570,11 @@
       },
       {
         "url": "https://www.sailife.com/ai-driven-retrosynthesis-integrated-into-discovery-chemistry/",
+        "anchor_text": "Read more",
+        "score": 76
+      },
+      {
+        "url": "https://www.sailife.com/sai-life-sciences-limited-sustains-growth-momentum-in-q2fy26/",
         "anchor_text": "Read more",
         "score": 76
       },
@@ -16719,7 +16749,7 @@
         "score": 21
       },
       {
-        "url": "https://www.sailife.com/news/page/4/?ajax=true",
+        "url": "https://www.sailife.com/news/page/5/?ajax=true",
         "anchor_text": "next page",
         "score": 21
       },
@@ -18218,7 +18248,7 @@
       },
       {
         "url": "https://www.illumina.com/company/news-center.html",
-        "anchor_text": "Share on Linkedin",
+        "anchor_text": "Remove my preference",
         "score": 39
       },
       {
@@ -18258,7 +18288,7 @@
       },
       {
         "url": "https://www.illumina.com/company/legal/privacy.html",
-        "anchor_text": "Privacy Policy",
+        "anchor_text": "Privacy Policy.",
         "score": 33
       },
       {
@@ -32114,11 +32144,6 @@
         "score": 31
       },
       {
-        "url": "https://www.siemens-healthineers.com/press/releases/estro2026",
-        "anchor_text": "Learn more",
-        "score": 31
-      },
-      {
         "url": "https://www.siemens-healthineers.com/products-services",
         "anchor_text": "Products & Services",
         "score": 30
@@ -32136,6 +32161,11 @@
       {
         "url": "https://www.siemens-healthineers.com/medical-imaging",
         "anchor_text": "Medical imaging",
+        "score": 28
+      },
+      {
+        "url": "https://www.siemens-healthineers.com/press/releases/2026q2",
+        "anchor_text": "Learn more",
         "score": 28
       },
       {
@@ -38177,7 +38207,7 @@
       },
       {
         "url": "https://www.astrazeneca.com/media-centre/press-releases.html",
-        "anchor_text": "Select Preferences",
+        "anchor_text": "Set Preferences",
         "score": 47
       },
       {
@@ -42219,7 +42249,7 @@
       },
       {
         "url": "https://www.takeda.com/newsroom/press-releases/",
-        "anchor_text": "Press Releases",
+        "anchor_text": "Do not sell or share my personal information",
         "score": 41
       },
       {
@@ -44411,7 +44441,7 @@
       },
       {
         "url": "https://crisprtx.com/about-us/privacy-policy",
-        "anchor_text": "Privacy & cookie policy",
+        "anchor_text": "privacy policy",
         "score": 38
       },
       {
@@ -49711,7 +49741,7 @@
       },
       {
         "url": "https://www.catalent.com/news-and-events/",
-        "anchor_text": "Cookies Settings",
+        "anchor_text": "Do Not Sell My Personal Information",
         "score": 31
       },
       {
@@ -54389,7 +54419,7 @@
       },
       {
         "url": "https://www.kyowakirin.com/privacy_policy/index.html",
-        "anchor_text": "More information",
+        "anchor_text": "Privacy Policy.",
         "score": 30
       },
       {
@@ -60154,18 +60184,13 @@
         "score": 27
       },
       {
-        "url": "https://ir.novavax.com/press-releases?page=35",
+        "url": "https://ir.novavax.com/press-releases?page=34",
         "anchor_text": "last pageLast",
         "score": 27
       },
       {
         "url": "https://ir.novavax.com/press-releases#ot-preferences-link",
         "anchor_text": "Your Privacy Choices",
-        "score": 27
-      },
-      {
-        "url": "https://ir.novavax.com/cookies-policy",
-        "anchor_text": "More information",
         "score": 27
       },
       {
@@ -64877,22 +64902,6 @@
         "url": "https://www.genethon.fr/",
         "anchor_text": "Genethon",
         "score": 3
-      }
-    ]
-  },
-  {
-    "company": "Apic Bio",
-    "press_url": "https://apicbio.com/news/",
-    "candidate_links": [
-      {
-        "url": "https://apicbio.com/news/#main",
-        "anchor_text": "Skip to main content",
-        "score": 10
-      },
-      {
-        "url": "https://apicbio.com/news/",
-        "anchor_text": "How do I keep my personal information private?",
-        "score": 10
       }
     ]
   },
@@ -71426,13 +71435,13 @@
         "score": 28
       },
       {
-        "url": "https://www.nuclera.com/latest-news/#fl-main-content",
-        "anchor_text": "Skip to content",
+        "url": "https://www.nuclera.com/latest-news/",
+        "anchor_text": "News",
         "score": 27
       },
       {
-        "url": "https://www.nuclera.com/latest-news/",
-        "anchor_text": "News",
+        "url": "https://www.nuclera.com/latest-news/#fl-main-content",
+        "anchor_text": "Skip to content",
         "score": 27
       },
       {
@@ -74404,18 +74413,273 @@
     ]
   },
   {
-    "company": "Aerpio Pharmaceuticals",
-    "press_url": "https://aerpio.com/news/",
+    "company": "Zealand Pharma",
+    "press_url": "https://www.zealandpharma.com/news-media/?tab=newsroom",
     "candidate_links": [
       {
-        "url": "https://aerpio.com/news/#main",
-        "anchor_text": "Skip to main content",
-        "score": 10
+        "url": "https://www.zealandpharma.com/investors/extraordinary-general-meeting-may-2026/",
+        "anchor_text": "Extraordinary General Meeting May 2026",
+        "score": 66
       },
       {
-        "url": "https://aerpio.com/news/",
-        "anchor_text": "How do I keep my personal information private?",
-        "score": 10
+        "url": "https://www.zealandpharma.com/pipeline/dasiglucagon-continuous-infusion/",
+        "anchor_text": "Dasiglucagon: Continuous infusion",
+        "score": 59
+      },
+      {
+        "url": "https://www.zealandpharma.com/disease-areas/congenital-hyperinsulinism/",
+        "anchor_text": "Congenital Hyperinsulinism",
+        "score": 58
+      },
+      {
+        "url": "https://www.zealandpharma.com/pipeline/dapiglutide-program-paused/",
+        "anchor_text": "Dapiglutide",
+        "score": 53
+      },
+      {
+        "url": "https://www.zealandpharma.com/disease-areas/short-bowel-syndrome/",
+        "anchor_text": "Short Bowel Syndrome",
+        "score": 52
+      },
+      {
+        "url": "https://www.zealandpharma.com/disease-areas/chronic-inflammation/",
+        "anchor_text": "Chronic inflammation",
+        "score": 52
+      },
+      {
+        "url": "https://www.zealandpharma.com/investors/pfic-annual-information/",
+        "anchor_text": "PFIC Annual Information",
+        "score": 51
+      },
+      {
+        "url": "https://www.zealandpharma.com/pipeline/scientific-publications/",
+        "anchor_text": "Scientific publications",
+        "score": 50
+      },
+      {
+        "url": "https://www.zealandpharma.com/investors/annual-general-meeting/",
+        "anchor_text": "Annual General Meeting",
+        "score": 50
+      },
+      {
+        "url": "https://www.zealandpharma.com/investors/events-presentations/",
+        "anchor_text": "Events & presentations",
+        "score": 48
+      },
+      {
+        "url": "https://www.zealandpharma.com/about-us/corporate-management/",
+        "anchor_text": "Corporate management",
+        "score": 47
+      },
+      {
+        "url": "https://www.zealandpharma.com/about-us/corporate-governance/",
+        "anchor_text": "Corporate governance",
+        "score": 47
+      },
+      {
+        "url": "https://www.zealandpharma.com/pipeline/petrelintide-ct-388/",
+        "anchor_text": "Petrelintide / CT-388",
+        "score": 46
+      },
+      {
+        "url": "https://www.zealandpharma.com/news-media/subscribe-to-news/",
+        "anchor_text": "Subscribe to news",
+        "score": 46
+      },
+      {
+        "url": "https://www.zealandpharma.com/about-us/board-of-directors/",
+        "anchor_text": "Board of Directors",
+        "score": 45
+      },
+      {
+        "url": "https://www.zealandpharma.com/investors/stock-information/",
+        "anchor_text": "Stock information",
+        "score": 45
+      },
+      {
+        "url": "https://www.zealandpharma.com/investors/financial-reports/",
+        "anchor_text": "Financial reports",
+        "score": 45
+      },
+      {
+        "url": "https://www.zealandpharma.com/about-us/peptide-expertise/",
+        "anchor_text": "Peptide expertise",
+        "score": 44
+      },
+      {
+        "url": "https://www.zealandpharma.com/investors/analyst-coverage/",
+        "anchor_text": "Analyst coverage",
+        "score": 44
+      },
+      {
+        "url": "https://www.zealandpharma.com/careers/values-and-culture/",
+        "anchor_text": "Values and culture",
+        "score": 44
+      },
+      {
+        "url": "https://www.zealandpharma.com/contact/compliance-hotline/",
+        "anchor_text": "Compliance Hotline",
+        "score": 44
+      },
+      {
+        "url": "https://www.zealandpharma.com/about-us/reports-policies/",
+        "anchor_text": "Reports & policies",
+        "score": 43
+      },
+      {
+        "url": "https://www.zealandpharma.com/disease-areas/obesity/",
+        "anchor_text": "Obesity",
+        "score": 39
+      },
+      {
+        "url": "https://www.zealandpharma.com/about-us/partnering/",
+        "anchor_text": "Partnering",
+        "score": 37
+      },
+      {
+        "url": "https://www.zealandpharma.com/about-us/our-impact/",
+        "anchor_text": "Our impact",
+        "score": 37
+      },
+      {
+        "url": "https://www.zealandpharma.com/privacy-notice/",
+        "anchor_text": "Privacy notice",
+        "score": 30
+      },
+      {
+        "url": "https://www.zealandpharma.com/disease-areas/",
+        "anchor_text": "Learn MoreDisease areas Overview",
+        "score": 29
+      },
+      {
+        "url": "https://www.zealandpharma.com/pipeline/petrelintide/",
+        "anchor_text": "Petrelintide",
+        "score": 29
+      },
+      {
+        "url": "https://www.zealandpharma.com/pipeline/glepaglutide/",
+        "anchor_text": "Glepaglutide",
+        "score": 29
+      },
+      {
+        "url": "https://www.zealandpharma.com/cookie-notice/",
+        "anchor_text": "Cookie notice",
+        "score": 29
+      },
+      {
+        "url": "https://www.zealandpharma.com/pipeline/survodutide/",
+        "anchor_text": "Survodutide",
+        "score": 28
+      },
+      {
+        "url": "https://www.zealandpharma.com/terms-of-use/",
+        "anchor_text": "Terms of use",
+        "score": 28
+      },
+      {
+        "url": "https://www.zealandpharma.com/news-media/?tab=newsroom",
+        "anchor_text": "",
+        "score": 26
+      },
+      {
+        "url": "https://www.zealandpharma.com/news-media/",
+        "anchor_text": "News & Media",
+        "score": 26
+      },
+      {
+        "url": "https://www.zealandpharma.com/news-media/?tab=media",
+        "anchor_text": "Media resources",
+        "score": 26
+      },
+      {
+        "url": "https://www.zealandpharma.com/news-media/?&page=2",
+        "anchor_text": "Next page",
+        "score": 26
+      },
+      {
+        "url": "https://www.zealandpharma.com/news-media/?&page=3",
+        "anchor_text": "Page3",
+        "score": 26
+      },
+      {
+        "url": "https://www.zealandpharma.com/news-media/?&page=4",
+        "anchor_text": "Page4",
+        "score": 26
+      },
+      {
+        "url": "https://www.zealandpharma.com/news-media/?&page=5",
+        "anchor_text": "Page5",
+        "score": 26
+      },
+      {
+        "url": "https://www.zealandpharma.com/news-media/?&page=6",
+        "anchor_text": "Page6",
+        "score": 26
+      },
+      {
+        "url": "https://www.zealandpharma.com/news-media/?&page=7",
+        "anchor_text": "Page7",
+        "score": 26
+      },
+      {
+        "url": "https://www.zealandpharma.com/news-media/?&page=8",
+        "anchor_text": "Page8",
+        "score": 26
+      },
+      {
+        "url": "https://www.zealandpharma.com/about-us/",
+        "anchor_text": "About us",
+        "score": 24
+      },
+      {
+        "url": "https://www.zealandpharma.com/pipeline/zp6590/",
+        "anchor_text": "ZP6590",
+        "score": 23
+      },
+      {
+        "url": "https://www.zealandpharma.com/pipeline/zp9830/",
+        "anchor_text": "ZP9830",
+        "score": 23
+      },
+      {
+        "url": "https://www.zealandpharma.com/investors/faqs/",
+        "anchor_text": "FAQs",
+        "score": 22
+      },
+      {
+        "url": "https://www.zealandpharma.com/accessibility/",
+        "anchor_text": "Accessibility",
+        "score": 19
+      },
+      {
+        "url": "https://www.zealandpharma.com/investors/",
+        "anchor_text": "Investors",
+        "score": 15
+      },
+      {
+        "url": "https://www.zealandpharma.com/pipeline/",
+        "anchor_text": "Learn MorePipeline Overview",
+        "score": 14
+      },
+      {
+        "url": "https://www.zealandpharma.com/careers/",
+        "anchor_text": "Careers",
+        "score": 13
+      },
+      {
+        "url": "https://www.zealandpharma.com/careers/#stories",
+        "anchor_text": "Meet the Zealanders",
+        "score": 13
+      },
+      {
+        "url": "https://www.zealandpharma.com/contact/",
+        "anchor_text": "Contact",
+        "score": 13
+      },
+      {
+        "url": "https://www.zealandpharma.com/",
+        "anchor_text": "Continue to external site",
+        "score": 3
       }
     ]
   },
@@ -74877,22 +75141,6 @@
     ]
   },
   {
-    "company": "Aerpio",
-    "press_url": "https://aerpio.com/news/",
-    "candidate_links": [
-      {
-        "url": "https://aerpio.com/news/#main",
-        "anchor_text": "Skip to main content",
-        "score": 10
-      },
-      {
-        "url": "https://aerpio.com/news/",
-        "anchor_text": "How do I keep my personal information private?",
-        "score": 10
-      }
-    ]
-  },
-  {
     "company": "Juvena Therapeutics",
     "press_url": "https://www.juvenatherapeutics.com/news/",
     "candidate_links": [
@@ -75291,22 +75539,6 @@
         "url": "https://www.calicolabs.com/",
         "anchor_text": "Calico",
         "score": 3
-      }
-    ]
-  },
-  {
-    "company": "Change Bioscience",
-    "press_url": "https://changebioscience.com/news/",
-    "candidate_links": [
-      {
-        "url": "https://changebioscience.com/news/#main",
-        "anchor_text": "Skip to main content",
-        "score": 10
-      },
-      {
-        "url": "https://changebioscience.com/news/",
-        "anchor_text": "How do I keep my personal information private?",
-        "score": 10
       }
     ]
   },
@@ -81370,6 +81602,11 @@
     "candidate_links": []
   },
   {
+    "company": "Apic Bio",
+    "press_url": "https://apicbio.com/news/",
+    "candidate_links": []
+  },
+  {
     "company": "Absci Corporation",
     "press_url": "https://investors.absci.com/news-and-events/news-releases",
     "candidate_links": []
@@ -81380,275 +81617,19 @@
     "candidate_links": []
   },
   {
-    "company": "Zealand Pharma",
-    "press_url": "https://www.zealandpharma.com/news-media/?tab=newsroom",
-    "candidate_links": [
-      {
-        "url": "https://www.zealandpharma.com/investors/extraordinary-general-meeting-may-2026/",
-        "anchor_text": "Extraordinary General Meeting May 2026",
-        "score": 66
-      },
-      {
-        "url": "https://www.zealandpharma.com/pipeline/dasiglucagon-continuous-infusion/",
-        "anchor_text": "Dasiglucagon: Continuous infusion",
-        "score": 59
-      },
-      {
-        "url": "https://www.zealandpharma.com/disease-areas/congenital-hyperinsulinism/",
-        "anchor_text": "Congenital Hyperinsulinism",
-        "score": 58
-      },
-      {
-        "url": "https://www.zealandpharma.com/pipeline/dapiglutide-program-paused/",
-        "anchor_text": "Dapiglutide",
-        "score": 53
-      },
-      {
-        "url": "https://www.zealandpharma.com/disease-areas/short-bowel-syndrome/",
-        "anchor_text": "Short Bowel Syndrome",
-        "score": 52
-      },
-      {
-        "url": "https://www.zealandpharma.com/disease-areas/chronic-inflammation/",
-        "anchor_text": "Chronic inflammation",
-        "score": 52
-      },
-      {
-        "url": "https://www.zealandpharma.com/investors/pfic-annual-information/",
-        "anchor_text": "PFIC Annual Information",
-        "score": 51
-      },
-      {
-        "url": "https://www.zealandpharma.com/pipeline/scientific-publications/",
-        "anchor_text": "Scientific publications",
-        "score": 50
-      },
-      {
-        "url": "https://www.zealandpharma.com/investors/annual-general-meeting/",
-        "anchor_text": "Annual General Meeting",
-        "score": 50
-      },
-      {
-        "url": "https://www.zealandpharma.com/investors/events-presentations/",
-        "anchor_text": "Events & presentations",
-        "score": 48
-      },
-      {
-        "url": "https://www.zealandpharma.com/about-us/corporate-management/",
-        "anchor_text": "Corporate management",
-        "score": 47
-      },
-      {
-        "url": "https://www.zealandpharma.com/about-us/corporate-governance/",
-        "anchor_text": "Corporate governance",
-        "score": 47
-      },
-      {
-        "url": "https://www.zealandpharma.com/pipeline/petrelintide-ct-388/",
-        "anchor_text": "Petrelintide / CT-388",
-        "score": 46
-      },
-      {
-        "url": "https://www.zealandpharma.com/news-media/subscribe-to-news/",
-        "anchor_text": "Subscribe to news",
-        "score": 46
-      },
-      {
-        "url": "https://www.zealandpharma.com/about-us/board-of-directors/",
-        "anchor_text": "Board of Directors",
-        "score": 45
-      },
-      {
-        "url": "https://www.zealandpharma.com/investors/stock-information/",
-        "anchor_text": "Stock information",
-        "score": 45
-      },
-      {
-        "url": "https://www.zealandpharma.com/investors/financial-reports/",
-        "anchor_text": "Financial reports",
-        "score": 45
-      },
-      {
-        "url": "https://www.zealandpharma.com/about-us/peptide-expertise/",
-        "anchor_text": "Peptide expertise",
-        "score": 44
-      },
-      {
-        "url": "https://www.zealandpharma.com/investors/analyst-coverage/",
-        "anchor_text": "Analyst coverage",
-        "score": 44
-      },
-      {
-        "url": "https://www.zealandpharma.com/careers/values-and-culture/",
-        "anchor_text": "Values and culture",
-        "score": 44
-      },
-      {
-        "url": "https://www.zealandpharma.com/contact/compliance-hotline/",
-        "anchor_text": "Compliance Hotline",
-        "score": 44
-      },
-      {
-        "url": "https://www.zealandpharma.com/about-us/reports-policies/",
-        "anchor_text": "Reports & policies",
-        "score": 43
-      },
-      {
-        "url": "https://www.zealandpharma.com/disease-areas/obesity/",
-        "anchor_text": "Obesity",
-        "score": 39
-      },
-      {
-        "url": "https://www.zealandpharma.com/about-us/partnering/",
-        "anchor_text": "Partnering",
-        "score": 37
-      },
-      {
-        "url": "https://www.zealandpharma.com/about-us/our-impact/",
-        "anchor_text": "Our impact",
-        "score": 37
-      },
-      {
-        "url": "https://www.zealandpharma.com/privacy-notice/",
-        "anchor_text": "Privacy notice",
-        "score": 30
-      },
-      {
-        "url": "https://www.zealandpharma.com/disease-areas/",
-        "anchor_text": "Learn MoreDisease areas Overview",
-        "score": 29
-      },
-      {
-        "url": "https://www.zealandpharma.com/pipeline/petrelintide/",
-        "anchor_text": "Petrelintide",
-        "score": 29
-      },
-      {
-        "url": "https://www.zealandpharma.com/pipeline/glepaglutide/",
-        "anchor_text": "Glepaglutide",
-        "score": 29
-      },
-      {
-        "url": "https://www.zealandpharma.com/cookie-notice/",
-        "anchor_text": "Cookie notice",
-        "score": 29
-      },
-      {
-        "url": "https://www.zealandpharma.com/pipeline/survodutide/",
-        "anchor_text": "Survodutide",
-        "score": 28
-      },
-      {
-        "url": "https://www.zealandpharma.com/terms-of-use/",
-        "anchor_text": "Terms of use",
-        "score": 28
-      },
-      {
-        "url": "https://www.zealandpharma.com/news-media/?tab=newsroom",
-        "anchor_text": "",
-        "score": 26
-      },
-      {
-        "url": "https://www.zealandpharma.com/news-media/",
-        "anchor_text": "News & Media",
-        "score": 26
-      },
-      {
-        "url": "https://www.zealandpharma.com/news-media/?tab=media",
-        "anchor_text": "Media resources",
-        "score": 26
-      },
-      {
-        "url": "https://www.zealandpharma.com/news-media/?&page=2",
-        "anchor_text": "Next page",
-        "score": 26
-      },
-      {
-        "url": "https://www.zealandpharma.com/news-media/?&page=3",
-        "anchor_text": "Page3",
-        "score": 26
-      },
-      {
-        "url": "https://www.zealandpharma.com/news-media/?&page=4",
-        "anchor_text": "Page4",
-        "score": 26
-      },
-      {
-        "url": "https://www.zealandpharma.com/news-media/?&page=5",
-        "anchor_text": "Page5",
-        "score": 26
-      },
-      {
-        "url": "https://www.zealandpharma.com/news-media/?&page=6",
-        "anchor_text": "Page6",
-        "score": 26
-      },
-      {
-        "url": "https://www.zealandpharma.com/news-media/?&page=7",
-        "anchor_text": "Page7",
-        "score": 26
-      },
-      {
-        "url": "https://www.zealandpharma.com/news-media/?&page=8",
-        "anchor_text": "Page8",
-        "score": 26
-      },
-      {
-        "url": "https://www.zealandpharma.com/about-us/",
-        "anchor_text": "About us",
-        "score": 24
-      },
-      {
-        "url": "https://www.zealandpharma.com/pipeline/zp6590/",
-        "anchor_text": "ZP6590",
-        "score": 23
-      },
-      {
-        "url": "https://www.zealandpharma.com/pipeline/zp9830/",
-        "anchor_text": "ZP9830",
-        "score": 23
-      },
-      {
-        "url": "https://www.zealandpharma.com/investors/faqs/",
-        "anchor_text": "FAQs",
-        "score": 22
-      },
-      {
-        "url": "https://www.zealandpharma.com/accessibility/",
-        "anchor_text": "Accessibility",
-        "score": 19
-      },
-      {
-        "url": "https://www.zealandpharma.com/investors/",
-        "anchor_text": "Investors",
-        "score": 15
-      },
-      {
-        "url": "https://www.zealandpharma.com/pipeline/",
-        "anchor_text": "Learn MorePipeline Overview",
-        "score": 14
-      },
-      {
-        "url": "https://www.zealandpharma.com/careers/",
-        "anchor_text": "Careers",
-        "score": 13
-      },
-      {
-        "url": "https://www.zealandpharma.com/careers/#stories",
-        "anchor_text": "Meet the Zealanders",
-        "score": 13
-      },
-      {
-        "url": "https://www.zealandpharma.com/contact/",
-        "anchor_text": "Contact",
-        "score": 13
-      },
-      {
-        "url": "https://www.zealandpharma.com/",
-        "anchor_text": "Continue to external site",
-        "score": 3
-      }
-    ]
+    "company": "Aerpio Pharmaceuticals",
+    "press_url": "https://aerpio.com/news/",
+    "candidate_links": []
+  },
+  {
+    "company": "Aerpio",
+    "press_url": "https://aerpio.com/news/",
+    "candidate_links": []
+  },
+  {
+    "company": "Change Bioscience",
+    "press_url": "https://changebioscience.com/news/",
+    "candidate_links": []
   },
   {
     "company": "AnaptysBio",

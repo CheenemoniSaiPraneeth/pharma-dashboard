@@ -107153,5 +107153,12 @@
         "score": 120,
         "date_added": "2026-05-23",
         "article_like": true
+    },
+    {
+        "company": "Novavax",
+        "url": "https://ir.novavax.com/press-releases?page=34",
+        "score": 27,
+        "date_added": "2026-05-24",
+        "article_like": false
     }
 ]
