@@ -107202,5 +107202,68 @@
         "score": 26,
         "date_added": "2026-05-25",
         "article_like": true
+    },
+    {
+        "company": "Novartis",
+        "url": "https://www.novartis.com/news/media-releases/new-novartis-data-era-2026-advance-scientific-understanding-kidney-disease-and-reinforce-portfolio-strength",
+        "score": 144,
+        "date_added": "2026-05-26",
+        "article_like": true
+    },
+    {
+        "company": "JETRO",
+        "url": "https://www.jetro.go.jp/en/j-bridge/",
+        "score": 29,
+        "date_added": "2026-05-26",
+        "article_like": false
+    },
+    {
+        "company": "Abiogenesis Clinpharm Private Limited",
+        "url": "https://abiogenesisclinpharm.com/cell-and-gene-therapy-progress-challenges/",
+        "score": 57,
+        "date_added": "2026-05-26",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/03/ey-named-a-leader-in-the-verdantix-green-quadrant-sustainability-consulting-2026",
+        "score": 149,
+        "date_added": "2026-05-26",
+        "article_like": true
+    },
+    {
+        "company": "Astellas Pharma",
+        "url": "https://newsroom.astellas.com/2026-05-26-astellas-announces-five-year-corporate-strategic-plan-to-deliver-greater-value-faster-for-patients-and-position-itself-as-a-sustainable-growth-company",
+        "score": 174,
+        "date_added": "2026-05-26",
+        "article_like": true
+    },
+    {
+        "company": "Shionogi",
+        "url": "https://www.shionogi.com/global/en/investors/shareholder-information/general-meeting-of-shareholders.html",
+        "score": 101,
+        "date_added": "2026-05-26",
+        "article_like": true
+    },
+    {
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260526113000_1253.html?year=2026&category=",
+        "score": 53,
+        "date_added": "2026-05-26",
+        "article_like": true
+    },
+    {
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260526_eImperial+Invention+Prize.pdf&src=[%0],[%1]&rep=130,1253",
+        "score": 26,
+        "date_added": "2026-05-26",
+        "article_like": true
+    },
+    {
+        "company": "Kyowa Kirin",
+        "url": "https://www.kyowakirin.com/media_center/news_releases/2026/e20260424_01.html",
+        "score": 83,
+        "date_added": "2026-05-26",
+        "article_like": true
     }
 ]

@@ -1,37 +1,58 @@
 [
     {
-        "company": "BIRAC",
-        "url": "https://www.birac.nic.in/desc_new.php?id=1332",
-        "score": 15,
-        "date_added": "2026-05-25",
+        "company": "Novartis",
+        "url": "https://www.novartis.com/news/media-releases/new-novartis-data-era-2026-advance-scientific-understanding-kidney-disease-and-reinforce-portfolio-strength",
+        "score": 144,
+        "date_added": "2026-05-26",
         "article_like": true
     },
     {
-        "company": "Rx Propellant",
-        "url": "https://rxpropellant.com/life-sciences-expansion-playbook/",
-        "score": 48,
-        "date_added": "2026-05-25",
+        "company": "Abiogenesis Clinpharm Private Limited",
+        "url": "https://abiogenesisclinpharm.com/cell-and-gene-therapy-progress-challenges/",
+        "score": 57,
+        "date_added": "2026-05-26",
         "article_like": true
     },
     {
-        "company": "Lupin",
-        "url": "https://www.lupin.com/media/perspectives/how-to-integrate-esg-into-core-business-strategy",
-        "score": 84,
-        "date_added": "2026-05-25",
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/03/ey-named-a-leader-in-the-verdantix-green-quadrant-sustainability-consulting-2026",
+        "score": 149,
+        "date_added": "2026-05-26",
+        "article_like": true
+    },
+    {
+        "company": "Astellas Pharma",
+        "url": "https://newsroom.astellas.com/2026-05-26-astellas-announces-five-year-corporate-strategic-plan-to-deliver-greater-value-faster-for-patients-and-position-itself-as-a-sustainable-growth-company",
+        "score": 174,
+        "date_added": "2026-05-26",
+        "article_like": true
+    },
+    {
+        "company": "Shionogi",
+        "url": "https://www.shionogi.com/global/en/investors/shareholder-information/general-meeting-of-shareholders.html",
+        "score": 101,
+        "date_added": "2026-05-26",
         "article_like": true
     },
     {
         "company": "Chugai Pharmaceutical",
-        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260525153000_1252.html?year=2026&category=",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260526113000_1253.html?year=2026&category=",
         "score": 53,
-        "date_added": "2026-05-25",
+        "date_added": "2026-05-26",
         "article_like": true
     },
     {
         "company": "Chugai Pharmaceutical",
-        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260525_eSoshiki_Jinji.pdf&src=[%0],[%1]&rep=130,1252",
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260526_eImperial+Invention+Prize.pdf&src=[%0],[%1]&rep=130,1253",
         "score": 26,
-        "date_added": "2026-05-25",
+        "date_added": "2026-05-26",
+        "article_like": true
+    },
+    {
+        "company": "Kyowa Kirin",
+        "url": "https://www.kyowakirin.com/media_center/news_releases/2026/e20260424_01.html",
+        "score": 83,
+        "date_added": "2026-05-26",
         "article_like": true
     }
 ]

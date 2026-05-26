@@ -1,4 +1,38 @@
 {
+  "2026-05-26": {
+    "monoclonal antibodies": [
+      {
+        "company": "Chugai Pharmaceutical Co., Ltd.",
+        "modality": "monoclonal antibodies",
+        "news": "Chugai Pharmaceutical received 'The Imperial Invention Prize' for its proprietary recycling antibody technology, which enhances the sustained efficacy of antibody drugs by enabling single molecules to bind multiple antigens.",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260526113000_1253.html?year=2026&category=",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Novartis",
+        "modality": "monoclonal antibodies",
+        "news": "Novartis presented late-breaking Phase III data for Fabhalta (iptacopan) and extended follow-up data for the investigational anti-APRIL therapy zigakibart at the ERA 2026 Congress. The presentations highlighted efficacy and safety outcomes in IgA nephropathy, reinforcing the company's portfolio strength in kidney disease treatments.",
+        "url": "https://www.novartis.com/news/media-releases/new-novartis-data-era-2026-advance-scientific-understanding-kidney-disease-and-reinforce-portfolio-strength",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Chugai Pharmaceutical Co., Ltd.",
+        "modality": "monoclonal antibodies",
+        "news": "Chugai Pharmaceutical received 'The Imperial Invention Prize' for its proprietary recycling antibody technology, which enhances the sustained efficacy of antibody drugs by enabling a single molecule to bind multiple antigen molecules.",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260526113000_1253.html?year=2026&category=",
+        "query": "monoclonal antibodies"
+      }
+    ],
+    "gene editing": [
+      {
+        "company": "Abiogenesis Clinpharm",
+        "modality": "gene editing",
+        "news": "Abiogenesis Clinpharm announced its entry into conducting clinical trials for Cell and Gene Therapy (CGT), marking a strategic expansion to support next-generation therapies including CRISPR-based gene editing programs.",
+        "url": "https://abiogenesisclinpharm.com/cell-and-gene-therapy-progress-challenges/",
+        "query": "gene editing"
+      }
+    ]
+  },
   "2026-05-07": {
     "monoclonal antibodies": [
       {
