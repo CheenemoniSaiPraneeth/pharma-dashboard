@@ -1,58 +1,303 @@
 [
     {
-        "company": "Novartis",
-        "url": "https://www.novartis.com/news/media-releases/new-novartis-data-era-2026-advance-scientific-understanding-kidney-disease-and-reinforce-portfolio-strength",
-        "score": 144,
-        "date_added": "2026-05-26",
+        "company": "MSD",
+        "url": "https://www.msd.com/contact-us/worldwide-locations/",
+        "score": 48,
+        "date_added": "2026-05-27",
         "article_like": true
     },
     {
-        "company": "Abiogenesis Clinpharm Private Limited",
-        "url": "https://abiogenesisclinpharm.com/cell-and-gene-therapy-progress-challenges/",
-        "score": 57,
-        "date_added": "2026-05-26",
+        "company": "Thermo Fisher Scientific",
+        "url": "https://www.thermofisher.com/us/en/home/global/terms-and-conditions.html",
+        "score": 64,
+        "date_added": "2026-05-27",
         "article_like": true
     },
     {
-        "company": "EY-Parthenon",
-        "url": "https://www.ey.com/en_gl/newsroom/2026/03/ey-named-a-leader-in-the-verdantix-green-quadrant-sustainability-consulting-2026",
-        "score": 149,
-        "date_added": "2026-05-26",
+        "company": "Thermo Fisher Scientific",
+        "url": "https://www.thermofisher.com/us/en/home/global/privacy-policy.html",
+        "score": 58,
+        "date_added": "2026-05-27",
         "article_like": true
     },
     {
-        "company": "Astellas Pharma",
-        "url": "https://newsroom.astellas.com/2026-05-26-astellas-announces-five-year-corporate-strategic-plan-to-deliver-greater-value-faster-for-patients-and-position-itself-as-a-sustainable-growth-company",
-        "score": 174,
-        "date_added": "2026-05-26",
+        "company": "Daicel Chiral Technologies Pvt. Ltd.",
+        "url": "https://chiraltech.com/can-ai-actually-improve-chiral-method-development/",
+        "score": 65,
+        "date_added": "2026-05-27",
         "article_like": true
     },
     {
-        "company": "Shionogi",
-        "url": "https://www.shionogi.com/global/en/investors/shareholder-information/general-meeting-of-shareholders.html",
-        "score": 101,
-        "date_added": "2026-05-26",
+        "company": "SCIEX",
+        "url": "https://sciex.com/favorite-resources",
+        "score": 31,
+        "date_added": "2026-05-27",
         "article_like": true
     },
     {
-        "company": "Chugai Pharmaceutical",
-        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260526113000_1253.html?year=2026&category=",
-        "score": 53,
-        "date_added": "2026-05-26",
+        "company": "Agilisium",
+        "url": "https://www.agilisium.com/fdx-forward-deployment-services",
+        "score": 44,
+        "date_added": "2026-05-27",
         "article_like": true
     },
     {
-        "company": "Chugai Pharmaceutical",
-        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260526_eImperial+Invention+Prize.pdf&src=[%0],[%1]&rep=130,1253",
-        "score": 26,
-        "date_added": "2026-05-26",
+        "company": "Agilisium",
+        "url": "https://www.agilisium.com/fdx-forward-deployment-experts",
+        "score": 43,
+        "date_added": "2026-05-27",
         "article_like": true
     },
     {
-        "company": "Kyowa Kirin",
-        "url": "https://www.kyowakirin.com/media_center/news_releases/2026/e20260424_01.html",
-        "score": 83,
-        "date_added": "2026-05-26",
+        "company": "Agilisium",
+        "url": "https://www.agilisium.com/fdx-forward-deployment-agents",
+        "score": 42,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/press/27may2026-hong-kong-surpasses-switzerland-largest-cross-border-wealth-hub",
+        "score": 94,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/2026-05-26-Abbott-showcases-expanding-evidence-across-its-cancer-diagnostics-portfolio-at-ASCO-2026",
+        "score": 112,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/2026-05-26-Abbott-showcases-expanding-evidence-across-its-cancer-diagnostics-portfolio-at-ASCO-2026#assets_2429_124751-111",
+        "score": 112,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-to-showcase-long-term-outcomes-and-pipeline-expansion-with-latest-oncology-research-at-asco-and-eha/",
+        "score": 152,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Siemens Healthineers",
+        "url": "https://www.siemens-healthineers.com/press/releases/stroke-partnership-cercaremedical",
+        "score": 65,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-launches-behind-the-diagnosis-campaign/",
+        "score": 99,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-05-27",
+        "score": 50,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "AstraZeneca",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/us-fda-decision-date-camizestrant-extended.html",
+        "score": 143,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/depuy-synthes-announces-agreement-to-acquire-miniature-radiofrequency-tracking-technology-across-its-joint-reconstruction-portfolio",
+        "score": 176,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/depuy-synthes-enters-exclusive-u-s-canada-and-australia-distribution-agreement-for-cgbios-novosis",
+        "score": 142,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Gilead Sciences",
+        "url": "https://www.gilead.com/news/news-details/2026/phase-3-assure-interim-data-majority-of-people-in-the-study-with-alp-11-67uln-achieved-high-and-sustained-composite-alp-normalization-at-24-months-with-gileads-livdelzi-seladelpar",
+        "score": 246,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "BeiGene",
+        "url": "https://ir.beonemedicines.com/news/beone-medicines-to-present-at-the-goldman-sachs-47th-annual-global-healthcare-conference/d51ba659-04f9-4dbe-bd31-2a3fa313105f",
+        "score": 147,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Insilico Medicine",
+        "url": "https://insilico.com/news/ps2bndbh61-insilico-medicine-and-human-longevity-an",
+        "score": 71,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Abridge",
+        "url": "https://www.abridge.com/blog/geisinger-ambient-ai-adoption",
+        "score": 49,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Grail",
+        "url": "https://grail.com/press-releases/grail-to-present-at-the-goldman-sachs-47th-annual-global-healthcare-conference/",
+        "score": 111,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Menarini Group",
+        "url": "https://www.menarini.com/en-us/news/news-detail/fair-play-menarini-international-award-honouring-three-young-champions-of-courage-and-humanity.html",
+        "score": 141,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/news-media/newsroom/ak-global-day-skin-scouts-observe-detect-act",
+        "score": 81,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Inventiva Pharma",
+        "url": "https://inventivapharma.com/fr/investisseurs/actualites-evenements/",
+        "score": 58,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Inventiva Pharma",
+        "url": "https://inventivapharma.com/investors/news-events/#press-releases",
+        "score": 39,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Inventiva Pharma",
+        "url": "https://inventivapharma.com/careers-and-culture/",
+        "score": 35,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Inventiva Pharma",
+        "url": "https://inventivapharma.com/careers-and-culture/#open-positions",
+        "score": 35,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Inventiva Pharma",
+        "url": "https://inventivapharma.com/investors/financials/#regulated-information",
+        "score": 28,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Inventiva Pharma",
+        "url": "https://inventivapharma.com/investors/financials/#quarterly-results",
+        "score": 28,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Inventiva Pharma",
+        "url": "https://inventivapharma.com/investors/financials/#financial-calendar",
+        "score": 28,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Inventiva Pharma",
+        "url": "https://inventivapharma.com/investors/financials/#shareholder-meetings",
+        "score": 28,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Inventiva Pharma",
+        "url": "https://inventivapharma.com/investors/financials/#shareholder-newsletter",
+        "score": 28,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Inventiva Pharma",
+        "url": "https://inventivapharma.com/investors/governance/#board-of-directors",
+        "score": 28,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Inventiva Pharma",
+        "url": "https://inventivapharma.com/investors/governance/#governance-documents",
+        "score": 28,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Inventiva Pharma",
+        "url": "https://inventivapharma.com/investors/governance/#related-party-agreements",
+        "score": 28,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Inventiva Pharma",
+        "url": "https://inventivapharma.com/our-science/#clinical-trials",
+        "score": 27,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Inventiva Pharma",
+        "url": "https://inventivapharma.com/our-focus/#understanding-mash",
+        "score": 25,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Inventiva Pharma",
+        "url": "https://inventivapharma.com/our-focus/#patient-resources",
+        "score": 25,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Inventiva Pharma",
+        "url": "https://inventivapharma.com/investors/stocks/#stock-quotes-chart",
+        "score": 24,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Inventiva Pharma",
+        "url": "https://inventivapharma.com/investors/stocks/#historical-lookup",
+        "score": 24,
+        "date_added": "2026-05-27",
+        "article_like": true
+    },
+    {
+        "company": "Inventiva Pharma",
+        "url": "https://inventivapharma.com/investors/stocks/#analyst-coverage",
+        "score": 24,
+        "date_added": "2026-05-27",
         "article_like": true
     }
 ]

@@ -1,4 +1,22 @@
 {
+  "2026-05-27": {
+    "monoclonal antibodies": [
+      {
+        "company": "GSK",
+        "modality": "monoclonal antibodies",
+        "news": "GSK presented new data at ASCO and EHA 2026 highlighting long-term efficacy of belantamab mafodotin, a BCMA-directed antibody-drug conjugate, in relapsed/refractory multiple myeloma. The company also showcased results for dostarlimab, a PD-1 blocking monoclonal antibody, predicting cure rates in endometrial cancer.",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-to-showcase-long-term-outcomes-and-pipeline-expansion-with-latest-oncology-research-at-asco-and-eha/",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "GSK",
+        "modality": "monoclonal antibodies",
+        "news": "GSK presented new data at ASCO and EHA highlighting long-term efficacy of belantamab mafodotin (Blenrep), a BCMA-directed monoclonal antibody, in relapsed or refractory multiple myeloma. The company also showcased results for dostarlimab (Jemperli), a PD-1 blocking antibody, predicting cure rates in endometrial cancer.",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-to-showcase-long-term-outcomes-and-pipeline-expansion-with-latest-oncology-research-at-asco-and-eha/",
+        "query": "monoclonal antibodies"
+      }
+    ]
+  },
   "2026-05-26": {
     "monoclonal antibodies": [
       {

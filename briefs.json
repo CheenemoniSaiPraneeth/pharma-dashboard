@@ -1,17 +1,10 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 7,
-    "items_extracted": 1,
+    "articles_used": 25,
+    "items_extracted": 0,
     "items_dropped": 0,
-    "generated_at": "2026-05-26 09:34:42"
+    "generated_at": "2026-05-27 09:35:56"
   },
-  "news": [
-    {
-      "company": "Abiogenesis Clinpharm",
-      "modality": "gene editing",
-      "news": "Abiogenesis Clinpharm announced its entry into conducting clinical trials for Cell and Gene Therapy (CGT), marking a strategic expansion to support next-generation therapies including CRISPR-based gene editing programs.",
-      "url": "https://abiogenesisclinpharm.com/cell-and-gene-therapy-progress-challenges/"
-    }
-  ]
+  "news": []
 }
