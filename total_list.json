@@ -4,6 +4,11 @@
     "press_url": "https://www.sanofi.com/en/media-room/press-releases",
     "candidate_links": [
       {
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-05-28-05-00-00-3302498",
+        "anchor_text": "Read the Press Release",
+        "score": 107
+      },
+      {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-05-18-19-30-00-3296985",
         "anchor_text": "Read the Press Release",
         "score": 107
@@ -95,11 +100,6 @@
       },
       {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-03-04-17-30-55-3249632",
-        "anchor_text": "Read the Press Release",
-        "score": 107
-      },
-      {
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-03-02-06-00-00-3247008",
         "anchor_text": "Read the Press Release",
         "score": 107
       },
@@ -5176,11 +5176,6 @@
         "score": 157
       },
       {
-        "url": "https://www.veeva.com/resources/court-rejects-medidata-lawsuit-against-veeva-for-lack-of-evidence-blocks-medidatas-moves-to-limit-competition-and-employee-rights/",
-        "anchor_text": "Read Press Release",
-        "score": 157
-      },
-      {
         "url": "https://www.veeva.com/medtech/news/new-research-finds-87-of-medtechs-lack-consistent-methods-to-share-product-information-across-global-regulatory-teams/%20",
         "anchor_text": "Read Press Release",
         "score": 153
@@ -5201,11 +5196,6 @@
         "score": 143
       },
       {
-        "url": "https://www.veeva.com/resources/largest-ever-industry-report-reveals-video-meetings-3x-more-effective-and-companies-using-them-most-gain-advantage/",
-        "anchor_text": "Read Press Release",
-        "score": 142
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-announces-esource-application-for-research-sites-to-eliminate-paper-and-streamline-clinical-trial-data-flow/",
         "anchor_text": "Read Press Release",
         "score": 141
@@ -5224,6 +5214,11 @@
         "url": "https://www.veeva.com/resources/minaris-regenerative-medicine-streamlining-contract-manufacturing-with-veeva-vault-quality-suite-applications/",
         "anchor_text": "Read Press Release",
         "score": 137
+      },
+      {
+        "url": "https://www.veeva.com/resources/veeva-announces-falcon-an-agentic-platform-and-standard-agents-to-deliver-agentic-labor-in-drug-development/",
+        "anchor_text": "Read Press Release",
+        "score": 135
       },
       {
         "url": "https://www.veeva.com/resources/boehringer-ingelheim-partners-with-veeva-to-advance-its-clinical-and-regulatory-operations-in-animal-health/",
@@ -5661,6 +5656,11 @@
         "score": 91
       },
       {
+        "url": "https://www.veeva.com/resources/merck-kgaa-darmstadt-germany-selects-veeva-vault-crm-worldwide/",
+        "anchor_text": "Read Press Release",
+        "score": 90
+      },
+      {
         "url": "https://www.veeva.com/resources/veeva-announces-research-site-clinical-trial-management-system/",
         "anchor_text": "Read Press Release",
         "score": 90
@@ -5734,11 +5734,6 @@
         "url": "https://www.veeva.com/resources/batavia-optimizes-global-qa-with-veeva-vault-quality-suite/",
         "anchor_text": "Read Press Release",
         "score": 86
-      },
-      {
-        "url": "https://www.veeva.com/resources/veranex-accelerates-clinical-trials-with-veeva-vault-cdms/",
-        "anchor_text": "Read Press Release",
-        "score": 85
       },
       {
         "url": "https://www.veeva.com/resources/veeva-and-biomarin-form-long-term-strategic-partnership/",
@@ -5839,6 +5834,11 @@
         "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2023-third-quarter-results/",
         "anchor_text": "Read Press Release",
         "score": 77
+      },
+      {
+        "url": "https://www.veeva.com/resources/teva-pharmaceuticals-commits-to-veeva-vault-crm/",
+        "anchor_text": "Read Press Release",
+        "score": 75
       },
       {
         "url": "https://www.veeva.com/resources/veeva-announces-expanded-partnership-with-roche/",
@@ -6940,572 +6940,6 @@
         "url": "https://www.sartorius.com/en",
         "anchor_text": "Homepage",
         "score": 5
-      }
-    ]
-  },
-  {
-    "company": "Solix Technologies, Inc.",
-    "press_url": "https://www.solix.com/company/news-events/press-releases/",
-    "candidate_links": [
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/solix-technologies-and-computer-arabia-forge-strategic-partnership-to-accelerate-enterprise-data-modernization-in-qatar/",
-        "anchor_text": "Read More",
-        "score": 176
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/registration-open-for-solixempower-2025-a-data-and-ai-governance-conference-with-university-of-california-san-diego/",
-        "anchor_text": "Read More",
-        "score": 172
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/solix-strengthens-leadership-team-with-key-executive-appointments-to-accelerate-enterprise-ai-data-modernization/",
-        "anchor_text": "Read More",
-        "score": 169
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/solix-technologies-inc-announces-general-availability-for-solix-enterprise-ai-a-fourth-generation-data-platform/",
-        "anchor_text": "Read More",
-        "score": 168
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/solix-technologies-and-mindmap-technologies-announce-partnership-to-drive-enterprise-data-across-apac-singapore/",
-        "anchor_text": "Read More",
-        "score": 168
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/solix-technologies-announces-key-leadership-appointments-and-promotions-to-accelerate-global-ai-driven-growth/",
-        "anchor_text": "Read More",
-        "score": 166
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/solix-expands-into-japan-to-address-rising-data-compliance-pressures-under-appi-appoints-junichi-takayanagi/",
-        "anchor_text": "Read More",
-        "score": 164
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/solix-and-symbiosis-scei-smcw-partner-to-launch-center-of-excellence-for-new-drug-discovery-and-repurposing/",
-        "anchor_text": "Read More",
-        "score": 164
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/global-leaders-in-ai-data-management-and-governance-to-convene-at-solixempower-2025-in-san-diego/",
-        "anchor_text": "Read More",
-        "score": 153
-      },
-      {
-        "url": "https://www.solix.com/resources/lg/white-papers/enterprise-information-architecture-for-gen-ai-and-machine-learning/",
-        "anchor_text": "Enterprise Information Architecture for Gen AI and Machine Learning",
-        "score": 115
-      },
-      {
-        "url": "https://www.solix.com/resources/lg/white-papers/transforming-your-forgotten-data-into-ai-intelligence/",
-        "anchor_text": "The Rise Of Enterprise Intelligence",
-        "score": 101
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-accounting-and-finance/",
-        "anchor_text": "Accounting & Finance",
-        "score": 100
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-financial-institutions/",
-        "anchor_text": "Financial Services",
-        "score": 100
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/reimagining-the-enterprise-in-the-age-of-ai/",
-        "anchor_text": "Read More",
-        "score": 100
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-construction-industry/",
-        "anchor_text": "Construction",
-        "score": 99
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-legal-and-compliance/",
-        "anchor_text": "Legal & Compliance",
-        "score": 98
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-insurance-providers/",
-        "anchor_text": "Insurance",
-        "score": 97
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/cloud-archive-for-finance-and-accounting/",
-        "anchor_text": "Cloud Archive - Finance",
-        "score": 97
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-sales-and-marketing/",
-        "anchor_text": "Sales & Marketing",
-        "score": 97
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-human-resources/",
-        "anchor_text": "Human Resources",
-        "score": 93
-      },
-      {
-        "url": "https://www.solix.com/solutions/replace-ibm-infosphere-optim-with-solixcloud/",
-        "anchor_text": "Infosphere Optim Replace",
-        "score": 72
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/cloud-archive/",
-        "anchor_text": "Cloud Archive",
-        "score": 70
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/document-ai/",
-        "anchor_text": "Document AI",
-        "score": 68
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/page/15/",
-        "anchor_text": "15",
-        "score": 66
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/page/2/",
-        "anchor_text": "»",
-        "score": 65
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/page/3/",
-        "anchor_text": "3",
-        "score": 65
-      },
-      {
-        "url": "https://www.solix.com/solutions/cloud-data-management-for-jd-edwards/",
-        "anchor_text": "JD Edwards",
-        "score": 64
-      },
-      {
-        "url": "https://www.solix.com/solutions/cloud-data-management-for-peoplesoft/",
-        "anchor_text": "PeopleSoft",
-        "score": 64
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-data-archiving-solution/",
-        "anchor_text": "Enterprise Archiving",
-        "score": 61
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/pricing",
-        "anchor_text": "Pricing",
-        "score": 61
-      },
-      {
-        "url": "https://www.solix.com/solutions/cloud-data-management-for-siebel/",
-        "anchor_text": "Siebel",
-        "score": 60
-      },
-      {
-        "url": "https://www.solix.com/solutions/microsoft-sql-database-archiving/",
-        "anchor_text": "MS-SQL",
-        "score": 60
-      },
-      {
-        "url": "https://www.solix.com/products/application-retirement-solution/",
-        "anchor_text": "Application Retirement",
-        "score": 58
-      },
-      {
-        "url": "https://www.solix.com/solutions/cloud-data-management-for-baan/",
-        "anchor_text": "Baan",
-        "score": 58
-      },
-      {
-        "url": "https://www.solix.com/solutions/cloud-data-management-for-sap/",
-        "anchor_text": "SAP HANA",
-        "score": 57
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/#content",
-        "anchor_text": "Skip to content",
-        "score": 54
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/",
-        "anchor_text": "Enterprise Content Services",
-        "score": 54
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/",
-        "anchor_text": "",
-        "score": 54
-      },
-      {
-        "url": "https://www.solix.com/products/solix-common-data-platform/",
-        "anchor_text": "Solix Common Data Platform (CDP)",
-        "score": 53
-      },
-      {
-        "url": "https://www.solix.com/partners/global-technology-partners/",
-        "anchor_text": "Global Technology Partners",
-        "score": 53
-      },
-      {
-        "url": "https://www.solix.com/solutions/sensitive-data-discovery/",
-        "anchor_text": "Sensitive Data Discovery",
-        "score": 52
-      },
-      {
-        "url": "https://www.solix.com/solutions/mysql-database-archiving/",
-        "anchor_text": "MySQL",
-        "score": 52
-      },
-      {
-        "url": "https://www.solix.com/solutions/oracle-ebusiness-suite/",
-        "anchor_text": "Oracle Database",
-        "score": 50
-      },
-      {
-        "url": "https://www.solix.com/solutions/ibm-zseries-mainframe/",
-        "anchor_text": "zSystems Mainframe",
-        "score": 49
-      },
-      {
-        "url": "https://www.solix.com/company/touch-a-life-foundation/",
-        "anchor_text": "Corporate Social Responsibility",
-        "score": 49
-      },
-      {
-        "url": "https://www.solix.com/products/consumer-data-privacy/",
-        "anchor_text": "Consumer Data Privacy",
-        "score": 48
-      },
-      {
-        "url": "https://www.solix.com/services/professional-services/",
-        "anchor_text": "Professional Services",
-        "score": 48
-      },
-      {
-        "url": "https://www.solix.com/partners/become-solix-partner/",
-        "anchor_text": "Become A Partner",
-        "score": 47
-      },
-      {
-        "url": "https://www.solix.com/partners/partner-portal-login/",
-        "anchor_text": "Partner Portal",
-        "score": 47
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-archiving/",
-        "anchor_text": "DB2",
-        "score": 47
-      },
-      {
-        "url": "https://www.solix.com/services/assessment-services/",
-        "anchor_text": "Assessment Services",
-        "score": 46
-      },
-      {
-        "url": "https://www.solix.com/resources/on-demand-webinars/",
-        "anchor_text": "eBooks",
-        "score": 46
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/events/",
-        "anchor_text": "Events",
-        "score": 46
-      },
-      {
-        "url": "https://www.solix.com/products/data-lake-solution/",
-        "anchor_text": "Enterprise Data Lake",
-        "score": 45
-      },
-      {
-        "url": "https://www.solix.com/products/database-archiving/",
-        "anchor_text": "Database Archiving",
-        "score": 45
-      },
-      {
-        "url": "https://www.solix.com/partners/big-data-partners/",
-        "anchor_text": "Big Data Partners",
-        "score": 44
-      },
-      {
-        "url": "https://www.solix.com/company/investor-relations/",
-        "anchor_text": "Investor Relations",
-        "score": 44
-      },
-      {
-        "url": "https://www.solix.com/solutions/solix-eai-pharma/",
-        "anchor_text": "Pharma and Biotech",
-        "score": 44
-      },
-      {
-        "url": "https://www.solix.com/solutions/data-governance/",
-        "anchor_text": "Data Governance",
-        "score": 43
-      },
-      {
-        "url": "https://www.solix.com/products/email-archiving/",
-        "anchor_text": "Email Archiving",
-        "score": 42
-      },
-      {
-        "url": "https://www.solix.com/partners/partner-program/",
-        "anchor_text": "Distribution Partners",
-        "score": 42
-      },
-      {
-        "url": "https://www.solix.com/products/file-archiving/",
-        "anchor_text": "File Archiving",
-        "score": 41
-      },
-      {
-        "url": "https://www.solix.com/partners/cloud-partners/",
-        "anchor_text": "Cloud Partners / Hyperscalers",
-        "score": 41
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-ai/",
-        "anchor_text": "Enterprise AI",
-        "score": 40
-      },
-      {
-        "url": "https://www.solix.com/products/ai-governance/",
-        "anchor_text": "AI Governance",
-        "score": 40
-      },
-      {
-        "url": "https://www.solix.com/products/ai-healthcare/",
-        "anchor_text": "AI Healthcare",
-        "score": 40
-      },
-      {
-        "url": "https://www.solix.com/services/support-login/",
-        "anchor_text": "Support Portal",
-        "score": 40
-      },
-      {
-        "url": "https://www.solix.com/resources/white-papers/",
-        "anchor_text": "White Papers",
-        "score": 40
-      },
-      {
-        "url": "https://www.solix.com/resources/case-studies/",
-        "anchor_text": "Case Studies",
-        "score": 40
-      },
-      {
-        "url": "https://www.solix.com/company/contact-sales/",
-        "anchor_text": "Contact Sales",
-        "score": 39
-      },
-      {
-        "url": "https://www.solix.com/products/ai-warehouse/",
-        "anchor_text": "AI Warehouse",
-        "score": 39
-      },
-      {
-        "url": "https://www.solix.com/products/data-masking/",
-        "anchor_text": "Data Masking",
-        "score": 39
-      },
-      {
-        "url": "https://www.solix.com/partners/our-partners/",
-        "anchor_text": "Our Partners",
-        "score": 39
-      },
-      {
-        "url": "https://www.solix.com/partners/oem-partners/",
-        "anchor_text": "OEM Partners",
-        "score": 39
-      },
-      {
-        "url": "https://www.solix.com/company/analyst-views/",
-        "anchor_text": "Analyst Views",
-        "score": 39
-      },
-      {
-        "url": "https://www.solix.com/products/request-demo/",
-        "anchor_text": "Request Demo",
-        "score": 39
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/",
-        "anchor_text": "Newsroom",
-        "score": 37
-      },
-      {
-        "url": "https://www.solix.com/solutions/ia-for-ai/",
-        "anchor_text": "Information Architecture (IA) for AI",
-        "score": 37
-      },
-      {
-        "url": "https://www.solix.com/acceptable-use-policy/",
-        "anchor_text": "Acceptable Use Policy",
-        "score": 37
-      },
-      {
-        "url": "https://www.solix.com/company/contact-us/",
-        "anchor_text": "Contact Us",
-        "score": 36
-      },
-      {
-        "url": "https://www.solix.com/terms-and-conditions/",
-        "anchor_text": "Terms & Conditions",
-        "score": 36
-      },
-      {
-        "url": "https://www.solix.com/leadership-lessons/",
-        "anchor_text": "Leadership Lessons",
-        "score": 34
-      },
-      {
-        "url": "https://www.solix.com/solutions/manufacturing/",
-        "anchor_text": "Manufacturing",
-        "score": 31
-      },
-      {
-        "url": "https://www.solix.com/privacy-policy/",
-        "anchor_text": "Privacy Policy",
-        "score": 30
-      },
-      {
-        "url": "https://www.solix.com/solutions/healthcare/",
-        "anchor_text": "Healthcare",
-        "score": 28
-      },
-      {
-        "url": "https://www.solix.com/solutions/government/",
-        "anchor_text": "Government",
-        "score": 28
-      },
-      {
-        "url": "https://www.solix.com/resources/datasheets/",
-        "anchor_text": "Datasheets",
-        "score": 28
-      },
-      {
-        "url": "https://www.solix.com/solutions/insurance/",
-        "anchor_text": "Insurance",
-        "score": 27
-      },
-      {
-        "url": "https://www.solix.com/resources/podcasts/",
-        "anchor_text": "Podcasts",
-        "score": 26
-      },
-      {
-        "url": "https://www.solix.com/company/leadership/",
-        "anchor_text": "Leadership",
-        "score": 26
-      },
-      {
-        "url": "https://www.solix.com/solutions/banking/",
-        "anchor_text": "Banking",
-        "score": 25
-      },
-      {
-        "url": "https://www.solix.com/solutions/finance/",
-        "anchor_text": "Finance",
-        "score": 25
-      },
-      {
-        "url": "https://www.solix.com/solutions/telecom/",
-        "anchor_text": "Telecom",
-        "score": 25
-      },
-      {
-        "url": "https://www.solix.com/solutions/retail/",
-        "anchor_text": "Retail",
-        "score": 24
-      },
-      {
-        "url": "https://www.solix.com/resources/ebooks/",
-        "anchor_text": "eBooks",
-        "score": 24
-      },
-      {
-        "url": "https://www.solix.com/company/careers/",
-        "anchor_text": "Careers",
-        "score": 23
-      },
-      {
-        "url": "https://www.solix.com/solutions/",
-        "anchor_text": "Solutions",
-        "score": 15
-      },
-      {
-        "url": "https://www.solix.com/resources/",
-        "anchor_text": "Resources",
-        "score": 15
-      },
-      {
-        "url": "https://www.solix.com/products/",
-        "anchor_text": "Products",
-        "score": 14
-      },
-      {
-        "url": "https://www.solix.com/services/",
-        "anchor_text": "Services & Support",
-        "score": 14
-      },
-      {
-        "url": "https://www.solix.com/partners/",
-        "anchor_text": "Partners",
-        "score": 14
-      },
-      {
-        "url": "https://www.solix.com/company/",
-        "anchor_text": "Company",
-        "score": 13
-      },
-      {
-        "url": "https://www.solix.com/sitemap/",
-        "anchor_text": "Sitemap",
-        "score": 13
-      },
-      {
-        "url": "https://www.solix.com/blog/",
-        "anchor_text": "Blogs",
-        "score": 10
-      },
-      {
-        "url": "https://www.solix.com/pt/",
-        "anchor_text": "Português",
-        "score": 8
-      },
-      {
-        "url": "https://www.solix.com/it/",
-        "anchor_text": "Italiano",
-        "score": 8
-      },
-      {
-        "url": "https://www.solix.com/ko/",
-        "anchor_text": "한국어",
-        "score": 8
-      },
-      {
-        "url": "https://www.solix.com/ja/",
-        "anchor_text": "日本語",
-        "score": 8
-      },
-      {
-        "url": "https://www.solix.com/es/",
-        "anchor_text": "Español",
-        "score": 8
-      },
-      {
-        "url": "https://www.solix.com/de/",
-        "anchor_text": "Deutsch",
-        "score": 8
-      },
-      {
-        "url": "https://www.solix.com/fr/",
-        "anchor_text": "Français",
-        "score": 8
-      },
-      {
-        "url": "https://www.solix.com/",
-        "anchor_text": "English",
-        "score": 3
       }
     ]
   },
@@ -9817,12 +9251,12 @@
         "score": 153
       },
       {
-        "url": "https://insilicominds.com/fda-launches-general-principles-of-model-integrated-evidence-mie-industry-meeting-pilot-for-generic-drug-applicants/",
+        "url": "https://insilicominds.com/fda-works-through-ich-to-support-global-drug-development-creating-harmonized-technical-standards-through-guidelines/",
         "anchor_text": "Read More »",
         "score": 131
       },
       {
-        "url": "https://insilicominds.com/fda-works-through-ich-to-support-global-drug-development-creating-harmonized-technical-standards-through-guidelines/",
+        "url": "https://insilicominds.com/fda-launches-general-principles-of-model-integrated-evidence-mie-industry-meeting-pilot-for-generic-drug-applicants/",
         "anchor_text": "Read More »",
         "score": 131
       },
@@ -10849,6 +10283,11 @@
         "score": 38
       },
       {
+        "url": "https://sciex.com/resource-hub/myfavorite",
+        "anchor_text": "My favorite resources",
+        "score": 38
+      },
+      {
         "url": "https://sciex.com/support/request-support",
         "anchor_text": "Request support",
         "score": 38
@@ -10907,11 +10346,6 @@
         "url": "https://sciex.com/products/software/oneomics",
         "anchor_text": "OneOmics suite",
         "score": 33
-      },
-      {
-        "url": "https://sciex.com/favorite-resources",
-        "anchor_text": "My favorite resources",
-        "score": 31
       },
       {
         "url": "https://sciex.com/supplemental/eProcurement",
@@ -12485,11 +11919,6 @@
         "score": 57
       },
       {
-        "url": "https://www.tredence.com/solution/agentic-process-automation-rapid",
-        "anchor_text": "Rapid",
-        "score": 56
-      },
-      {
         "url": "https://www.tredence.com/services/customer-experience-analytics",
         "anchor_text": "CX Analytics",
         "score": 53
@@ -12737,11 +12166,6 @@
       {
         "url": "https://www.tredence.com/newsroom",
         "anchor_text": "Company",
-        "score": 11
-      },
-      {
-        "url": "https://www.tredence.com/milkyway",
-        "anchor_text": "Milky Way",
         "score": 11
       },
       {
@@ -18744,7 +18168,7 @@
       },
       {
         "url": "https://www.illumina.com/company/about-us/corporate-social-responsibility/empower-communities.html",
-        "anchor_text": "Corporate CitizenshipAt Illumina, our citizenship efforts aim to pave the way for a genetically empowered future.",
+        "anchor_text": "Corporate ResponsibilityAt Illumina, our citizenship efforts aim to pave the way for a genetically empowered future.",
         "score": 92
       },
       {
@@ -19284,7 +18708,7 @@
       },
       {
         "url": "https://www.illumina.com/company/news-center.html",
-        "anchor_text": "Share on Linkedin",
+        "anchor_text": "Cookie Management Center",
         "score": 39
       },
       {
@@ -19324,7 +18748,7 @@
       },
       {
         "url": "https://www.illumina.com/company/legal/privacy.html",
-        "anchor_text": "Privacy Policy.",
+        "anchor_text": "Privacy Policy",
         "score": 33
       },
       {
@@ -20521,7 +19945,7 @@
       },
       {
         "url": "https://www.bcg.com/press/27may2026-hong-kong-surpasses-switzerland-largest-cross-border-wealth-hub",
-        "anchor_text": "Learn More",
+        "anchor_text": "",
         "score": 94
       },
       {
@@ -20597,6 +20021,11 @@
       {
         "url": "https://www.bcg.com/capabilities/mergers-acquisitions-transactions-pmi/vendor-due-diligence",
         "anchor_text": "Vendor Due Diligence",
+        "score": 88
+      },
+      {
+        "url": "https://www.bcg.com/press/28may2026-ai-powered-factories-rewriting-rules-global-manufacturing",
+        "anchor_text": "",
         "score": 88
       },
       {
@@ -20872,11 +20301,6 @@
       {
         "url": "https://www.bcg.com/capabilities/organization-strategy/organization-design",
         "anchor_text": "Organization Design",
-        "score": 71
-      },
-      {
-        "url": "https://www.bcg.com/press/4may2026-ceos-say-boards-rushing-ai-transformation",
-        "anchor_text": "",
         "score": 71
       },
       {
@@ -21495,7 +20919,7 @@
         "score": 36
       },
       {
-        "url": "https://www.bcg.com/about/people-culture",
+        "url": "https://www.bcg.com/about/purpose-people",
         "anchor_text": "Visit Page",
         "score": 35
       },
@@ -21631,6 +21055,11 @@
     "press_url": "https://www.ey.com/en_gl/newsroom#tabs-20ba3c4fea-item-7bb34d0129-tab",
     "candidate_links": [
       {
+        "url": "https://www.ey.com/en_gl/newsroom/2026/05/entrepreneurs-tighten-focus-on-disciplined-growth-and-ai-led-execution-as-capital-constraints-reshape-risk-outlook-ey-parthenon-study-finds",
+        "anchor_text": "Entrepreneurs tighten focus on disciplined growth and AI-led execution as capital constraints reshape risk outlook, EY-Parthenon study finds",
+        "score": 208
+      },
+      {
         "url": "https://www.ey.com/en_gl/newsroom/2026/05/ey-and-microsoft-announce-global-initiative-to-help-clients-scale-ai-enterprise-wide-value-creation-and-move-beyond-experimentation",
         "anchor_text": "EY and Microsoft announce global initiative to help clients scale AI enterprise-wide value creation and move beyond experimentation",
         "score": 200
@@ -21694,11 +21123,6 @@
         "url": "https://www.ey.com/en_gl/newsroom/2026/03/ey-named-a-leader-in-the-verdantix-green-quadrant-sustainability-consulting-2026",
         "anchor_text": "EY named a Leader in the Verdantix Green Quadrant: Sustainability Consulting 2026",
         "score": 149
-      },
-      {
-        "url": "https://www.ey.com/en_gl/newsroom/2026/04/new-ey-survey-reveals-ai-literacy-training-opportunity-for-baby-boomer-users",
-        "anchor_text": "New EY survey reveals AI literacy training opportunity for baby boomer users",
-        "score": 145
       },
       {
         "url": "https://www.ey.com/en_gl/newsroom/2026/04/ey-named-a-leader-in-isg-s-global-capability-center-gcc-services-2026-study",
@@ -22291,11 +21715,6 @@
         "score": 43
       },
       {
-        "url": "https://www.ey.com/en_gl/people/jennifer-noel",
-        "anchor_text": "Jennifer Noel",
-        "score": 43
-      },
-      {
         "url": "https://www.ey.com/en_gl/people/matthew-lower",
         "anchor_text": "Matthew LowerEY Global Media Relations and Social Media Leader, Reputation and Issues",
         "score": 43
@@ -22493,6 +21912,11 @@
       {
         "url": "https://www.ey.com/en_gl/about-us#our-people",
         "anchor_text": "Our people",
+        "score": 29
+      },
+      {
+        "url": "https://www.ey.com/en_gl/locations/france#monaco-monaco",
+        "anchor_text": "Monaco, France",
         "score": 29
       },
       {
@@ -24889,6 +24313,357 @@
     ]
   },
   {
+    "company": "Aurobindo Pharma",
+    "press_url": "https://www.aurobindo.com/media/press-releases",
+    "candidate_links": [
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/financial-information/notice-of-board-meeting",
+        "anchor_text": "Notice of Board Meetings",
+        "score": 106
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/disclosures-under-regulation-46-of-the-lodr",
+        "anchor_text": "Disclosures under Regulation 46 of the LODR",
+        "score": 102
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/newspaper-publications/general-meetings",
+        "anchor_text": "General Meetings",
+        "score": 100
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/corporate-governance/code-of-practices-and-procedures-for-fair-disclosure",
+        "anchor_text": "Code of Practices and Procedures for Fair Disclosure",
+        "score": 100
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/special-window-for-lodgement-of-physical-shares",
+        "anchor_text": "Special window for lodgement of physical shares",
+        "score": 98
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/financial-information/annual-reports",
+        "anchor_text": "Annual Reports",
+        "score": 97
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/social-accountability-standards/supplier-code-of-conduct",
+        "anchor_text": "Supplier Code of Conduct",
+        "score": 88
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/corporate-governance/appointment-and-resignation-of-directors",
+        "anchor_text": "Appointment and Resignation of Directors",
+        "score": 88
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/registrar-and-share-transfer-agent",
+        "anchor_text": "Registrar and Share Transfer Agent",
+        "score": 85
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/contact-details-grievances",
+        "anchor_text": "Contact Details for Investor Grievance Redressal",
+        "score": 85
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/social-accountability-standards/human-rights-policy",
+        "anchor_text": "Human Rights Policy",
+        "score": 83
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/results-reports-presentations/related-party-transactions",
+        "anchor_text": "Related Party Transactions",
+        "score": 83
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/financials-subsidiaries",
+        "anchor_text": "Financials - Subsidiaries",
+        "score": 82
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/unpaid-dividend-account-details",
+        "anchor_text": "Unpaid Dividend Account Details",
+        "score": 82
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/contact-details-of-kmps",
+        "anchor_text": "Contact Details of KMPs",
+        "score": 82
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/shareholding-pattern",
+        "anchor_text": "Shareholding Pattern",
+        "score": 79
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/results-reports-presentations/results-announcements",
+        "anchor_text": "Results Announcements",
+        "score": 78
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/code-of-conduct",
+        "anchor_text": "Code of Conduct",
+        "score": 74
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/scheme-of-arrangements",
+        "anchor_text": "Scheme of Arrangements",
+        "score": 73
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/esg-sustainability/sustainability-report",
+        "anchor_text": "Sustainability Reports",
+        "score": 72
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/financial-highlights",
+        "anchor_text": "Financial Highlights",
+        "score": 71
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/impact-assessment-reports-csr-projects",
+        "anchor_text": "Impact Assessment Reports - CSR Projects",
+        "score": 68
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/buyback-of-shares",
+        "anchor_text": "Buyback of shares",
+        "score": 68
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/share-performance",
+        "anchor_text": "Share Performance",
+        "score": 68
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/ir-contacts/phone-numbers-email-addresses",
+        "anchor_text": "IR Contacts",
+        "score": 68
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/access-to-healthcare/pepfar-program",
+        "anchor_text": "PEPFAR program",
+        "score": 67
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/dividend-records",
+        "anchor_text": "Dividend Record",
+        "score": 67
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/corporate-governance/governance-policies",
+        "anchor_text": "Governance Policies",
+        "score": 67
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/corporate-governance/board-of-directors",
+        "anchor_text": "Board of Directors",
+        "score": 66
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/esg-sustainability/bmw-report",
+        "anchor_text": "BMW Reports",
+        "score": 61
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/social-accountability-standards",
+        "anchor_text": "Supply Chain Management",
+        "score": 61
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/management/board-of-directors",
+        "anchor_text": "Board of Directors",
+        "score": 55
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/arv/hiv-arv-key-facts",
+        "anchor_text": "Key facts about HIV/AIDS",
+        "score": 51
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/aurobindo-foundation",
+        "anchor_text": "Aurobindo Pharma Foundation",
+        "score": 50
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/access-to-healthcare",
+        "anchor_text": "Access to Healthcare",
+        "score": 50
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/arv/global-partners",
+        "anchor_text": "Global Partners",
+        "score": 49
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/arv/corporate-video",
+        "anchor_text": "Corporate Video",
+        "score": 49
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/annual-action-plan",
+        "anchor_text": "Annual Action Plan",
+        "score": 48
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/annual-csr-report",
+        "anchor_text": "Annual Report",
+        "score": 47
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/manufacturing-prowess",
+        "anchor_text": "Manufacturing",
+        "score": 45
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/arv/arv-gallery",
+        "anchor_text": "Gallery",
+        "score": 45
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/corporate-governance",
+        "anchor_text": "Corporate Governance",
+        "score": 45
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/arv/overview",
+        "anchor_text": "Overview",
+        "score": 42
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/arv/products",
+        "anchor_text": "Products",
+        "score": 42
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/growth-market",
+        "anchor_text": "Growth Markets",
+        "score": 41
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/csr-gallery",
+        "anchor_text": "Gallery",
+        "score": 41
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/csr-policy",
+        "anchor_text": "CSR Policy",
+        "score": 40
+      },
+      {
+        "url": "https://www.aurobindo.com/careers/life-at-aurobindo",
+        "anchor_text": "Life @ Aurobindo",
+        "score": 40
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/about-aurobindo",
+        "anchor_text": "About Us",
+        "score": 39
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/vision-mission",
+        "anchor_text": "Vision / Mission",
+        "score": 38
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/our-presence",
+        "anchor_text": "",
+        "score": 36
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/apitoria",
+        "anchor_text": "Apitoria (API)",
+        "score": 36
+      },
+      {
+        "url": "https://www.aurobindo.com/media/press-releases",
+        "anchor_text": "I Accept",
+        "score": 35
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/curateq",
+        "anchor_text": "Curateq (Biosimilars) / Peptide",
+        "score": 35
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/europe",
+        "anchor_text": "Europe",
+        "score": 34
+      },
+      {
+        "url": "https://www.aurobindo.com/media/corporate-kit",
+        "anchor_text": "Corporate Kit",
+        "score": 34
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/milestone",
+        "anchor_text": "Milestones",
+        "score": 33
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/eugia",
+        "anchor_text": "Eugia (Speciality products)",
+        "score": 33
+      },
+      {
+        "url": "https://www.aurobindo.com/privacy-policy",
+        "anchor_text": "Privacy Policy",
+        "score": 27
+      },
+      {
+        "url": "https://www.aurobindo.com/privacy-policy#cookies",
+        "anchor_text": "Cookie policy",
+        "score": 27
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/rd",
+        "anchor_text": "R&D",
+        "score": 26
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business",
+        "anchor_text": "Our Business",
+        "score": 25
+      },
+      {
+        "url": "https://www.aurobindo.com/contact-us",
+        "anchor_text": "Contact Us",
+        "score": 23
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability",
+        "anchor_text": "Sustainability",
+        "score": 17
+      },
+      {
+        "url": "https://www.aurobindo.com/sitemap.xml",
+        "anchor_text": "Site Map",
+        "score": 14
+      },
+      {
+        "url": "https://www.aurobindo.com/investors",
+        "anchor_text": "Investors",
+        "score": 12
+      },
+      {
+        "url": "https://www.aurobindo.com/careers",
+        "anchor_text": "Careers",
+        "score": 10
+      },
+      {
+        "url": "https://www.aurobindo.com/",
+        "anchor_text": "",
+        "score": 3
+      },
+      {
+        "url": "https://www.aurobindo.com",
+        "anchor_text": "Aurobindo Pharma Limited.",
+        "score": 0
+      }
+    ]
+  },
+  {
     "company": "Granules India",
     "press_url": "https://granulesindia.com/media/",
     "candidate_links": [
@@ -25209,13 +24984,13 @@
         "score": 61
       },
       {
-        "url": "https://www.natcopharma.co.in/investor-relations/ir-and-shareholder-contacts",
-        "anchor_text": "IR and Shareholder Contacts",
+        "url": "https://www.natcopharma.co.in/research-development/agro-research-development",
+        "anchor_text": "Agro R&D",
         "score": 61
       },
       {
-        "url": "https://www.natcopharma.co.in/research-development/agro-research-development",
-        "anchor_text": "Agro R&D",
+        "url": "https://www.natcopharma.co.in/investor-relations/ir-and-shareholder-contacts",
+        "anchor_text": "IR and Shareholder Contacts",
         "score": 61
       },
       {
@@ -25254,6 +25029,11 @@
         "score": 48
       },
       {
+        "url": "https://www.natcopharma.co.in/responsibility/complaince-reports",
+        "anchor_text": "Compliance Reports",
+        "score": 48
+      },
+      {
         "url": "https://www.natcopharma.co.in/investor-relations/share-monitor",
         "anchor_text": "Share Monitor",
         "score": 47
@@ -25261,6 +25041,11 @@
       {
         "url": "https://www.natcopharma.co.in/insights/news-and-announcements",
         "anchor_text": "News & Announcements",
+        "score": 46
+      },
+      {
+        "url": "https://www.natcopharma.co.in/responsibility/our-recognitions",
+        "anchor_text": "Recognitions",
         "score": 46
       },
       {
@@ -25301,6 +25086,11 @@
       {
         "url": "https://www.natcopharma.co.in/about-us/management",
         "anchor_text": "Our Management",
+        "score": 34
+      },
+      {
+        "url": "https://www.natcopharma.co.in/about-us/our-values",
+        "anchor_text": "Our Values",
         "score": 34
       },
       {
@@ -25617,11 +25407,6 @@
         "score": 167
       },
       {
-        "url": "https://www.lupin.com/media/press-releases/lupin-announces-approval-of-dapagliflozin-and-metformin-hydrochloride-extended-release-tablets-in-the-united-states",
-        "anchor_text": "Lupin Announces Approval of Dapagliflozin and Metformin Hydrochloride Extended-Release Tablets in the United States",
-        "score": 153
-      },
-      {
         "url": "https://www.lupin.com/media/perspectives/we-are-expanding-our-cdmo-capabilities-to-meet-the-next-wave-of-complex-therapies-starting-with-oncology-1",
         "anchor_text": "March 24, 2026We are expanding our CDMO capabilities to meet the next wave of complex therapies starting with oncology",
         "score": 142
@@ -25647,6 +25432,11 @@
         "score": 115
       },
       {
+        "url": "https://www.lupin.com/media/perspectives/digital-therapeutics-and-health-tech-in-india-evidence-economics-and-execution",
+        "anchor_text": "May 26, 2026Digital Therapeutics and HealthTech in India: Evidence, Economics, and Execution",
+        "score": 114
+      },
+      {
         "url": "https://www.lupin.com/media/perspectives/integrating-esg-performance-into-long-term-capital-strategy-for-indian-pharma",
         "anchor_text": "March 13, 2026Integrating ESG Performance into Long-Term Capital Strategy for Indian Pharma",
         "score": 113
@@ -25662,6 +25452,11 @@
         "score": 109
       },
       {
+        "url": "https://www.lupin.com/media/press-releases/lupin-shares-phase-1-data-on-lnp-8701-at-the-asco-annual-meeting-2026",
+        "anchor_text": "Lupin Shares Phase 1 Data on LNP8701 at the ASCO Annual Meeting 2026",
+        "score": 107
+      },
+      {
         "url": "https://www.lupin.com/media/perspectives/why-continuous-learning-is-the-lifeblood-of-the-pharmaceutical-industry",
         "anchor_text": "April 16, 2026Why continuous learning is the lifeblood of the pharmaceutical industry",
         "score": 107
@@ -25672,19 +25467,9 @@
         "score": 99
       },
       {
-        "url": "https://www.lupin.com/media/perspectives/redrawing-the-biopharma-map-india-s-rise-in-the-biosimilars-era",
-        "anchor_text": "March 10, 2026Redrawing the Biopharma Map: India’s Rise in the Biosimilars Era",
-        "score": 99
-      },
-      {
         "url": "https://www.lupin.com/media/press-releases/lupin-receives-u-s-fda-approval-for-famotidine-injection-usp",
         "anchor_text": "Lupin Receives U.S. FDA Approval for Famotidine Injection, USP",
         "score": 98
-      },
-      {
-        "url": "https://www.lupin.com/media/press-releases/lupin-launches-dapagliflozin-tablets-in-the-united-states",
-        "anchor_text": "Lupin Launches Dapagliflozin Tablets in the United States",
-        "score": 95
       },
       {
         "url": "https://www.lupin.com/media/perspectives/the-intergenerational-impact-of-investing-in-women-s-health",
@@ -25692,13 +25477,18 @@
         "score": 95
       },
       {
-        "url": "https://www.lupin.com/media/perspectives/why-india-needs-a-new-playbook-for-tb-elimination",
-        "anchor_text": "March 25, 2026Why India Needs A New Playbook For TB Elimination",
-        "score": 85
+        "url": "https://www.lupin.com/media/press-releases/lupin-s-ankleshwar-facility-receives-eir-from-u-s-fda",
+        "anchor_text": "Lupin’s Ankleshwar Facility Receives EIR from U.S. FDA",
+        "score": 91
       },
       {
-        "url": "https://www.lupin.com/media/perspectives/to-all-women-in-pharma-current-and-future-leaders",
-        "anchor_text": "March 8, 2026To all women in pharma, current and future leaders",
+        "url": "https://www.lupin.com/media/perspectives/reimagining-access-in-asthma-care-for-the-next-decade",
+        "anchor_text": "May 15, 2026Reimagining access in Asthma care for the next decade",
+        "score": 89
+      },
+      {
+        "url": "https://www.lupin.com/media/perspectives/why-india-needs-a-new-playbook-for-tb-elimination",
+        "anchor_text": "March 25, 2026Why India Needs A New Playbook For TB Elimination",
         "score": 85
       },
       {
@@ -26025,6 +25815,172 @@
         "url": "https://www.lupin.com/",
         "anchor_text": "",
         "score": 3
+      }
+    ]
+  },
+  {
+    "company": "Intas Pharmaceuticals",
+    "press_url": "https://www.intaspharma.com/media/",
+    "candidate_links": [
+      {
+        "url": "https://www.intaspharma.com/research-and-developement/centre-of-cell-gene-therapy/",
+        "anchor_text": "Centre of Cell & Gene Therapy",
+        "score": 71
+      },
+      {
+        "url": "https://www.intaspharma.com/research-and-developement/plasma-fractionation-centre/",
+        "anchor_text": "Plasma Fractionation Centre",
+        "score": 71
+      },
+      {
+        "url": "https://www.intaspharma.com/research-and-developement/biologics-business-unit/",
+        "anchor_text": "Biologics Business Unit",
+        "score": 67
+      },
+      {
+        "url": "https://www.intaspharma.com/research-and-developement/platform-technologies/",
+        "anchor_text": "Platform Technologies",
+        "score": 65
+      },
+      {
+        "url": "https://www.intaspharma.com/manufacturing/plasma-fractionation-centre/",
+        "anchor_text": "Plasma Fractionation Centre",
+        "score": 59
+      },
+      {
+        "url": "https://www.intaspharma.com/manufacturing/cell-gene-therapy-centre/",
+        "anchor_text": "Cell & Gene Therapy Centre",
+        "score": 56
+      },
+      {
+        "url": "https://www.intaspharma.com/manufacturing/biologics-business-unit/",
+        "anchor_text": "Biologics Business Unit",
+        "score": 55
+      },
+      {
+        "url": "https://www.intaspharma.com/research-and-developement/overview/",
+        "anchor_text": "R & D",
+        "score": 52
+      },
+      {
+        "url": "https://www.intaspharma.com/about-us/awards-accolades/",
+        "anchor_text": "Media",
+        "score": 43
+      },
+      {
+        "url": "https://www.intaspharma.com/research-and-developement/",
+        "anchor_text": "R & D",
+        "score": 41
+      },
+      {
+        "url": "https://www.intaspharma.com/adverse-event-reporting/",
+        "anchor_text": "Adverse event reporting",
+        "score": 39
+      },
+      {
+        "url": "https://www.intaspharma.com/manufacturing/pharmaceuticals/",
+        "anchor_text": "Pharmaceuticals",
+        "score": 37
+      },
+      {
+        "url": "https://www.intaspharma.com/investors-information/",
+        "anchor_text": "Investor’s information",
+        "score": 37
+      },
+      {
+        "url": "https://www.intaspharma.com/about-us/overview/",
+        "anchor_text": "Overview",
+        "score": 35
+      },
+      {
+        "url": "https://www.intaspharma.com/business-operations/",
+        "anchor_text": "Business Operations",
+        "score": 35
+      },
+      {
+        "url": "https://www.intaspharma.com/featured-products/",
+        "anchor_text": "Featured Products",
+        "score": 33
+      },
+      {
+        "url": "https://www.intaspharma.com/technical-support/",
+        "anchor_text": "Technical Support",
+        "score": 33
+      },
+      {
+        "url": "https://www.intaspharma.com/awards-accolades/",
+        "anchor_text": "Awards & Accolades",
+        "score": 32
+      },
+      {
+        "url": "https://www.intaspharma.com/manufacturing/overview/",
+        "anchor_text": "Overview",
+        "score": 30
+      },
+      {
+        "url": "https://www.intaspharma.com/privacy-policy/",
+        "anchor_text": "Privacy Policy",
+        "score": 30
+      },
+      {
+        "url": "https://www.intaspharma.com/terms-of-use/",
+        "anchor_text": "Terms of Use",
+        "score": 28
+      },
+      {
+        "url": "https://www.intaspharma.com/contact-us/",
+        "anchor_text": "Contact",
+        "score": 26
+      },
+      {
+        "url": "https://www.intaspharma.com/about-us/",
+        "anchor_text": "About Us",
+        "score": 24
+      },
+      {
+        "url": "https://www.intaspharma.com/manufacturing/",
+        "anchor_text": "Manufacturing",
+        "score": 19
+      },
+      {
+        "url": "https://www.intaspharma.com/environment/",
+        "anchor_text": "Environment",
+        "score": 17
+      },
+      {
+        "url": "https://www.intaspharma.com/financials/",
+        "anchor_text": "Financials",
+        "score": 16
+      },
+      {
+        "url": "https://www.intaspharma.com/disclaimer/",
+        "anchor_text": "Disclaimer",
+        "score": 16
+      },
+      {
+        "url": "https://www.intaspharma.com/products/",
+        "anchor_text": "Products",
+        "score": 14
+      },
+      {
+        "url": "https://www.intaspharma.com/careers/",
+        "anchor_text": "Careers",
+        "score": 13
+      },
+      {
+        "url": "https://www.intaspharma.com/media/",
+        "anchor_text": "Media",
+        "score": 11
+      },
+      {
+        "url": "https://www.intaspharma.com/",
+        "anchor_text": "Home",
+        "score": 3
+      },
+      {
+        "url": "https://www.intaspharma.com",
+        "anchor_text": "Intas Pharmaceuticals Ltd.",
+        "score": 0
       }
     ]
   },
@@ -26961,6 +26917,16 @@
         "score": 131
       },
       {
+        "url": "https://abbott.mediaroom.com/2026-05-27-Abbott-secures-CE-Mark-for-worlds-first-dual-glucose-ketone-sensing-technology-for-people-with-diabetes",
+        "anchor_text": "Abbott secures CE Mark for world's first dual glucose-ketone sensing technology for people with diabetes",
+        "score": 127
+      },
+      {
+        "url": "https://abbott.mediaroom.com/2026-05-27-Abbott-secures-CE-Mark-for-worlds-first-dual-glucose-ketone-sensing-technology-for-people-with-diabetes#assets_2429_124753-111",
+        "anchor_text": "Photos2",
+        "score": 127
+      },
+      {
         "url": "https://abbott.mediaroom.com/2026-04-16-Abbott-Reports-First-Quarter-2026-Results-Updates-Guidance-to-Reflect-Acquisition-of-Exact-Sciences",
         "anchor_text": "Abbott Reports First-Quarter 2026 Results; Updates Guidance to Reflect Acquisition of Exact Sciences",
         "score": 123
@@ -27001,6 +26967,16 @@
         "score": 110
       },
       {
+        "url": "https://abbott.mediaroom.com/2026-05-27-ACS-guideline-reaffirms-Abbott-leadership-in-noninvasive-colorectal-cancer-screening",
+        "anchor_text": "ACS guideline reaffirms Abbott leadership in noninvasive colorectal cancer screening",
+        "score": 108
+      },
+      {
+        "url": "https://abbott.mediaroom.com/2026-05-27-ACS-guideline-reaffirms-Abbott-leadership-in-noninvasive-colorectal-cancer-screening#assets_2429_124752-111",
+        "anchor_text": "Photos1",
+        "score": 108
+      },
+      {
         "url": "https://abbott.mediaroom.com/2026-03-11-Abbott-and-Real-Madrid-launch-nationwide-effort-to-build-the-next-Abbott-Dream-Team",
         "anchor_text": "Abbott and Real Madrid launch nationwide effort to build the next 'Abbott Dream Team'",
         "score": 107
@@ -27019,16 +26995,6 @@
         "url": "https://abbott.mediaroom.com/2026-03-20-Abbott-acquisition-of-Exact-Sciences-set-to-close-on-March-23,-2026#assets_2429_124739-111",
         "anchor_text": "Photos1",
         "score": 91
-      },
-      {
-        "url": "https://abbott.mediaroom.com/2026-01-05-Abbott-hosts-conference-call-for-fourth-quarter-earnings",
-        "anchor_text": "Abbott hosts conference call for fourth-quarter earnings",
-        "score": 80
-      },
-      {
-        "url": "https://abbott.mediaroom.com/2026-01-05-Abbott-hosts-conference-call-for-fourth-quarter-earnings#assets_2429_124727-111",
-        "anchor_text": "Photos1",
-        "score": 80
       },
       {
         "url": "https://abbott.mediaroom.com/2026-03-26-Abbott-hosts-conference-call-for-first-quarter-earnings",
@@ -27088,16 +27054,6 @@
       {
         "url": "https://abbott.mediaroom.com/press-releases?item=124728",
         "anchor_text": "Abbott and AtaCor Medical Collaborate on Advanced Extravascular ICD Technology",
-        "score": 27
-      },
-      {
-        "url": "https://abbott.mediaroom.com/press-releases?item=124725",
-        "anchor_text": "New year, new healthy habits: Sesame Workshop and Abbott debut new resources to help children and families build healthy habits early",
-        "score": 27
-      },
-      {
-        "url": "https://abbott.mediaroom.com/press-releases?item=124725#assets_2429_124725-111",
-        "anchor_text": "Photos1",
         "score": 27
       },
       {
@@ -27270,6 +27226,11 @@
         "url": "https://www.gsk.com/en-gb/media/press-releases/bepirovirsen-accepted-for-regulatory-review-in-china-as-a-potential-first-in-class-functional-cure-for-chronic-hepatitis-b/",
         "anchor_text": "30 March 2026Bepirovirsen accepted for regulatory review in China as a potential first-in-class functional cure for chronic hepatitis BSubmission supported by statistically significant and clinically meaningful functional cure rates in pivotal Phase III B-Well trials",
         "score": 171
+      },
+      {
+        "url": "https://www.gsk.com/en-gb/media/press-releases/bepirovirsen-achieves-unprecedented-functional-cure-rates-with-potential-to-redefine-treatment-for-chronic-hepatitis-b/",
+        "anchor_text": "28 May 2026Bepirovirsen achieves unprecedented functional cure rates with potential to redefine treatment for chronic hepatitis BPivotal B-Well data show a significant 19% functional cure in the overall study population and 26% in patients with lower viral activity.",
+        "score": 167
       },
       {
         "url": "https://www.gsk.com/en-gb/careers/experienced-professionals/research-and-development/chemical-manufacturing-and-controls-cmc-medicine-development-and-supply-mds/",
@@ -27485,11 +27446,6 @@
         "url": "https://www.gsk.com/en-gb/careers/experienced-professionals/research-and-development/",
         "anchor_text": "Research and development",
         "score": 86
-      },
-      {
-        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-and-alfasigma-announce-agreement/",
-        "anchor_text": "09 March 2026GSK and Alfasigma announce agreement on worldwide rights for linerixibatGSK and Alfasigma today announced a licence agreement under which Alfasigma will acquire worldwide exclusive rights to linerixibat",
-        "score": 85
       },
       {
         "url": "https://www.gsk.com/en-gb/investors/shareholder-information/annual-general-meeting/",
@@ -28198,9 +28154,9 @@
     "press_url": "https://www.wuxibiologics.com/media",
     "candidate_links": [
       {
-        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-releases-2025-sustainability-report-advancing-sustainable-growth-and-improving-healthcare-access/",
-        "anchor_text": "NewsApr. 29, 2026WuXi Biologics Releases 2025 Sustainability Report, Advancing Sustainable Growth and Improving Healthcare Access",
-        "score": 143
+        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-achieves-gmp-release-of-18th-drug-product-facility-advancing-integrated-drug-substance-to-drug-product-capabilities/",
+        "anchor_text": "NewsMay. 27, 2026WuXi Biologics Achieves GMP Release of 18th Drug Product Facility, Advancing Integrated Drug Substance to Drug Product Capabilities",
+        "score": 162
       },
       {
         "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-hosts-third-crdmo-day-in-japan-accelerating-biopharma-innovation-from-ind-to-commercialization/",
@@ -30300,11 +30256,6 @@
         "score": 146
       },
       {
-        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-announces-2026-first-quarter-results-raises-full-year.html",
-        "anchor_text": "Labcorp Announces 2026 First Quarter Results; Raises Full Year 2026 Guidance",
-        "score": 145
-      },
-      {
         "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/how-reduce-holiday-stress-2025-mindful-travel-eating-and-sleep-tips.html",
         "anchor_text": "Read moreRead More about How to reduce holiday stress in 2025: Mindful travel, eating and sleep tips",
         "score": 145
@@ -30340,8 +30291,18 @@
         "score": 140
       },
       {
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-present-jefferies-global-healthcare-conference.html",
+        "anchor_text": "Labcorp to Present at the Jefferies Global Healthcare Conference",
+        "score": 138
+      },
+      {
         "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-publishes-2025-corporate-responsibility-report.html",
         "anchor_text": "Labcorp Publishes 2025 Corporate Responsibility Report, Highlighting Progress in Sustainability, Access to Care and Employee Well-Being",
+        "score": 138
+      },
+      {
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/five-tips-controlling-diabetes-and-blood-sugar-during-summer.html",
+        "anchor_text": "Read moreRead More about Five tips for controlling diabetes and blood sugar during the summer",
         "score": 138
       },
       {
@@ -30851,11 +30812,6 @@
         "score": 32
       },
       {
-        "url": "https://www.benchling.com/developer-platform",
-        "anchor_text": "Developer Platform",
-        "score": 31
-      },
-      {
         "url": "https://www.benchling.com/digital-assessment",
         "anchor_text": "Digital Assessment Report",
         "score": 31
@@ -30868,11 +30824,6 @@
       {
         "url": "https://www.benchling.com/customer-stories",
         "anchor_text": "Customer Stories",
-        "score": 29
-      },
-      {
-        "url": "https://www.benchling.com/customer-success",
-        "anchor_text": "Customer Success Packages",
         "score": 29
       },
       {
@@ -30941,18 +30892,23 @@
         "score": 13
       },
       {
+        "url": "https://www.benchling.com/automation",
+        "anchor_text": "Benchling Automation",
+        "score": 13
+      },
+      {
         "url": "https://www.benchling.com/alignments",
         "anchor_text": "Alignments",
         "score": 13
       },
       {
-        "url": "https://www.benchling.com/insights",
-        "anchor_text": "Benchling Insights",
-        "score": 11
+        "url": "https://www.benchling.com/biologics",
+        "anchor_text": "Benchling Biologics",
+        "score": 12
       },
       {
-        "url": "https://www.benchling.com/platform",
-        "anchor_text": "Platform Overview",
+        "url": "https://www.benchling.com/insights",
+        "anchor_text": "Benchling Insights",
         "score": 11
       },
       {
@@ -30981,13 +30937,13 @@
         "score": 11
       },
       {
-        "url": "https://www.benchling.com/pipebio",
-        "anchor_text": "PipeBio Antibodies",
+        "url": "https://www.benchling.com/connect",
+        "anchor_text": "Benchling Connect",
         "score": 10
       },
       {
-        "url": "https://www.benchling.com/connect",
-        "anchor_text": "Benchling Connect",
+        "url": "https://www.benchling.com/pipebio",
+        "anchor_text": "PipeBio Antibodies",
         "score": 10
       },
       {
@@ -31326,6 +31282,11 @@
         "url": "https://investors.guardanthealth.com/press-releases/press-releases/2026/Guardant-Health-Launches-Coast-to-Coast-Screening-Tour-Bringing-Shield-Colon-Cancer-Blood-Test-to-Over-100-Communities-Across-America/default.aspx",
         "anchor_text": "Continue Reading",
         "score": 227
+      },
+      {
+        "url": "https://investors.guardanthealth.com/press-releases/press-releases/2026/American-Cancer-Society-Recommends-Guardant-Healths-Shield-Blood-Test-in-Updated-Colorectal-Cancer-Screening-Guidelines/default.aspx",
+        "anchor_text": "Continue Reading",
+        "score": 213
       },
       {
         "url": "https://investors.guardanthealth.com/press-releases/press-releases/2026/Guardant-Health-Launches-Shield-Multi-Cancer-Detection-MCD-Test-in-Multiple-Markets-in-Asia-with-Manulife-Partnership/default.aspx",
@@ -37082,11 +37043,6 @@
     "press_url": "https://www.pfizer.com/newsroom/press-releases",
     "candidate_links": [
       {
-        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-valneva-announce-lyme-disease-vaccine-candidate",
-        "anchor_text": "Pfizer and Valneva Announce Lyme Disease Vaccine Candidate Demonstrates Strong Efficacy in Phase 3 VALOR Trial",
-        "score": 117
-      },
-      {
         "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-reports-strong-first-quarter-results-and-reaffirms",
         "anchor_text": "Pfizer Reports Strong First-Quarter Results And Reaffirms 2026 Guidance",
         "score": 116
@@ -37105,6 +37061,11 @@
         "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-showcases-oncology-innovation-and-next-generation",
         "anchor_text": "Pfizer Showcases Oncology Innovation and Next-Generation Pipeline at ASCO 2026",
         "score": 115
+      },
+      {
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-invites-public-view-and-listen-webcast-pfizer-27",
+        "anchor_text": "Pfizer Invites Public to View and Listen to Webcast of Pfizer Discussion at Healthcare Conference",
+        "score": 114
       },
       {
         "url": "https://www.pfizer.com/news/press-release/press-release-detail/european-commission-approves-pfizers-hympavzi-treatment",
@@ -37442,6 +37403,21 @@
         "score": 38
       },
       {
+        "url": "https://www.pfizer.com/newsroom/press-releases?field_media_asset_category_target_id[22795]=22795",
+        "anchor_text": "Corporate",
+        "score": 38
+      },
+      {
+        "url": "https://www.pfizer.com/newsroom/press-releases?field_media_asset_category_target_id[22796]=22796",
+        "anchor_text": "Financial",
+        "score": 38
+      },
+      {
+        "url": "https://www.pfizer.com/newsroom/press-releases?field_tags_target_id[22256]=22256",
+        "anchor_text": "Finance",
+        "score": 38
+      },
+      {
         "url": "https://www.pfizer.com/newsroom/press-releases?field_media_asset_category_target_id[22798]=22798",
         "anchor_text": "Research and Pipeline",
         "score": 38
@@ -37459,21 +37435,6 @@
       {
         "url": "https://www.pfizer.com/newsroom/press-releases?field_tags_target_id[6441]=6441",
         "anchor_text": "Medicines",
-        "score": 38
-      },
-      {
-        "url": "https://www.pfizer.com/newsroom/press-releases?field_media_asset_category_target_id[22795]=22795",
-        "anchor_text": "Corporate",
-        "score": 38
-      },
-      {
-        "url": "https://www.pfizer.com/newsroom/press-releases?field_media_asset_category_target_id[22796]=22796",
-        "anchor_text": "Financial",
-        "score": 38
-      },
-      {
-        "url": "https://www.pfizer.com/newsroom/press-releases?field_tags_target_id[22256]=22256",
-        "anchor_text": "Finance",
         "score": 38
       },
       {
@@ -38024,7 +37985,7 @@
       },
       {
         "url": "https://www.roche.com/investors/bonds",
-        "anchor_text": "Share price326.60CHF- 4.60(-1.39%)Today",
+        "anchor_text": "Share price324.10CHF- 6.80(-2.05%)Today",
         "score": 20
       },
       {
@@ -38239,11 +38200,6 @@
         "score": 70
       },
       {
-        "url": "https://www.astrazeneca.com/our-company/our-people/research-and-development.html",
-        "anchor_text": "Research & Development",
-        "score": 69
-      },
-      {
         "url": "https://www.astrazeneca.com/sustainability/climate-change/renewable-energy.html",
         "anchor_text": "Renewables",
         "score": 68
@@ -38267,16 +38223,6 @@
         "url": "https://www.astrazeneca.com/investor-relations/results-and-presentations.html",
         "anchor_text": "FeatureResults and presentations",
         "score": 64
-      },
-      {
-        "url": "https://www.astrazeneca.com/our-company/our-people/biopharmaceuticals.html",
-        "anchor_text": "BioPharmaceuticals",
-        "score": 63
-      },
-      {
-        "url": "https://www.astrazeneca.com/our-company/our-people/enabling-functions.html",
-        "anchor_text": "Enabling functions",
-        "score": 63
       },
       {
         "url": "https://www.astrazeneca.com/partnering/our-areas-of-partnering-interest.html",
@@ -38349,11 +38295,6 @@
         "score": 58
       },
       {
-        "url": "https://www.astrazeneca.com/our-company/our-people/international.html",
-        "anchor_text": "International",
-        "score": 58
-      },
-      {
         "url": "https://www.astrazeneca.com/our-company/our-locations/gothenburg.html",
         "anchor_text": "Gothenburg",
         "score": 58
@@ -38371,11 +38312,6 @@
       {
         "url": "https://www.astrazeneca.com/what-science-can-do/stories-of-impact.html?filters=impact,Feature",
         "anchor_text": "Stories of impact",
-        "score": 57
-      },
-      {
-        "url": "https://www.astrazeneca.com/our-company/our-people/rare-disease.html",
-        "anchor_text": "Rare Disease",
         "score": 57
       },
       {
@@ -38399,11 +38335,6 @@
         "score": 56
       },
       {
-        "url": "https://www.astrazeneca.com/our-company/our-people/operations.html",
-        "anchor_text": "Operations",
-        "score": 55
-      },
-      {
         "url": "https://www.astrazeneca.com/investor-relations/dividend-policy.html",
         "anchor_text": "Dividend policy",
         "score": 54
@@ -38412,11 +38343,6 @@
         "url": "https://www.astrazeneca.com/partnering/sustainable-procurement.html",
         "anchor_text": "Sustainable procurement",
         "score": 54
-      },
-      {
-        "url": "https://www.astrazeneca.com/our-company/our-people/oncology.html",
-        "anchor_text": "Oncology",
-        "score": 53
       },
       {
         "url": "https://www.astrazeneca.com/investor-relations/debt-investors.html",
@@ -38505,7 +38431,7 @@
       },
       {
         "url": "https://www.astrazeneca.com/media-centre/press-releases.html",
-        "anchor_text": "Set Preferences",
+        "anchor_text": "Select Preferences",
         "score": 47
       },
       {
@@ -38710,11 +38636,6 @@
         "score": 227
       },
       {
-        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-investigational-co-antibody-therapy-jnj-4804-shows-potential-to-raise-the-bar-for-clinical-efficacy-in-treating-refractory-inflammatory-bowel-disease",
-        "anchor_text": "Read more",
-        "score": 210
-      },
-      {
         "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-launches-generation-fine-a-new-movement-encouraging-patients-to-expect-more-from-depression-treatment-and-aim-for-remission",
         "anchor_text": "Read more",
         "score": 184
@@ -38753,6 +38674,11 @@
         "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-to-participate-in-the-goldman-sachs-47th-annual-global-healthcare-conference",
         "anchor_text": "Read more",
         "score": 137
+      },
+      {
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-to-host-investor-conference-call-on-second-quarter-results-2026",
+        "anchor_text": "Read more",
+        "score": 124
       },
       {
         "url": "https://www.jnj.com/our-societal-impact/global-environmental-sustainability",
@@ -39632,6 +39558,11 @@
     "press_url": "https://news.abbvie.com/",
     "candidate_links": [
       {
+        "url": "https://news.abbvie.com/2026-05-27-U-S-FDA-Approves-DECNUPAZTM-pivekimab-sunirine-pvzy-for-Treatment-of-Adult-Patients-with-Blastic-Plasmacytoid-Dendritic-Cell-Neoplasm,-an-Ultra-Rare-and-Aggressive-Blood-Cancer-With-Limited-Treatment-Options",
+        "anchor_text": "U.S. FDA Approves DECNUPAZ™ (pivekimab sunirine-pvzy) for Treatment of Adult Patients With Blastic Plasmacytoid Dendritic Cell Neoplasm, an Ultra-Rare and Aggressive Blood Cancer With Limited Treatment Options",
+        "score": 231
+      },
+      {
         "url": "https://news.abbvie.com/2026-05-21-Allergan-Aesthetics-Receives-Positive-CHMP-Opinion-for-Boey-R-TrenibotulinumtoxinE-for-the-Temporary-Improvement-of-Moderate-to-Severe-Glabellar-Lines-in-Adults",
         "anchor_text": "Allergan Aesthetics Receives Positive CHMP Opinion for Boey® (TrenibotulinumtoxinE) for the Temporary Improvement of Moderate to Severe Glabellar Lines in Adults",
         "score": 184
@@ -39660,11 +39591,6 @@
         "url": "https://news.abbvie.com/2026-04-28-AbbVie-Submits-Application-to-FDA-for-Upadacitinib-RINVOQ-R-for-Adults-and-Adolescents-with-Severe-Alopecia-Areata",
         "anchor_text": "AbbVie Submits Application to FDA for Upadacitinib (RINVOQ®) for Adults and Adolescents with Severe Alopecia Areata",
         "score": 138
-      },
-      {
-        "url": "https://news.abbvie.com/2026-04-23-AbbVie-Provides-Update-on-TrenibotulinumtoxinE-TrenibotE-Biologics-License-Application-in-the-U-S",
-        "anchor_text": "AbbVie Provides Update on TrenibotulinumtoxinE (TrenibotE) Biologics License Application in the U.S.",
-        "score": 121
       },
       {
         "url": "https://news.abbvie.com/2026-04-30-Allergan-Aesthetics-Launches-Philanthropic-Effort-in-Recognition-of-Skin-Cancer-Awareness-Month",
@@ -42200,11 +42126,6 @@
         "score": 139
       },
       {
-        "url": "https://newsroom.astellas.com/2026-05-15-notice-regarding-continuation-of-the-performance-linked-stock-compensation-scheme",
-        "anchor_text": "Read moreabout Notice Regarding Continuation of the Performance-linked Stock Compensation Scheme",
-        "score": 105
-      },
-      {
         "url": "https://newsroom.astellas.com/media-library",
         "anchor_text": "Media Library",
         "score": 26
@@ -42547,7 +42468,7 @@
       },
       {
         "url": "https://www.takeda.com/newsroom/press-releases/",
-        "anchor_text": "Do not sell or share my personal information",
+        "anchor_text": "Press Releases",
         "score": 41
       },
       {
@@ -43127,6 +43048,11 @@
         "score": 155
       },
       {
+        "url": "https://ir.beonemedicines.com/news/beone-medicines-announces-phase-3-herizon-gea-data-published-in-nejm-and-presented-at-asco-2026/846b9a7b-16ad-4d69-9f97-287071e57f1f",
+        "anchor_text": "BeOne Medicines Announces Phase 3 HERIZON-GEA Data Published in NEJM and Presented at ASCO 2026",
+        "score": 154
+      },
+      {
         "url": "https://ir.beonemedicines.com/news/beone-medicines-to-announce-fourth-quarter-and-full-year-2025-financial-results-on-february-26/05469328-ac68-408f-b6ac-07cfd0d1680c",
         "anchor_text": "BeOne Medicines to Announce Fourth Quarter and Full Year 2025 Financial Results on February 26",
         "score": 153
@@ -43155,11 +43081,6 @@
         "url": "https://ir.beonemedicines.com/news/us-fda-grants-priority-review-to-beone-medicines-tevimbra-in-first-line-her2-gea/2dd4da40-4943-4a0a-ad05-81899dc06d7d",
         "anchor_text": "U.S. FDA Grants Priority Review to BeOne Medicines’ TEVIMBRA in First-Line HER2+ GEA",
         "score": 139
-      },
-      {
-        "url": "https://ir.beonemedicines.com/news/beone-medicines-to-present-at-the-44th-annual-jp-morgan-healthcare-conference/90236d17-45ae-4357-bc57-6b3974d3cc4a",
-        "anchor_text": "BeOne Medicines to Present at the 44th Annual J.P. Morgan Healthcare Conference",
-        "score": 136
       },
       {
         "url": "https://ir.beonemedicines.com/news/beone-medicines-to-announce-first-quarter-2026-financial-results-on-may-6/969fa7c9-8ace-4b80-aaeb-2b4eb2f15847",
@@ -44739,7 +44660,7 @@
       },
       {
         "url": "https://crisprtx.com/about-us/privacy-policy",
-        "anchor_text": "privacy policy",
+        "anchor_text": "Privacy & cookie policy",
         "score": 38
       },
       {
@@ -44998,11 +44919,6 @@
         "url": "https://investors.alnylam.com/135",
         "anchor_text": "Last pageLast »",
         "score": 6
-      },
-      {
-        "url": "https://investors.alnylam.com/fr",
-        "anchor_text": "Français",
-        "score": 5
       },
       {
         "url": "https://investors.alnylam.com/1",
@@ -48886,6 +48802,11 @@
         "score": 15
       },
       {
+        "url": "https://www.iconplc.com/node/47086",
+        "anchor_text": "Sitemap",
+        "score": 15
+      },
+      {
         "url": "https://www.iconplc.com/solutions",
         "anchor_text": "Solutions",
         "score": 12
@@ -48921,8 +48842,13 @@
         "score": 3
       },
       {
-        "url": "https://www.iconplc.com/#facebook",
-        "anchor_text": "Share on Facebook",
+        "url": "https://www.iconplc.com/#linkedin",
+        "anchor_text": "Share on Linkedin",
+        "score": 3
+      },
+      {
+        "url": "https://www.iconplc.com/#bluesky",
+        "anchor_text": "Share on Bluesky",
         "score": 3
       },
       {
@@ -48931,13 +48857,8 @@
         "score": 3
       },
       {
-        "url": "https://www.iconplc.com/#linkedin",
-        "anchor_text": "Share on Linkedin",
-        "score": 3
-      },
-      {
-        "url": "https://www.iconplc.com/#bluesky",
-        "anchor_text": "Share on Bluesky",
+        "url": "https://www.iconplc.com/#facebook",
+        "anchor_text": "Share on Facebook",
         "score": 3
       }
     ]
@@ -48977,11 +48898,6 @@
         "score": 136
       },
       {
-        "url": "https://www.iqvia.com/newsroom/2026/02/iqvia-and-duke-clinical-research-institute-announce-strategic-collaboration",
-        "anchor_text": "Learn More",
-        "score": 136
-      },
-      {
         "url": "https://www.iqvia.com/newsroom/2026/03/iqvia-ceo-to-speak-at-leerink-partners-2026-global-healthcare-conference",
         "anchor_text": "Learn More",
         "score": 133
@@ -49000,6 +48916,11 @@
         "url": "https://www.iqvia.com/newsroom/2025/06/iqvia-launches-new-ai-agents-for-life-sciences-and-healthcare",
         "anchor_text": "Collaborating with NVIDIA to launch AI agentsIQVIA’s new custom-built AI agents using NVIDIA technology are designed to enhance workflows and accelerate insights for life sciences.Read the press release",
         "score": 122
+      },
+      {
+        "url": "https://www.iqvia.com/newsroom/2026/05/iqvia-ceo-to-speak-at-jefferies-global-healthcare-conference",
+        "anchor_text": "Learn More",
+        "score": 121
       },
       {
         "url": "https://www.iqvia.com/newsroom/2026/04/iqvia-to-announce-first-quarter-2026-results-on-may-5-2026",
@@ -50034,7 +49955,7 @@
       },
       {
         "url": "https://www.catalent.com/news-and-events/",
-        "anchor_text": "Do Not Sell My Personal Information",
+        "anchor_text": "Cookies Settings",
         "score": 31
       },
       {
@@ -50192,6 +50113,11 @@
         "url": "https://www.gsk.com/en-gb/media/press-releases/bepirovirsen-accepted-for-regulatory-review-in-china-as-a-potential-first-in-class-functional-cure-for-chronic-hepatitis-b/",
         "anchor_text": "30 March 2026Bepirovirsen accepted for regulatory review in China as a potential first-in-class functional cure for chronic hepatitis BSubmission supported by statistically significant and clinically meaningful functional cure rates in pivotal Phase III B-Well trials",
         "score": 171
+      },
+      {
+        "url": "https://www.gsk.com/en-gb/media/press-releases/bepirovirsen-achieves-unprecedented-functional-cure-rates-with-potential-to-redefine-treatment-for-chronic-hepatitis-b/",
+        "anchor_text": "28 May 2026Bepirovirsen achieves unprecedented functional cure rates with potential to redefine treatment for chronic hepatitis BPivotal B-Well data show a significant 19% functional cure in the overall study population and 26% in patients with lower viral activity.",
+        "score": 167
       },
       {
         "url": "https://www.gsk.com/en-gb/careers/experienced-professionals/research-and-development/chemical-manufacturing-and-controls-cmc-medicine-development-and-supply-mds/",
@@ -50407,11 +50333,6 @@
         "url": "https://www.gsk.com/en-gb/careers/experienced-professionals/research-and-development/",
         "anchor_text": "Research and development",
         "score": 86
-      },
-      {
-        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-and-alfasigma-announce-agreement/",
-        "anchor_text": "09 March 2026GSK and Alfasigma announce agreement on worldwide rights for linerixibatGSK and Alfasigma today announced a licence agreement under which Alfasigma will acquire worldwide exclusive rights to linerixibat",
-        "score": 85
       },
       {
         "url": "https://www.gsk.com/en-gb/investors/shareholder-information/annual-general-meeting/",
@@ -51318,11 +51239,6 @@
         "url": "https://www.ucb.com/newsroom/press-releases",
         "anchor_text": "Press releases",
         "score": 38
-      },
-      {
-        "url": "https://www.ucb.com/investors/equity-story",
-        "anchor_text": "Equity Story",
-        "score": 37
       },
       {
         "url": "https://www.ucb.com/about-ucb/management",
@@ -55482,7 +55398,7 @@
       },
       {
         "url": "https://www.kyowakirin.com/privacy_policy/index.html",
-        "anchor_text": "Privacy Policy.",
+        "anchor_text": "More information",
         "score": 30
       },
       {
@@ -55804,6 +55720,11 @@
       {
         "url": "https://www.ono-pharma.com/en/ir/stock/analyst",
         "anchor_text": "Analyst Coverage",
+        "score": 28
+      },
+      {
+        "url": "https://www.ono-pharma.com/en/news/20260528.html",
+        "anchor_text": "May.28.2026R & DOno Pharma Announces Poster Presentation of New Clinical Data from Phase 2 Study of ONO-2808 (S1P5 Receptor Agonist) in Multiple System Atrophy at the 7th World Parkinson Congress (WPC)",
         "score": 28
       },
       {
@@ -59677,11 +59598,6 @@
         "score": 273
       },
       {
-        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/Johnson--Johnson-Advances-the-Standard-of-Calcium-Modification-with-Global-Launch-of-Shockwave-C2-Aero-Coronary-IVL-Catheter/default.aspx",
-        "anchor_text": "Read article",
-        "score": 215
-      },
-      {
         "url": "https://ir.intracellulartherapies.com/events-and-presentations/events/event-details/2026/Johnson--Johnson-to-Participate-in-the-Goldman-Sachs-47-th-Annual-Global-Healthcare-Conference/default.aspx",
         "anchor_text": "See details(opens in new window)",
         "score": 206
@@ -59690,6 +59606,11 @@
         "url": "https://ir.intracellulartherapies.com/events-and-presentations/events/event-details/2026/Johnson--Johnson-to-Participate-in-the-Bernsteins-42nd-Annual-Strategic-Decisions-Conference/default.aspx",
         "anchor_text": "See details(opens in new window)",
         "score": 204
+      },
+      {
+        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/Johnson--Johnson-to-Host-Investor-Conference-Call-on-Second-Quarter-Results/default.aspx",
+        "anchor_text": "Read article",
+        "score": 166
       },
       {
         "url": "https://ir.intracellulartherapies.com/events-and-presentations/events/event-details/2026/Johnson--Johnson-First-Quarter-2026-Earnings-Call",
@@ -61254,6 +61175,11 @@
       {
         "url": "https://ir.novavax.com/press-releases#ot-preferences-link",
         "anchor_text": "Your Privacy Choices",
+        "score": 27
+      },
+      {
+        "url": "https://ir.novavax.com/cookies-policy",
+        "anchor_text": "More information",
         "score": 27
       },
       {
@@ -63826,11 +63752,6 @@
         "score": 38
       },
       {
-        "url": "https://www.ucb.com/investors/equity-story",
-        "anchor_text": "Equity Story",
-        "score": 37
-      },
-      {
         "url": "https://www.ucb.com/about-ucb/management",
         "anchor_text": "Management",
         "score": 35
@@ -65974,6 +65895,22 @@
     ]
   },
   {
+    "company": "Apic Bio",
+    "press_url": "https://apicbio.com/news/",
+    "candidate_links": [
+      {
+        "url": "https://apicbio.com/news/#main",
+        "anchor_text": "Skip to main content",
+        "score": 10
+      },
+      {
+        "url": "https://apicbio.com/news/",
+        "anchor_text": "How do I keep my personal information private?",
+        "score": 10
+      }
+    ]
+  },
+  {
     "company": "Asimov",
     "press_url": "https://www.asimov.com/news/",
     "candidate_links": [
@@ -66822,14 +66759,14 @@
         "score": 56
       },
       {
-        "url": "https://ardigen.com/your-monthly-ai-in-biotech-digest-june/",
-        "anchor_text": "",
-        "score": 54
-      },
-      {
         "url": "https://ardigen.com/phenotypic-profiling-ardigen-phenaid/",
         "anchor_text": "Ardigen phenAID phenotypic profiling platform",
         "score": 52
+      },
+      {
+        "url": "https://ardigen.com/life-sciences-conference-takeaways/",
+        "anchor_text": "",
+        "score": 50
       },
       {
         "url": "https://ardigen.com/phenotypic-profiling-ardigen-phenaid",
@@ -67662,7 +67599,7 @@
       },
       {
         "url": "https://chem-space.com/privacy-policy",
-        "anchor_text": "More...",
+        "anchor_text": "Privacy Policy",
         "score": 27
       },
       {
@@ -69461,6 +69398,11 @@
         "score": 134
       },
       {
+        "url": "https://www.biosolveit.de/2025/12/17/biosolveit-at-34th-gp2a-2026-conference-on-medicinal-chemistry-in-gothenburg/",
+        "anchor_text": "Read on",
+        "score": 134
+      },
+      {
         "url": "https://www.biosolveit.de/2026/01/21/ai-ml-in-early-drug-discovery-from-data-to-decisions-virtual-colloquium/",
         "anchor_text": "Read on",
         "score": 129
@@ -69469,6 +69411,11 @@
         "url": "https://www.biosolveit.de/2026/03/05/freedom-space-by-chemspace-march-2026-update-now-a-massive-296-billion/",
         "anchor_text": "Read on",
         "score": 128
+      },
+      {
+        "url": "https://www.biosolveit.de/2025/12/09/emina-yekt-yilmaz-wins-scientific-challenge-winter-2024/",
+        "anchor_text": "Read on",
+        "score": 113
       },
       {
         "url": "https://www.biosolveit.de/2026/03/30/uk-qsar-2026-abstract-and-full-programme-now-avaliable/",
@@ -69492,7 +69439,7 @@
       },
       {
         "url": "https://www.biosolveit.de/2026/05/21/vast-space-by-xtalpi-access-now-with-our-tools/",
-        "anchor_text": "VAST™ Space by XtalPi – Access now with our toolsMay 21, 2026 10:42 CEST",
+        "anchor_text": "Read on",
         "score": 104
       },
       {
@@ -69516,6 +69463,16 @@
         "score": 95
       },
       {
+        "url": "https://www.biosolveit.de/2026/05/27/tool-of-the-month-infinisee-7-1-arke/",
+        "anchor_text": "Tool of the Month – infiniSee 7.1 ‘Arke’May 27, 2026 09:44 CEST",
+        "score": 94
+      },
+      {
+        "url": "https://www.biosolveit.de/2026/05/26/infinisee-7-1-arke-is-now-available/",
+        "anchor_text": "Read on",
+        "score": 93
+      },
+      {
         "url": "https://www.biosolveit.de/2026/01/21/uk-qsar-2026-registrations-are-open/",
         "anchor_text": "Read on",
         "score": 93
@@ -69524,6 +69481,11 @@
         "url": "https://www.biosolveit.de/2026/02/09/scientific-challenge-spring-2026/",
         "anchor_text": "Read on",
         "score": 90
+      },
+      {
+        "url": "https://www.biosolveit.de/2026/01/19/tool-of-the-month-spacelight/",
+        "anchor_text": "Read on",
+        "score": 86
       },
       {
         "url": "https://www.biosolveit.de/2026/03/19/uk-qsar-2026-one-month-away/",
@@ -69542,6 +69504,11 @@
       },
       {
         "url": "https://www.biosolveit.de/2026/04/29/tool-of-the-month-flexx/",
+        "anchor_text": "Read on",
+        "score": 81
+      },
+      {
+        "url": "https://www.biosolveit.de/2025/12/15/biosolveit-wrapped-2025/",
         "anchor_text": "Read on",
         "score": 81
       },
@@ -70483,152 +70450,6 @@
     ]
   },
   {
-    "company": "Storm Therapeutics",
-    "press_url": "https://www.stormtherapeutics.com/news/",
-    "candidate_links": [
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/storm-therapeutics-to-present-promising-phase-1-sarcoma-data-demonstrating-activity-of-first-in-class-mettl3-inhibitor-stc-15/",
-        "anchor_text": "Read more",
-        "score": 165
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/storm-therapeutics-and-alidabio-announce-strategic-collaboration-to-accelerate-development-of-cancer-therapies-targeting-rna/",
-        "anchor_text": "Read more",
-        "score": 164
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/storm-therapeutics-announces-first-patient-dosed-in-clinical-collaboration-to-evaluate-stc-15-in-combination-with-loqtorzi/",
-        "anchor_text": "Read more",
-        "score": 162
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/storm-therapeutics-secures-56-million-series-c-financing-and-doses-first-patient-in-phase-2-sarcoma-trial-of-stc-15/",
-        "anchor_text": "Read more",
-        "score": 155
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/storm-therapeutics-appoints-veteran-cancer-drug-developer-dr-eric-martin-as-chief-development-officer/",
-        "anchor_text": "Read more",
-        "score": 141
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/platform/rna-modifying-enzymes/",
-        "anchor_text": "RNA modifying enzymes",
-        "score": 48
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/page10/",
-        "anchor_text": "10",
-        "score": 46
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/page11/",
-        "anchor_text": "11",
-        "score": 46
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/page2/",
-        "anchor_text": "Next",
-        "score": 45
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/page3/",
-        "anchor_text": "3",
-        "score": 45
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/page4/",
-        "anchor_text": "4",
-        "score": 45
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/page5/",
-        "anchor_text": "5",
-        "score": 45
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/page6/",
-        "anchor_text": "6",
-        "score": 45
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/page7/",
-        "anchor_text": "7",
-        "score": 45
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/page8/",
-        "anchor_text": "8",
-        "score": 45
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/page9/",
-        "anchor_text": "9",
-        "score": 45
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/storm-in-the-news/",
-        "anchor_text": "STORM in the News",
-        "score": 40
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/about/leadership-team/",
-        "anchor_text": "Leadership team",
-        "score": 39
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/about/board-members/",
-        "anchor_text": "Board members",
-        "score": 37
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/news/press-releases/",
-        "anchor_text": "1",
-        "score": 37
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/clinical-trials/",
-        "anchor_text": "Clinical trials",
-        "score": 31
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/privacy-policy/",
-        "anchor_text": "Privacy policy",
-        "score": 30
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/platform/publications/",
-        "anchor_text": "Publications",
-        "score": 29
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/about/investors/",
-        "anchor_text": "Investors",
-        "score": 23
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/stc-15/",
-        "anchor_text": "STC-15",
-        "score": 22
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/contact/",
-        "anchor_text": "Contact",
-        "score": 13
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/about/",
-        "anchor_text": "About us",
-        "score": 11
-      },
-      {
-        "url": "https://www.stormtherapeutics.com/",
-        "anchor_text": "",
-        "score": 3
-      }
-    ]
-  },
-  {
     "company": "Cellarity",
     "press_url": "https://www.cellarity.com/news",
     "candidate_links": [
@@ -70871,7 +70692,7 @@
       },
       {
         "url": "https://grail.com/press-releases/grail-to-present-new-data-from-nhs-galleri-and-pathfinder-2-at-2026-asco-annual-meeting/",
-        "anchor_text": "View Press Release",
+        "anchor_text": "GRAIL to Present New Data From NHS-Galleri and PATHFINDER 2 at 2026 ASCO Annual Meeting",
         "score": 120
       },
       {
@@ -70893,6 +70714,11 @@
         "url": "https://grail.com/press-releases/grail-to-present-at-the-goldman-sachs-47th-annual-global-healthcare-conference/",
         "anchor_text": "View Press Release",
         "score": 111
+      },
+      {
+        "url": "https://grail.com/press-releases/grail-announces-inducement-grants-under-nasdaq-listing-rule-5635c4-8/",
+        "anchor_text": "View Press Release",
+        "score": 101
       },
       {
         "url": "https://grail.com/press-releases/grail-to-present-at-the-2026-jefferies-global-healthcare-conference/",
@@ -71123,6 +70949,11 @@
         "url": "https://grail.com/cookie-notice",
         "anchor_text": "More information",
         "score": 26
+      },
+      {
+        "url": "https://grail.com/asco-2026/",
+        "anchor_text": "GRAIL at ASCO 2026",
+        "score": 25
       },
       {
         "url": "https://grail.com/about-us/",
@@ -72242,13 +72073,13 @@
         "score": 28
       },
       {
-        "url": "https://www.nuclera.com/latest-news/",
-        "anchor_text": "News",
+        "url": "https://www.nuclera.com/latest-news/#fl-main-content",
+        "anchor_text": "Skip to content",
         "score": 27
       },
       {
-        "url": "https://www.nuclera.com/latest-news/#fl-main-content",
-        "anchor_text": "Skip to content",
+        "url": "https://www.nuclera.com/latest-news/",
+        "anchor_text": "News",
         "score": 27
       },
       {
@@ -72464,6 +72295,11 @@
         "score": 171
       },
       {
+        "url": "https://www.gsk.com/en-gb/media/press-releases/bepirovirsen-achieves-unprecedented-functional-cure-rates-with-potential-to-redefine-treatment-for-chronic-hepatitis-b/",
+        "anchor_text": "28 May 2026Bepirovirsen achieves unprecedented functional cure rates with potential to redefine treatment for chronic hepatitis BPivotal B-Well data show a significant 19% functional cure in the overall study population and 26% in patients with lower viral activity.",
+        "score": 167
+      },
+      {
         "url": "https://www.gsk.com/en-gb/careers/experienced-professionals/research-and-development/chemical-manufacturing-and-controls-cmc-medicine-development-and-supply-mds/",
         "anchor_text": "Chemical Manufacturing and Controls (CMC), Medicine Development and Supply (MDS)",
         "score": 164
@@ -72677,11 +72513,6 @@
         "url": "https://www.gsk.com/en-gb/careers/experienced-professionals/research-and-development/",
         "anchor_text": "Research and development",
         "score": 86
-      },
-      {
-        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-and-alfasigma-announce-agreement/",
-        "anchor_text": "09 March 2026GSK and Alfasigma announce agreement on worldwide rights for linerixibatGSK and Alfasigma today announced a licence agreement under which Alfasigma will acquire worldwide exclusive rights to linerixibat",
-        "score": 85
       },
       {
         "url": "https://www.gsk.com/en-gb/investors/shareholder-information/annual-general-meeting/",
@@ -74678,6 +74509,11 @@
     "press_url": "https://www.sanofi.com/en/media-room/press-releases",
     "candidate_links": [
       {
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-05-28-05-00-00-3302498",
+        "anchor_text": "Read the Press Release",
+        "score": 107
+      },
+      {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-05-18-19-30-00-3296985",
         "anchor_text": "Read the Press Release",
         "score": 107
@@ -74769,11 +74605,6 @@
       },
       {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-03-04-17-30-55-3249632",
-        "anchor_text": "Read the Press Release",
-        "score": 107
-      },
-      {
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-03-02-06-00-00-3247008",
         "anchor_text": "Read the Press Release",
         "score": 107
       },
@@ -75491,6 +75322,22 @@
     ]
   },
   {
+    "company": "Aerpio Pharmaceuticals",
+    "press_url": "https://aerpio.com/news/",
+    "candidate_links": [
+      {
+        "url": "https://aerpio.com/news/#main",
+        "anchor_text": "Skip to main content",
+        "score": 10
+      },
+      {
+        "url": "https://aerpio.com/news/",
+        "anchor_text": "How do I keep my personal information private?",
+        "score": 10
+      }
+    ]
+  },
+  {
     "company": "Tune Therapeutics",
     "press_url": "https://tunetx.com/news/",
     "candidate_links": [
@@ -75948,6 +75795,22 @@
     ]
   },
   {
+    "company": "Aerpio",
+    "press_url": "https://aerpio.com/news/",
+    "candidate_links": [
+      {
+        "url": "https://aerpio.com/news/#main",
+        "anchor_text": "Skip to main content",
+        "score": 10
+      },
+      {
+        "url": "https://aerpio.com/news/",
+        "anchor_text": "How do I keep my personal information private?",
+        "score": 10
+      }
+    ]
+  },
+  {
     "company": "Juvena Therapeutics",
     "press_url": "https://www.juvenatherapeutics.com/news/",
     "candidate_links": [
@@ -76350,6 +76213,22 @@
     ]
   },
   {
+    "company": "Change Bioscience",
+    "press_url": "https://changebioscience.com/news/",
+    "candidate_links": [
+      {
+        "url": "https://changebioscience.com/news/#main",
+        "anchor_text": "Skip to main content",
+        "score": 10
+      },
+      {
+        "url": "https://changebioscience.com/news/",
+        "anchor_text": "How do I keep my personal information private?",
+        "score": 10
+      }
+    ]
+  },
+  {
     "company": "Altos Labs",
     "press_url": "https://www.altoslabs.com/featured",
     "candidate_links": [
@@ -76460,6 +76339,11 @@
     "company": "Travere Therapeutics",
     "press_url": "https://ir.travere.com/press-releases",
     "candidate_links": [
+      {
+        "url": "https://ir.travere.com/press-releases/news-details/2026/Travere-Therapeutics-Receives-Notice-of-Allowance-from-the-U-S--Patent-and-Trademark-Office-for-U-S--Patent-Application-Directed-to-Certain-Methods-of-Using-FILSPARI-sparsentan-in-IgA-Nephropathy/default.aspx",
+        "anchor_text": "Continue Reading",
+        "score": 287
+      },
       {
         "url": "https://ir.travere.com/press-releases/news-details/2026/Travere-Therapeutics-Announces-Full-FDA-Approval-of-FILSPARI-sparsentan-the-First-and-Only-Approved-Medicine-for-FSGS/default.aspx",
         "anchor_text": "Continue Reading",
@@ -77718,7 +77602,7 @@
       },
       {
         "url": "https://grail.com/press-releases/grail-to-present-new-data-from-nhs-galleri-and-pathfinder-2-at-2026-asco-annual-meeting/",
-        "anchor_text": "View Press Release",
+        "anchor_text": "GRAIL to Present New Data From NHS-Galleri and PATHFINDER 2 at 2026 ASCO Annual Meeting",
         "score": 120
       },
       {
@@ -77740,6 +77624,11 @@
         "url": "https://grail.com/press-releases/grail-to-present-at-the-goldman-sachs-47th-annual-global-healthcare-conference/",
         "anchor_text": "View Press Release",
         "score": 111
+      },
+      {
+        "url": "https://grail.com/press-releases/grail-announces-inducement-grants-under-nasdaq-listing-rule-5635c4-8/",
+        "anchor_text": "View Press Release",
+        "score": 101
       },
       {
         "url": "https://grail.com/press-releases/grail-to-present-at-the-2026-jefferies-global-healthcare-conference/",
@@ -77972,6 +77861,11 @@
         "score": 26
       },
       {
+        "url": "https://grail.com/asco-2026/",
+        "anchor_text": "GRAIL at ASCO 2026",
+        "score": 25
+      },
+      {
         "url": "https://grail.com/about-us/",
         "anchor_text": "Our Story",
         "score": 24
@@ -78159,6 +78053,11 @@
     "press_url": "https://www.sanofi.com/en/media-room/press-releases",
     "candidate_links": [
       {
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-05-28-05-00-00-3302498",
+        "anchor_text": "Read the Press Release",
+        "score": 107
+      },
+      {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-05-18-19-30-00-3296985",
         "anchor_text": "Read the Press Release",
         "score": 107
@@ -78250,11 +78149,6 @@
       },
       {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-03-04-17-30-55-3249632",
-        "anchor_text": "Read the Press Release",
-        "score": 107
-      },
-      {
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-03-02-06-00-00-3247008",
         "anchor_text": "Read the Press Release",
         "score": 107
       },
@@ -79871,6 +79765,572 @@
     "candidate_links": []
   },
   {
+    "company": "Solix Technologies, Inc.",
+    "press_url": "https://www.solix.com/company/news-events/press-releases/",
+    "candidate_links": [
+      {
+        "url": "https://www.solix.com/company/news-events/press-releases/solix-technologies-and-computer-arabia-forge-strategic-partnership-to-accelerate-enterprise-data-modernization-in-qatar/",
+        "anchor_text": "Read More",
+        "score": 176
+      },
+      {
+        "url": "https://www.solix.com/company/news-events/press-releases/registration-open-for-solixempower-2025-a-data-and-ai-governance-conference-with-university-of-california-san-diego/",
+        "anchor_text": "Read More",
+        "score": 172
+      },
+      {
+        "url": "https://www.solix.com/company/news-events/press-releases/solix-strengthens-leadership-team-with-key-executive-appointments-to-accelerate-enterprise-ai-data-modernization/",
+        "anchor_text": "Read More",
+        "score": 169
+      },
+      {
+        "url": "https://www.solix.com/company/news-events/press-releases/solix-technologies-inc-announces-general-availability-for-solix-enterprise-ai-a-fourth-generation-data-platform/",
+        "anchor_text": "Read More",
+        "score": 168
+      },
+      {
+        "url": "https://www.solix.com/company/news-events/press-releases/solix-technologies-and-mindmap-technologies-announce-partnership-to-drive-enterprise-data-across-apac-singapore/",
+        "anchor_text": "Read More",
+        "score": 168
+      },
+      {
+        "url": "https://www.solix.com/company/news-events/press-releases/solix-technologies-announces-key-leadership-appointments-and-promotions-to-accelerate-global-ai-driven-growth/",
+        "anchor_text": "Read More",
+        "score": 166
+      },
+      {
+        "url": "https://www.solix.com/company/news-events/press-releases/solix-expands-into-japan-to-address-rising-data-compliance-pressures-under-appi-appoints-junichi-takayanagi/",
+        "anchor_text": "Read More",
+        "score": 164
+      },
+      {
+        "url": "https://www.solix.com/company/news-events/press-releases/solix-and-symbiosis-scei-smcw-partner-to-launch-center-of-excellence-for-new-drug-discovery-and-repurposing/",
+        "anchor_text": "Read More",
+        "score": 164
+      },
+      {
+        "url": "https://www.solix.com/company/news-events/press-releases/global-leaders-in-ai-data-management-and-governance-to-convene-at-solixempower-2025-in-san-diego/",
+        "anchor_text": "Read More",
+        "score": 153
+      },
+      {
+        "url": "https://www.solix.com/resources/lg/white-papers/enterprise-information-architecture-for-gen-ai-and-machine-learning/",
+        "anchor_text": "Enterprise Information Architecture for Gen AI and Machine Learning",
+        "score": 115
+      },
+      {
+        "url": "https://www.solix.com/resources/lg/white-papers/transforming-your-forgotten-data-into-ai-intelligence/",
+        "anchor_text": "The Rise Of Enterprise Intelligence",
+        "score": 101
+      },
+      {
+        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-accounting-and-finance/",
+        "anchor_text": "Accounting & Finance",
+        "score": 100
+      },
+      {
+        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-financial-institutions/",
+        "anchor_text": "Financial Services",
+        "score": 100
+      },
+      {
+        "url": "https://www.solix.com/company/news-events/press-releases/reimagining-the-enterprise-in-the-age-of-ai/",
+        "anchor_text": "Read More",
+        "score": 100
+      },
+      {
+        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-construction-industry/",
+        "anchor_text": "Construction",
+        "score": 99
+      },
+      {
+        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-legal-and-compliance/",
+        "anchor_text": "Legal & Compliance",
+        "score": 98
+      },
+      {
+        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-insurance-providers/",
+        "anchor_text": "Insurance",
+        "score": 97
+      },
+      {
+        "url": "https://www.solix.com/products/enterprise-content-services/cloud-archive-for-finance-and-accounting/",
+        "anchor_text": "Cloud Archive - Finance",
+        "score": 97
+      },
+      {
+        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-sales-and-marketing/",
+        "anchor_text": "Sales & Marketing",
+        "score": 97
+      },
+      {
+        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-human-resources/",
+        "anchor_text": "Human Resources",
+        "score": 93
+      },
+      {
+        "url": "https://www.solix.com/solutions/replace-ibm-infosphere-optim-with-solixcloud/",
+        "anchor_text": "Infosphere Optim Replace",
+        "score": 72
+      },
+      {
+        "url": "https://www.solix.com/products/enterprise-content-services/cloud-archive/",
+        "anchor_text": "Cloud Archive",
+        "score": 70
+      },
+      {
+        "url": "https://www.solix.com/products/enterprise-content-services/document-ai/",
+        "anchor_text": "Document AI",
+        "score": 68
+      },
+      {
+        "url": "https://www.solix.com/company/news-events/press-releases/page/15/",
+        "anchor_text": "15",
+        "score": 66
+      },
+      {
+        "url": "https://www.solix.com/company/news-events/press-releases/page/2/",
+        "anchor_text": "»",
+        "score": 65
+      },
+      {
+        "url": "https://www.solix.com/company/news-events/press-releases/page/3/",
+        "anchor_text": "3",
+        "score": 65
+      },
+      {
+        "url": "https://www.solix.com/solutions/cloud-data-management-for-jd-edwards/",
+        "anchor_text": "JD Edwards",
+        "score": 64
+      },
+      {
+        "url": "https://www.solix.com/solutions/cloud-data-management-for-peoplesoft/",
+        "anchor_text": "PeopleSoft",
+        "score": 64
+      },
+      {
+        "url": "https://www.solix.com/products/enterprise-data-archiving-solution/",
+        "anchor_text": "Enterprise Archiving",
+        "score": 61
+      },
+      {
+        "url": "https://www.solix.com/products/enterprise-content-services/pricing",
+        "anchor_text": "Pricing",
+        "score": 61
+      },
+      {
+        "url": "https://www.solix.com/solutions/cloud-data-management-for-siebel/",
+        "anchor_text": "Siebel",
+        "score": 60
+      },
+      {
+        "url": "https://www.solix.com/solutions/microsoft-sql-database-archiving/",
+        "anchor_text": "MS-SQL",
+        "score": 60
+      },
+      {
+        "url": "https://www.solix.com/products/application-retirement-solution/",
+        "anchor_text": "Application Retirement",
+        "score": 58
+      },
+      {
+        "url": "https://www.solix.com/solutions/cloud-data-management-for-baan/",
+        "anchor_text": "Baan",
+        "score": 58
+      },
+      {
+        "url": "https://www.solix.com/solutions/cloud-data-management-for-sap/",
+        "anchor_text": "SAP HANA",
+        "score": 57
+      },
+      {
+        "url": "https://www.solix.com/company/news-events/press-releases/#content",
+        "anchor_text": "Skip to content",
+        "score": 54
+      },
+      {
+        "url": "https://www.solix.com/products/enterprise-content-services/",
+        "anchor_text": "Enterprise Content Services",
+        "score": 54
+      },
+      {
+        "url": "https://www.solix.com/company/news-events/press-releases/",
+        "anchor_text": "",
+        "score": 54
+      },
+      {
+        "url": "https://www.solix.com/products/solix-common-data-platform/",
+        "anchor_text": "Solix Common Data Platform (CDP)",
+        "score": 53
+      },
+      {
+        "url": "https://www.solix.com/partners/global-technology-partners/",
+        "anchor_text": "Global Technology Partners",
+        "score": 53
+      },
+      {
+        "url": "https://www.solix.com/solutions/sensitive-data-discovery/",
+        "anchor_text": "Sensitive Data Discovery",
+        "score": 52
+      },
+      {
+        "url": "https://www.solix.com/solutions/mysql-database-archiving/",
+        "anchor_text": "MySQL",
+        "score": 52
+      },
+      {
+        "url": "https://www.solix.com/solutions/oracle-ebusiness-suite/",
+        "anchor_text": "Oracle Database",
+        "score": 50
+      },
+      {
+        "url": "https://www.solix.com/solutions/ibm-zseries-mainframe/",
+        "anchor_text": "zSystems Mainframe",
+        "score": 49
+      },
+      {
+        "url": "https://www.solix.com/company/touch-a-life-foundation/",
+        "anchor_text": "Corporate Social Responsibility",
+        "score": 49
+      },
+      {
+        "url": "https://www.solix.com/products/consumer-data-privacy/",
+        "anchor_text": "Consumer Data Privacy",
+        "score": 48
+      },
+      {
+        "url": "https://www.solix.com/services/professional-services/",
+        "anchor_text": "Professional Services",
+        "score": 48
+      },
+      {
+        "url": "https://www.solix.com/partners/become-solix-partner/",
+        "anchor_text": "Become A Partner",
+        "score": 47
+      },
+      {
+        "url": "https://www.solix.com/partners/partner-portal-login/",
+        "anchor_text": "Partner Portal",
+        "score": 47
+      },
+      {
+        "url": "https://www.solix.com/products/enterprise-archiving/",
+        "anchor_text": "DB2",
+        "score": 47
+      },
+      {
+        "url": "https://www.solix.com/services/assessment-services/",
+        "anchor_text": "Assessment Services",
+        "score": 46
+      },
+      {
+        "url": "https://www.solix.com/resources/on-demand-webinars/",
+        "anchor_text": "eBooks",
+        "score": 46
+      },
+      {
+        "url": "https://www.solix.com/company/news-events/events/",
+        "anchor_text": "Events",
+        "score": 46
+      },
+      {
+        "url": "https://www.solix.com/products/data-lake-solution/",
+        "anchor_text": "Enterprise Data Lake",
+        "score": 45
+      },
+      {
+        "url": "https://www.solix.com/products/database-archiving/",
+        "anchor_text": "Database Archiving",
+        "score": 45
+      },
+      {
+        "url": "https://www.solix.com/partners/big-data-partners/",
+        "anchor_text": "Big Data Partners",
+        "score": 44
+      },
+      {
+        "url": "https://www.solix.com/company/investor-relations/",
+        "anchor_text": "Investor Relations",
+        "score": 44
+      },
+      {
+        "url": "https://www.solix.com/solutions/solix-eai-pharma/",
+        "anchor_text": "Pharma and Biotech",
+        "score": 44
+      },
+      {
+        "url": "https://www.solix.com/solutions/data-governance/",
+        "anchor_text": "Data Governance",
+        "score": 43
+      },
+      {
+        "url": "https://www.solix.com/products/email-archiving/",
+        "anchor_text": "Email Archiving",
+        "score": 42
+      },
+      {
+        "url": "https://www.solix.com/partners/partner-program/",
+        "anchor_text": "Distribution Partners",
+        "score": 42
+      },
+      {
+        "url": "https://www.solix.com/products/file-archiving/",
+        "anchor_text": "File Archiving",
+        "score": 41
+      },
+      {
+        "url": "https://www.solix.com/partners/cloud-partners/",
+        "anchor_text": "Cloud Partners / Hyperscalers",
+        "score": 41
+      },
+      {
+        "url": "https://www.solix.com/products/enterprise-ai/",
+        "anchor_text": "Enterprise AI",
+        "score": 40
+      },
+      {
+        "url": "https://www.solix.com/products/ai-governance/",
+        "anchor_text": "AI Governance",
+        "score": 40
+      },
+      {
+        "url": "https://www.solix.com/products/ai-healthcare/",
+        "anchor_text": "AI Healthcare",
+        "score": 40
+      },
+      {
+        "url": "https://www.solix.com/services/support-login/",
+        "anchor_text": "Support Portal",
+        "score": 40
+      },
+      {
+        "url": "https://www.solix.com/resources/white-papers/",
+        "anchor_text": "White Papers",
+        "score": 40
+      },
+      {
+        "url": "https://www.solix.com/resources/case-studies/",
+        "anchor_text": "Case Studies",
+        "score": 40
+      },
+      {
+        "url": "https://www.solix.com/company/contact-sales/",
+        "anchor_text": "Contact Sales",
+        "score": 39
+      },
+      {
+        "url": "https://www.solix.com/products/ai-warehouse/",
+        "anchor_text": "AI Warehouse",
+        "score": 39
+      },
+      {
+        "url": "https://www.solix.com/products/data-masking/",
+        "anchor_text": "Data Masking",
+        "score": 39
+      },
+      {
+        "url": "https://www.solix.com/partners/our-partners/",
+        "anchor_text": "Our Partners",
+        "score": 39
+      },
+      {
+        "url": "https://www.solix.com/partners/oem-partners/",
+        "anchor_text": "OEM Partners",
+        "score": 39
+      },
+      {
+        "url": "https://www.solix.com/company/analyst-views/",
+        "anchor_text": "Analyst Views",
+        "score": 39
+      },
+      {
+        "url": "https://www.solix.com/products/request-demo/",
+        "anchor_text": "Request Demo",
+        "score": 39
+      },
+      {
+        "url": "https://www.solix.com/company/news-events/",
+        "anchor_text": "Newsroom",
+        "score": 37
+      },
+      {
+        "url": "https://www.solix.com/solutions/ia-for-ai/",
+        "anchor_text": "Information Architecture (IA) for AI",
+        "score": 37
+      },
+      {
+        "url": "https://www.solix.com/acceptable-use-policy/",
+        "anchor_text": "Acceptable Use Policy",
+        "score": 37
+      },
+      {
+        "url": "https://www.solix.com/company/contact-us/",
+        "anchor_text": "Contact Us",
+        "score": 36
+      },
+      {
+        "url": "https://www.solix.com/terms-and-conditions/",
+        "anchor_text": "Terms & Conditions",
+        "score": 36
+      },
+      {
+        "url": "https://www.solix.com/leadership-lessons/",
+        "anchor_text": "Leadership Lessons",
+        "score": 34
+      },
+      {
+        "url": "https://www.solix.com/solutions/manufacturing/",
+        "anchor_text": "Manufacturing",
+        "score": 31
+      },
+      {
+        "url": "https://www.solix.com/privacy-policy/",
+        "anchor_text": "Privacy Policy",
+        "score": 30
+      },
+      {
+        "url": "https://www.solix.com/solutions/healthcare/",
+        "anchor_text": "Healthcare",
+        "score": 28
+      },
+      {
+        "url": "https://www.solix.com/solutions/government/",
+        "anchor_text": "Government",
+        "score": 28
+      },
+      {
+        "url": "https://www.solix.com/resources/datasheets/",
+        "anchor_text": "Datasheets",
+        "score": 28
+      },
+      {
+        "url": "https://www.solix.com/solutions/insurance/",
+        "anchor_text": "Insurance",
+        "score": 27
+      },
+      {
+        "url": "https://www.solix.com/resources/podcasts/",
+        "anchor_text": "Podcasts",
+        "score": 26
+      },
+      {
+        "url": "https://www.solix.com/company/leadership/",
+        "anchor_text": "Leadership",
+        "score": 26
+      },
+      {
+        "url": "https://www.solix.com/solutions/banking/",
+        "anchor_text": "Banking",
+        "score": 25
+      },
+      {
+        "url": "https://www.solix.com/solutions/finance/",
+        "anchor_text": "Finance",
+        "score": 25
+      },
+      {
+        "url": "https://www.solix.com/solutions/telecom/",
+        "anchor_text": "Telecom",
+        "score": 25
+      },
+      {
+        "url": "https://www.solix.com/solutions/retail/",
+        "anchor_text": "Retail",
+        "score": 24
+      },
+      {
+        "url": "https://www.solix.com/resources/ebooks/",
+        "anchor_text": "eBooks",
+        "score": 24
+      },
+      {
+        "url": "https://www.solix.com/company/careers/",
+        "anchor_text": "Careers",
+        "score": 23
+      },
+      {
+        "url": "https://www.solix.com/solutions/",
+        "anchor_text": "Solutions",
+        "score": 15
+      },
+      {
+        "url": "https://www.solix.com/resources/",
+        "anchor_text": "Resources",
+        "score": 15
+      },
+      {
+        "url": "https://www.solix.com/products/",
+        "anchor_text": "Products",
+        "score": 14
+      },
+      {
+        "url": "https://www.solix.com/services/",
+        "anchor_text": "Services & Support",
+        "score": 14
+      },
+      {
+        "url": "https://www.solix.com/partners/",
+        "anchor_text": "Partners",
+        "score": 14
+      },
+      {
+        "url": "https://www.solix.com/company/",
+        "anchor_text": "Company",
+        "score": 13
+      },
+      {
+        "url": "https://www.solix.com/sitemap/",
+        "anchor_text": "Sitemap",
+        "score": 13
+      },
+      {
+        "url": "https://www.solix.com/blog/",
+        "anchor_text": "Blogs",
+        "score": 10
+      },
+      {
+        "url": "https://www.solix.com/pt/",
+        "anchor_text": "Português",
+        "score": 8
+      },
+      {
+        "url": "https://www.solix.com/it/",
+        "anchor_text": "Italiano",
+        "score": 8
+      },
+      {
+        "url": "https://www.solix.com/ko/",
+        "anchor_text": "한국어",
+        "score": 8
+      },
+      {
+        "url": "https://www.solix.com/ja/",
+        "anchor_text": "日本語",
+        "score": 8
+      },
+      {
+        "url": "https://www.solix.com/es/",
+        "anchor_text": "Español",
+        "score": 8
+      },
+      {
+        "url": "https://www.solix.com/de/",
+        "anchor_text": "Deutsch",
+        "score": 8
+      },
+      {
+        "url": "https://www.solix.com/fr/",
+        "anchor_text": "Français",
+        "score": 8
+      },
+      {
+        "url": "https://www.solix.com/",
+        "anchor_text": "English",
+        "score": 3
+      }
+    ]
+  },
+  {
     "company": "Lonza",
     "press_url": "https://www.lonza.com/news",
     "candidate_links": []
@@ -79967,11 +80427,6 @@
       {
         "url": "https://www.cipla.com/sustainability/accelerating-community-wellbeing",
         "anchor_text": "Accelerated Community Well-being",
-        "score": 62
-      },
-      {
-        "url": "https://www.cipla.com/about-us/board-directors/committees-board-old",
-        "anchor_text": "Committees of the Board",
         "score": 62
       },
       {
@@ -80135,11 +80590,6 @@
         "score": 42
       },
       {
-        "url": "https://www.cipla.com/about-us/onecipla-credo-old",
-        "anchor_text": "Our Credo",
-        "score": 42
-      },
-      {
         "url": "https://www.cipla.com/careers/business-functions",
         "anchor_text": "Business Functions",
         "score": 41
@@ -80147,11 +80597,6 @@
       {
         "url": "https://www.cipla.com/careers/holistic-wellbeing",
         "anchor_text": "Holistic Wellbeing",
-        "score": 41
-      },
-      {
-        "url": "https://www.cipla.com/about-us/cipla-archive-old",
-        "anchor_text": "Our History - Cipla Archives",
         "score": 41
       },
       {
@@ -80380,362 +80825,6 @@
         "score": 3
       }
     ]
-  },
-  {
-    "company": "Aurobindo Pharma",
-    "press_url": "https://www.aurobindo.com/media/press-releases",
-    "candidate_links": [
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/financial-information/notice-of-board-meeting",
-        "anchor_text": "Notice of Board Meetings",
-        "score": 106
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/disclosures-under-regulation-46-of-the-lodr",
-        "anchor_text": "Disclosures under Regulation 46 of the LODR",
-        "score": 102
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/newspaper-publications/general-meetings",
-        "anchor_text": "General Meetings",
-        "score": 100
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/corporate-governance/code-of-practices-and-procedures-for-fair-disclosure",
-        "anchor_text": "Code of Practices and Procedures for Fair Disclosure",
-        "score": 100
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/special-window-for-lodgement-of-physical-shares",
-        "anchor_text": "Special window for lodgement of physical shares",
-        "score": 98
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/financial-information/annual-reports",
-        "anchor_text": "Annual Reports",
-        "score": 97
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/social-accountability-standards/supplier-code-of-conduct",
-        "anchor_text": "Supplier Code of Conduct",
-        "score": 88
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/corporate-governance/appointment-and-resignation-of-directors",
-        "anchor_text": "Appointment and Resignation of Directors",
-        "score": 88
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/registrar-and-share-transfer-agent",
-        "anchor_text": "Registrar and Share Transfer Agent",
-        "score": 85
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/contact-details-grievances",
-        "anchor_text": "Contact Details for Investor Grievance Redressal",
-        "score": 85
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/social-accountability-standards/human-rights-policy",
-        "anchor_text": "Human Rights Policy",
-        "score": 83
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/results-reports-presentations/related-party-transactions",
-        "anchor_text": "Related Party Transactions",
-        "score": 83
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/financials-subsidiaries",
-        "anchor_text": "Financials - Subsidiaries",
-        "score": 82
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/unpaid-dividend-account-details",
-        "anchor_text": "Unpaid Dividend Account Details",
-        "score": 82
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/contact-details-of-kmps",
-        "anchor_text": "Contact Details of KMPs",
-        "score": 82
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/shareholding-pattern",
-        "anchor_text": "Shareholding Pattern",
-        "score": 79
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/results-reports-presentations/results-announcements",
-        "anchor_text": "Results Announcements",
-        "score": 78
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/code-of-conduct",
-        "anchor_text": "Code of Conduct",
-        "score": 74
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/scheme-of-arrangements",
-        "anchor_text": "Scheme of Arrangements",
-        "score": 73
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/esg-sustainability/sustainability-report",
-        "anchor_text": "Sustainability Reports",
-        "score": 72
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/financial-highlights",
-        "anchor_text": "Financial Highlights",
-        "score": 71
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/impact-assessment-reports-csr-projects",
-        "anchor_text": "Impact Assessment Reports - CSR Projects",
-        "score": 68
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/buyback-of-shares",
-        "anchor_text": "Buyback of shares",
-        "score": 68
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/share-performance",
-        "anchor_text": "Share Performance",
-        "score": 68
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/ir-contacts/phone-numbers-email-addresses",
-        "anchor_text": "IR Contacts",
-        "score": 68
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/access-to-healthcare/pepfar-program",
-        "anchor_text": "PEPFAR program",
-        "score": 67
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/dividend-records",
-        "anchor_text": "Dividend Record",
-        "score": 67
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/corporate-governance/governance-policies",
-        "anchor_text": "Governance Policies",
-        "score": 67
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/corporate-governance/board-of-directors",
-        "anchor_text": "Board of Directors",
-        "score": 66
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/esg-sustainability/bmw-report",
-        "anchor_text": "BMW Reports",
-        "score": 61
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/social-accountability-standards",
-        "anchor_text": "Supply Chain Management",
-        "score": 61
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/management/board-of-directors",
-        "anchor_text": "Board of Directors",
-        "score": 55
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/arv/hiv-arv-key-facts",
-        "anchor_text": "Key facts about HIV/AIDS",
-        "score": 51
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/aurobindo-foundation",
-        "anchor_text": "Aurobindo Pharma Foundation",
-        "score": 50
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/access-to-healthcare",
-        "anchor_text": "Access to Healthcare",
-        "score": 50
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/arv/global-partners",
-        "anchor_text": "Global Partners",
-        "score": 49
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/arv/corporate-video",
-        "anchor_text": "Corporate Video",
-        "score": 49
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/annual-action-plan",
-        "anchor_text": "Annual Action Plan",
-        "score": 48
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/annual-csr-report",
-        "anchor_text": "Annual Report",
-        "score": 47
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/manufacturing-prowess",
-        "anchor_text": "Manufacturing",
-        "score": 45
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/arv/arv-gallery",
-        "anchor_text": "Gallery",
-        "score": 45
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/corporate-governance",
-        "anchor_text": "Corporate Governance",
-        "score": 45
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/arv/overview",
-        "anchor_text": "Overview",
-        "score": 42
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/arv/products",
-        "anchor_text": "Products",
-        "score": 42
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/growth-market",
-        "anchor_text": "Growth Markets",
-        "score": 41
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/csr-gallery",
-        "anchor_text": "Gallery",
-        "score": 41
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/csr-policy",
-        "anchor_text": "CSR Policy",
-        "score": 40
-      },
-      {
-        "url": "https://www.aurobindo.com/careers/life-at-aurobindo",
-        "anchor_text": "Life @ Aurobindo",
-        "score": 40
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/about-aurobindo",
-        "anchor_text": "About Us",
-        "score": 39
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/vision-mission",
-        "anchor_text": "Vision / Mission",
-        "score": 38
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/our-presence",
-        "anchor_text": "",
-        "score": 36
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/apitoria",
-        "anchor_text": "Apitoria (API)",
-        "score": 36
-      },
-      {
-        "url": "https://www.aurobindo.com/media/press-releases",
-        "anchor_text": "I Accept",
-        "score": 35
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/curateq",
-        "anchor_text": "Curateq (Biosimilars) / Peptide",
-        "score": 35
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/europe",
-        "anchor_text": "Europe",
-        "score": 34
-      },
-      {
-        "url": "https://www.aurobindo.com/media/corporate-kit",
-        "anchor_text": "Corporate Kit",
-        "score": 34
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/milestone",
-        "anchor_text": "Milestones",
-        "score": 33
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/eugia",
-        "anchor_text": "Eugia (Speciality products)",
-        "score": 33
-      },
-      {
-        "url": "https://www.aurobindo.com/privacy-policy",
-        "anchor_text": "Privacy Policy",
-        "score": 27
-      },
-      {
-        "url": "https://www.aurobindo.com/privacy-policy#cookies",
-        "anchor_text": "Cookie policy",
-        "score": 27
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/rd",
-        "anchor_text": "R&D",
-        "score": 26
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business",
-        "anchor_text": "Our Business",
-        "score": 25
-      },
-      {
-        "url": "https://www.aurobindo.com/contact-us",
-        "anchor_text": "Contact Us",
-        "score": 23
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability",
-        "anchor_text": "Sustainability",
-        "score": 17
-      },
-      {
-        "url": "https://www.aurobindo.com/sitemap.xml",
-        "anchor_text": "Site Map",
-        "score": 14
-      },
-      {
-        "url": "https://www.aurobindo.com/investors",
-        "anchor_text": "Investors",
-        "score": 12
-      },
-      {
-        "url": "https://www.aurobindo.com/careers",
-        "anchor_text": "Careers",
-        "score": 10
-      },
-      {
-        "url": "https://www.aurobindo.com/",
-        "anchor_text": "",
-        "score": 3
-      },
-      {
-        "url": "https://www.aurobindo.com",
-        "anchor_text": "Aurobindo Pharma Limited.",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "company": "Intas Pharmaceuticals",
-    "press_url": "https://www.intaspharma.com/media/",
-    "candidate_links": []
   },
   {
     "company": "Medpace",
@@ -82775,8 +82864,8 @@
     "candidate_links": []
   },
   {
-    "company": "Apic Bio",
-    "press_url": "https://apicbio.com/news/",
+    "company": "Storm Therapeutics",
+    "press_url": "https://www.stormtherapeutics.com/news/",
     "candidate_links": []
   },
   {
@@ -82792,21 +82881,6 @@
   {
     "company": "Springworks Therapeutics",
     "press_url": "https://ir.springworkstx.com/news-releases",
-    "candidate_links": []
-  },
-  {
-    "company": "Aerpio Pharmaceuticals",
-    "press_url": "https://aerpio.com/news/",
-    "candidate_links": []
-  },
-  {
-    "company": "Aerpio",
-    "press_url": "https://aerpio.com/news/",
-    "candidate_links": []
-  },
-  {
-    "company": "Change Bioscience",
-    "press_url": "https://changebioscience.com/news/",
     "candidate_links": []
   },
   {

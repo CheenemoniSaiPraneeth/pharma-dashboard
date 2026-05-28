@@ -1,4 +1,24 @@
 {
+  "2026-05-28": {
+    "bispecific antibodies": [
+      {
+        "company": "AbbVie",
+        "modality": "bispecific antibodies",
+        "news": "The U.S. FDA has approved DECNUPAZ (pivekimab sunirine-pvzy) for the treatment of adult patients with blastic plasmacytoid dendritic cell neoplasm (BPDCN). This approval, supported by Phase 1/2 CADENZA trial data, marks AbbVie's first ADC approved for blood cancer, though the drug is technically an antibody-drug conjugate targeting CD123.",
+        "url": "https://news.abbvie.com/2026-05-27-U-S-FDA-Approves-DECNUPAZTM-pivekimab-sunirine-pvzy-for-Treatment-of-Adult-Patients-with-Blastic-Plasmacytoid-Dendritic-Cell-Neoplasm,-an-Ultra-Rare-and-Aggressive-Blood-Cancer-With-Limited-Treatment-Options",
+        "query": "bispecific antibodies"
+      }
+    ],
+    "monoclonal antibodies": [
+      {
+        "company": "AbbVie",
+        "modality": "monoclonal antibodies",
+        "news": "The U.S. FDA has approved DECNUPAZ (pivekimab sunirine-pvzy), a CD123-targeting antibody-drug conjugate (ADC), for the treatment of adult patients with blastic plasmacytoid dendritic cell neoplasm (BPDCN). This approval, supported by data from the Phase 1/2 CADENZA trial, marks AbbVie's first ADC approved for blood cancer and the first of its kind for BPDCN that can be initiated in an outpatient setting.",
+        "url": "https://news.abbvie.com/2026-05-27-U-S-FDA-Approves-DECNUPAZTM-pivekimab-sunirine-pvzy-for-Treatment-of-Adult-Patients-with-Blastic-Plasmacytoid-Dendritic-Cell-Neoplasm,-an-Ultra-Rare-and-Aggressive-Blood-Cancer-With-Limited-Treatment-Options",
+        "query": "monoclonal antibodies"
+      }
+    ]
+  },
   "2026-05-27": {
     "monoclonal antibodies": [
       {
