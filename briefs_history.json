@@ -1,4 +1,47 @@
 {
+  "2026-05-29": {
+    "bispecific antibodies": [
+      {
+        "company": "Pfizer",
+        "modality": "bispecific antibodies",
+        "news": "Pfizer and Innovent Biologics entered a global strategic collaboration to develop 12 oncology programs, including multi-specific antibodies with differentiated immune-engaging features. Pfizer secured exclusive global or outside-Greater China licenses for eight programs and will co-develop four programs with Innovent, involving a $650 million upfront payment.",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-innovent-biologics-enter-global-strategic",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "AstraZeneca",
+        "modality": "bispecific antibodies",
+        "news": "AstraZeneca announced its strategy to investigate next-generation immunotherapies, explicitly including bispecific antibodies and T-cell engagers, to overcome tumor immune evasion. This initiative complements their existing portfolio anchored by Imfinzi and Imjudo.",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/imfinzi-approved-in-us-for-early-bladder-cancer.html",
+        "query": "bispecific antibodies"
+      }
+    ],
+    "monoclonal antibodies": [
+      {
+        "company": "Pfizer",
+        "modality": "monoclonal antibodies",
+        "news": "Pfizer and Innovent Biologics entered a global strategic collaboration to develop 12 oncology programs, including multi-specific antibodies and antibody-drug conjugates. The deal includes an exclusive global license for four programs and co-development of four others, with Innovent receiving a $650 million upfront payment.",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-innovent-biologics-enter-global-strategic",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "AstraZeneca",
+        "modality": "monoclonal antibodies",
+        "news": "The FDA approved AstraZeneca's Imfinzi (durvalumab), a human monoclonal antibody, in combination with BCG for treating BCG-naïve, high-risk non-muscle-invasive bladder cancer. The approval is based on Phase III POTOMAC trial results showing a 32% reduction in the risk of disease recurrence, progression, or death.",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/imfinzi-approved-in-us-for-early-bladder-cancer.html",
+        "query": "monoclonal antibodies"
+      }
+    ],
+    "gene editing": [
+      {
+        "company": "CRISPR Therapeutics",
+        "modality": "gene editing",
+        "news": "CRISPR Therapeutics announced its senior management team will participate in upcoming investor conferences in June 2026, including the Jefferies Global Healthcare Conference and Goldman Sachs Global Healthcare Conference. The company continues to advance its gene editing pipeline, including its proprietary SyNTase™ platform, following the historic approval of its CRISPR-based therapy CASGEVY.",
+        "url": "https://crisprtx.com/about-us/press-releases-and-presentations/crispr-therapeutics-to-participate-in-upcoming-investor-conferences-21",
+        "query": "gene editing"
+      }
+    ]
+  },
   "2026-05-28": {
     "bispecific antibodies": [
       {

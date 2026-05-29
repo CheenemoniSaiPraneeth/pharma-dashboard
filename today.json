@@ -1,198 +1,254 @@
 [
     {
-        "company": "Sanofi",
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-05-28-05-00-00-3302498",
+        "company": "Novartis",
+        "url": "https://www.novartis.com/stories/pushing-prostate-cancer-treatment-frontier-radioligand-therapy-and-beyond",
+        "score": 96,
+        "date_added": "2026-05-29",
+        "article_like": true
+    },
+    {
+        "company": "Novartis",
+        "url": "https://www.novartis.com/diseases/multiple-sclerosis/you-know-your-ms-best",
+        "score": 66,
+        "date_added": "2026-05-29",
+        "article_like": true
+    },
+    {
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/05/trace-OCP-pesticide-analysis",
         "score": 107,
-        "date_added": "2026-05-28",
+        "date_added": "2026-05-29",
         "article_like": true
     },
     {
         "company": "Veeva Systems",
-        "url": "https://www.veeva.com/resources/veeva-announces-falcon-an-agentic-platform-and-standard-agents-to-deliver-agentic-labor-in-drug-development/",
-        "score": 135,
-        "date_added": "2026-05-28",
+        "url": "https://www.veeva.com/resources/veeva-quality-cloud-advances-manufacturing-operations-for-kindeva/",
+        "score": 93,
+        "date_added": "2026-05-29",
         "article_like": true
     },
     {
-        "company": "Veeva Systems",
-        "url": "https://www.veeva.com/resources/merck-kgaa-darmstadt-germany-selects-veeva-vault-crm-worldwide/",
-        "score": 90,
-        "date_added": "2026-05-28",
+        "company": "SCIEX",
+        "url": "https://sciex.com/resource-hub/knowledge-base-articles",
+        "score": 51,
+        "date_added": "2026-05-29",
         "article_like": true
     },
     {
-        "company": "Veeva Systems",
-        "url": "https://www.veeva.com/resources/teva-pharmaceuticals-commits-to-veeva-vault-crm/",
-        "score": 75,
-        "date_added": "2026-05-28",
+        "company": "SCIEX",
+        "url": "https://sciex.com/resource-hub/instructor-led-training",
+        "score": 51,
+        "date_added": "2026-05-29",
         "article_like": true
     },
     {
-        "company": "Boston Consulting Group",
-        "url": "https://www.bcg.com/press/28may2026-ai-powered-factories-rewriting-rules-global-manufacturing",
-        "score": 88,
-        "date_added": "2026-05-28",
+        "company": "SCIEX",
+        "url": "https://sciex.com/resource-hub/regulatory-documents",
+        "score": 48,
+        "date_added": "2026-05-29",
+        "article_like": true
+    },
+    {
+        "company": "SCIEX",
+        "url": "https://sciex.com/resource-hub/self-paced-learning",
+        "score": 47,
+        "date_added": "2026-05-29",
+        "article_like": true
+    },
+    {
+        "company": "SCIEX",
+        "url": "https://sciex.com/resource-hub/technical-notes",
+        "score": 43,
+        "date_added": "2026-05-29",
+        "article_like": true
+    },
+    {
+        "company": "SCIEX",
+        "url": "https://sciex.com/search-results?contentType=Training&facetId=trainingcoursetype&value=Self%20paced%20learning",
+        "score": 27,
+        "date_added": "2026-05-29",
+        "article_like": true
+    },
+    {
+        "company": "Fumex India",
+        "url": "https://fumex.com/when-the-right-expertise-meets-the-right-idea-the-fumex-augmented-reality-app/",
+        "score": 93,
+        "date_added": "2026-05-29",
+        "article_like": true
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=bc61a03c-575f-4947-81df-4e8f48663e60",
+        "score": 80,
+        "date_added": "2026-05-29",
+        "article_like": true
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=33feefed-cdea-46a1-a278-1b9bdc6276f3",
+        "score": 80,
+        "date_added": "2026-05-29",
         "article_like": true
     },
     {
         "company": "EY-Parthenon",
-        "url": "https://www.ey.com/en_gl/newsroom/2026/05/entrepreneurs-tighten-focus-on-disciplined-growth-and-ai-led-execution-as-capital-constraints-reshape-risk-outlook-ey-parthenon-study-finds",
-        "score": 208,
-        "date_added": "2026-05-28",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/05/jitendra-mohan-sanjay-gajendra-and-casey-morrison-from-the-united-states-named-ey-world-entrepreneur-of-the-year-2026",
+        "score": 186,
+        "date_added": "2026-05-29",
         "article_like": true
     },
     {
-        "company": "EY-Parthenon",
-        "url": "https://www.ey.com/en_gl/locations/france#monaco-monaco",
-        "score": 29,
-        "date_added": "2026-05-28",
-        "article_like": true
-    },
-    {
-        "company": "Lupin",
-        "url": "https://www.lupin.com/media/perspectives/digital-therapeutics-and-health-tech-in-india-evidence-economics-and-execution",
-        "score": 114,
-        "date_added": "2026-05-28",
-        "article_like": true
-    },
-    {
-        "company": "Lupin",
-        "url": "https://www.lupin.com/media/press-releases/lupin-shares-phase-1-data-on-lnp-8701-at-the-asco-annual-meeting-2026",
-        "score": 107,
-        "date_added": "2026-05-28",
-        "article_like": true
-    },
-    {
-        "company": "Lupin",
-        "url": "https://www.lupin.com/media/press-releases/lupin-s-ankleshwar-facility-receives-eir-from-u-s-fda",
-        "score": 91,
-        "date_added": "2026-05-28",
-        "article_like": true
-    },
-    {
-        "company": "Lupin",
-        "url": "https://www.lupin.com/media/perspectives/reimagining-access-in-asthma-care-for-the-next-decade",
-        "score": 89,
-        "date_added": "2026-05-28",
-        "article_like": true
-    },
-    {
-        "company": "Abbott Laboratories",
-        "url": "https://abbott.mediaroom.com/2026-05-27-Abbott-secures-CE-Mark-for-worlds-first-dual-glucose-ketone-sensing-technology-for-people-with-diabetes",
-        "score": 127,
-        "date_added": "2026-05-28",
-        "article_like": true
-    },
-    {
-        "company": "Abbott Laboratories",
-        "url": "https://abbott.mediaroom.com/2026-05-27-Abbott-secures-CE-Mark-for-worlds-first-dual-glucose-ketone-sensing-technology-for-people-with-diabetes#assets_2429_124753-111",
-        "score": 127,
-        "date_added": "2026-05-28",
-        "article_like": true
-    },
-    {
-        "company": "Abbott Laboratories",
-        "url": "https://abbott.mediaroom.com/2026-05-27-ACS-guideline-reaffirms-Abbott-leadership-in-noninvasive-colorectal-cancer-screening",
-        "score": 108,
-        "date_added": "2026-05-28",
-        "article_like": true
-    },
-    {
-        "company": "Abbott Laboratories",
-        "url": "https://abbott.mediaroom.com/2026-05-27-ACS-guideline-reaffirms-Abbott-leadership-in-noninvasive-colorectal-cancer-screening#assets_2429_124752-111",
-        "score": 108,
-        "date_added": "2026-05-28",
-        "article_like": true
-    },
-    {
-        "company": "GSK",
-        "url": "https://www.gsk.com/en-gb/media/press-releases/bepirovirsen-achieves-unprecedented-functional-cure-rates-with-potential-to-redefine-treatment-for-chronic-hepatitis-b/",
-        "score": 167,
-        "date_added": "2026-05-28",
-        "article_like": true
-    },
-    {
-        "company": "WuXi Biologics",
-        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-achieves-gmp-release-of-18th-drug-product-facility-advancing-integrated-drug-substance-to-drug-product-capabilities/",
-        "score": 162,
-        "date_added": "2026-05-28",
+        "company": "Rx Propellant",
+        "url": "https://rxpropellant.com/the-strategic-advantage-of-scientific-ecosystems-2/",
+        "score": 66,
+        "date_added": "2026-05-29",
         "article_like": true
     },
     {
         "company": "Labcorp Drug Development",
-        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-present-jefferies-global-healthcare-conference.html",
-        "score": 138,
-        "date_added": "2026-05-28",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-launches-expanded-dpyd-test-identify-cancer-patients.html",
+        "score": 144,
+        "date_added": "2026-05-29",
         "article_like": true
     },
     {
-        "company": "Labcorp Drug Development",
-        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/five-tips-controlling-diabetes-and-blood-sugar-during-summer.html",
-        "score": 138,
-        "date_added": "2026-05-28",
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/press-release/digital-solutions",
+        "score": 46,
+        "date_added": "2026-05-29",
         "article_like": true
     },
     {
         "company": "Pfizer",
-        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-invites-public-view-and-listen-webcast-pfizer-27",
-        "score": 114,
-        "date_added": "2026-05-28",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-innovent-biologics-enter-global-strategic",
+        "score": 111,
+        "date_added": "2026-05-29",
+        "article_like": true
+    },
+    {
+        "company": "AstraZeneca",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/imfinzi-approved-in-us-for-early-bladder-cancer.html",
+        "score": 148,
+        "date_added": "2026-05-29",
         "article_like": true
     },
     {
         "company": "Johnson & Johnson",
-        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-to-host-investor-conference-call-on-second-quarter-results-2026",
-        "score": 124,
-        "date_added": "2026-05-28",
+        "url": "https://www.jnj.com/media-center/press-releases/fda-approves-label-expansion-cementing-tremfya-as-the-only-il-23-inhibitor-proven-to-help-stop-further-joint-damage",
+        "score": 160,
+        "date_added": "2026-05-29",
         "article_like": true
     },
     {
-        "company": "AbbVie",
-        "url": "https://news.abbvie.com/2026-05-27-U-S-FDA-Approves-DECNUPAZTM-pivekimab-sunirine-pvzy-for-Treatment-of-Adult-Patients-with-Blastic-Plasmacytoid-Dendritic-Cell-Neoplasm,-an-Ultra-Rare-and-Aggressive-Blood-Cancer-With-Limited-Treatment-Options",
-        "score": 231,
-        "date_added": "2026-05-28",
+        "company": "Astellas Pharma",
+        "url": "https://newsroom.astellas.com/2026-05-29-notice-regarding-the-resignation-of-an-outside-director-and-partial-withdrawal-of-matters-to-be-resolved-at-the-21st-term-annual-shareholders-meeting",
+        "score": 173,
+        "date_added": "2026-05-29",
         "article_like": true
     },
     {
-        "company": "BeiGene",
-        "url": "https://ir.beonemedicines.com/news/beone-medicines-announces-phase-3-herizon-gea-data-published-in-nejm-and-presented-at-asco-2026/846b9a7b-16ad-4d69-9f97-287071e57f1f",
-        "score": 154,
-        "date_added": "2026-05-28",
+        "company": "Astellas Pharma",
+        "url": "https://newsroom.astellas.com/2026-05-29-astellas-view-on-iss-voting-recommendations",
+        "score": 67,
+        "date_added": "2026-05-29",
         "article_like": true
     },
     {
-        "company": "IQVIA",
-        "url": "https://www.iqvia.com/newsroom/2026/05/iqvia-ceo-to-speak-at-jefferies-global-healthcare-conference",
-        "score": 121,
-        "date_added": "2026-05-28",
+        "company": "CRISPR Therapeutics",
+        "url": "https://crisprtx.com/about-us/press-releases-and-presentations/crispr-therapeutics-to-participate-in-upcoming-investor-conferences-21",
+        "score": 129,
+        "date_added": "2026-05-29",
         "article_like": true
     },
     {
-        "company": "Ardigen",
-        "url": "https://ardigen.com/life-sciences-conference-takeaways/",
-        "score": 50,
-        "date_added": "2026-05-28",
+        "company": "Generate Biomedicines",
+        "url": "https://generatebiomedicines.com/media-center/generate-welcomes-laurie-lee",
+        "score": 56,
+        "date_added": "2026-05-29",
         "article_like": true
     },
     {
-        "company": "BioSolveIT",
-        "url": "https://www.biosolveit.de/2026/05/27/tool-of-the-month-infinisee-7-1-arke/",
-        "score": 94,
-        "date_added": "2026-05-28",
+        "company": "ICON plc",
+        "url": "https://www.iconplc.com/news-events/press-releases/icon-reports-fourth-quarter-and-full-year-2025-results",
+        "score": 98,
+        "date_added": "2026-05-29",
         "article_like": true
     },
     {
-        "company": "BioSolveIT",
-        "url": "https://www.biosolveit.de/2026/05/26/infinisee-7-1-arke-is-now-available/",
-        "score": 93,
-        "date_added": "2026-05-28",
+        "company": "ICON plc",
+        "url": "https://www.iconplc.com/news-events/events/webinars/flow-cytometry-bioanalysis",
+        "score": 73,
+        "date_added": "2026-05-29",
         "article_like": true
     },
     {
-        "company": "Grail",
-        "url": "https://grail.com/press-releases/grail-announces-inducement-grants-under-nasdaq-listing-rule-5635c4-8/",
-        "score": 101,
-        "date_added": "2026-05-28",
+        "company": "Catalent",
+        "url": "https://www.catalent.com/events/bio-international-2026/",
+        "score": 47,
+        "date_added": "2026-05-29",
+        "article_like": true
+    },
+    {
+        "company": "Sumitomo Pharma",
+        "url": "https://www.sumitomo-pharma.com/ir/shareholder/shareholder.html",
+        "score": 38,
+        "date_added": "2026-05-29",
+        "article_like": true
+    },
+    {
+        "company": "Otsuka Pharmaceutical",
+        "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260529_1.html",
+        "score": 80,
+        "date_added": "2026-05-29",
+        "article_like": true
+    },
+    {
+        "company": "Shionogi",
+        "url": "https://www.shionogi.com/global/en/news/2026/05/e20260529_1.html",
+        "score": 77,
+        "date_added": "2026-05-29",
+        "article_like": true
+    },
+    {
+        "company": "Intra-Cellular Therapies",
+        "url": "https://ir.intracellulartherapies.com/events-and-presentations/events/event-details/2026/Johnson--Johnson-Second-Quarter-2026-Earnings-Call",
+        "score": 147,
+        "date_added": "2026-05-29",
+        "article_like": true
+    },
+    {
+        "company": "KaryoPharm Therapeutics",
+        "url": "https://investors.karyopharm.com/2026-05-28-Karyopharm-to-Participate-at-the-2026-Jefferies-Global-Healthcare-Conference",
+        "score": 100,
+        "date_added": "2026-05-29",
+        "article_like": true
+    },
+    {
+        "company": "KaryoPharm Therapeutics",
+        "url": "https://investors.karyopharm.com/press-releases?o=580",
+        "score": 27,
+        "date_added": "2026-05-29",
+        "article_like": true
+    },
+    {
+        "company": "Valneva",
+        "url": "https://valneva.com/press-release/valneva-to-participate-at-u-s-and-european-investor-conferences-in-june-2/",
+        "score": 105,
+        "date_added": "2026-05-29",
+        "article_like": true
+    },
+    {
+        "company": "Oxford Nanopore Technologies",
+        "url": "https://nanoporetech.com/blog/from-synthesis-to-sequencing-how-synthetic-dna-is-shaping-genomics",
+        "score": 86,
+        "date_added": "2026-05-29",
+        "article_like": true
+    },
+    {
+        "company": "Menarini Group",
+        "url": "https://www.menarini.com/en-us/news/news-detail/menarini-group-presents-new-data-from-the-phase-1-b-2-elevate-study-of-elacestrant.html",
+        "score": 129,
+        "date_added": "2026-05-29",
         "article_like": true
     }
 ]
