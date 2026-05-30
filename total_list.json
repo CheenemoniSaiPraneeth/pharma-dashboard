@@ -625,6 +625,11 @@
         "score": 141
       },
       {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/05/amgen-to-present-at-jefferies-global-healthcare-conference",
+        "anchor_text": "AMGEN TO PRESENT AT JEFFERIES GLOBAL HEALTHCARE CONFERENCE",
+        "score": 136
+      },
+      {
         "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-reports-first-quarter-2026-financial-results",
         "anchor_text": "AMGEN REPORTS FIRST QUARTER 2026 FINANCIAL RESULTS",
         "score": 128
@@ -5000,6 +5005,11 @@
         "score": 27
       },
       {
+        "url": "https://www.alsglobal.com/en-SE/sweden",
+        "anchor_text": "EN",
+        "score": 27
+      },
+      {
         "url": "https://www.alsglobal.com/fr-CH/Suisse",
         "anchor_text": "FR",
         "score": 27
@@ -5095,6 +5105,11 @@
         "score": 15
       },
       {
+        "url": "https://www.alsglobal.com/sv/sverige",
+        "anchor_text": "SV",
+        "score": 15
+      },
+      {
         "url": "https://www.alsglobal.com/tr/turkiye",
         "anchor_text": "Turkey",
         "score": 15
@@ -5156,7 +5171,7 @@
       },
       {
         "url": "https://www.alsglobal.com/en/usa",
-        "anchor_text": "USA",
+        "anchor_text": "TESTER",
         "score": 11
       },
       {
@@ -6499,572 +6514,6 @@
     ]
   },
   {
-    "company": "Solix Technologies, Inc.",
-    "press_url": "https://www.solix.com/company/news-events/press-releases/",
-    "candidate_links": [
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/solix-technologies-and-computer-arabia-forge-strategic-partnership-to-accelerate-enterprise-data-modernization-in-qatar/",
-        "anchor_text": "Read More",
-        "score": 176
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/registration-open-for-solixempower-2025-a-data-and-ai-governance-conference-with-university-of-california-san-diego/",
-        "anchor_text": "Read More",
-        "score": 172
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/solix-strengthens-leadership-team-with-key-executive-appointments-to-accelerate-enterprise-ai-data-modernization/",
-        "anchor_text": "Read More",
-        "score": 169
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/solix-technologies-inc-announces-general-availability-for-solix-enterprise-ai-a-fourth-generation-data-platform/",
-        "anchor_text": "Read More",
-        "score": 168
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/solix-technologies-and-mindmap-technologies-announce-partnership-to-drive-enterprise-data-across-apac-singapore/",
-        "anchor_text": "Read More",
-        "score": 168
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/solix-technologies-announces-key-leadership-appointments-and-promotions-to-accelerate-global-ai-driven-growth/",
-        "anchor_text": "Read More",
-        "score": 166
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/solix-expands-into-japan-to-address-rising-data-compliance-pressures-under-appi-appoints-junichi-takayanagi/",
-        "anchor_text": "Read More",
-        "score": 164
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/solix-and-symbiosis-scei-smcw-partner-to-launch-center-of-excellence-for-new-drug-discovery-and-repurposing/",
-        "anchor_text": "Read More",
-        "score": 164
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/global-leaders-in-ai-data-management-and-governance-to-convene-at-solixempower-2025-in-san-diego/",
-        "anchor_text": "Read More",
-        "score": 153
-      },
-      {
-        "url": "https://www.solix.com/resources/lg/white-papers/enterprise-information-architecture-for-gen-ai-and-machine-learning/",
-        "anchor_text": "Enterprise Information Architecture for Gen AI and Machine Learning",
-        "score": 115
-      },
-      {
-        "url": "https://www.solix.com/resources/lg/white-papers/transforming-your-forgotten-data-into-ai-intelligence/",
-        "anchor_text": "The Rise Of Enterprise Intelligence",
-        "score": 101
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-accounting-and-finance/",
-        "anchor_text": "Accounting & Finance",
-        "score": 100
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-financial-institutions/",
-        "anchor_text": "Financial Services",
-        "score": 100
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/reimagining-the-enterprise-in-the-age-of-ai/",
-        "anchor_text": "Read More",
-        "score": 100
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-construction-industry/",
-        "anchor_text": "Construction",
-        "score": 99
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-legal-and-compliance/",
-        "anchor_text": "Legal & Compliance",
-        "score": 98
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-insurance-providers/",
-        "anchor_text": "Insurance",
-        "score": 97
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/cloud-archive-for-finance-and-accounting/",
-        "anchor_text": "Cloud Archive - Finance",
-        "score": 97
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-sales-and-marketing/",
-        "anchor_text": "Sales & Marketing",
-        "score": 97
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-human-resources/",
-        "anchor_text": "Human Resources",
-        "score": 93
-      },
-      {
-        "url": "https://www.solix.com/solutions/replace-ibm-infosphere-optim-with-solixcloud/",
-        "anchor_text": "Infosphere Optim Replace",
-        "score": 72
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/cloud-archive/",
-        "anchor_text": "Cloud Archive",
-        "score": 70
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/document-ai/",
-        "anchor_text": "Document AI",
-        "score": 68
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/page/15/",
-        "anchor_text": "15",
-        "score": 66
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/page/2/",
-        "anchor_text": "»",
-        "score": 65
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/page/3/",
-        "anchor_text": "3",
-        "score": 65
-      },
-      {
-        "url": "https://www.solix.com/solutions/cloud-data-management-for-jd-edwards/",
-        "anchor_text": "JD Edwards",
-        "score": 64
-      },
-      {
-        "url": "https://www.solix.com/solutions/cloud-data-management-for-peoplesoft/",
-        "anchor_text": "PeopleSoft",
-        "score": 64
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-data-archiving-solution/",
-        "anchor_text": "Enterprise Archiving",
-        "score": 61
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/pricing",
-        "anchor_text": "Pricing",
-        "score": 61
-      },
-      {
-        "url": "https://www.solix.com/solutions/cloud-data-management-for-siebel/",
-        "anchor_text": "Siebel",
-        "score": 60
-      },
-      {
-        "url": "https://www.solix.com/solutions/microsoft-sql-database-archiving/",
-        "anchor_text": "MS-SQL",
-        "score": 60
-      },
-      {
-        "url": "https://www.solix.com/products/application-retirement-solution/",
-        "anchor_text": "Application Retirement",
-        "score": 58
-      },
-      {
-        "url": "https://www.solix.com/solutions/cloud-data-management-for-baan/",
-        "anchor_text": "Baan",
-        "score": 58
-      },
-      {
-        "url": "https://www.solix.com/solutions/cloud-data-management-for-sap/",
-        "anchor_text": "SAP HANA",
-        "score": 57
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/#content",
-        "anchor_text": "Skip to content",
-        "score": 54
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/",
-        "anchor_text": "Enterprise Content Services",
-        "score": 54
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/",
-        "anchor_text": "",
-        "score": 54
-      },
-      {
-        "url": "https://www.solix.com/products/solix-common-data-platform/",
-        "anchor_text": "Solix Common Data Platform (CDP)",
-        "score": 53
-      },
-      {
-        "url": "https://www.solix.com/partners/global-technology-partners/",
-        "anchor_text": "Global Technology Partners",
-        "score": 53
-      },
-      {
-        "url": "https://www.solix.com/solutions/sensitive-data-discovery/",
-        "anchor_text": "Sensitive Data Discovery",
-        "score": 52
-      },
-      {
-        "url": "https://www.solix.com/solutions/mysql-database-archiving/",
-        "anchor_text": "MySQL",
-        "score": 52
-      },
-      {
-        "url": "https://www.solix.com/solutions/oracle-ebusiness-suite/",
-        "anchor_text": "Oracle Database",
-        "score": 50
-      },
-      {
-        "url": "https://www.solix.com/solutions/ibm-zseries-mainframe/",
-        "anchor_text": "zSystems Mainframe",
-        "score": 49
-      },
-      {
-        "url": "https://www.solix.com/company/touch-a-life-foundation/",
-        "anchor_text": "Corporate Social Responsibility",
-        "score": 49
-      },
-      {
-        "url": "https://www.solix.com/products/consumer-data-privacy/",
-        "anchor_text": "Consumer Data Privacy",
-        "score": 48
-      },
-      {
-        "url": "https://www.solix.com/services/professional-services/",
-        "anchor_text": "Professional Services",
-        "score": 48
-      },
-      {
-        "url": "https://www.solix.com/partners/become-solix-partner/",
-        "anchor_text": "Become A Partner",
-        "score": 47
-      },
-      {
-        "url": "https://www.solix.com/partners/partner-portal-login/",
-        "anchor_text": "Partner Portal",
-        "score": 47
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-archiving/",
-        "anchor_text": "DB2",
-        "score": 47
-      },
-      {
-        "url": "https://www.solix.com/services/assessment-services/",
-        "anchor_text": "Assessment Services",
-        "score": 46
-      },
-      {
-        "url": "https://www.solix.com/resources/on-demand-webinars/",
-        "anchor_text": "eBooks",
-        "score": 46
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/events/",
-        "anchor_text": "Events",
-        "score": 46
-      },
-      {
-        "url": "https://www.solix.com/products/data-lake-solution/",
-        "anchor_text": "Enterprise Data Lake",
-        "score": 45
-      },
-      {
-        "url": "https://www.solix.com/products/database-archiving/",
-        "anchor_text": "Database Archiving",
-        "score": 45
-      },
-      {
-        "url": "https://www.solix.com/partners/big-data-partners/",
-        "anchor_text": "Big Data Partners",
-        "score": 44
-      },
-      {
-        "url": "https://www.solix.com/company/investor-relations/",
-        "anchor_text": "Investor Relations",
-        "score": 44
-      },
-      {
-        "url": "https://www.solix.com/solutions/solix-eai-pharma/",
-        "anchor_text": "Pharma and Biotech",
-        "score": 44
-      },
-      {
-        "url": "https://www.solix.com/solutions/data-governance/",
-        "anchor_text": "Data Governance",
-        "score": 43
-      },
-      {
-        "url": "https://www.solix.com/products/email-archiving/",
-        "anchor_text": "Email Archiving",
-        "score": 42
-      },
-      {
-        "url": "https://www.solix.com/partners/partner-program/",
-        "anchor_text": "Distribution Partners",
-        "score": 42
-      },
-      {
-        "url": "https://www.solix.com/products/file-archiving/",
-        "anchor_text": "File Archiving",
-        "score": 41
-      },
-      {
-        "url": "https://www.solix.com/partners/cloud-partners/",
-        "anchor_text": "Cloud Partners / Hyperscalers",
-        "score": 41
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-ai/",
-        "anchor_text": "Enterprise AI",
-        "score": 40
-      },
-      {
-        "url": "https://www.solix.com/products/ai-governance/",
-        "anchor_text": "AI Governance",
-        "score": 40
-      },
-      {
-        "url": "https://www.solix.com/products/ai-healthcare/",
-        "anchor_text": "AI Healthcare",
-        "score": 40
-      },
-      {
-        "url": "https://www.solix.com/services/support-login/",
-        "anchor_text": "Support Portal",
-        "score": 40
-      },
-      {
-        "url": "https://www.solix.com/resources/white-papers/",
-        "anchor_text": "White Papers",
-        "score": 40
-      },
-      {
-        "url": "https://www.solix.com/resources/case-studies/",
-        "anchor_text": "Case Studies",
-        "score": 40
-      },
-      {
-        "url": "https://www.solix.com/company/contact-sales/",
-        "anchor_text": "Contact Sales",
-        "score": 39
-      },
-      {
-        "url": "https://www.solix.com/products/ai-warehouse/",
-        "anchor_text": "AI Warehouse",
-        "score": 39
-      },
-      {
-        "url": "https://www.solix.com/products/data-masking/",
-        "anchor_text": "Data Masking",
-        "score": 39
-      },
-      {
-        "url": "https://www.solix.com/partners/our-partners/",
-        "anchor_text": "Our Partners",
-        "score": 39
-      },
-      {
-        "url": "https://www.solix.com/partners/oem-partners/",
-        "anchor_text": "OEM Partners",
-        "score": 39
-      },
-      {
-        "url": "https://www.solix.com/company/analyst-views/",
-        "anchor_text": "Analyst Views",
-        "score": 39
-      },
-      {
-        "url": "https://www.solix.com/products/request-demo/",
-        "anchor_text": "Request Demo",
-        "score": 39
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/",
-        "anchor_text": "Newsroom",
-        "score": 37
-      },
-      {
-        "url": "https://www.solix.com/solutions/ia-for-ai/",
-        "anchor_text": "Information Architecture (IA) for AI",
-        "score": 37
-      },
-      {
-        "url": "https://www.solix.com/acceptable-use-policy/",
-        "anchor_text": "Acceptable Use Policy",
-        "score": 37
-      },
-      {
-        "url": "https://www.solix.com/company/contact-us/",
-        "anchor_text": "Contact Us",
-        "score": 36
-      },
-      {
-        "url": "https://www.solix.com/terms-and-conditions/",
-        "anchor_text": "Terms & Conditions",
-        "score": 36
-      },
-      {
-        "url": "https://www.solix.com/leadership-lessons/",
-        "anchor_text": "Leadership Lessons",
-        "score": 34
-      },
-      {
-        "url": "https://www.solix.com/solutions/manufacturing/",
-        "anchor_text": "Manufacturing",
-        "score": 31
-      },
-      {
-        "url": "https://www.solix.com/privacy-policy/",
-        "anchor_text": "Privacy Policy",
-        "score": 30
-      },
-      {
-        "url": "https://www.solix.com/solutions/healthcare/",
-        "anchor_text": "Healthcare",
-        "score": 28
-      },
-      {
-        "url": "https://www.solix.com/solutions/government/",
-        "anchor_text": "Government",
-        "score": 28
-      },
-      {
-        "url": "https://www.solix.com/resources/datasheets/",
-        "anchor_text": "Datasheets",
-        "score": 28
-      },
-      {
-        "url": "https://www.solix.com/solutions/insurance/",
-        "anchor_text": "Insurance",
-        "score": 27
-      },
-      {
-        "url": "https://www.solix.com/resources/podcasts/",
-        "anchor_text": "Podcasts",
-        "score": 26
-      },
-      {
-        "url": "https://www.solix.com/company/leadership/",
-        "anchor_text": "Leadership",
-        "score": 26
-      },
-      {
-        "url": "https://www.solix.com/solutions/banking/",
-        "anchor_text": "Banking",
-        "score": 25
-      },
-      {
-        "url": "https://www.solix.com/solutions/finance/",
-        "anchor_text": "Finance",
-        "score": 25
-      },
-      {
-        "url": "https://www.solix.com/solutions/telecom/",
-        "anchor_text": "Telecom",
-        "score": 25
-      },
-      {
-        "url": "https://www.solix.com/solutions/retail/",
-        "anchor_text": "Retail",
-        "score": 24
-      },
-      {
-        "url": "https://www.solix.com/resources/ebooks/",
-        "anchor_text": "eBooks",
-        "score": 24
-      },
-      {
-        "url": "https://www.solix.com/company/careers/",
-        "anchor_text": "Careers",
-        "score": 23
-      },
-      {
-        "url": "https://www.solix.com/solutions/",
-        "anchor_text": "Solutions",
-        "score": 15
-      },
-      {
-        "url": "https://www.solix.com/resources/",
-        "anchor_text": "Resources",
-        "score": 15
-      },
-      {
-        "url": "https://www.solix.com/products/",
-        "anchor_text": "Products",
-        "score": 14
-      },
-      {
-        "url": "https://www.solix.com/services/",
-        "anchor_text": "Services & Support",
-        "score": 14
-      },
-      {
-        "url": "https://www.solix.com/partners/",
-        "anchor_text": "Partners",
-        "score": 14
-      },
-      {
-        "url": "https://www.solix.com/company/",
-        "anchor_text": "Company",
-        "score": 13
-      },
-      {
-        "url": "https://www.solix.com/sitemap/",
-        "anchor_text": "Sitemap",
-        "score": 13
-      },
-      {
-        "url": "https://www.solix.com/blog/",
-        "anchor_text": "Blogs",
-        "score": 10
-      },
-      {
-        "url": "https://www.solix.com/pt/",
-        "anchor_text": "Português",
-        "score": 8
-      },
-      {
-        "url": "https://www.solix.com/it/",
-        "anchor_text": "Italiano",
-        "score": 8
-      },
-      {
-        "url": "https://www.solix.com/ko/",
-        "anchor_text": "한국어",
-        "score": 8
-      },
-      {
-        "url": "https://www.solix.com/ja/",
-        "anchor_text": "日本語",
-        "score": 8
-      },
-      {
-        "url": "https://www.solix.com/es/",
-        "anchor_text": "Español",
-        "score": 8
-      },
-      {
-        "url": "https://www.solix.com/de/",
-        "anchor_text": "Deutsch",
-        "score": 8
-      },
-      {
-        "url": "https://www.solix.com/fr/",
-        "anchor_text": "Français",
-        "score": 8
-      },
-      {
-        "url": "https://www.solix.com/",
-        "anchor_text": "English",
-        "score": 3
-      }
-    ]
-  },
-  {
     "company": "Thermo Fisher Scientific",
     "press_url": "https://www.thermofisher.com/blog/",
     "candidate_links": [
@@ -7882,11 +7331,6 @@
         "score": 15
       },
       {
-        "url": "https://www.birac.nic.in/desc_new.php?id=1332",
-        "anchor_text": "Webinar on “Enzymes” Under the Biomanufacturing Initiative of DBT and BIRAC",
-        "score": 15
-      },
-      {
         "url": "https://www.birac.nic.in/desc_new.php?id=1328",
         "anchor_text": "List of selected E-YUVA Fellow (3rd Call)",
         "score": 15
@@ -7909,6 +7353,11 @@
       {
         "url": "https://www.birac.nic.in/desc_new.php?id=1289",
         "anchor_text": "DBT BIRAC Joint Call for Proposals on Bio-AI for establishing मूलांकुर hubs under BioE3 Policy for Biomanufacturing",
+        "score": 15
+      },
+      {
+        "url": "https://www.birac.nic.in/desc_new.php?id=1332",
+        "anchor_text": "Webinar on “Enzymes” Under the Biomanufacturing Initiative of DBT and BIRAC",
         "score": 15
       },
       {
@@ -7954,11 +7403,6 @@
       {
         "url": "https://www.birac.nic.in/desc_new.php?id=1306",
         "anchor_text": "Bid Status - Bid Ref No.: No. BIRAC/HR&A/007/2025/ENQ-57",
-        "score": 15
-      },
-      {
-        "url": "https://www.birac.nic.in/desc_new.php?id=1304",
-        "anchor_text": "Webinar: Pilot scale production of Green Hydrogen (19 January ,2026 at 4:00 pm)",
         "score": 15
       },
       {
@@ -8179,6 +7623,742 @@
       },
       {
         "url": "https://www.focalcxm.com/",
+        "anchor_text": "",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "company": "o2h Discovery",
+    "press_url": "https://o2h.com/news/",
+    "candidate_links": [
+      {
+        "url": "https://o2h.com/ventures/o2h-are-working-with-new-boston-based-start-up-arrakis-supporting-discovery-efforts-and-making-the-seed-funding-stretch-further/",
+        "anchor_text": "o2h discovery are working with new Boston based start-up Arrakis, supporting discovery efforts and",
+        "score": 154
+      },
+      {
+        "url": "https://o2h.com/ventures/exonate-receives-wellcome-trust-funding-to-develop-eye-drop-treatment-for-wet-age-related-macular-degeneration-wet-amd/",
+        "anchor_text": "o2h group update: Exonate receives Wellcome Trust funding to develop eye drop treatment for wet ag",
+        "score": 145
+      },
+      {
+        "url": "https://o2h.com/press-release/neophore-closed-series-b-round-successfully-and-expands-its-drug-discovery-collaboration-with-o2h-discovery/",
+        "anchor_text": "Neophore closed £15.2m series B round successfully and expands its drug discovery collaboration w",
+        "score": 139
+      },
+      {
+        "url": "https://o2h.com/o2h-therapeutics-and-ai-s-eis-fund/the-o2h-therapeutics-and-ai-fund-makes-investment-in-early-stage-biotechnology-company/",
+        "anchor_text": "The o2h Therapeutics and AI Fund makes investment in early stage biotechnology company",
+        "score": 139
+      },
+      {
+        "url": "https://o2h.com/ventures/investment-in-the-seed-round-of-phoremost-who-have-developed-a-next-generation-phenotypic-screening-platform/",
+        "anchor_text": "Investment in the seed round of Phoremost who have developed a next-generation phenotypic screenin",
+        "score": 135
+      },
+      {
+        "url": "https://o2h.com/ventures/orfan-biotech-a-company-dedicated-to-developing-small-molecules-for-the-treatment-of-primary-hyperoxaluria/",
+        "anchor_text": "Orfan Biotech, a company dedicated to developing small molecules for the treatment of Primary Hype",
+        "score": 133
+      },
+      {
+        "url": "https://o2h.com/discovery/press-release-phoremost-and-o2h-discovery-collaborate-to-progress-first-in-class-drug-discovery-programs/",
+        "anchor_text": "Press Release – PhoreMost and o2h discovery collaborate to progress first-in-class drug disc",
+        "score": 132
+      },
+      {
+        "url": "https://o2h.com/discovery/press-release-curza-and-o2h-discovery-announce-a-multi-fte-chemistry-collaboration-against-gram-negative/",
+        "anchor_text": "Press Release – Curza and o2h discovery announce a multi-FTE chemistry collaboration against",
+        "score": 132
+      },
+      {
+        "url": "https://o2h.com/ventures/arecor-secures-6m-investment-for-the-clinical-development-of-its-diabetes-speciality-pharma-portfolio/",
+        "anchor_text": "Arecor secures £6M investment for the clinical development of its diabetes speciality pharma port",
+        "score": 128
+      },
+      {
+        "url": "https://o2h.com/discovery/o2h-discovery-is-pleased-to-announce-a-10-fte-synthetic-chemistry-collaboration-with-heptares/",
+        "anchor_text": "o2h discovery is pleased to announce a 10 FTE Synthetic Chemistry collaboration with Heptares",
+        "score": 121
+      },
+      {
+        "url": "https://o2h.com/discovery/boosting-the-success-potential-of-promising-biotech-startups-the-o2h-kickstarter-competition/",
+        "anchor_text": "Boosting the success potential of promising Biotech Startups: the o2h kickstarter competition",
+        "score": 120
+      },
+      {
+        "url": "https://o2h.com/o2h-therapeutics-and-ai-s-eis-fund/2-percent-off-the-initial-fee-for-o2h-therapeutics-and-ai-eis-fund/",
+        "anchor_text": "2% off the initial fee for The o2h Therapeutics and AI S/EIS Fund",
+        "score": 119
+      },
+      {
+        "url": "https://o2h.com/o2h-therapeutics-and-ai-s-eis-fund/press-release-the-o2h-therapeutics-fund-makes-its-first-investment/",
+        "anchor_text": "Press Release – The o2h Therapeutics Fund makes its first investment",
+        "score": 119
+      },
+      {
+        "url": "https://o2h.com/ventures/o2h-ventures-knowledge-intensive-human-health-eis-fund-invests-into-bivictrix-therapeutics/",
+        "anchor_text": "o2h Ventures ‘Knowledge Intensive Human Health EIS Fund’ invests into BiVictriX Therapeutics",
+        "score": 117
+      },
+      {
+        "url": "https://o2h.com/ventures/watch-o2h-ventures-ceo-sunil-shah-feature-in-the-british-business-bank-finance-guide-video/",
+        "anchor_text": "Watch o2h Ventures CEO Sunil Shah feature in the British Business Bank Finance Guide video",
+        "score": 117
+      },
+      {
+        "url": "https://o2h.com/discovery/lipid-nanoparticles-o2h-discovery-has-expertise-in-synthesizing-phospholipid-molecules/",
+        "anchor_text": "Lipid Nanoparticles: o2h discovery’s expertise in synthesizing phospholipid molecules to sup",
+        "score": 114
+      },
+      {
+        "url": "https://o2h.com/press-release/o2h-group-marks-20-years-with-the-7th-o2h-collaborative-innovation-conference/",
+        "anchor_text": "o2h Group Marks 20 Years with the 7th o2h Collaborative Innovation Conference",
+        "score": 109
+      },
+      {
+        "url": "https://o2h.com/discovery/o2h-discovery-pleased-to-announce-multi-fte-expansion-with-cedilla-therapeutics/",
+        "anchor_text": "Cedilla Therapeutics and o2h discovery are pleased to announce multi FTE expansion to their synthe",
+        "score": 107
+      },
+      {
+        "url": "https://o2h.com/discovery/finalist-for-best-performing-rd-service-provider-of-the-year-at-on-awards-2024/",
+        "anchor_text": "Finalist for ‘Best Performing R&D Service Provider of the Year’ at ON Awards 2024",
+        "score": 106
+      },
+      {
+        "url": "https://o2h.com/press-release/o2h-discovery-is-in-the-finals-for-most-impactful-cro-at-obn-awards-2023/",
+        "anchor_text": "o2h discovery is in the finals for ‘Most Impactful CRO’ at OBN Awards 2023",
+        "score": 104
+      },
+      {
+        "url": "https://o2h.com/press-release/digital-brain-biomarker-company-monument-therapeutics-raises-2-6-million/",
+        "anchor_text": "Digital brain biomarker company Monument Therapeutics raises £2.6 million",
+        "score": 104
+      },
+      {
+        "url": "https://o2h.com/ventures/chemisty-in-the-cloudtm-the-worlds-first-app-to-project-manage-drug-discovery/",
+        "anchor_text": "Chemistry in the Cloud™ – The World’s First App To Project Manage Drug Discover",
+        "score": 104
+      },
+      {
+        "url": "https://o2h.com/discovery/o2h-discovery-expands-synthetic-chemistry-collaboration-with-sosei-heptares/",
+        "anchor_text": "o2h discovery expands synthetic chemistry collaboration with Sosei Heptares",
+        "score": 103
+      },
+      {
+        "url": "https://o2h.com/discovery/sunil-shah-ceo-o2h-discovery-wins-special-recognition-award-by-obn-uk-ltd/",
+        "anchor_text": "Sunil Shah, CEO, o2h discovery Wins Special Recognition Award by OBN UK Ltd",
+        "score": 101
+      },
+      {
+        "url": "https://o2h.com/o2h-ventures/sunil-shah-ceo-o2h-ventures-makes-it-to-final-in-the-ukbaa-awards-2019/",
+        "anchor_text": "Sunil Shah, CEO, o2h ventures, makes it to final in the UKBAA Awards 2019",
+        "score": 101
+      },
+      {
+        "url": "https://o2h.com/press-release/o2h-ventures-backed-in4derm-signed-an-option-and-licensing-agreement/",
+        "anchor_text": "o2h Ventures backed In4Derm Announces a Strategic Partnership with a Nasdaq listed biotech with a",
+        "score": 100
+      },
+      {
+        "url": "https://o2h.com/press-release/sunil-shah-wins-the-cambridge-independent-awards-as-ceo-of-the-year/",
+        "anchor_text": "Sunil Shah, CEO of o2h ventures, wins the Cambridge Independent Science and Technology Awards as C",
+        "score": 99
+      },
+      {
+        "url": "https://o2h.com/o2h-ventures/o2h-ventures-finalist-in-the-great-eis-25th-year-anniversary-awards/",
+        "anchor_text": "o2h Ventures makes it to the final in the Great EIS 25th Year Anniversary Awards",
+        "score": 98
+      },
+      {
+        "url": "https://o2h.com/press-release/o2h-technology-appoints-fiona-nielsen-as-chief-operations-officer/",
+        "anchor_text": "o2h Technology appoints serial entrepreneur Fiona Nielsen as Chief Operations Officer",
+        "score": 97
+      },
+      {
+        "url": "https://o2h.com/discovery/stingray-bio-and-o2h-discovery-collaborate-for-oncology-therapeutics/",
+        "anchor_text": "Stingray Bio and o2h discovery initiate a collaboration to develop the next-generation of oncology",
+        "score": 96
+      },
+      {
+        "url": "https://o2h.com/ventures/arecor-announces-license-agreement-with-global-pharmaceutical-company/",
+        "anchor_text": "Arecor Announces License Agreement with Global Pharmaceutical Company",
+        "score": 96
+      },
+      {
+        "url": "https://o2h.com/discovery/iota-pharmaceuticals-in-1-5m-window-consortium-tackling-glioblastoma/",
+        "anchor_text": "IOTA Pharmaceuticals in £1.5M WINDOW Consortium Tackling Glioblastoma",
+        "score": 96
+      },
+      {
+        "url": "https://o2h.com/press-release/o2h-co-work-lab-launches-worlds-first-influencer-tech-bootcamp/",
+        "anchor_text": "o2h co-work Lab Launches World’s First Influencer Tech Bootcamp",
+        "score": 94
+      },
+      {
+        "url": "https://o2h.com/ventures/o2h-ventures-limited-has-now-launched-the-o2h-therapeutics-eis-fund/",
+        "anchor_text": "o2h ventures limited has now launched the o2h therapeutics fund",
+        "score": 94
+      },
+      {
+        "url": "https://o2h.com/ventures/oxford-drug-design-recieves-over-8m-in-grant-and-equity-investment/",
+        "anchor_text": "Oxford Drug Design recieves over £8m in grant and equity investment",
+        "score": 93
+      },
+      {
+        "url": "https://o2h.com/discovery/dynamics-of-surface-plasmon-resonance-in-biological-applications/",
+        "anchor_text": "Understanding the Dynamics of Surface Plasmon Resonance (SPR) in Biological Applications",
+        "score": 92
+      },
+      {
+        "url": "https://o2h.com/uncategorized/o2h-group-supporting-biotechbikerss-networking-ride-june2023/",
+        "anchor_text": "o2h group supporting BiotechBikers’s networking ride – June2023",
+        "score": 92
+      },
+      {
+        "url": "https://o2h.com/events/o2hdiscovery-is-exhibiting-at-the-efmc-ismc-international-symposium/",
+        "anchor_text": "o2h discovery is exhibiting at the XXVII EFMC ISMC International Symposium on Medicinal Chemistry",
+        "score": 92
+      },
+      {
+        "url": "https://o2h.com/events/finalists-in-the-cambridge-independent-science-and-tech-awards-2020/",
+        "anchor_text": "o2h group in the finals of Cambridge Independent Science and Tech Awards 2020",
+        "score": 92
+      },
+      {
+        "url": "https://o2h.com/press-release/o2h-discovery-launches-the-o2h-kickstarter-competition-3-0/",
+        "anchor_text": "o2h discovery launches ‘the o2h kickstarter competition’ to support Israeli early stag",
+        "score": 90
+      },
+      {
+        "url": "https://o2h.com/community/o2h-volunteers-visit-jeevan-dhara-old-age-home-ahmedabad-india/",
+        "anchor_text": "o2h community volunteers visit “Jeevan Dhara” – Old age home, Ahmedabad, India.",
+        "score": 90
+      },
+      {
+        "url": "https://o2h.com/discovery/chamelogk-assay-unveiling-chameleonicity-for-protac-molecules/",
+        "anchor_text": "ChamelogK Assay: Unveiling Chameleonicity for Protac Molecules",
+        "score": 89
+      },
+      {
+        "url": "https://o2h.com/topics/drug-discovery/o2h-kickstarter-5-0-for-early-stage-usa-biotech/",
+        "anchor_text": "o2h kickstarter 5.0 for early stage USA biotech",
+        "score": 89
+      },
+      {
+        "url": "https://o2h.com/o2h-ventures/o2h-ventures-finalist-tax-efficiency-awards-investmentweek/",
+        "anchor_text": "o2h ventures makes it to the finals in the Tax Efficiency Awards",
+        "score": 89
+      },
+      {
+        "url": "https://o2h.com/topics/art/biotech-bikers-special-edition-with-o2h-group-july-august/",
+        "anchor_text": "Biotech Bikers Special Edition with o2h group – July & August 2023",
+        "score": 88
+      },
+      {
+        "url": "https://o2h.com/o2h-events-and-conferences/3rd-o2h-collaborative-innovation-conference/",
+        "anchor_text": "Delighted to Announce the 3rd o2h group collaborative innovation conference",
+        "score": 88
+      },
+      {
+        "url": "https://o2h.com/discovery/o2h-announces-expanded-chemistry-collaboration-with-heptares/",
+        "anchor_text": "o2h discovery Announces Expanded Chemistry Collaboration With Heptares",
+        "score": 88
+      },
+      {
+        "url": "https://o2h.com/discovery/empowering-targeted-protein-degradation-with-protac-service/",
+        "anchor_text": "“Empowering Targeted Protein Degradation with Protac Services: Unleashing the Power of E3 Li",
+        "score": 87
+      },
+      {
+        "url": "https://o2h.com/discovery/citc-best-use-of-technology-award-in-pharma-industry-awards/",
+        "anchor_text": "CITC won the “Best Use of technology” award in Pharma Industry Awards UK",
+        "score": 87
+      },
+      {
+        "url": "https://o2h.com/events/o2h-group-is-supporting-the-upcoming-biotech-bikers-event-2022/",
+        "anchor_text": "o2h group is supporting upcoming Biotech Bikers’ event Nov 2022",
+        "score": 87
+      },
+      {
+        "url": "https://o2h.com/o2h-ventures/exonate-announces-collaboration-with-johnson-and-johnson/",
+        "anchor_text": "o2h ventures portfolio company Exonate announces collaboration with Johnson & Johnson",
+        "score": 87
+      },
+      {
+        "url": "https://o2h.com/community/pleased-to-announce-the-13th-edition-of-o2h-womens-open-day/",
+        "anchor_text": "Pleased to Announce the 13th Edition of o2h Women’s Open Day",
+        "score": 87
+      },
+      {
+        "url": "https://o2h.com/community/o2h-community-service-project-hiv-orphanage-ahmedabad-india/",
+        "anchor_text": "o2h community, Community Service Project, HIV Orphanage, Ahmedabad, India.",
+        "score": 87
+      },
+      {
+        "url": "https://o2h.com/discovery/o2h-discovery-launches-the-o2h-kickstarter-competition-4-0/",
+        "anchor_text": "o2h discovery launches the o2h kickstarter competition 4.0 to support Italian early stage biotechs",
+        "score": 86
+      },
+      {
+        "url": "https://o2h.com/discovery/o2h-discovery-launches-the-o2h-kickstarter-competition-2-0/",
+        "anchor_text": "o2h discovery launches the o2h kickstarter competition 2.0 to support Australian early stage biote",
+        "score": 86
+      },
+      {
+        "url": "https://o2h.com/press-release/acquires-40000-sq-ft-hauxton-meadows-site-in-cambridge/",
+        "anchor_text": "o2h group acquires 40,000 sq ft Hauxton Meadows site in Cambridge, UK with plans to develop state-",
+        "score": 86
+      },
+      {
+        "url": "https://o2h.com/o2h-ventures/sunil-shah-o2h-ventures-wins-angel-investor-of-the-year/",
+        "anchor_text": "Sunil Shah, o2h ventures wins Angel Investor of the Year",
+        "score": 86
+      },
+      {
+        "url": "https://o2h.com/press-release/entrepreneur-prashant-shah-becomes-ned-at-one-nucleus/",
+        "anchor_text": "Entrepreneur Prashant Shah becomes NED at One Nucleus",
+        "score": 85
+      },
+      {
+        "url": "https://o2h.com/therapeutics/fighting-coronavirus-an-update-on-remdesivir-by-gilead/",
+        "anchor_text": "Fighting Coronavirus – an update on Remdesivir by Gilead",
+        "score": 85
+      },
+      {
+        "url": "https://o2h.com/community/completed-the-first-stage-of-its-tree-plantation-campaign/",
+        "anchor_text": "o2h community has completed the first stage of its campaign to plant 10,000 trees",
+        "score": 85
+      },
+      {
+        "url": "https://o2h.com/ventures/stemnovate-secures-funding-from-angels-led-by-o2h-ventures/",
+        "anchor_text": "Stemnovate secures funding from angels led by o2h ventures",
+        "score": 85
+      },
+      {
+        "url": "https://o2h.com/co-work/prashant-shah-finalists-cambridge-independent-awards-2022/",
+        "anchor_text": "Prashant Shah, CEO of o2h co work labs and Co-Founder of o2h group shortlisted in the Cambridge In",
+        "score": 83
+      },
+      {
+        "url": "https://o2h.com/discovery/nilesh-dagia-coo-o2h-discovery-wins-the-go-beyond-award/",
+        "anchor_text": "Nilesh Dagia, COO, o2h discovery, wins the International Institute for Sustainable Labs (I2SL) Go",
+        "score": 83
+      },
+      {
+        "url": "https://o2h.com/press-release/launching-kickstarter-for-early-stage-usa-biotech/",
+        "anchor_text": "o2h discovery launches ‘o2h kickstarter competition 5.0’ to support American early stage biote",
+        "score": 81
+      },
+      {
+        "url": "https://o2h.com/events/o2h-discovery-exhibiting-3rd-rsc-ai-chemistry-symposium/",
+        "anchor_text": "o2h discovery is exhibiting at the 3rd RSC-BMCS / RSC-CICAG Artificial Intelligence in Chemistry s",
+        "score": 80
+      },
+      {
+        "url": "https://o2h.com/o2h-ventures/privitar-raises-40-million-series-b-funding-round/",
+        "anchor_text": "Privitar Raises $40 Million Series B Funding Round Led by Accel to Facilitate the Safe and Ethical",
+        "score": 80
+      },
+      {
+        "url": "https://o2h.com/community/o2h-community-the-ahmedabad-project-tree-plantation/",
+        "anchor_text": "o2h community collaborated with The Ahmedabad Project to plant over 2000 trees",
+        "score": 79
+      },
+      {
+        "url": "https://o2h.com/ventures/o2h-update-oxford-drug-design-secures-1-5m-financing/",
+        "anchor_text": "o2h ventures update:  Oxford Drug Design secures £1.5M financing",
+        "score": 79
+      },
+      {
+        "url": "https://o2h.com/discovery/data-sharing-made-easy-with-chemistry-in-the-cloud/",
+        "anchor_text": "Data sharing made easy with Chemistry in the Cloud (CITC)",
+        "score": 78
+      },
+      {
+        "url": "https://o2h.com/co-work/mill-scitech-park-pre-planning-application-submitted/",
+        "anchor_text": "Mill SciTech Park pre-planning application submitted",
+        "score": 78
+      },
+      {
+        "url": "https://o2h.com/o2h-events-and-conferences/o2h-invites-you-to-innovation-day/",
+        "anchor_text": "o2h group invites you to Innovation day",
+        "score": 78
+      },
+      {
+        "url": "https://o2h.com/co-work-labs/award-for-excellence-in-adaptive-reuse-by-i2sl/",
+        "anchor_text": "o2h co-work labs wins the award for Excellence in Adaptive Reuse by I2SL",
+        "score": 77
+      },
+      {
+        "url": "https://o2h.com/press-release/o2h-group-acquires-heritage-hauxton-mill-site/",
+        "anchor_text": "Press release – o2h group acquires the 2.76 acre heritage Hauxton Mill site, Cambridge, UK w",
+        "score": 77
+      },
+      {
+        "url": "https://o2h.com/events/6th-edition-o2h-collaborative-innovation-conference/",
+        "anchor_text": "o2h group hosts the 6th o2h Collaborative Innovation Conference",
+        "score": 76
+      },
+      {
+        "url": "https://o2h.com/discovery/the-o2h-kickstarter-evaluation-committee-members/",
+        "anchor_text": "Meet the o2h kickstarter evaluation committee members…",
+        "score": 76
+      },
+      {
+        "url": "https://o2h.com/events/5th-edition-o2h-collaborative-innovation-conference/",
+        "anchor_text": "o2h group hosted 5th edition of the o2h Collaborative Innovation Conference in Ahmedabad",
+        "score": 76
+      },
+      {
+        "url": "https://o2h.com/technology/biiah-wins-the-o2h-tech-kickstarter-competition/",
+        "anchor_text": "Biiah, a tech startup committed to improving people’s health through singing, wins the o2h t",
+        "score": 76
+      },
+      {
+        "url": "https://o2h.com/technology/routezero-wins-o2h-tech-kickstarter-competition/",
+        "anchor_text": "RouteZero, a greentech startup committed to decarbonising business travel wins the o2h tech kickst",
+        "score": 76
+      },
+      {
+        "url": "https://o2h.com/discovery/how-o2h-kickstarter-empowering-biotech-startups/",
+        "anchor_text": "How o2h Kickstarter Is Empowering Early Stage Biotech Startups: Addressing Key Challenges Head-On",
+        "score": 75
+      },
+      {
+        "url": "https://o2h.com/discovery/protai-wins-the-o2h-kickstarter-competition-3-0/",
+        "anchor_text": "Protai, a proteomics and AI-powered drug discovery startup wins the o2h kickstarter competition 3.",
+        "score": 75
+      },
+      {
+        "url": "https://o2h.com/discovery/collaborating-for-first-in-class-drug-discovery/",
+        "anchor_text": "ImmuNext and o2h discovery collaborate to progress first-in-class drug discovery programs",
+        "score": 75
+      },
+      {
+        "url": "https://o2h.com/therapeutics/impacting-covid19-opportunities-for-chemists/",
+        "anchor_text": "Impacting COVID-19 – Opportunities for Chemists",
+        "score": 75
+      },
+      {
+        "url": "https://o2h.com/discovery/kuano-limited-wins-o2h-kickstarter-competition/",
+        "anchor_text": "Kuano Limited, a quantum simulation led biotech company wins o2h discovery kick-starter competitio",
+        "score": 74
+      },
+      {
+        "url": "https://o2h.com/discovery/attending-the-33rd-medicinal-chemistry-meeting/",
+        "anchor_text": "Claudio Dagostin will be representing o2h discovery at the 33rd Medicinal Chemistry Meeting",
+        "score": 74
+      },
+      {
+        "url": "https://o2h.com/events/o2h-launches-first-ever-cambridge-wide-open-day/",
+        "anchor_text": "We are delighted to launch the first ever Cambridge Wide Open Day to drive inclusive collaboration",
+        "score": 72
+      },
+      {
+        "url": "https://o2h.com/events/the-5th-o2h-collaborative-innovation-conference/",
+        "anchor_text": "o2h group announces the 5th o2h collaborative innovation conference 2023",
+        "score": 72
+      },
+      {
+        "url": "https://o2h.com/events/o2h-discovery-exhibiting-at-drug-discovery-2021/",
+        "anchor_text": "o2h discovery is exhibiting at the ElRIG UK’s annual conference Drug Discovery 2021",
+        "score": 72
+      },
+      {
+        "url": "https://o2h.com/team-ventures/in4derm-enters-in-an-exclusive-agreement/",
+        "anchor_text": "o2h Ventures backed In4Derm enters into an exclusive license agreement with VYNE Therapeutics",
+        "score": 72
+      },
+      {
+        "url": "https://o2h.com/ventures/o2h-ventures-makes-investment-in-small-pharma/",
+        "anchor_text": "o2h ventures Makes an Investment in Small Pharma",
+        "score": 72
+      },
+      {
+        "url": "https://o2h.com/events/sponsoring-and-exhibiting-at-the-3rd-mmcs-2022/",
+        "anchor_text": "o2h discovery is sponsoring and exhibiting at the 3rd Molecules Medicinal Chemistry Symposium R",
+        "score": 71
+      },
+      {
+        "url": "https://o2h.com/co-work-labs/worlds-first-influencer-biotech-bootcamp/",
+        "anchor_text": "o2h co-work Labs Launches the World’s First Influencer Biotech Bootcamp…",
+        "score": 71
+      },
+      {
+        "url": "https://o2h.com/o2h-ventures/o2h-ventures-sunil-shah-the-sunday-times/",
+        "anchor_text": "Q&A with Angel Investor Sunil Shah | The Sunday Times",
+        "score": 71
+      },
+      {
+        "url": "https://o2h.com/discovery/citc-finalist-in-pharma-industry-awards-uk/",
+        "anchor_text": "CITCᵀᴹ – Finalist in Pharma Industry Awards UK 2023",
+        "score": 70
+      },
+      {
+        "url": "https://o2h.com/discovery/psylo-wins-o2h-kickstarter-competition-2-0/",
+        "anchor_text": "Psylo, a biotech company developing next-gen drugs for psychiatric disorders wins o2h kickstarter",
+        "score": 70
+      },
+      {
+        "url": "https://o2h.com/o2h-events-and-conferences/o2h-innovation-day-teaser/",
+        "anchor_text": "o2h group Innovation day teaser",
+        "score": 70
+      },
+      {
+        "url": "https://o2h.com/ventures/human-health-seis-fund-invests-into-sanome/",
+        "anchor_text": "o2h Ventures “Human Health SEIS Fund” Invests into Sanome…",
+        "score": 69
+      },
+      {
+        "url": "https://o2h.com/events/supporting-biotechbikers-networking-event-uk/",
+        "anchor_text": "o2h group is supporting the upcoming BiotechBikers’ networking event in The UK",
+        "score": 69
+      },
+      {
+        "url": "https://o2h.com/ventures/exonate-receives-uk-angel-investment-award/",
+        "anchor_text": "Exonate receives UK Angel Investment Award",
+        "score": 69
+      },
+      {
+        "url": "https://o2h.com/discovery/azadyne-wins-o2h-kickstarter-competition/",
+        "anchor_text": "Azadyne, a biotech startup targeting autoimmune disease wins o2h discovery kickstarter competition",
+        "score": 68
+      },
+      {
+        "url": "https://o2h.com/events/sci-rsc-22nd-medicinal-chemistry-symposium/",
+        "anchor_text": "o2h discovery is participating in the SCI-RSC 22nd Medicinal Chemistry Symposium",
+        "score": 67
+      },
+      {
+        "url": "https://o2h.com/discovery/kickstarter-newsletter-chaitime-webinar/",
+        "anchor_text": "o2h Kickstarter Newsletter: Chaitime Webinar",
+        "score": 67
+      },
+      {
+        "url": "https://o2h.com/events/exhibiting-at-the-rsc-bmcs-2022-conference/",
+        "anchor_text": "o2h discovery is exhibiting at the 8th RSC-BMCS Fragment-based Drug Discovery Meeting – 2022",
+        "score": 67
+      },
+      {
+        "url": "https://o2h.com/press-release/knowledge-intensive-eis-fund-launch/",
+        "anchor_text": "o2h ventures launches the first HMRC approved knowledge intensive EIS fund focused on UK biotech t",
+        "score": 67
+      },
+      {
+        "url": "https://o2h.com/ventures/metrion-biosciences-closes-funding-round/",
+        "anchor_text": "Metrion Biosciences Closes Funding Round- o2h Ventures",
+        "score": 67
+      },
+      {
+        "url": "https://o2h.com/ventures/makes-it-to-the-finals-eisa-awards-2021/",
+        "anchor_text": "o2h Ventures makes it to the finals in the EISA Awards 2021…",
+        "score": 66
+      },
+      {
+        "url": "https://o2h.com/press-release/launching-cambridge-wide-open-day/",
+        "anchor_text": "‘UK science powerhouse’ opens its doors for the Cambridge Wide Open Day & Tour",
+        "score": 65
+      },
+      {
+        "url": "https://o2h.com/events/o2h-to-attend-these-upcoming-conferences/",
+        "anchor_text": "o2h group to attend these upcoming conferences",
+        "score": 65
+      },
+      {
+        "url": "https://o2h.com/community/o2h-group-planted-ten-thousand-trees/",
+        "anchor_text": "Press Release – o2h group accomplished its goal of planting ten thousand trees",
+        "score": 64
+      },
+      {
+        "url": "https://o2h.com/events/biotechbikers-millscitechpark-aug-2022/",
+        "anchor_text": "o2h group is supporting the upcoming Biotech Bikers’ event 2022",
+        "score": 63
+      },
+      {
+        "url": "https://o2h.com/ventures/fireside-chat-with-sir-mene-pangalos/",
+        "anchor_text": "o2h Ventures is hosting Jingle Chai – A Fireside Chat with Sir Mene Pangalos",
+        "score": 63
+      },
+      {
+        "url": "https://o2h.com/press-release/first-cambridge-wide-open-day/",
+        "anchor_text": "First Cambridge Open Day is city-wide success for tech firms and local community",
+        "score": 61
+      },
+      {
+        "url": "https://o2h.com/8th-collaborative-innovation-conference-2026/",
+        "anchor_text": "Innovation Conference 2026",
+        "score": 60
+      },
+      {
+        "url": "https://o2h.com/events/biotechbikers-millscitechpark-2022/",
+        "anchor_text": "o2h group is supporting the BiotechBikers’ event 2022",
+        "score": 59
+      },
+      {
+        "url": "https://o2h.com/events/the-o2h-innovation-conference-2019/",
+        "anchor_text": "The o2h Innovation Conference 2019 14th March at Courtyard by Marriott, Ahmedabad",
+        "score": 59
+      },
+      {
+        "url": "https://o2h.com/discovery/kickstarter-competition-launch/",
+        "anchor_text": "o2h discovery launches the o2h kickstarter competition to support early stage biotechs’",
+        "score": 58
+      },
+      {
+        "url": "https://o2h.com/co-work-labs/influencer-biotech-bootcamp/",
+        "anchor_text": "o2h co work labs Hosted the World’s First Influencer Biotech Bootcamp…",
+        "score": 58
+      },
+      {
+        "url": "https://o2h.com/discovery/chemistry-process-optimization/",
+        "anchor_text": "Chemistry Process Optimization – an inevitable parameter for the developmental phase of the drug",
+        "score": 58
+      },
+      {
+        "url": "https://o2h.com/discovery/targeted-protein-degradation/",
+        "anchor_text": "Targeted Protein Degradation/PROTAC Services: Revolutionizing the drug discovery approach with PRO",
+        "score": 56
+      },
+      {
+        "url": "https://o2h.com/careers/woman-in-science-and-tech/",
+        "anchor_text": "Women in science and tech",
+        "score": 51
+      },
+      {
+        "url": "https://o2h.com/discovery/protac-services-biology/",
+        "anchor_text": "PROTAC – o2h discovery’s biology expertise",
+        "score": 51
+      },
+      {
+        "url": "https://o2h.com/careers/recruitment-and-training/",
+        "anchor_text": "Recruitment & training",
+        "score": 50
+      },
+      {
+        "url": "https://o2h.com/o2h-events-and-conferences/904-2/",
+        "anchor_text": "We are celebrating o2h Collaborative Innovation Conference, Ahmedabad 2018 at 15th March 2018",
+        "score": 50
+      },
+      {
+        "url": "https://o2h.com/ventures/happy-10th-birthday-o2h/",
+        "anchor_text": "Happy 10th Birthday o2h group",
+        "score": 50
+      },
+      {
+        "url": "https://o2h.com/o2h-kickstarter-innovate-america/",
+        "anchor_text": "o2h Kickstarter: Innovate America",
+        "score": 48
+      },
+      {
+        "url": "https://o2h.com/the-o2h-kickstarter-competition/",
+        "anchor_text": "o2h Kickstarter: Global",
+        "score": 47
+      },
+      {
+        "url": "https://o2h.com/events/o2h-group-kindness-day/",
+        "anchor_text": "o2h group announces Kindness Day in memory of Shabu Thomas",
+        "score": 47
+      },
+      {
+        "url": "https://o2h.com/o2h-discovery-platinum-partner/",
+        "anchor_text": "o2h Discovery Platinum Partner",
+        "score": 46
+      },
+      {
+        "url": "https://o2h.com/events/bia-gala-dinner-2022/",
+        "anchor_text": "o2h group is attending BIA Gala Dinner 2022",
+        "score": 45
+      },
+      {
+        "url": "https://o2h.com/events/second-kindness-day/",
+        "anchor_text": "o2h group is observing Kindness Day in memory of Shabu Thomas",
+        "score": 44
+      },
+      {
+        "url": "https://o2h.com/exhibiting-attending-events/",
+        "anchor_text": "events",
+        "score": 43
+      },
+      {
+        "url": "https://o2h.com/careers/culture-values/",
+        "anchor_text": "o2h group culture, people and values",
+        "score": 40
+      },
+      {
+        "url": "https://o2h.com/lipid-nanoparticles/",
+        "anchor_text": "Lipid-nanoparticles",
+        "score": 35
+      },
+      {
+        "url": "https://o2h.com/cookies-policy/",
+        "anchor_text": "Cookies Policy",
+        "score": 30
+      },
+      {
+        "url": "https://o2h.com/privacy-policy/",
+        "anchor_text": "Privacy Policy",
+        "score": 30
+      },
+      {
+        "url": "https://o2h.com/co-work-labs/",
+        "anchor_text": "co-work labs",
+        "score": 28
+      },
+      {
+        "url": "https://o2h.com/csr-policy/",
+        "anchor_text": "CSR Policy",
+        "score": 26
+      },
+      {
+        "url": "https://o2h.com/therapeutics/",
+        "anchor_text": "Therapeutics",
+        "score": 18
+      },
+      {
+        "url": "https://o2h.com/technology/",
+        "anchor_text": "Technology",
+        "score": 16
+      },
+      {
+        "url": "https://o2h.com/community/",
+        "anchor_text": "Community",
+        "score": 15
+      },
+      {
+        "url": "https://o2h.com/discovery/",
+        "anchor_text": "Discovery",
+        "score": 15
+      },
+      {
+        "url": "https://o2h.com/chaitime/",
+        "anchor_text": "o2h Chaitime",
+        "score": 14
+      },
+      {
+        "url": "https://o2h.com/contact/",
+        "anchor_text": "contact",
+        "score": 13
+      },
+      {
+        "url": "https://o2h.com/about/",
+        "anchor_text": "about",
+        "score": 11
+      },
+      {
+        "url": "https://o2h.com/news/",
+        "anchor_text": "news",
+        "score": 10
+      },
+      {
+        "url": "https://o2h.com/team/",
+        "anchor_text": "team",
+        "score": 10
+      },
+      {
+        "url": "https://o2h.com/",
         "anchor_text": "",
         "score": 3
       }
@@ -8525,11 +8705,6 @@
         "score": 39
       },
       {
-        "url": "https://genotypic.co.in/index.php/resources/publications",
-        "anchor_text": "Publications",
-        "score": 39
-      },
-      {
         "url": "https://genotypic.co.in/index.php/whatwedo/partnerwithus",
         "anchor_text": "Partner With Us",
         "score": 39
@@ -8618,6 +8793,11 @@
         "url": "https://genotypic.co.in/aboutus/news/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjE1NDAiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
         "anchor_text": "",
         "score": 20
+      },
+      {
+        "url": "https://genotypic.co.in/publication/",
+        "anchor_text": "Publication",
+        "score": 17
       },
       {
         "url": "https://genotypic.co.in/contact/",
@@ -11389,6 +11569,11 @@
         "score": 38
       },
       {
+        "url": "https://www.tredence.com/careers/greatest-of-ai",
+        "anchor_text": "HIRING GOATs",
+        "score": 37
+      },
+      {
         "url": "https://www.tredence.com/services/generative-ai",
         "anchor_text": "Generative AI",
         "score": 37
@@ -11439,13 +11624,13 @@
         "score": 29
       },
       {
-        "url": "https://www.tredence.com/company-careers",
-        "anchor_text": "Careers",
+        "url": "https://www.tredence.com/data-and-ai-101",
+        "anchor_text": "Data & AI 101",
         "score": 28
       },
       {
-        "url": "https://www.tredence.com/data-and-ai-101",
-        "anchor_text": "Data & AI 101",
+        "url": "https://www.tredence.com/company-careers",
+        "anchor_text": "Careers",
         "score": 28
       },
       {
@@ -16319,6 +16504,11 @@
         "score": 147
       },
       {
+        "url": "https://www.sailife.com/sai-life-sciences-launches-child-safety-awareness-program-in-government-schools-in-hyderabad-with-sankalp-foundation/",
+        "anchor_text": "Read more",
+        "score": 132
+      },
+      {
         "url": "https://www.sailife.com/sai-life-sciences-becomes-first-indian-crdmo-with-a-site-powered-by-100-renewable-energy/",
         "anchor_text": "Read more",
         "score": 104
@@ -16327,6 +16517,16 @@
         "url": "https://www.sailife.com/pushing-boundaries-in-organic-chemistry-iisc-prof-santanu-mukherjee-at-sai-life-sciences/",
         "anchor_text": "Read more",
         "score": 104
+      },
+      {
+        "url": "https://www.sailife.com/india-is-evolving-from-being-a-tactical-supplier-to-a-strategic-partner-to-global-pharma/",
+        "anchor_text": "Read more",
+        "score": 104
+      },
+      {
+        "url": "https://www.sailife.com/where-nature-inspires-innovation-university-of-kansas-prof-apurba-dutta-visits-sai/",
+        "anchor_text": "Read more",
+        "score": 98
       },
       {
         "url": "https://www.sailife.com/sai-life-sciences-recognized-as-a-best-organization-for-women-bow-2026-by-et-edge/",
@@ -16342,6 +16542,11 @@
         "url": "https://www.sailife.com/kudikunta-lake-restoration-completed-marking-the-revival-of-an-urban-water-body/",
         "anchor_text": "Read more",
         "score": 95
+      },
+      {
+        "url": "https://www.sailife.com/sai-life-sciences-becomes-a-signatory-to-the-un-womens-empowerment-principles/",
+        "anchor_text": "Read more",
+        "score": 93
       },
       {
         "url": "https://www.sailife.com/inside-sai-life-sciences-integrated-rd-campus-accelerating-drug-development/",
@@ -16369,6 +16574,11 @@
         "score": 80
       },
       {
+        "url": "https://www.sailife.com/decoding-the-signals-of-life-cdfds-dr-rashna-bhandari-visits-sai/",
+        "anchor_text": "Read more",
+        "score": 80
+      },
+      {
         "url": "https://www.sailife.com/new-medicinal-chemistry-block-set-for-inauguration-in-hyderabad/",
         "anchor_text": "Read more",
         "score": 79
@@ -16390,6 +16600,11 @@
       },
       {
         "url": "https://www.sailife.com/ai-driven-retrosynthesis-integrated-into-discovery-chemistry/",
+        "anchor_text": "Read more",
+        "score": 76
+      },
+      {
+        "url": "https://www.sailife.com/sai-life-sciences-limited-sustains-growth-momentum-in-q2fy26/",
         "anchor_text": "Read more",
         "score": 76
       },
@@ -16564,7 +16779,7 @@
         "score": 21
       },
       {
-        "url": "https://www.sailife.com/news/page/4/?ajax=true",
+        "url": "https://www.sailife.com/news/page/5/?ajax=true",
         "anchor_text": "next page",
         "score": 21
       },
@@ -18063,7 +18278,7 @@
       },
       {
         "url": "https://www.illumina.com/company/news-center.html",
-        "anchor_text": "Share on Linkedin",
+        "anchor_text": "Cookie Management Center",
         "score": 39
       },
       {
@@ -22268,9 +22483,9 @@
     "press_url": "https://rxpropellant.com/news/",
     "candidate_links": [
       {
-        "url": "https://rxpropellant.com/the-strategic-advantage-of-scientific-ecosystems-2/",
+        "url": "https://rxpropellant.com/why-water-stewardship-is-now-a-core-pillar-of-scientific-infrastructure/",
         "anchor_text": "Why Water Stewardship Is Now a Core Pillar of Scientific Infrastructure",
-        "score": 66
+        "score": 87
       },
       {
         "url": "https://rxpropellant.com/the-strategic-advantage-of-scientific-ecosystems/",
@@ -24792,9 +25007,9 @@
         "score": 114
       },
       {
-        "url": "https://www.lupin.com/media/perspectives/integrating-esg-performance-into-long-term-capital-strategy-for-indian-pharma",
-        "anchor_text": "March 13, 2026Integrating ESG Performance into Long-Term Capital Strategy for Indian Pharma",
-        "score": 113
+        "url": "https://www.lupin.com/media/perspectives/water-climate-resilience-and-green-manufacturing-will-define-future-pharma",
+        "anchor_text": "May 29, 2026Water, Climate Resilience & Green Manufacturing Will Define Future Pharma",
+        "score": 110
       },
       {
         "url": "https://www.lupin.com/media/press-releases/lupin-receives-china-approval-for-oseltamivir-phosphate-oral-suspension",
@@ -29586,6 +29801,11 @@
         "score": 148
       },
       {
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-supports-multi-institution-trial-expand-genetic-testing.html",
+        "anchor_text": "Labcorp Supports Multi-Institution Trial to Expand Genetic Testing in Colorectal Cancer",
+        "score": 147
+      },
+      {
         "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-launches-mylabcorptm-new-ai-powered-mobile-app-designed.html",
         "anchor_text": "Labcorp Launches MyLabcorp™, a New AI-Powered Mobile App Designed to Help Consumers Understand Lab Results and Track Health Trends Over Time",
         "score": 147
@@ -29644,11 +29864,6 @@
         "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/new-heart-health-guidelines-start-early-age-30-what-you-need-know.html",
         "anchor_text": "Read moreRead More about New heart health guidelines start as early as age 30: What you need to know",
         "score": 143
-      },
-      {
-        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-and-epic-expand-collaboration-advance-diagnostic.html",
-        "anchor_text": "Labcorp and Epic Expand Collaboration to Advance Diagnostic Integration across Hospitals and Health Systems",
-        "score": 140
       },
       {
         "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-present-jefferies-global-healthcare-conference.html",
@@ -36062,6 +36277,11 @@
         "score": 47
       },
       {
+        "url": "https://www.foundationmedicine.com/press-release/foundationone-mrd",
+        "anchor_text": "Foundation Medicine Launches FoundationOne®MRD, First-of-Its-Kind Molecular Residual Disease Test to Combine Structural Variants and Digital PCR",
+        "score": 46
+      },
+      {
         "url": "https://www.foundationmedicine.com/press-release/digital-solutions",
         "anchor_text": "Foundation Medicine to Launch Advanced Digital Solutions to Support Faster Cancer Treatment Decision Making",
         "score": 46
@@ -36144,11 +36364,6 @@
       {
         "url": "https://www.foundationmedicine.com/press-release/concertai",
         "anchor_text": "ConcertAI and Foundation Medicine Integrate Genomic and Clinical Data to Transform Translational Research and Efficient Drug Development",
-        "score": 38
-      },
-      {
-        "url": "https://www.foundationmedicine.com/press-release/esmo-2025",
-        "anchor_text": "Foundation Medicine Spotlights Scientific Achievements Across its Portfolio of High-Quality Biomarker Tests at the 2025 European Society for Medical Oncology (ESMO) Congress",
         "score": 38
       },
       {
@@ -36398,11 +36613,6 @@
         "score": 116
       },
       {
-        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-invites-shareholders-view-and-listen-webcast-april",
-        "anchor_text": "Pfizer Invites Shareholders to View and Listen to Webcast of April 23 Virtual 2026 Annual Meeting of Shareholders",
-        "score": 116
-      },
-      {
         "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizers-elrexfio-significantly-improves-progression-free",
         "anchor_text": "Pfizer’s ELREXFIO Significantly Improves Progression-Free Survival for Double-Class Exposed Patients with Relapsed or Refractory Multiple Myeloma",
         "score": 115
@@ -36421,6 +36631,11 @@
         "url": "https://www.pfizer.com/news/press-release/press-release-detail/european-commission-approves-pfizers-hympavzi-treatment",
         "anchor_text": "European Commission Approves Pfizer’s HYMPAVZI for the Treatment of Adults and Adolescents with Hemophilia A or B With Inhibitors",
         "score": 114
+      },
+      {
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/seven-year-analysis-pfizers-lorbrena-crown-trial-shows",
+        "anchor_text": "Seven-Year Analysis from Pfizer’s LORBRENA CROWN Trial Shows Longest Progression-Free Survival Reported to Date in Advanced Non-Small Cell Lung Cancer",
+        "score": 113
       },
       {
         "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-advances-pivotal-pediatric-pneumococcal-vaccine",
@@ -36753,11 +36968,6 @@
         "score": 38
       },
       {
-        "url": "https://www.pfizer.com/newsroom/press-releases?field_media_asset_category_target_id[22795]=22795",
-        "anchor_text": "Corporate",
-        "score": 38
-      },
-      {
         "url": "https://www.pfizer.com/newsroom/press-releases?field_media_asset_category_target_id[22798]=22798",
         "anchor_text": "Research and Pipeline",
         "score": 38
@@ -36765,6 +36975,11 @@
       {
         "url": "https://www.pfizer.com/newsroom/press-releases?field_tags_target_id[6461]=6461",
         "anchor_text": "Research",
+        "score": 38
+      },
+      {
+        "url": "https://www.pfizer.com/newsroom/press-releases?field_media_asset_category_target_id[22795]=22795",
+        "anchor_text": "Corporate",
         "score": 38
       },
       {
@@ -37335,7 +37550,7 @@
       },
       {
         "url": "https://www.roche.com/investors/bonds",
-        "anchor_text": "Share price329.70CHF+ 0.80(+0.24%)Today",
+        "anchor_text": "Share price329.30CHF+ 0.40(+0.12%)Today",
         "score": 20
       },
       {
@@ -37430,9 +37645,9 @@
     "press_url": "https://www.astrazeneca.com/media-centre/press-releases.html",
     "candidate_links": [
       {
-        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/eneboparatide-normalised-serum-calcium-and-achieved-independence-from-supplements-in-31-1-percent-of-adults-with-HypoPT-in-CALYPSO-Phase-iii-trial.html",
-        "anchor_text": "Eneboparatide normalised serum calcium and achieved independence from active vitamin D and oral calcium supplements in 31.1% of adults with hypoparathyroidism at week 24 in CALYPSO Phase III trial12 May 2026",
-        "score": 247
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/cares-phase-iii-clinical-programme-did-not-meet-primary-endpoint-in-overall-light-chain-amyloidosis-population.html",
+        "anchor_text": "CARES Phase III clinical programme did not meet primary endpoint in overall light chain amyloidosis population, however, demonstrated anselamimab as potential first anti-fibril therapy in kappa light chain amyloidosis29 May 2026",
+        "score": 211
       },
       {
         "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/astrazeneca-to-showcase-phase-iii-data-at-asco-2026.html",
@@ -37986,6 +38201,11 @@
         "score": 227
       },
       {
+        "url": "https://www.jnj.com/media-center/press-releases/rybrevant-amivantamab-vmjw-plus-lazcluze-lazertinib-demonstrates-prolonged-clinical-benefit-as-a-first-line-treatment-for-atypical-egfr-mutated-non-small-cell-lung-cancer",
+        "anchor_text": "Read more",
+        "score": 215
+      },
+      {
         "url": "https://www.jnj.com/media-center/press-releases/depuy-synthes-announces-agreement-to-acquire-miniature-radiofrequency-tracking-technology-across-its-joint-reconstruction-portfolio",
         "anchor_text": "Read more",
         "score": 176
@@ -37996,12 +38216,12 @@
         "score": 171
       },
       {
-        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-advances-the-standard-of-calcium-modification-with-global-launch-of-shockwave-c2-aero-coronary-ivl-catheter",
+        "url": "https://www.jnj.com/media-center/press-releases/new-tecvayli-data-demonstrates-superior-progression-free-and-overall-survival-as-early-as-first-relapse-in-multiple-myeloma",
         "anchor_text": "Read more",
         "score": 168
       },
       {
-        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-reinforces-its-leadership-in-advancing-neuropsychiatry-with-new-portfolio-and-pipeline-data-at-apa-and-ascp",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-advances-the-standard-of-calcium-modification-with-global-launch-of-shockwave-c2-aero-coronary-ivl-catheter",
         "anchor_text": "Read more",
         "score": 168
       },
@@ -38019,11 +38239,6 @@
         "url": "https://www.jnj.com/media-center/press-releases/depuy-synthes-enters-exclusive-u-s-canada-and-australia-distribution-agreement-for-cgbios-novosis",
         "anchor_text": "Read more",
         "score": 142
-      },
-      {
-        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-to-participate-in-the-goldman-sachs-47th-annual-global-healthcare-conference",
-        "anchor_text": "Read more",
-        "score": 137
       },
       {
         "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-to-host-investor-conference-call-on-second-quarter-results-2026",
@@ -38350,6 +38565,11 @@
         "url": "https://www.bms.com/researchers-and-partners/clinical-trials-and-research.html",
         "anchor_text": "Clinical trials & research",
         "score": 73
+      },
+      {
+        "url": "https://www.bms.com/patient-and-caregivers/thriving-through-treatments.html",
+        "anchor_text": "Thriving Through Treatments",
+        "score": 70
       },
       {
         "url": "https://www.bms.com/investors/financial-reporting/quarterly-results.html",
@@ -38913,13 +39133,13 @@
         "score": 231
       },
       {
-        "url": "https://news.abbvie.com/2026-05-21-Allergan-Aesthetics-Receives-Positive-CHMP-Opinion-for-Boey-R-TrenibotulinumtoxinE-for-the-Temporary-Improvement-of-Moderate-to-Severe-Glabellar-Lines-in-Adults",
-        "anchor_text": "Allergan Aesthetics Receives Positive CHMP Opinion for Boey® (TrenibotulinumtoxinE) for the Temporary Improvement of Moderate to Severe Glabellar Lines in Adults",
-        "score": 184
+        "url": "https://news.abbvie.com/2026-05-29-AbbVie-Announces-European-Commission-Authorization-of-Expanded-Label-for-VENCLYXTO-R-venetoclax-to-Include-Additional-Combinations-in-Previously-Untreated-Chronic-Lymphocytic-Leukemia",
+        "anchor_text": "AbbVie Announces European Commission Authorization of Expanded Label for VENCLYXTO® (venetoclax) to Include Additional Combinations in Previously Untreated Chronic Lymphocytic Leukemia",
+        "score": 207
       },
       {
-        "url": "https://news.abbvie.com/2026-04-27-AbbVie-Submits-Regulatory-Application-to-FDA-for-SKYRIZI-R-risankizumab-rzaa-Subcutaneous-Induction-for-Adults-with-Moderately-to-Severely-Active-Crohns-Disease",
-        "anchor_text": "AbbVie Submits Regulatory Application to FDA for SKYRIZI® (risankizumab-rzaa) Subcutaneous Induction for Adults with Moderately to Severely Active Crohn's Disease",
+        "url": "https://news.abbvie.com/2026-05-21-Allergan-Aesthetics-Receives-Positive-CHMP-Opinion-for-Boey-R-TrenibotulinumtoxinE-for-the-Temporary-Improvement-of-Moderate-to-Severe-Glabellar-Lines-in-Adults",
+        "anchor_text": "Allergan Aesthetics Receives Positive CHMP Opinion for Boey® (TrenibotulinumtoxinE) for the Temporary Improvement of Moderate to Severe Glabellar Lines in Adults",
         "score": 184
       },
       {
@@ -42383,9 +42603,9 @@
         "score": 167
       },
       {
-        "url": "https://ir.beonemedicines.com/news/beone-medicines-novel-bcl2-inhibitor-sonrotoclax-achieves-first-in-world-approval-in-rr-mcl-and-rr-cllsll/562da165-f6a9-48d0-a357-aca27ac112ca",
-        "anchor_text": "BeOne Medicines’ Novel BCL2 Inhibitor, Sonrotoclax, Achieves First-in-World Approval in R/R MCL and R/R CLL/SLL",
-        "score": 164
+        "url": "https://ir.beonemedicines.com/news/beone-medicines-establishes-standard-for-long-term-disease-control-in-cll-with-brukinsa-78-month-data-at/b4bd2456-0171-42db-b7ff-3dc5dea831a2",
+        "anchor_text": "BeOne Medicines Establishes Standard for Long-Term Disease Control in CLL with BRUKINSA 78-Month Data at ASCO 2026",
+        "score": 163
       },
       {
         "url": "https://ir.beonemedicines.com/news/beone-medicines-launches-one-save-changes-everything-a-global-cancer-care-awareness-campaign-with-soccer/7e4f6bce-5e5c-49c8-b26d-d2bd8e6fe85f",
@@ -44761,6 +44981,11 @@
         "url": "https://www.immunocore.com/investors/financials-filings/sec-filings",
         "anchor_text": "SEC Filings",
         "score": 57
+      },
+      {
+        "url": "https://www.immunocore.com/clinical-trials/what-are-clinical-trials",
+        "anchor_text": "What are Clinical Trials?",
+        "score": 55
       },
       {
         "url": "https://www.immunocore.com/investors/events-presentations/events",
@@ -48223,6 +48448,11 @@
     "press_url": "https://www.iqvia.com/newsroom",
     "candidate_links": [
       {
+        "url": "https://www.iqvia.com/solutions/commercialization/commercial-analytics/omnichannel-engagement-and-insights/patient-insights-for-hcp-engagement/patient-characterization-and-journey",
+        "anchor_text": "AI-Driven Patient JourneyUse advanced analytics to understand patient behaviors and optimize engagement across the care journey.​",
+        "score": 180
+      },
+      {
         "url": "https://www.iqvia.com/solutions/commercialization/commercial-analytics/omnichannel-engagement-and-insights/patient-insights-for-hcp-engagement/ai-driven-alerts",
         "anchor_text": "Alerts & Triggers",
         "score": 160
@@ -48303,6 +48533,11 @@
         "score": 112
       },
       {
+        "url": "https://www.iqvia.com/solutions/commercialization/patient-engagement-and-support/iqvia-patient-experience-platform",
+        "anchor_text": "AI Patient Experience PlatformDeliver personalized, technology-enabled experiences that improve patient satisfaction, adherence, and outcomes.​",
+        "score": 111
+      },
+      {
         "url": "https://www.iqvia.com/solutions/innovative-models/artificial-intelligence-and-machine-learning/healthcare-grade-ai",
         "anchor_text": "IQVIA Healthcare-grade AI®",
         "score": 111
@@ -48321,6 +48556,11 @@
         "url": "https://www.iqvia.com/solutions/innovative-models/artificial-intelligence-and-machine-learning/iqvia-ai-platform",
         "anchor_text": "IQVIA.ai PlatformWork more efficiently, make better decisions and scale AI responsibly across clinical, commercial and real-world operations.EXPLORE IQVIA.AI PLATFORM",
         "score": 109
+      },
+      {
+        "url": "https://www.iqvia.com/solutions/real-world-evidence/iqvia-nlp-platform/addressing-social-determinants-of-health",
+        "anchor_text": "Addressing Social Determinants of HealthUncover and analyze social factors that impact patient outcomes to drive more equitable care strategies.​",
+        "score": 108
       },
       {
         "url": "https://www.iqvia.com/solutions/real-world-evidence/health-data-apps-and-ai/ai-driven-hcp-and-patient-profiling",
@@ -48403,6 +48643,11 @@
         "score": 92
       },
       {
+        "url": "https://www.iqvia.com/solutions/research-and-development/consulting/patient-centered-endpoints",
+        "anchor_text": "Patient-Centered SolutionsDesign outcome measures that reflect the patient experience and strengthen clinical evidence.​",
+        "score": 91
+      },
+      {
         "url": "https://www.iqvia.com/solutions/technologies/clinical-trial-financial-suite/ctfs-site-payments",
         "anchor_text": "Clinical Trial Payments",
         "score": 91
@@ -48434,7 +48679,7 @@
       },
       {
         "url": "https://www.iqvia.com/solutions/research-and-development/patient-and-site-centric-solutions",
-        "anchor_text": "Patient & Site Centric SolutionsSupport patients and trial sites with tools and services that improve recruitment, engagement, and study execution.",
+        "anchor_text": "Patient & Site Centered SolutionsAccelerate clinical trials by aligning patient and site needs at every step of the process.​",
         "score": 86
       },
       {
@@ -48460,6 +48705,11 @@
       {
         "url": "https://www.iqvia.com/solutions/real-world-evidence/iqvia-health-communications-group",
         "anchor_text": "Health CommunicationsDeliver communications that engages stakeholders, advances healthcare and improves lives.",
+        "score": 80
+      },
+      {
+        "url": "https://www.iqvia.com/solutions/real-world-evidence/study-design/patient-registries",
+        "anchor_text": "Patient RegistriesGenerate real-world insights by systematically capturing patient outcomes, experiences, and disease progression over time.​",
         "score": 80
       },
       {
@@ -48578,13 +48828,13 @@
         "score": 71
       },
       {
-        "url": "https://www.iqvia.com/solutions/technologies/site-suite/one-home-for-sites",
-        "anchor_text": "One Home for Sites",
+        "url": "https://www.iqvia.com/solutions/technologies/patient-engagement-suite/ecoa",
+        "anchor_text": "Electronic Clinical Outcome Assessment (eCOA)",
         "score": 71
       },
       {
-        "url": "https://www.iqvia.com/solutions/technologies/patient-engagement-suite/ecoa",
-        "anchor_text": "Electronic Clinical Outcome Assessment (eCOA)",
+        "url": "https://www.iqvia.com/solutions/technologies/site-suite/one-home-for-sites",
+        "anchor_text": "One Home for Sites",
         "score": 71
       },
       {
@@ -48810,6 +49060,11 @@
       {
         "url": "https://www.iqvia.com/solutions/therapeutics/ophthalmology",
         "anchor_text": "Ophthalmology",
+        "score": 43
+      },
+      {
+        "url": "https://www.iqvia.com/solutions/patient-centricity",
+        "anchor_text": "Patient Centricity OVERVIEW",
         "score": 43
       },
       {
@@ -49292,6 +49547,11 @@
         "url": "https://www.catalent.com/events/bos-basel-2026/",
         "anchor_text": "BOS Basel 2026",
         "score": 39
+      },
+      {
+        "url": "https://www.catalent.com/events/14th-ais-2026/",
+        "anchor_text": "Antibody Industrial Symposium",
+        "score": 38
       },
       {
         "url": "https://www.catalent.com/about-us/overview/",
@@ -58937,12 +59197,12 @@
         "score": 26
       },
       {
-        "url": "https://ir.discmedicine.com/news-releases?page=0",
+        "url": "https://ir.discmedicine.com/news-releases?mobile=1&page=0",
         "anchor_text": "Current page1",
         "score": 26
       },
       {
-        "url": "https://ir.discmedicine.com/news-releases?page=1",
+        "url": "https://ir.discmedicine.com/news-releases?mobile=1&page=1",
         "anchor_text": "Last page»",
         "score": 26
       },
@@ -58963,19 +59223,19 @@
     "press_url": "https://ir.intracellulartherapies.com/press-releases",
     "candidate_links": [
       {
+        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/RYBREVANT-amivantamab-vmjw-plus-LAZCLUZE-lazertinib-demonstrates-prolonged-clinical-benefit-as-a-first-line-treatment-for-atypical-EGFR-mutated-non-small-cell-lung-cancer/default.aspx",
+        "anchor_text": "Read article",
+        "score": 261
+      },
+      {
+        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/New-TECVAYLI-teclistamab-cqyv-data-demonstrate-superior-progression-free-and-overall-survival-as-early-as-first-relapse-in-multiple-myeloma/default.aspx",
+        "anchor_text": "Read article",
+        "score": 230
+      },
+      {
         "url": "https://ir.intracellulartherapies.com/events-and-presentations/events/event-details/2026/Johnson--Johnson-to-Participate-in-the-Goldman-Sachs-47-th-Annual-Global-Healthcare-Conference/default.aspx",
         "anchor_text": "See details(opens in new window)",
         "score": 206
-      },
-      {
-        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/FDA-approves-label-expansion-cementing-TREMFYA-as-the-only-IL23-inhibitor-proven-to-help-stop-further-joint-damage/default.aspx",
-        "anchor_text": "Read article",
-        "score": 205
-      },
-      {
-        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/Johnson--Johnson-to-Host-Investor-Conference-Call-on-Second-Quarter-Results/default.aspx",
-        "anchor_text": "Read article",
-        "score": 166
       },
       {
         "url": "https://ir.intracellulartherapies.com/events-and-presentations/events/event-details/2026/Johnson--Johnson-Second-Quarter-2026-Earnings-Call/default.aspx",
@@ -61877,6 +62137,11 @@
         "url": "https://ir.mirati.com/media/press-releases/press-release-alerts-subscribe.html",
         "anchor_text": "Press release alerts",
         "score": 73
+      },
+      {
+        "url": "https://ir.mirati.com/patient-and-caregivers/thriving-through-treatments.html",
+        "anchor_text": "Thriving Through Treatments",
+        "score": 70
       },
       {
         "url": "https://ir.mirati.com/investors/financial-reporting/quarterly-results.html",
@@ -66974,7 +67239,7 @@
       },
       {
         "url": "https://chem-space.com/privacy-policy",
-        "anchor_text": "Privacy Policy",
+        "anchor_text": "More...",
         "score": 27
       },
       {
@@ -74572,277 +74837,6 @@
     ]
   },
   {
-    "company": "Zealand Pharma",
-    "press_url": "https://www.zealandpharma.com/news-media/?tab=newsroom",
-    "candidate_links": [
-      {
-        "url": "https://www.zealandpharma.com/investors/extraordinary-general-meeting-may-2026/",
-        "anchor_text": "Extraordinary General Meeting May 2026",
-        "score": 66
-      },
-      {
-        "url": "https://www.zealandpharma.com/pipeline/dasiglucagon-continuous-infusion/",
-        "anchor_text": "Dasiglucagon: Continuous infusion",
-        "score": 59
-      },
-      {
-        "url": "https://www.zealandpharma.com/disease-areas/congenital-hyperinsulinism/",
-        "anchor_text": "Congenital Hyperinsulinism",
-        "score": 58
-      },
-      {
-        "url": "https://www.zealandpharma.com/pipeline/dapiglutide-program-paused/",
-        "anchor_text": "Dapiglutide",
-        "score": 53
-      },
-      {
-        "url": "https://www.zealandpharma.com/disease-areas/short-bowel-syndrome/",
-        "anchor_text": "Short Bowel Syndrome",
-        "score": 52
-      },
-      {
-        "url": "https://www.zealandpharma.com/disease-areas/chronic-inflammation/",
-        "anchor_text": "Chronic inflammation",
-        "score": 52
-      },
-      {
-        "url": "https://www.zealandpharma.com/investors/pfic-annual-information/",
-        "anchor_text": "PFIC Annual Information",
-        "score": 51
-      },
-      {
-        "url": "https://www.zealandpharma.com/pipeline/scientific-publications/",
-        "anchor_text": "Scientific publications",
-        "score": 50
-      },
-      {
-        "url": "https://www.zealandpharma.com/investors/annual-general-meeting/",
-        "anchor_text": "Annual General Meeting",
-        "score": 50
-      },
-      {
-        "url": "https://www.zealandpharma.com/investors/events-presentations/",
-        "anchor_text": "Events & presentations",
-        "score": 48
-      },
-      {
-        "url": "https://www.zealandpharma.com/about-us/corporate-management/",
-        "anchor_text": "Corporate management",
-        "score": 47
-      },
-      {
-        "url": "https://www.zealandpharma.com/about-us/corporate-governance/",
-        "anchor_text": "Corporate governance",
-        "score": 47
-      },
-      {
-        "url": "https://www.zealandpharma.com/pipeline/petrelintide-ct-388/",
-        "anchor_text": "Petrelintide / CT-388",
-        "score": 46
-      },
-      {
-        "url": "https://www.zealandpharma.com/news-media/subscribe-to-news/",
-        "anchor_text": "Subscribe to news",
-        "score": 46
-      },
-      {
-        "url": "https://www.zealandpharma.com/about-us/board-of-directors/",
-        "anchor_text": "Board of Directors",
-        "score": 45
-      },
-      {
-        "url": "https://www.zealandpharma.com/investors/stock-information/",
-        "anchor_text": "Stock information",
-        "score": 45
-      },
-      {
-        "url": "https://www.zealandpharma.com/investors/financial-reports/",
-        "anchor_text": "Financial reports",
-        "score": 45
-      },
-      {
-        "url": "https://www.zealandpharma.com/about-us/peptide-expertise/",
-        "anchor_text": "Peptide expertise",
-        "score": 44
-      },
-      {
-        "url": "https://www.zealandpharma.com/investors/analyst-coverage/",
-        "anchor_text": "Analyst coverage",
-        "score": 44
-      },
-      {
-        "url": "https://www.zealandpharma.com/careers/values-and-culture/",
-        "anchor_text": "Values and culture",
-        "score": 44
-      },
-      {
-        "url": "https://www.zealandpharma.com/contact/compliance-hotline/",
-        "anchor_text": "Compliance Hotline",
-        "score": 44
-      },
-      {
-        "url": "https://www.zealandpharma.com/about-us/reports-policies/",
-        "anchor_text": "Reports & policies",
-        "score": 43
-      },
-      {
-        "url": "https://www.zealandpharma.com/disease-areas/obesity/",
-        "anchor_text": "Obesity",
-        "score": 39
-      },
-      {
-        "url": "https://www.zealandpharma.com/about-us/partnering/",
-        "anchor_text": "Partnering",
-        "score": 37
-      },
-      {
-        "url": "https://www.zealandpharma.com/about-us/our-impact/",
-        "anchor_text": "Our impact",
-        "score": 37
-      },
-      {
-        "url": "https://www.zealandpharma.com/privacy-notice/",
-        "anchor_text": "Privacy notice",
-        "score": 30
-      },
-      {
-        "url": "https://www.zealandpharma.com/disease-areas/",
-        "anchor_text": "Learn MoreDisease areas Overview",
-        "score": 29
-      },
-      {
-        "url": "https://www.zealandpharma.com/pipeline/petrelintide/",
-        "anchor_text": "Petrelintide",
-        "score": 29
-      },
-      {
-        "url": "https://www.zealandpharma.com/pipeline/glepaglutide/",
-        "anchor_text": "Glepaglutide",
-        "score": 29
-      },
-      {
-        "url": "https://www.zealandpharma.com/cookie-notice/",
-        "anchor_text": "Cookie notice",
-        "score": 29
-      },
-      {
-        "url": "https://www.zealandpharma.com/pipeline/survodutide/",
-        "anchor_text": "Survodutide",
-        "score": 28
-      },
-      {
-        "url": "https://www.zealandpharma.com/terms-of-use/",
-        "anchor_text": "Terms of use",
-        "score": 28
-      },
-      {
-        "url": "https://www.zealandpharma.com/news-media/?tab=newsroom",
-        "anchor_text": "",
-        "score": 26
-      },
-      {
-        "url": "https://www.zealandpharma.com/news-media/",
-        "anchor_text": "News & Media",
-        "score": 26
-      },
-      {
-        "url": "https://www.zealandpharma.com/news-media/?tab=media",
-        "anchor_text": "Media resources",
-        "score": 26
-      },
-      {
-        "url": "https://www.zealandpharma.com/news-media/?&page=2",
-        "anchor_text": "Next page",
-        "score": 26
-      },
-      {
-        "url": "https://www.zealandpharma.com/news-media/?&page=3",
-        "anchor_text": "Page3",
-        "score": 26
-      },
-      {
-        "url": "https://www.zealandpharma.com/news-media/?&page=4",
-        "anchor_text": "Page4",
-        "score": 26
-      },
-      {
-        "url": "https://www.zealandpharma.com/news-media/?&page=5",
-        "anchor_text": "Page5",
-        "score": 26
-      },
-      {
-        "url": "https://www.zealandpharma.com/news-media/?&page=6",
-        "anchor_text": "Page6",
-        "score": 26
-      },
-      {
-        "url": "https://www.zealandpharma.com/news-media/?&page=7",
-        "anchor_text": "Page7",
-        "score": 26
-      },
-      {
-        "url": "https://www.zealandpharma.com/news-media/?&page=8",
-        "anchor_text": "Page8",
-        "score": 26
-      },
-      {
-        "url": "https://www.zealandpharma.com/about-us/",
-        "anchor_text": "About us",
-        "score": 24
-      },
-      {
-        "url": "https://www.zealandpharma.com/pipeline/zp6590/",
-        "anchor_text": "ZP6590",
-        "score": 23
-      },
-      {
-        "url": "https://www.zealandpharma.com/pipeline/zp9830/",
-        "anchor_text": "ZP9830",
-        "score": 23
-      },
-      {
-        "url": "https://www.zealandpharma.com/investors/faqs/",
-        "anchor_text": "FAQs",
-        "score": 22
-      },
-      {
-        "url": "https://www.zealandpharma.com/accessibility/",
-        "anchor_text": "Accessibility",
-        "score": 19
-      },
-      {
-        "url": "https://www.zealandpharma.com/investors/",
-        "anchor_text": "Investors",
-        "score": 15
-      },
-      {
-        "url": "https://www.zealandpharma.com/pipeline/",
-        "anchor_text": "Learn MorePipeline Overview",
-        "score": 14
-      },
-      {
-        "url": "https://www.zealandpharma.com/careers/",
-        "anchor_text": "Careers",
-        "score": 13
-      },
-      {
-        "url": "https://www.zealandpharma.com/careers/#stories",
-        "anchor_text": "Meet the Zealanders",
-        "score": 13
-      },
-      {
-        "url": "https://www.zealandpharma.com/contact/",
-        "anchor_text": "Contact",
-        "score": 13
-      },
-      {
-        "url": "https://www.zealandpharma.com/",
-        "anchor_text": "Continue to external site",
-        "score": 3
-      }
-    ]
-  },
-  {
     "company": "Aerpio Pharmaceuticals",
     "press_url": "https://aerpio.com/news/",
     "candidate_links": [
@@ -78940,9 +78934,9 @@
         "score": 216
       },
       {
-        "url": "https://www.junshipharma.com/en/junshi-biosciences-announces-the-phase-3-study-of-js005-il-17a-for-the-treatment-of-moderate-to-severe-plaque-psoriasis-met-primary-endpoints/",
-        "anchor_text": "Junshi Biosciences Announces the Phase 3 Study of JS005 (IL-17A) for the Treatment of Moderate to Severe Plaque Psoriasis Met Primary Endpoints2025-09-07JS005 has achieved positive results in a multi-center, randomized, double-blind, parallel, placebo-controlled pivotal registrational Phase 3 clinical study for the treatment of moderate to severe plaque psoriasis",
-        "score": 162
+        "url": "https://www.junshipharma.com/en/%e5%90%9b%e5%ae%9e%e7%94%9f%e7%89%a9%e5%ae%a3%e5%b8%83%e7%89%b9%e7%91%9e%e6%99%ae%e5%88%a9%e5%8d%95%e6%8a%97%e6%b3%a8%e5%b0%84%e6%b6%b2%ef%bc%88%e7%9a%ae%e4%b8%8b%e6%b3%a8%e5%b0%84%ef%bc%8912%e9%a1%b9/",
+        "anchor_text": "Junshi Biosciences Announces NMPA Acceptance of New Drug Applications for Toripalimab Injection (Subcutaneous) Across 12 Indications2026-03-09The NDAs for toripalimab injection (subcutaneous injection [code: JS001sc]), for 12 indications in the treatment of tumors has been accepted by the NMPA. JS001sc is the first domestic anti-PD-1 monoclonal antibody in a subcutaneous formulation to enter the marketing application stage.",
+        "score": 211
       },
       {
         "url": "https://www.junshipharma.com/en/fda-approved-ind-application-of-phase-2-3-clinical-study-of-js207-pd-1-vegf-for-the-neoadjuvant-treatment-of-nsclc-patients/",
@@ -79291,745 +79285,575 @@
     "candidate_links": []
   },
   {
-    "company": "Lonza",
-    "press_url": "https://www.lonza.com/news",
-    "candidate_links": []
-  },
-  {
-    "company": "o2h Discovery",
-    "press_url": "https://o2h.com/news/",
+    "company": "Solix Technologies, Inc.",
+    "press_url": "https://www.solix.com/company/news-events/press-releases/",
     "candidate_links": [
       {
-        "url": "https://o2h.com/ventures/o2h-are-working-with-new-boston-based-start-up-arrakis-supporting-discovery-efforts-and-making-the-seed-funding-stretch-further/",
-        "anchor_text": "o2h discovery are working with new Boston based start-up Arrakis, supporting discovery efforts and",
-        "score": 154
+        "url": "https://www.solix.com/company/news-events/press-releases/solix-technologies-and-computer-arabia-forge-strategic-partnership-to-accelerate-enterprise-data-modernization-in-qatar/",
+        "anchor_text": "Read More",
+        "score": 176
       },
       {
-        "url": "https://o2h.com/ventures/exonate-receives-wellcome-trust-funding-to-develop-eye-drop-treatment-for-wet-age-related-macular-degeneration-wet-amd/",
-        "anchor_text": "o2h group update: Exonate receives Wellcome Trust funding to develop eye drop treatment for wet ag",
-        "score": 145
+        "url": "https://www.solix.com/company/news-events/press-releases/registration-open-for-solixempower-2025-a-data-and-ai-governance-conference-with-university-of-california-san-diego/",
+        "anchor_text": "Read More",
+        "score": 172
       },
       {
-        "url": "https://o2h.com/press-release/neophore-closed-series-b-round-successfully-and-expands-its-drug-discovery-collaboration-with-o2h-discovery/",
-        "anchor_text": "Neophore closed £15.2m series B round successfully and expands its drug discovery collaboration w",
-        "score": 139
+        "url": "https://www.solix.com/company/news-events/press-releases/solix-strengthens-leadership-team-with-key-executive-appointments-to-accelerate-enterprise-ai-data-modernization/",
+        "anchor_text": "Read More",
+        "score": 169
       },
       {
-        "url": "https://o2h.com/o2h-therapeutics-and-ai-s-eis-fund/the-o2h-therapeutics-and-ai-fund-makes-investment-in-early-stage-biotechnology-company/",
-        "anchor_text": "The o2h Therapeutics and AI Fund makes investment in early stage biotechnology company",
-        "score": 139
+        "url": "https://www.solix.com/company/news-events/press-releases/solix-technologies-inc-announces-general-availability-for-solix-enterprise-ai-a-fourth-generation-data-platform/",
+        "anchor_text": "Read More",
+        "score": 168
       },
       {
-        "url": "https://o2h.com/ventures/investment-in-the-seed-round-of-phoremost-who-have-developed-a-next-generation-phenotypic-screening-platform/",
-        "anchor_text": "Investment in the seed round of Phoremost who have developed a next-generation phenotypic screenin",
-        "score": 135
+        "url": "https://www.solix.com/company/news-events/press-releases/solix-technologies-and-mindmap-technologies-announce-partnership-to-drive-enterprise-data-across-apac-singapore/",
+        "anchor_text": "Read More",
+        "score": 168
       },
       {
-        "url": "https://o2h.com/ventures/orfan-biotech-a-company-dedicated-to-developing-small-molecules-for-the-treatment-of-primary-hyperoxaluria/",
-        "anchor_text": "Orfan Biotech, a company dedicated to developing small molecules for the treatment of Primary Hype",
-        "score": 133
+        "url": "https://www.solix.com/company/news-events/press-releases/solix-technologies-announces-key-leadership-appointments-and-promotions-to-accelerate-global-ai-driven-growth/",
+        "anchor_text": "Read More",
+        "score": 166
       },
       {
-        "url": "https://o2h.com/discovery/press-release-phoremost-and-o2h-discovery-collaborate-to-progress-first-in-class-drug-discovery-programs/",
-        "anchor_text": "Press Release – PhoreMost and o2h discovery collaborate to progress first-in-class drug disc",
-        "score": 132
+        "url": "https://www.solix.com/company/news-events/press-releases/solix-expands-into-japan-to-address-rising-data-compliance-pressures-under-appi-appoints-junichi-takayanagi/",
+        "anchor_text": "Read More",
+        "score": 164
       },
       {
-        "url": "https://o2h.com/discovery/press-release-curza-and-o2h-discovery-announce-a-multi-fte-chemistry-collaboration-against-gram-negative/",
-        "anchor_text": "Press Release – Curza and o2h discovery announce a multi-FTE chemistry collaboration against",
-        "score": 132
+        "url": "https://www.solix.com/company/news-events/press-releases/solix-and-symbiosis-scei-smcw-partner-to-launch-center-of-excellence-for-new-drug-discovery-and-repurposing/",
+        "anchor_text": "Read More",
+        "score": 164
       },
       {
-        "url": "https://o2h.com/ventures/arecor-secures-6m-investment-for-the-clinical-development-of-its-diabetes-speciality-pharma-portfolio/",
-        "anchor_text": "Arecor secures £6M investment for the clinical development of its diabetes speciality pharma port",
-        "score": 128
+        "url": "https://www.solix.com/company/news-events/press-releases/global-leaders-in-ai-data-management-and-governance-to-convene-at-solixempower-2025-in-san-diego/",
+        "anchor_text": "Read More",
+        "score": 153
       },
       {
-        "url": "https://o2h.com/discovery/o2h-discovery-is-pleased-to-announce-a-10-fte-synthetic-chemistry-collaboration-with-heptares/",
-        "anchor_text": "o2h discovery is pleased to announce a 10 FTE Synthetic Chemistry collaboration with Heptares",
-        "score": 121
+        "url": "https://www.solix.com/resources/lg/white-papers/enterprise-information-architecture-for-gen-ai-and-machine-learning/",
+        "anchor_text": "Enterprise Information Architecture for Gen AI and Machine Learning",
+        "score": 115
       },
       {
-        "url": "https://o2h.com/discovery/boosting-the-success-potential-of-promising-biotech-startups-the-o2h-kickstarter-competition/",
-        "anchor_text": "Boosting the success potential of promising Biotech Startups: the o2h kickstarter competition",
-        "score": 120
-      },
-      {
-        "url": "https://o2h.com/o2h-therapeutics-and-ai-s-eis-fund/2-percent-off-the-initial-fee-for-o2h-therapeutics-and-ai-eis-fund/",
-        "anchor_text": "2% off the initial fee for The o2h Therapeutics and AI S/EIS Fund",
-        "score": 119
-      },
-      {
-        "url": "https://o2h.com/o2h-therapeutics-and-ai-s-eis-fund/press-release-the-o2h-therapeutics-fund-makes-its-first-investment/",
-        "anchor_text": "Press Release – The o2h Therapeutics Fund makes its first investment",
-        "score": 119
-      },
-      {
-        "url": "https://o2h.com/ventures/o2h-ventures-knowledge-intensive-human-health-eis-fund-invests-into-bivictrix-therapeutics/",
-        "anchor_text": "o2h Ventures ‘Knowledge Intensive Human Health EIS Fund’ invests into BiVictriX Therapeutics",
-        "score": 117
-      },
-      {
-        "url": "https://o2h.com/ventures/watch-o2h-ventures-ceo-sunil-shah-feature-in-the-british-business-bank-finance-guide-video/",
-        "anchor_text": "Watch o2h Ventures CEO Sunil Shah feature in the British Business Bank Finance Guide video",
-        "score": 117
-      },
-      {
-        "url": "https://o2h.com/discovery/lipid-nanoparticles-o2h-discovery-has-expertise-in-synthesizing-phospholipid-molecules/",
-        "anchor_text": "Lipid Nanoparticles: o2h discovery’s expertise in synthesizing phospholipid molecules to sup",
-        "score": 114
-      },
-      {
-        "url": "https://o2h.com/press-release/o2h-group-marks-20-years-with-the-7th-o2h-collaborative-innovation-conference/",
-        "anchor_text": "o2h Group Marks 20 Years with the 7th o2h Collaborative Innovation Conference",
-        "score": 109
-      },
-      {
-        "url": "https://o2h.com/discovery/o2h-discovery-pleased-to-announce-multi-fte-expansion-with-cedilla-therapeutics/",
-        "anchor_text": "Cedilla Therapeutics and o2h discovery are pleased to announce multi FTE expansion to their synthe",
-        "score": 107
-      },
-      {
-        "url": "https://o2h.com/discovery/finalist-for-best-performing-rd-service-provider-of-the-year-at-on-awards-2024/",
-        "anchor_text": "Finalist for ‘Best Performing R&D Service Provider of the Year’ at ON Awards 2024",
-        "score": 106
-      },
-      {
-        "url": "https://o2h.com/press-release/o2h-discovery-is-in-the-finals-for-most-impactful-cro-at-obn-awards-2023/",
-        "anchor_text": "o2h discovery is in the finals for ‘Most Impactful CRO’ at OBN Awards 2023",
-        "score": 104
-      },
-      {
-        "url": "https://o2h.com/press-release/digital-brain-biomarker-company-monument-therapeutics-raises-2-6-million/",
-        "anchor_text": "Digital brain biomarker company Monument Therapeutics raises £2.6 million",
-        "score": 104
-      },
-      {
-        "url": "https://o2h.com/ventures/chemisty-in-the-cloudtm-the-worlds-first-app-to-project-manage-drug-discovery/",
-        "anchor_text": "Chemistry in the Cloud™ – The World’s First App To Project Manage Drug Discover",
-        "score": 104
-      },
-      {
-        "url": "https://o2h.com/discovery/o2h-discovery-expands-synthetic-chemistry-collaboration-with-sosei-heptares/",
-        "anchor_text": "o2h discovery expands synthetic chemistry collaboration with Sosei Heptares",
-        "score": 103
-      },
-      {
-        "url": "https://o2h.com/discovery/sunil-shah-ceo-o2h-discovery-wins-special-recognition-award-by-obn-uk-ltd/",
-        "anchor_text": "Sunil Shah, CEO, o2h discovery Wins Special Recognition Award by OBN UK Ltd",
+        "url": "https://www.solix.com/resources/lg/white-papers/transforming-your-forgotten-data-into-ai-intelligence/",
+        "anchor_text": "The Rise Of Enterprise Intelligence",
         "score": 101
       },
       {
-        "url": "https://o2h.com/o2h-ventures/sunil-shah-ceo-o2h-ventures-makes-it-to-final-in-the-ukbaa-awards-2019/",
-        "anchor_text": "Sunil Shah, CEO, o2h ventures, makes it to final in the UKBAA Awards 2019",
-        "score": 101
-      },
-      {
-        "url": "https://o2h.com/press-release/o2h-ventures-backed-in4derm-signed-an-option-and-licensing-agreement/",
-        "anchor_text": "o2h Ventures backed In4Derm Announces a Strategic Partnership with a Nasdaq listed biotech with a",
+        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-accounting-and-finance/",
+        "anchor_text": "Accounting & Finance",
         "score": 100
       },
       {
-        "url": "https://o2h.com/press-release/sunil-shah-wins-the-cambridge-independent-awards-as-ceo-of-the-year/",
-        "anchor_text": "Sunil Shah, CEO of o2h ventures, wins the Cambridge Independent Science and Technology Awards as C",
+        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-financial-institutions/",
+        "anchor_text": "Financial Services",
+        "score": 100
+      },
+      {
+        "url": "https://www.solix.com/company/news-events/press-releases/reimagining-the-enterprise-in-the-age-of-ai/",
+        "anchor_text": "Read More",
+        "score": 100
+      },
+      {
+        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-construction-industry/",
+        "anchor_text": "Construction",
         "score": 99
       },
       {
-        "url": "https://o2h.com/o2h-ventures/o2h-ventures-finalist-in-the-great-eis-25th-year-anniversary-awards/",
-        "anchor_text": "o2h Ventures makes it to the final in the Great EIS 25th Year Anniversary Awards",
+        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-legal-and-compliance/",
+        "anchor_text": "Legal & Compliance",
         "score": 98
       },
       {
-        "url": "https://o2h.com/press-release/o2h-technology-appoints-fiona-nielsen-as-chief-operations-officer/",
-        "anchor_text": "o2h Technology appoints serial entrepreneur Fiona Nielsen as Chief Operations Officer",
+        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-insurance-providers/",
+        "anchor_text": "Insurance",
         "score": 97
       },
       {
-        "url": "https://o2h.com/discovery/stingray-bio-and-o2h-discovery-collaborate-for-oncology-therapeutics/",
-        "anchor_text": "Stingray Bio and o2h discovery initiate a collaboration to develop the next-generation of oncology",
-        "score": 96
+        "url": "https://www.solix.com/products/enterprise-content-services/cloud-archive-for-finance-and-accounting/",
+        "anchor_text": "Cloud Archive - Finance",
+        "score": 97
       },
       {
-        "url": "https://o2h.com/ventures/arecor-announces-license-agreement-with-global-pharmaceutical-company/",
-        "anchor_text": "Arecor Announces License Agreement with Global Pharmaceutical Company",
-        "score": 96
+        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-sales-and-marketing/",
+        "anchor_text": "Sales & Marketing",
+        "score": 97
       },
       {
-        "url": "https://o2h.com/discovery/iota-pharmaceuticals-in-1-5m-window-consortium-tackling-glioblastoma/",
-        "anchor_text": "IOTA Pharmaceuticals in £1.5M WINDOW Consortium Tackling Glioblastoma",
-        "score": 96
-      },
-      {
-        "url": "https://o2h.com/press-release/o2h-co-work-lab-launches-worlds-first-influencer-tech-bootcamp/",
-        "anchor_text": "o2h co-work Lab Launches World’s First Influencer Tech Bootcamp",
-        "score": 94
-      },
-      {
-        "url": "https://o2h.com/ventures/o2h-ventures-limited-has-now-launched-the-o2h-therapeutics-eis-fund/",
-        "anchor_text": "o2h ventures limited has now launched the o2h therapeutics fund",
-        "score": 94
-      },
-      {
-        "url": "https://o2h.com/ventures/oxford-drug-design-recieves-over-8m-in-grant-and-equity-investment/",
-        "anchor_text": "Oxford Drug Design recieves over £8m in grant and equity investment",
+        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-human-resources/",
+        "anchor_text": "Human Resources",
         "score": 93
       },
       {
-        "url": "https://o2h.com/discovery/dynamics-of-surface-plasmon-resonance-in-biological-applications/",
-        "anchor_text": "Understanding the Dynamics of Surface Plasmon Resonance (SPR) in Biological Applications",
-        "score": 92
-      },
-      {
-        "url": "https://o2h.com/uncategorized/o2h-group-supporting-biotechbikerss-networking-ride-june2023/",
-        "anchor_text": "o2h group supporting BiotechBikers’s networking ride – June2023",
-        "score": 92
-      },
-      {
-        "url": "https://o2h.com/events/o2hdiscovery-is-exhibiting-at-the-efmc-ismc-international-symposium/",
-        "anchor_text": "o2h discovery is exhibiting at the XXVII EFMC ISMC International Symposium on Medicinal Chemistry",
-        "score": 92
-      },
-      {
-        "url": "https://o2h.com/events/finalists-in-the-cambridge-independent-science-and-tech-awards-2020/",
-        "anchor_text": "o2h group in the finals of Cambridge Independent Science and Tech Awards 2020",
-        "score": 92
-      },
-      {
-        "url": "https://o2h.com/press-release/o2h-discovery-launches-the-o2h-kickstarter-competition-3-0/",
-        "anchor_text": "o2h discovery launches ‘the o2h kickstarter competition’ to support Israeli early stag",
-        "score": 90
-      },
-      {
-        "url": "https://o2h.com/community/o2h-volunteers-visit-jeevan-dhara-old-age-home-ahmedabad-india/",
-        "anchor_text": "o2h community volunteers visit “Jeevan Dhara” – Old age home, Ahmedabad, India.",
-        "score": 90
-      },
-      {
-        "url": "https://o2h.com/discovery/chamelogk-assay-unveiling-chameleonicity-for-protac-molecules/",
-        "anchor_text": "ChamelogK Assay: Unveiling Chameleonicity for Protac Molecules",
-        "score": 89
-      },
-      {
-        "url": "https://o2h.com/topics/drug-discovery/o2h-kickstarter-5-0-for-early-stage-usa-biotech/",
-        "anchor_text": "o2h kickstarter 5.0 for early stage USA biotech",
-        "score": 89
-      },
-      {
-        "url": "https://o2h.com/o2h-ventures/o2h-ventures-finalist-tax-efficiency-awards-investmentweek/",
-        "anchor_text": "o2h ventures makes it to the finals in the Tax Efficiency Awards",
-        "score": 89
-      },
-      {
-        "url": "https://o2h.com/topics/art/biotech-bikers-special-edition-with-o2h-group-july-august/",
-        "anchor_text": "Biotech Bikers Special Edition with o2h group – July & August 2023",
-        "score": 88
-      },
-      {
-        "url": "https://o2h.com/o2h-events-and-conferences/3rd-o2h-collaborative-innovation-conference/",
-        "anchor_text": "Delighted to Announce the 3rd o2h group collaborative innovation conference",
-        "score": 88
-      },
-      {
-        "url": "https://o2h.com/discovery/o2h-announces-expanded-chemistry-collaboration-with-heptares/",
-        "anchor_text": "o2h discovery Announces Expanded Chemistry Collaboration With Heptares",
-        "score": 88
-      },
-      {
-        "url": "https://o2h.com/discovery/empowering-targeted-protein-degradation-with-protac-service/",
-        "anchor_text": "“Empowering Targeted Protein Degradation with Protac Services: Unleashing the Power of E3 Li",
-        "score": 87
-      },
-      {
-        "url": "https://o2h.com/discovery/citc-best-use-of-technology-award-in-pharma-industry-awards/",
-        "anchor_text": "CITC won the “Best Use of technology” award in Pharma Industry Awards UK",
-        "score": 87
-      },
-      {
-        "url": "https://o2h.com/events/o2h-group-is-supporting-the-upcoming-biotech-bikers-event-2022/",
-        "anchor_text": "o2h group is supporting upcoming Biotech Bikers’ event Nov 2022",
-        "score": 87
-      },
-      {
-        "url": "https://o2h.com/o2h-ventures/exonate-announces-collaboration-with-johnson-and-johnson/",
-        "anchor_text": "o2h ventures portfolio company Exonate announces collaboration with Johnson & Johnson",
-        "score": 87
-      },
-      {
-        "url": "https://o2h.com/community/pleased-to-announce-the-13th-edition-of-o2h-womens-open-day/",
-        "anchor_text": "Pleased to Announce the 13th Edition of o2h Women’s Open Day",
-        "score": 87
-      },
-      {
-        "url": "https://o2h.com/community/o2h-community-service-project-hiv-orphanage-ahmedabad-india/",
-        "anchor_text": "o2h community, Community Service Project, HIV Orphanage, Ahmedabad, India.",
-        "score": 87
-      },
-      {
-        "url": "https://o2h.com/discovery/o2h-discovery-launches-the-o2h-kickstarter-competition-4-0/",
-        "anchor_text": "o2h discovery launches the o2h kickstarter competition 4.0 to support Italian early stage biotechs",
-        "score": 86
-      },
-      {
-        "url": "https://o2h.com/discovery/o2h-discovery-launches-the-o2h-kickstarter-competition-2-0/",
-        "anchor_text": "o2h discovery launches the o2h kickstarter competition 2.0 to support Australian early stage biote",
-        "score": 86
-      },
-      {
-        "url": "https://o2h.com/press-release/acquires-40000-sq-ft-hauxton-meadows-site-in-cambridge/",
-        "anchor_text": "o2h group acquires 40,000 sq ft Hauxton Meadows site in Cambridge, UK with plans to develop state-",
-        "score": 86
-      },
-      {
-        "url": "https://o2h.com/o2h-ventures/sunil-shah-o2h-ventures-wins-angel-investor-of-the-year/",
-        "anchor_text": "Sunil Shah, o2h ventures wins Angel Investor of the Year",
-        "score": 86
-      },
-      {
-        "url": "https://o2h.com/press-release/entrepreneur-prashant-shah-becomes-ned-at-one-nucleus/",
-        "anchor_text": "Entrepreneur Prashant Shah becomes NED at One Nucleus",
-        "score": 85
-      },
-      {
-        "url": "https://o2h.com/therapeutics/fighting-coronavirus-an-update-on-remdesivir-by-gilead/",
-        "anchor_text": "Fighting Coronavirus – an update on Remdesivir by Gilead",
-        "score": 85
-      },
-      {
-        "url": "https://o2h.com/community/completed-the-first-stage-of-its-tree-plantation-campaign/",
-        "anchor_text": "o2h community has completed the first stage of its campaign to plant 10,000 trees",
-        "score": 85
-      },
-      {
-        "url": "https://o2h.com/ventures/stemnovate-secures-funding-from-angels-led-by-o2h-ventures/",
-        "anchor_text": "Stemnovate secures funding from angels led by o2h ventures",
-        "score": 85
-      },
-      {
-        "url": "https://o2h.com/co-work/prashant-shah-finalists-cambridge-independent-awards-2022/",
-        "anchor_text": "Prashant Shah, CEO of o2h co work labs and Co-Founder of o2h group shortlisted in the Cambridge In",
-        "score": 83
-      },
-      {
-        "url": "https://o2h.com/discovery/nilesh-dagia-coo-o2h-discovery-wins-the-go-beyond-award/",
-        "anchor_text": "Nilesh Dagia, COO, o2h discovery, wins the International Institute for Sustainable Labs (I2SL) Go",
-        "score": 83
-      },
-      {
-        "url": "https://o2h.com/press-release/launching-kickstarter-for-early-stage-usa-biotech/",
-        "anchor_text": "o2h discovery launches ‘o2h kickstarter competition 5.0’ to support American early stage biote",
-        "score": 81
-      },
-      {
-        "url": "https://o2h.com/events/o2h-discovery-exhibiting-3rd-rsc-ai-chemistry-symposium/",
-        "anchor_text": "o2h discovery is exhibiting at the 3rd RSC-BMCS / RSC-CICAG Artificial Intelligence in Chemistry s",
-        "score": 80
-      },
-      {
-        "url": "https://o2h.com/o2h-ventures/privitar-raises-40-million-series-b-funding-round/",
-        "anchor_text": "Privitar Raises $40 Million Series B Funding Round Led by Accel to Facilitate the Safe and Ethical",
-        "score": 80
-      },
-      {
-        "url": "https://o2h.com/community/o2h-community-the-ahmedabad-project-tree-plantation/",
-        "anchor_text": "o2h community collaborated with The Ahmedabad Project to plant over 2000 trees",
-        "score": 79
-      },
-      {
-        "url": "https://o2h.com/ventures/o2h-update-oxford-drug-design-secures-1-5m-financing/",
-        "anchor_text": "o2h ventures update:  Oxford Drug Design secures £1.5M financing",
-        "score": 79
-      },
-      {
-        "url": "https://o2h.com/discovery/data-sharing-made-easy-with-chemistry-in-the-cloud/",
-        "anchor_text": "Data sharing made easy with Chemistry in the Cloud (CITC)",
-        "score": 78
-      },
-      {
-        "url": "https://o2h.com/co-work/mill-scitech-park-pre-planning-application-submitted/",
-        "anchor_text": "Mill SciTech Park pre-planning application submitted",
-        "score": 78
-      },
-      {
-        "url": "https://o2h.com/o2h-events-and-conferences/o2h-invites-you-to-innovation-day/",
-        "anchor_text": "o2h group invites you to Innovation day",
-        "score": 78
-      },
-      {
-        "url": "https://o2h.com/co-work-labs/award-for-excellence-in-adaptive-reuse-by-i2sl/",
-        "anchor_text": "o2h co-work labs wins the award for Excellence in Adaptive Reuse by I2SL",
-        "score": 77
-      },
-      {
-        "url": "https://o2h.com/press-release/o2h-group-acquires-heritage-hauxton-mill-site/",
-        "anchor_text": "Press release – o2h group acquires the 2.76 acre heritage Hauxton Mill site, Cambridge, UK w",
-        "score": 77
-      },
-      {
-        "url": "https://o2h.com/events/6th-edition-o2h-collaborative-innovation-conference/",
-        "anchor_text": "o2h group hosts the 6th o2h Collaborative Innovation Conference",
-        "score": 76
-      },
-      {
-        "url": "https://o2h.com/discovery/the-o2h-kickstarter-evaluation-committee-members/",
-        "anchor_text": "Meet the o2h kickstarter evaluation committee members…",
-        "score": 76
-      },
-      {
-        "url": "https://o2h.com/events/5th-edition-o2h-collaborative-innovation-conference/",
-        "anchor_text": "o2h group hosted 5th edition of the o2h Collaborative Innovation Conference in Ahmedabad",
-        "score": 76
-      },
-      {
-        "url": "https://o2h.com/technology/biiah-wins-the-o2h-tech-kickstarter-competition/",
-        "anchor_text": "Biiah, a tech startup committed to improving people’s health through singing, wins the o2h t",
-        "score": 76
-      },
-      {
-        "url": "https://o2h.com/technology/routezero-wins-o2h-tech-kickstarter-competition/",
-        "anchor_text": "RouteZero, a greentech startup committed to decarbonising business travel wins the o2h tech kickst",
-        "score": 76
-      },
-      {
-        "url": "https://o2h.com/discovery/how-o2h-kickstarter-empowering-biotech-startups/",
-        "anchor_text": "How o2h Kickstarter Is Empowering Early Stage Biotech Startups: Addressing Key Challenges Head-On",
-        "score": 75
-      },
-      {
-        "url": "https://o2h.com/discovery/protai-wins-the-o2h-kickstarter-competition-3-0/",
-        "anchor_text": "Protai, a proteomics and AI-powered drug discovery startup wins the o2h kickstarter competition 3.",
-        "score": 75
-      },
-      {
-        "url": "https://o2h.com/discovery/collaborating-for-first-in-class-drug-discovery/",
-        "anchor_text": "ImmuNext and o2h discovery collaborate to progress first-in-class drug discovery programs",
-        "score": 75
-      },
-      {
-        "url": "https://o2h.com/therapeutics/impacting-covid19-opportunities-for-chemists/",
-        "anchor_text": "Impacting COVID-19 – Opportunities for Chemists",
-        "score": 75
-      },
-      {
-        "url": "https://o2h.com/discovery/kuano-limited-wins-o2h-kickstarter-competition/",
-        "anchor_text": "Kuano Limited, a quantum simulation led biotech company wins o2h discovery kick-starter competitio",
-        "score": 74
-      },
-      {
-        "url": "https://o2h.com/discovery/attending-the-33rd-medicinal-chemistry-meeting/",
-        "anchor_text": "Claudio Dagostin will be representing o2h discovery at the 33rd Medicinal Chemistry Meeting",
-        "score": 74
-      },
-      {
-        "url": "https://o2h.com/events/o2h-launches-first-ever-cambridge-wide-open-day/",
-        "anchor_text": "We are delighted to launch the first ever Cambridge Wide Open Day to drive inclusive collaboration",
+        "url": "https://www.solix.com/solutions/replace-ibm-infosphere-optim-with-solixcloud/",
+        "anchor_text": "Infosphere Optim Replace",
         "score": 72
       },
       {
-        "url": "https://o2h.com/events/the-5th-o2h-collaborative-innovation-conference/",
-        "anchor_text": "o2h group announces the 5th o2h collaborative innovation conference 2023",
-        "score": 72
-      },
-      {
-        "url": "https://o2h.com/events/o2h-discovery-exhibiting-at-drug-discovery-2021/",
-        "anchor_text": "o2h discovery is exhibiting at the ElRIG UK’s annual conference Drug Discovery 2021",
-        "score": 72
-      },
-      {
-        "url": "https://o2h.com/team-ventures/in4derm-enters-in-an-exclusive-agreement/",
-        "anchor_text": "o2h Ventures backed In4Derm enters into an exclusive license agreement with VYNE Therapeutics",
-        "score": 72
-      },
-      {
-        "url": "https://o2h.com/ventures/o2h-ventures-makes-investment-in-small-pharma/",
-        "anchor_text": "o2h ventures Makes an Investment in Small Pharma",
-        "score": 72
-      },
-      {
-        "url": "https://o2h.com/events/sponsoring-and-exhibiting-at-the-3rd-mmcs-2022/",
-        "anchor_text": "o2h discovery is sponsoring and exhibiting at the 3rd Molecules Medicinal Chemistry Symposium R",
-        "score": 71
-      },
-      {
-        "url": "https://o2h.com/co-work-labs/worlds-first-influencer-biotech-bootcamp/",
-        "anchor_text": "o2h co-work Labs Launches the World’s First Influencer Biotech Bootcamp…",
-        "score": 71
-      },
-      {
-        "url": "https://o2h.com/o2h-ventures/o2h-ventures-sunil-shah-the-sunday-times/",
-        "anchor_text": "Q&A with Angel Investor Sunil Shah | The Sunday Times",
-        "score": 71
-      },
-      {
-        "url": "https://o2h.com/discovery/citc-finalist-in-pharma-industry-awards-uk/",
-        "anchor_text": "CITCᵀᴹ – Finalist in Pharma Industry Awards UK 2023",
+        "url": "https://www.solix.com/products/enterprise-content-services/cloud-archive/",
+        "anchor_text": "Cloud Archive",
         "score": 70
       },
       {
-        "url": "https://o2h.com/discovery/psylo-wins-o2h-kickstarter-competition-2-0/",
-        "anchor_text": "Psylo, a biotech company developing next-gen drugs for psychiatric disorders wins o2h kickstarter",
-        "score": 70
-      },
-      {
-        "url": "https://o2h.com/o2h-events-and-conferences/o2h-innovation-day-teaser/",
-        "anchor_text": "o2h group Innovation day teaser",
-        "score": 70
-      },
-      {
-        "url": "https://o2h.com/ventures/human-health-seis-fund-invests-into-sanome/",
-        "anchor_text": "o2h Ventures “Human Health SEIS Fund” Invests into Sanome…",
-        "score": 69
-      },
-      {
-        "url": "https://o2h.com/events/supporting-biotechbikers-networking-event-uk/",
-        "anchor_text": "o2h group is supporting the upcoming BiotechBikers’ networking event in The UK",
-        "score": 69
-      },
-      {
-        "url": "https://o2h.com/ventures/exonate-receives-uk-angel-investment-award/",
-        "anchor_text": "Exonate receives UK Angel Investment Award",
-        "score": 69
-      },
-      {
-        "url": "https://o2h.com/discovery/azadyne-wins-o2h-kickstarter-competition/",
-        "anchor_text": "Azadyne, a biotech startup targeting autoimmune disease wins o2h discovery kickstarter competition",
+        "url": "https://www.solix.com/products/enterprise-content-services/document-ai/",
+        "anchor_text": "Document AI",
         "score": 68
       },
       {
-        "url": "https://o2h.com/events/sci-rsc-22nd-medicinal-chemistry-symposium/",
-        "anchor_text": "o2h discovery is participating in the SCI-RSC 22nd Medicinal Chemistry Symposium",
-        "score": 67
-      },
-      {
-        "url": "https://o2h.com/discovery/kickstarter-newsletter-chaitime-webinar/",
-        "anchor_text": "o2h Kickstarter Newsletter: Chaitime Webinar",
-        "score": 67
-      },
-      {
-        "url": "https://o2h.com/events/exhibiting-at-the-rsc-bmcs-2022-conference/",
-        "anchor_text": "o2h discovery is exhibiting at the 8th RSC-BMCS Fragment-based Drug Discovery Meeting – 2022",
-        "score": 67
-      },
-      {
-        "url": "https://o2h.com/press-release/knowledge-intensive-eis-fund-launch/",
-        "anchor_text": "o2h ventures launches the first HMRC approved knowledge intensive EIS fund focused on UK biotech t",
-        "score": 67
-      },
-      {
-        "url": "https://o2h.com/ventures/metrion-biosciences-closes-funding-round/",
-        "anchor_text": "Metrion Biosciences Closes Funding Round- o2h Ventures",
-        "score": 67
-      },
-      {
-        "url": "https://o2h.com/ventures/makes-it-to-the-finals-eisa-awards-2021/",
-        "anchor_text": "o2h Ventures makes it to the finals in the EISA Awards 2021…",
+        "url": "https://www.solix.com/company/news-events/press-releases/page/15/",
+        "anchor_text": "15",
         "score": 66
       },
       {
-        "url": "https://o2h.com/press-release/launching-cambridge-wide-open-day/",
-        "anchor_text": "‘UK science powerhouse’ opens its doors for the Cambridge Wide Open Day & Tour",
+        "url": "https://www.solix.com/company/news-events/press-releases/page/2/",
+        "anchor_text": "»",
         "score": 65
       },
       {
-        "url": "https://o2h.com/events/o2h-to-attend-these-upcoming-conferences/",
-        "anchor_text": "o2h group to attend these upcoming conferences",
+        "url": "https://www.solix.com/company/news-events/press-releases/page/3/",
+        "anchor_text": "3",
         "score": 65
       },
       {
-        "url": "https://o2h.com/community/o2h-group-planted-ten-thousand-trees/",
-        "anchor_text": "Press Release – o2h group accomplished its goal of planting ten thousand trees",
+        "url": "https://www.solix.com/solutions/cloud-data-management-for-jd-edwards/",
+        "anchor_text": "JD Edwards",
         "score": 64
       },
       {
-        "url": "https://o2h.com/events/biotechbikers-millscitechpark-aug-2022/",
-        "anchor_text": "o2h group is supporting the upcoming Biotech Bikers’ event 2022",
-        "score": 63
+        "url": "https://www.solix.com/solutions/cloud-data-management-for-peoplesoft/",
+        "anchor_text": "PeopleSoft",
+        "score": 64
       },
       {
-        "url": "https://o2h.com/ventures/fireside-chat-with-sir-mene-pangalos/",
-        "anchor_text": "o2h Ventures is hosting Jingle Chai – A Fireside Chat with Sir Mene Pangalos",
-        "score": 63
-      },
-      {
-        "url": "https://o2h.com/press-release/first-cambridge-wide-open-day/",
-        "anchor_text": "First Cambridge Open Day is city-wide success for tech firms and local community",
+        "url": "https://www.solix.com/products/enterprise-data-archiving-solution/",
+        "anchor_text": "Enterprise Archiving",
         "score": 61
       },
       {
-        "url": "https://o2h.com/8th-collaborative-innovation-conference-2026/",
-        "anchor_text": "Innovation Conference 2026",
+        "url": "https://www.solix.com/products/enterprise-content-services/pricing",
+        "anchor_text": "Pricing",
+        "score": 61
+      },
+      {
+        "url": "https://www.solix.com/solutions/cloud-data-management-for-siebel/",
+        "anchor_text": "Siebel",
         "score": 60
       },
       {
-        "url": "https://o2h.com/events/biotechbikers-millscitechpark-2022/",
-        "anchor_text": "o2h group is supporting the BiotechBikers’ event 2022",
-        "score": 59
+        "url": "https://www.solix.com/solutions/microsoft-sql-database-archiving/",
+        "anchor_text": "MS-SQL",
+        "score": 60
       },
       {
-        "url": "https://o2h.com/events/the-o2h-innovation-conference-2019/",
-        "anchor_text": "The o2h Innovation Conference 2019 14th March at Courtyard by Marriott, Ahmedabad",
-        "score": 59
-      },
-      {
-        "url": "https://o2h.com/discovery/kickstarter-competition-launch/",
-        "anchor_text": "o2h discovery launches the o2h kickstarter competition to support early stage biotechs’",
+        "url": "https://www.solix.com/products/application-retirement-solution/",
+        "anchor_text": "Application Retirement",
         "score": 58
       },
       {
-        "url": "https://o2h.com/co-work-labs/influencer-biotech-bootcamp/",
-        "anchor_text": "o2h co work labs Hosted the World’s First Influencer Biotech Bootcamp…",
+        "url": "https://www.solix.com/solutions/cloud-data-management-for-baan/",
+        "anchor_text": "Baan",
         "score": 58
       },
       {
-        "url": "https://o2h.com/discovery/chemistry-process-optimization/",
-        "anchor_text": "Chemistry Process Optimization – an inevitable parameter for the developmental phase of the drug",
-        "score": 58
+        "url": "https://www.solix.com/solutions/cloud-data-management-for-sap/",
+        "anchor_text": "SAP HANA",
+        "score": 57
       },
       {
-        "url": "https://o2h.com/discovery/targeted-protein-degradation/",
-        "anchor_text": "Targeted Protein Degradation/PROTAC Services: Revolutionizing the drug discovery approach with PRO",
-        "score": 56
+        "url": "https://www.solix.com/company/news-events/press-releases/#content",
+        "anchor_text": "Skip to content",
+        "score": 54
       },
       {
-        "url": "https://o2h.com/careers/woman-in-science-and-tech/",
-        "anchor_text": "Women in science and tech",
-        "score": 51
+        "url": "https://www.solix.com/products/enterprise-content-services/",
+        "anchor_text": "Enterprise Content Services",
+        "score": 54
       },
       {
-        "url": "https://o2h.com/discovery/protac-services-biology/",
-        "anchor_text": "PROTAC – o2h discovery’s biology expertise",
-        "score": 51
+        "url": "https://www.solix.com/company/news-events/press-releases/",
+        "anchor_text": "",
+        "score": 54
       },
       {
-        "url": "https://o2h.com/careers/recruitment-and-training/",
-        "anchor_text": "Recruitment & training",
+        "url": "https://www.solix.com/products/solix-common-data-platform/",
+        "anchor_text": "Solix Common Data Platform (CDP)",
+        "score": 53
+      },
+      {
+        "url": "https://www.solix.com/partners/global-technology-partners/",
+        "anchor_text": "Global Technology Partners",
+        "score": 53
+      },
+      {
+        "url": "https://www.solix.com/solutions/sensitive-data-discovery/",
+        "anchor_text": "Sensitive Data Discovery",
+        "score": 52
+      },
+      {
+        "url": "https://www.solix.com/solutions/mysql-database-archiving/",
+        "anchor_text": "MySQL",
+        "score": 52
+      },
+      {
+        "url": "https://www.solix.com/solutions/oracle-ebusiness-suite/",
+        "anchor_text": "Oracle Database",
         "score": 50
       },
       {
-        "url": "https://o2h.com/o2h-events-and-conferences/904-2/",
-        "anchor_text": "We are celebrating o2h Collaborative Innovation Conference, Ahmedabad 2018 at 15th March 2018",
-        "score": 50
+        "url": "https://www.solix.com/solutions/ibm-zseries-mainframe/",
+        "anchor_text": "zSystems Mainframe",
+        "score": 49
       },
       {
-        "url": "https://o2h.com/ventures/happy-10th-birthday-o2h/",
-        "anchor_text": "Happy 10th Birthday o2h group",
-        "score": 50
+        "url": "https://www.solix.com/company/touch-a-life-foundation/",
+        "anchor_text": "Corporate Social Responsibility",
+        "score": 49
       },
       {
-        "url": "https://o2h.com/o2h-kickstarter-innovate-america/",
-        "anchor_text": "o2h Kickstarter: Innovate America",
+        "url": "https://www.solix.com/products/consumer-data-privacy/",
+        "anchor_text": "Consumer Data Privacy",
         "score": 48
       },
       {
-        "url": "https://o2h.com/the-o2h-kickstarter-competition/",
-        "anchor_text": "o2h Kickstarter: Global",
+        "url": "https://www.solix.com/services/professional-services/",
+        "anchor_text": "Professional Services",
+        "score": 48
+      },
+      {
+        "url": "https://www.solix.com/partners/become-solix-partner/",
+        "anchor_text": "Become A Partner",
         "score": 47
       },
       {
-        "url": "https://o2h.com/events/o2h-group-kindness-day/",
-        "anchor_text": "o2h group announces Kindness Day in memory of Shabu Thomas",
+        "url": "https://www.solix.com/partners/partner-portal-login/",
+        "anchor_text": "Partner Portal",
         "score": 47
       },
       {
-        "url": "https://o2h.com/o2h-discovery-platinum-partner/",
-        "anchor_text": "o2h Discovery Platinum Partner",
+        "url": "https://www.solix.com/products/enterprise-archiving/",
+        "anchor_text": "DB2",
+        "score": 47
+      },
+      {
+        "url": "https://www.solix.com/services/assessment-services/",
+        "anchor_text": "Assessment Services",
         "score": 46
       },
       {
-        "url": "https://o2h.com/events/bia-gala-dinner-2022/",
-        "anchor_text": "o2h group is attending BIA Gala Dinner 2022",
+        "url": "https://www.solix.com/resources/on-demand-webinars/",
+        "anchor_text": "eBooks",
+        "score": 46
+      },
+      {
+        "url": "https://www.solix.com/company/news-events/events/",
+        "anchor_text": "Events",
+        "score": 46
+      },
+      {
+        "url": "https://www.solix.com/products/data-lake-solution/",
+        "anchor_text": "Enterprise Data Lake",
         "score": 45
       },
       {
-        "url": "https://o2h.com/events/second-kindness-day/",
-        "anchor_text": "o2h group is observing Kindness Day in memory of Shabu Thomas",
+        "url": "https://www.solix.com/products/database-archiving/",
+        "anchor_text": "Database Archiving",
+        "score": 45
+      },
+      {
+        "url": "https://www.solix.com/partners/big-data-partners/",
+        "anchor_text": "Big Data Partners",
         "score": 44
       },
       {
-        "url": "https://o2h.com/exhibiting-attending-events/",
-        "anchor_text": "events",
+        "url": "https://www.solix.com/company/investor-relations/",
+        "anchor_text": "Investor Relations",
+        "score": 44
+      },
+      {
+        "url": "https://www.solix.com/solutions/solix-eai-pharma/",
+        "anchor_text": "Pharma and Biotech",
+        "score": 44
+      },
+      {
+        "url": "https://www.solix.com/solutions/data-governance/",
+        "anchor_text": "Data Governance",
         "score": 43
       },
       {
-        "url": "https://o2h.com/careers/culture-values/",
-        "anchor_text": "o2h group culture, people and values",
+        "url": "https://www.solix.com/products/email-archiving/",
+        "anchor_text": "Email Archiving",
+        "score": 42
+      },
+      {
+        "url": "https://www.solix.com/partners/partner-program/",
+        "anchor_text": "Distribution Partners",
+        "score": 42
+      },
+      {
+        "url": "https://www.solix.com/products/file-archiving/",
+        "anchor_text": "File Archiving",
+        "score": 41
+      },
+      {
+        "url": "https://www.solix.com/partners/cloud-partners/",
+        "anchor_text": "Cloud Partners / Hyperscalers",
+        "score": 41
+      },
+      {
+        "url": "https://www.solix.com/products/enterprise-ai/",
+        "anchor_text": "Enterprise AI",
         "score": 40
       },
       {
-        "url": "https://o2h.com/lipid-nanoparticles/",
-        "anchor_text": "Lipid-nanoparticles",
-        "score": 35
+        "url": "https://www.solix.com/products/ai-governance/",
+        "anchor_text": "AI Governance",
+        "score": 40
       },
       {
-        "url": "https://o2h.com/cookies-policy/",
-        "anchor_text": "Cookies Policy",
-        "score": 30
+        "url": "https://www.solix.com/products/ai-healthcare/",
+        "anchor_text": "AI Healthcare",
+        "score": 40
       },
       {
-        "url": "https://o2h.com/privacy-policy/",
+        "url": "https://www.solix.com/services/support-login/",
+        "anchor_text": "Support Portal",
+        "score": 40
+      },
+      {
+        "url": "https://www.solix.com/resources/white-papers/",
+        "anchor_text": "White Papers",
+        "score": 40
+      },
+      {
+        "url": "https://www.solix.com/resources/case-studies/",
+        "anchor_text": "Case Studies",
+        "score": 40
+      },
+      {
+        "url": "https://www.solix.com/company/contact-sales/",
+        "anchor_text": "Contact Sales",
+        "score": 39
+      },
+      {
+        "url": "https://www.solix.com/products/ai-warehouse/",
+        "anchor_text": "AI Warehouse",
+        "score": 39
+      },
+      {
+        "url": "https://www.solix.com/products/data-masking/",
+        "anchor_text": "Data Masking",
+        "score": 39
+      },
+      {
+        "url": "https://www.solix.com/partners/our-partners/",
+        "anchor_text": "Our Partners",
+        "score": 39
+      },
+      {
+        "url": "https://www.solix.com/partners/oem-partners/",
+        "anchor_text": "OEM Partners",
+        "score": 39
+      },
+      {
+        "url": "https://www.solix.com/company/analyst-views/",
+        "anchor_text": "Analyst Views",
+        "score": 39
+      },
+      {
+        "url": "https://www.solix.com/products/request-demo/",
+        "anchor_text": "Request Demo",
+        "score": 39
+      },
+      {
+        "url": "https://www.solix.com/company/news-events/",
+        "anchor_text": "Newsroom",
+        "score": 37
+      },
+      {
+        "url": "https://www.solix.com/solutions/ia-for-ai/",
+        "anchor_text": "Information Architecture (IA) for AI",
+        "score": 37
+      },
+      {
+        "url": "https://www.solix.com/acceptable-use-policy/",
+        "anchor_text": "Acceptable Use Policy",
+        "score": 37
+      },
+      {
+        "url": "https://www.solix.com/company/contact-us/",
+        "anchor_text": "Contact Us",
+        "score": 36
+      },
+      {
+        "url": "https://www.solix.com/terms-and-conditions/",
+        "anchor_text": "Terms & Conditions",
+        "score": 36
+      },
+      {
+        "url": "https://www.solix.com/leadership-lessons/",
+        "anchor_text": "Leadership Lessons",
+        "score": 34
+      },
+      {
+        "url": "https://www.solix.com/solutions/manufacturing/",
+        "anchor_text": "Manufacturing",
+        "score": 31
+      },
+      {
+        "url": "https://www.solix.com/privacy-policy/",
         "anchor_text": "Privacy Policy",
         "score": 30
       },
       {
-        "url": "https://o2h.com/co-work-labs/",
-        "anchor_text": "co-work labs",
+        "url": "https://www.solix.com/solutions/healthcare/",
+        "anchor_text": "Healthcare",
         "score": 28
       },
       {
-        "url": "https://o2h.com/csr-policy/",
-        "anchor_text": "CSR Policy",
+        "url": "https://www.solix.com/solutions/government/",
+        "anchor_text": "Government",
+        "score": 28
+      },
+      {
+        "url": "https://www.solix.com/resources/datasheets/",
+        "anchor_text": "Datasheets",
+        "score": 28
+      },
+      {
+        "url": "https://www.solix.com/solutions/insurance/",
+        "anchor_text": "Insurance",
+        "score": 27
+      },
+      {
+        "url": "https://www.solix.com/resources/podcasts/",
+        "anchor_text": "Podcasts",
         "score": 26
       },
       {
-        "url": "https://o2h.com/therapeutics/",
-        "anchor_text": "Therapeutics",
-        "score": 18
+        "url": "https://www.solix.com/company/leadership/",
+        "anchor_text": "Leadership",
+        "score": 26
       },
       {
-        "url": "https://o2h.com/technology/",
-        "anchor_text": "Technology",
-        "score": 16
+        "url": "https://www.solix.com/solutions/banking/",
+        "anchor_text": "Banking",
+        "score": 25
       },
       {
-        "url": "https://o2h.com/community/",
-        "anchor_text": "Community",
+        "url": "https://www.solix.com/solutions/finance/",
+        "anchor_text": "Finance",
+        "score": 25
+      },
+      {
+        "url": "https://www.solix.com/solutions/telecom/",
+        "anchor_text": "Telecom",
+        "score": 25
+      },
+      {
+        "url": "https://www.solix.com/solutions/retail/",
+        "anchor_text": "Retail",
+        "score": 24
+      },
+      {
+        "url": "https://www.solix.com/resources/ebooks/",
+        "anchor_text": "eBooks",
+        "score": 24
+      },
+      {
+        "url": "https://www.solix.com/company/careers/",
+        "anchor_text": "Careers",
+        "score": 23
+      },
+      {
+        "url": "https://www.solix.com/solutions/",
+        "anchor_text": "Solutions",
         "score": 15
       },
       {
-        "url": "https://o2h.com/discovery/",
-        "anchor_text": "Discovery",
+        "url": "https://www.solix.com/resources/",
+        "anchor_text": "Resources",
         "score": 15
       },
       {
-        "url": "https://o2h.com/chaitime/",
-        "anchor_text": "o2h Chaitime",
+        "url": "https://www.solix.com/products/",
+        "anchor_text": "Products",
         "score": 14
       },
       {
-        "url": "https://o2h.com/contact/",
-        "anchor_text": "contact",
+        "url": "https://www.solix.com/services/",
+        "anchor_text": "Services & Support",
+        "score": 14
+      },
+      {
+        "url": "https://www.solix.com/partners/",
+        "anchor_text": "Partners",
+        "score": 14
+      },
+      {
+        "url": "https://www.solix.com/company/",
+        "anchor_text": "Company",
         "score": 13
       },
       {
-        "url": "https://o2h.com/about/",
-        "anchor_text": "about",
-        "score": 11
+        "url": "https://www.solix.com/sitemap/",
+        "anchor_text": "Sitemap",
+        "score": 13
       },
       {
-        "url": "https://o2h.com/news/",
-        "anchor_text": "news",
+        "url": "https://www.solix.com/blog/",
+        "anchor_text": "Blogs",
         "score": 10
       },
       {
-        "url": "https://o2h.com/team/",
-        "anchor_text": "team",
-        "score": 10
+        "url": "https://www.solix.com/pt/",
+        "anchor_text": "Português",
+        "score": 8
       },
       {
-        "url": "https://o2h.com/",
-        "anchor_text": "",
+        "url": "https://www.solix.com/it/",
+        "anchor_text": "Italiano",
+        "score": 8
+      },
+      {
+        "url": "https://www.solix.com/ko/",
+        "anchor_text": "한국어",
+        "score": 8
+      },
+      {
+        "url": "https://www.solix.com/ja/",
+        "anchor_text": "日本語",
+        "score": 8
+      },
+      {
+        "url": "https://www.solix.com/es/",
+        "anchor_text": "Español",
+        "score": 8
+      },
+      {
+        "url": "https://www.solix.com/de/",
+        "anchor_text": "Deutsch",
+        "score": 8
+      },
+      {
+        "url": "https://www.solix.com/fr/",
+        "anchor_text": "Français",
+        "score": 8
+      },
+      {
+        "url": "https://www.solix.com/",
+        "anchor_text": "English",
         "score": 3
       }
     ]
+  },
+  {
+    "company": "Lonza",
+    "press_url": "https://www.lonza.com/news",
+    "candidate_links": []
   },
   {
     "company": "T-Hub",
@@ -82572,6 +82396,11 @@
   {
     "company": "Springworks Therapeutics",
     "press_url": "https://ir.springworkstx.com/news-releases",
+    "candidate_links": []
+  },
+  {
+    "company": "Zealand Pharma",
+    "press_url": "https://www.zealandpharma.com/news-media/?tab=newsroom",
     "candidate_links": []
   },
   {

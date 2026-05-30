@@ -108336,5 +108336,215 @@
         "score": 26,
         "date_added": "2026-05-29",
         "article_like": false
+    },
+    {
+        "company": "Amgen",
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/05/amgen-to-present-at-jefferies-global-healthcare-conference",
+        "score": 136,
+        "date_added": "2026-05-30",
+        "article_like": true
+    },
+    {
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en-SE/sweden",
+        "score": 27,
+        "date_added": "2026-05-30",
+        "article_like": false
+    },
+    {
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/sv/sverige",
+        "score": 15,
+        "date_added": "2026-05-30",
+        "article_like": false
+    },
+    {
+        "company": "Genotypic Technology Pvt Ltd",
+        "url": "https://genotypic.co.in/publication/",
+        "score": 17,
+        "date_added": "2026-05-30",
+        "article_like": false
+    },
+    {
+        "company": "Tredence",
+        "url": "https://www.tredence.com/careers/greatest-of-ai",
+        "score": 37,
+        "date_added": "2026-05-30",
+        "article_like": false
+    },
+    {
+        "company": "Rx Propellant",
+        "url": "https://rxpropellant.com/why-water-stewardship-is-now-a-core-pillar-of-scientific-infrastructure/",
+        "score": 87,
+        "date_added": "2026-05-30",
+        "article_like": true
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/media/perspectives/water-climate-resilience-and-green-manufacturing-will-define-future-pharma",
+        "score": 110,
+        "date_added": "2026-05-30",
+        "article_like": true
+    },
+    {
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-supports-multi-institution-trial-expand-genetic-testing.html",
+        "score": 147,
+        "date_added": "2026-05-30",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/press-release/foundationone-mrd",
+        "score": 46,
+        "date_added": "2026-05-30",
+        "article_like": true
+    },
+    {
+        "company": "Pfizer",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/seven-year-analysis-pfizers-lorbrena-crown-trial-shows",
+        "score": 113,
+        "date_added": "2026-05-30",
+        "article_like": true
+    },
+    {
+        "company": "AstraZeneca",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/cares-phase-iii-clinical-programme-did-not-meet-primary-endpoint-in-overall-light-chain-amyloidosis-population.html",
+        "score": 211,
+        "date_added": "2026-05-30",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/rybrevant-amivantamab-vmjw-plus-lazcluze-lazertinib-demonstrates-prolonged-clinical-benefit-as-a-first-line-treatment-for-atypical-egfr-mutated-non-small-cell-lung-cancer",
+        "score": 215,
+        "date_added": "2026-05-30",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/new-tecvayli-data-demonstrates-superior-progression-free-and-overall-survival-as-early-as-first-relapse-in-multiple-myeloma",
+        "score": 168,
+        "date_added": "2026-05-30",
+        "article_like": true
+    },
+    {
+        "company": "Bristol Myers Squibb",
+        "url": "https://www.bms.com/patient-and-caregivers/thriving-through-treatments.html",
+        "score": 70,
+        "date_added": "2026-05-30",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-05-29-AbbVie-Announces-European-Commission-Authorization-of-Expanded-Label-for-VENCLYXTO-R-venetoclax-to-Include-Additional-Combinations-in-Previously-Untreated-Chronic-Lymphocytic-Leukemia",
+        "score": 207,
+        "date_added": "2026-05-30",
+        "article_like": true
+    },
+    {
+        "company": "BeiGene",
+        "url": "https://ir.beonemedicines.com/news/beone-medicines-establishes-standard-for-long-term-disease-control-in-cll-with-brukinsa-78-month-data-at/b4bd2456-0171-42db-b7ff-3dc5dea831a2",
+        "score": 163,
+        "date_added": "2026-05-30",
+        "article_like": true
+    },
+    {
+        "company": "Immunocore",
+        "url": "https://www.immunocore.com/clinical-trials/what-are-clinical-trials",
+        "score": 55,
+        "date_added": "2026-05-30",
+        "article_like": true
+    },
+    {
+        "company": "IQVIA",
+        "url": "https://www.iqvia.com/solutions/commercialization/commercial-analytics/omnichannel-engagement-and-insights/patient-insights-for-hcp-engagement/patient-characterization-and-journey",
+        "score": 180,
+        "date_added": "2026-05-30",
+        "article_like": true
+    },
+    {
+        "company": "IQVIA",
+        "url": "https://www.iqvia.com/solutions/commercialization/patient-engagement-and-support/iqvia-patient-experience-platform",
+        "score": 111,
+        "date_added": "2026-05-30",
+        "article_like": true
+    },
+    {
+        "company": "IQVIA",
+        "url": "https://www.iqvia.com/solutions/real-world-evidence/iqvia-nlp-platform/addressing-social-determinants-of-health",
+        "score": 108,
+        "date_added": "2026-05-30",
+        "article_like": true
+    },
+    {
+        "company": "IQVIA",
+        "url": "https://www.iqvia.com/solutions/research-and-development/consulting/patient-centered-endpoints",
+        "score": 91,
+        "date_added": "2026-05-30",
+        "article_like": true
+    },
+    {
+        "company": "IQVIA",
+        "url": "https://www.iqvia.com/solutions/real-world-evidence/study-design/patient-registries",
+        "score": 80,
+        "date_added": "2026-05-30",
+        "article_like": true
+    },
+    {
+        "company": "IQVIA",
+        "url": "https://www.iqvia.com/solutions/patient-centricity",
+        "score": 43,
+        "date_added": "2026-05-30",
+        "article_like": true
+    },
+    {
+        "company": "Catalent",
+        "url": "https://www.catalent.com/events/14th-ais-2026/",
+        "score": 38,
+        "date_added": "2026-05-30",
+        "article_like": false
+    },
+    {
+        "company": "Disc Medicine",
+        "url": "https://ir.discmedicine.com/news-releases?mobile=1&page=0",
+        "score": 26,
+        "date_added": "2026-05-30",
+        "article_like": true
+    },
+    {
+        "company": "Disc Medicine",
+        "url": "https://ir.discmedicine.com/news-releases?mobile=1&page=1",
+        "score": 26,
+        "date_added": "2026-05-30",
+        "article_like": true
+    },
+    {
+        "company": "Intra-Cellular Therapies",
+        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/RYBREVANT-amivantamab-vmjw-plus-LAZCLUZE-lazertinib-demonstrates-prolonged-clinical-benefit-as-a-first-line-treatment-for-atypical-EGFR-mutated-non-small-cell-lung-cancer/default.aspx",
+        "score": 261,
+        "date_added": "2026-05-30",
+        "article_like": false
+    },
+    {
+        "company": "Intra-Cellular Therapies",
+        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/New-TECVAYLI-teclistamab-cqyv-data-demonstrate-superior-progression-free-and-overall-survival-as-early-as-first-relapse-in-multiple-myeloma/default.aspx",
+        "score": 230,
+        "date_added": "2026-05-30",
+        "article_like": false
+    },
+    {
+        "company": "Mirati Therapeutics",
+        "url": "https://ir.mirati.com/patient-and-caregivers/thriving-through-treatments.html",
+        "score": 70,
+        "date_added": "2026-05-30",
+        "article_like": true
+    },
+    {
+        "company": "Junshi Biosciences",
+        "url": "https://www.junshipharma.com/en/%e5%90%9b%e5%ae%9e%e7%94%9f%e7%89%a9%e5%ae%a3%e5%b8%83%e7%89%b9%e7%91%9e%e6%99%ae%e5%88%a9%e5%8d%95%e6%8a%97%e6%b3%a8%e5%b0%84%e6%b6%b2%ef%bc%88%e7%9a%ae%e4%b8%8b%e6%b3%a8%e5%b0%84%ef%bc%8912%e9%a1%b9/",
+        "score": 211,
+        "date_added": "2026-05-30",
+        "article_like": true
     }
 ]
