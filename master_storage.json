@@ -108546,5 +108546,33 @@
         "score": 211,
         "date_added": "2026-05-30",
         "article_like": true
+    },
+    {
+        "company": "Novartis",
+        "url": "https://www.novartis.com/news/media-releases/pluvictotm-demonstrated-consistent-efficacy-across-key-patient-subgroups-metastatic-hormone-sensitive-prostate-cancer",
+        "score": 154,
+        "date_added": "2026-05-31",
+        "article_like": true
+    },
+    {
+        "company": "Pfizer",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/talzenna-plus-xtandi-improves-radiographic-progression-free",
+        "score": 118,
+        "date_added": "2026-05-31",
+        "article_like": true
+    },
+    {
+        "company": "Grail",
+        "url": "https://grail.com/press-releases/grail-reports-full-results-from-nhs-galleri-trial-demonstrating-substantial-reduction-in-stage-iv-cancer-diagnoses-at-2026-asco-annual-meeting/",
+        "score": 175,
+        "date_added": "2026-05-31",
+        "article_like": true
+    },
+    {
+        "company": "Tune Therapeutics",
+        "url": "https://tunetx.com/tune-therapeutics-presents-positive-phase-1b-2a-proof-of-concept-data-on-tune-401-a-first-in-class-epigenetic-silencer-for-patients-with-hepatitis-b-at-easl-2026/",
+        "score": 177,
+        "date_added": "2026-05-31",
+        "article_like": true
     }
 ]

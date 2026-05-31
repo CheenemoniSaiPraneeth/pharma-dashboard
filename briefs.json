@@ -1,10 +1,17 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 16,
-    "items_extracted": 0,
+    "articles_used": 4,
+    "items_extracted": 1,
     "items_dropped": 0,
-    "generated_at": "2026-05-30 08:40:01"
+    "generated_at": "2026-05-31 09:02:03"
   },
-  "news": []
+  "news": [
+    {
+      "company": "Tune Therapeutics",
+      "modality": "gene editing",
+      "news": "Tune Therapeutics presented positive Phase 1b/2a data for TUNE-401, a first-in-class epigenetic silencer for Hepatitis B, at EASL 2026. The study demonstrated the first clinical evidence of direct epigenetic silencing of the HBV cccDNA reservoir, with durable biomarker repression observed up to 17 months.",
+      "url": "https://tunetx.com/tune-therapeutics-presents-positive-phase-1b-2a-proof-of-concept-data-on-tune-401-a-first-in-class-epigenetic-silencer-for-patients-with-hepatitis-b-at-easl-2026/"
+    }
+  ]
 }
