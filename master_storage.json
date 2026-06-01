@@ -108574,5 +108574,152 @@
         "score": 177,
         "date_added": "2026-05-31",
         "article_like": true
+    },
+    {
+        "company": "Novartis",
+        "url": "https://www.novartis.com/news/media-releases/novartis-data-eular-2026-demonstrates-momentum-broad-immunology-portfolio-complex-high-unmet-need-diseases",
+        "score": 143,
+        "date_added": "2026-06-01",
+        "article_like": true
+    },
+    {
+        "company": "BIRAC",
+        "url": "https://www.birac.nic.in/desc_new.php?id=1333",
+        "score": 15,
+        "date_added": "2026-06-01",
+        "article_like": true
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/press/1june2026-global-fintech-revenues-surpass-half-trillion-dollars",
+        "score": 84,
+        "date_added": "2026-06-01",
+        "article_like": true
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/media/press-releases/lupin-receives-approval-from-u-s-fda-for-sodium-sulfate-magnesium-sulfate-and-potassium-chloride-tablets",
+        "score": 142,
+        "date_added": "2026-06-01",
+        "article_like": true
+    },
+    {
+        "company": "Genentech",
+        "url": "https://www.gene.com/media/press-releases/15114/2026-05-31/genentech-to-present-new-data-advancing-",
+        "score": 99,
+        "date_added": "2026-06-01",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/press-release/swog-ctp",
+        "score": 37,
+        "date_added": "2026-06-01",
+        "article_like": false
+    },
+    {
+        "company": "Pfizer",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizers-braftovi-regimen-nearly-doubles-median-progression",
+        "score": 117,
+        "date_added": "2026-06-01",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-06-01",
+        "score": 50,
+        "date_added": "2026-06-01",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-phase-3-prostate-cancer-study-shows-erleada-apalutamide-before-and-after-surgery-significantly-reduces-risk-of-metastasis-or-death-breaking-a-decades-long-treatment-paradigm",
+        "score": 234,
+        "date_added": "2026-06-01",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/rybrevant-faspro-amivantamab-and-hyaluronidase-lpuj-pivotal-data-show-strong-and-durable-responses-in-advanced-head-and-neck-cancer-where-options-remain-limited",
+        "score": 205,
+        "date_added": "2026-06-01",
+        "article_like": true
+    },
+    {
+        "company": "Takeda Pharmaceutical",
+        "url": "https://www.takeda.com/newsroom/newsreleases/2026/notice-concerning-withdrawal-of-shelf-registration-statement-and-filing-of-new-shelf-registration-statement-in-japan/",
+        "score": 190,
+        "date_added": "2026-06-01",
+        "article_like": true
+    },
+    {
+        "company": "BeiGene",
+        "url": "https://ir.beonemedicines.com/news/beone-medicines-highlights-accelerating-solid-tumor-pipeline-with-new-data-at-asco-2026/c65de266-8b5a-4002-9ce8-e13b2564f924",
+        "score": 146,
+        "date_added": "2026-06-01",
+        "article_like": true
+    },
+    {
+        "company": "Immunocore",
+        "url": "https://www.immunocore.com/investors/news/press-releases/detail/131/immunocore-presents-updated-phase-1-data-of-brenetafusp-in-patients-with-heavily-pretreated-advanced-melanoma",
+        "score": 173,
+        "date_added": "2026-06-01",
+        "article_like": true
+    },
+    {
+        "company": "UCB",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-and-biogen-announce-publication-in-the-lancet-of-positive-dapirolizumab-pegol-dzp-phase-3-study-results-in-systemic-lupus-erythematosus",
+        "score": 190,
+        "date_added": "2026-06-01",
+        "article_like": true
+    },
+    {
+        "company": "UCB",
+        "url": "https://www.ucb.com/stories-media/press-releases?page=63",
+        "score": 43,
+        "date_added": "2026-06-01",
+        "article_like": false
+    },
+    {
+        "company": "Sumitomo Pharma",
+        "url": "https://www.sumitomo-pharma.com/news/20260601.html",
+        "score": 23,
+        "date_added": "2026-06-01",
+        "article_like": false
+    },
+    {
+        "company": "Shionogi",
+        "url": "https://www.shionogi.com/global/en/news/2026/06/20260601,2.html",
+        "score": 76,
+        "date_added": "2026-06-01",
+        "article_like": true
+    },
+    {
+        "company": "Shionogi",
+        "url": "https://www.shionogi.com/global/en/news/2026/06/20260601.html",
+        "score": 74,
+        "date_added": "2026-06-01",
+        "article_like": false
+    },
+    {
+        "company": "Intra-Cellular Therapies",
+        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/Johnson--Johnsons-Phase-3-prostate-cancer-study-shows-ERLEADA-apalutamide-before-and-after-surgery-significantly-reduces-risk-of-metastasis-or-death-breaking-a-decades-long-treatment-paradigm/default.aspx",
+        "score": 282,
+        "date_added": "2026-06-01",
+        "article_like": false
+    },
+    {
+        "company": "Intra-Cellular Therapies",
+        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/RYBREVANT-FASPRO-amivantamab-and-hyaluronidase-lpuj-pivotal-data-show-strong-and-durable-responses-in-advanced-head-and-neck-cancer-where-options-remain-limited/default.aspx",
+        "score": 251,
+        "date_added": "2026-06-01",
+        "article_like": false
+    },
+    {
+        "company": "Grail",
+        "url": "https://grail.com/press-releases/grail-presents-pathfinder-2-results-of-more-than-35000-participants-showing-the-galleri-test-substantially-increased-cancer-detection-with-robust-performance-and-favorable-safety-at-2026-a/",
+        "score": 221,
+        "date_added": "2026-06-01",
+        "article_like": true
     }
 ]

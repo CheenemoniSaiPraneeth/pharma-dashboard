@@ -1,4 +1,52 @@
 {
+  "2026-06-01": {
+    "bispecific antibodies": [
+      {
+        "company": "Immunocore",
+        "modality": "bispecific antibodies",
+        "news": "Immunocore presented updated Phase 1 data for brenetafusp, an ImmTAC bispecific antibody targeting PRAME, at the 2026 ASCO Annual Meeting. The study showed an 87% six-month overall survival rate in heavily pretreated melanoma patients, supporting the selection of a 160 mcg dose for the ongoing Phase 3 PRISM-MEL-301 trial.",
+        "url": "https://www.immunocore.com/investors/news/press-releases/detail/131/immunocore-presents-updated-phase-1-data-of-brenetafusp-in-patients-with-heavily-pretreated-advanced-melanoma",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Immunocore",
+        "modality": "bispecific antibodies",
+        "news": "Immunocore presented updated Phase 1 data for brenetafusp, an ImmTAC bispecific antibody targeting PRAME, at the 2026 ASCO Annual Meeting. The data showed an 87% 6-month overall survival rate in heavily pretreated melanoma patients, supporting the selection of a 160 mcg dose for the ongoing Phase 3 PRISM-MEL-301 trial.",
+        "url": "https://www.immunocore.com/investors/news/press-releases/detail/131/immunocore-presents-updated-phase-1-data-of-brenetafusp-in-patients-with-heavily-pretreated-advanced-melanoma",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Immunocore",
+        "modality": "bispecific antibodies",
+        "news": "Immunocore presented updated Phase 1 data for brenetafusp, a PRAME-targeted ImmTAC bispecific antibody, at the 2026 ASCO Annual Meeting. The data showed an 87% 6-month overall survival rate in heavily pretreated melanoma patients, supporting the selection of a 160 mcg dose for the ongoing Phase 3 PRISM-MEL-301 trial.",
+        "url": "https://www.immunocore.com/investors/news/press-releases/detail/131/immunocore-presents-updated-phase-1-data-of-brenetafusp-in-patients-with-heavily-pretreated-advanced-melanoma",
+        "query": "gene editing"
+      }
+    ],
+    "monoclonal antibodies": [
+      {
+        "company": "Novartis",
+        "modality": "monoclonal antibodies",
+        "news": "Novartis will present new data for ianalumab, a monoclonal antibody, at EULAR 2026, including interim results from the Phase III extension study in Sjögren's disease up to week 108 and Phase II data in systemic lupus erythematosus.",
+        "url": "https://www.novartis.com/news/media-releases/novartis-data-eular-2026-demonstrates-momentum-broad-immunology-portfolio-complex-high-unmet-need-diseases",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Novartis",
+        "modality": "monoclonal antibodies",
+        "news": "New data from the REPLENISH Phase III trial for secukinumab (Cosentyx), a monoclonal antibody, will be highlighted at EULAR 2026, presenting results in polymyalgia rheumatica and subgroup analyses of Week 52 results.",
+        "url": "https://www.novartis.com/news/media-releases/novartis-data-eular-2026-demonstrates-momentum-broad-immunology-portfolio-complex-high-unmet-need-diseases",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "UCB",
+        "modality": "monoclonal antibodies",
+        "news": "UCB and Biogen announced the publication of positive Phase 3 results for dapirolizumab pegol, an investigational Fc-free CD40L inhibitor, in The Lancet. The study demonstrated statistically significant improvement in disease activity for systemic lupus erythematosus patients, supporting continued development and the ongoing confirmatory PHOENYCS FLY trial.",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-and-biogen-announce-publication-in-the-lancet-of-positive-dapirolizumab-pegol-dzp-phase-3-study-results-in-systemic-lupus-erythematosus",
+        "query": "monoclonal antibodies"
+      }
+    ]
+  },
   "2026-05-31": {
     "gene editing": [
       {
