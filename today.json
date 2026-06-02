@@ -1,107 +1,205 @@
 [
     {
+        "company": "Amgen",
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/06/european-commission-approves-amgens-imdylltra-for-the-treatment-of-extensivestage-small-cell-lung-cancer",
+        "score": 182,
+        "date_added": "2026-06-02",
+        "article_like": true
+    },
+    {
         "company": "Novartis",
-        "url": "https://www.novartis.com/news/media-releases/novartis-data-eular-2026-demonstrates-momentum-broad-immunology-portfolio-complex-high-unmet-need-diseases",
-        "score": 143,
-        "date_added": "2026-06-01",
+        "url": "https://www.novartis.com/news/media-releases/scemblix-continued-show-superior-efficacy-and-favorable-safety-and-tolerability-profile-week-144-newly-diagnosed-cml",
+        "score": 153,
+        "date_added": "2026-06-02",
         "article_like": true
     },
     {
-        "company": "BIRAC",
-        "url": "https://www.birac.nic.in/desc_new.php?id=1333",
-        "score": 15,
-        "date_added": "2026-06-01",
+        "company": "Solix Technologies, Inc.",
+        "url": "https://www.solix.com/company/news-events/press-releases/solix-technologies-names-dr-ujwala-director-of-technical-product-management-to-lead-life-sciences-and-ai-transformation/",
+        "score": 176,
+        "date_added": "2026-06-02",
         "article_like": true
     },
     {
-        "company": "Boston Consulting Group",
-        "url": "https://www.bcg.com/press/1june2026-global-fintech-revenues-surpass-half-trillion-dollars",
-        "score": 84,
-        "date_added": "2026-06-01",
+        "company": "SCIEX",
+        "url": "https://sciex.com/products/mass-spectrometers/triple-quad-systems/novus-v55-system",
+        "score": 83,
+        "date_added": "2026-06-02",
+        "article_like": true
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/feature-articles/hunting-for-hidden-clues-in-the-human-genome-s--dark-regions-.html",
+        "score": 122,
+        "date_added": "2026-06-02",
+        "article_like": true
+    },
+    {
+        "company": "Agilisium",
+        "url": "https://www.agilisium.com/context-ai/commercial/speaker-program-agent",
+        "score": 60,
+        "date_added": "2026-06-02",
         "article_like": true
     },
     {
         "company": "Lupin",
-        "url": "https://www.lupin.com/media/press-releases/lupin-receives-approval-from-u-s-fda-for-sodium-sulfate-magnesium-sulfate-and-potassium-chloride-tablets",
-        "score": 142,
-        "date_added": "2026-06-01",
+        "url": "https://www.lupin.com/media/perspectives/lupin-targeting-large-specialty-deals-but-with-guardrails-on-debt-and-risk",
+        "score": 110,
+        "date_added": "2026-06-02",
+        "article_like": true
+    },
+    {
+        "company": "WuXi Biologics",
+        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-named-to-cdp-supplier-engagement-assessment-a-list-for-the-second-consecutive-year/",
+        "score": 129,
+        "date_added": "2026-06-02",
+        "article_like": true
+    },
+    {
+        "company": "PPD (Thermo Fisher)",
+        "url": "https://www.ppd.com/news-item/thermo-fisher-scientifics-ppd-clinical-research-business-named-clinical-research-company-of-the-year-at-pharmatimes-international-competition/",
+        "score": 169,
+        "date_added": "2026-06-02",
         "article_like": true
     },
     {
         "company": "Genentech",
-        "url": "https://www.gene.com/media/press-releases/15114/2026-05-31/genentech-to-present-new-data-advancing-",
+        "url": "https://www.gene.com/media/press-releases/15115/2026-06-01/fda-accepts-new-drug-application-for-gen",
         "score": 99,
-        "date_added": "2026-06-01",
+        "date_added": "2026-06-02",
+        "article_like": true
+    },
+    {
+        "company": "Genentech",
+        "url": "https://www.gene.com/about-us/our-focus-on-obesity",
+        "score": 44,
+        "date_added": "2026-06-02",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/press-release/fda-approval-tissue-blood-therapy-mcrpc",
+        "score": 68,
+        "date_added": "2026-06-02",
         "article_like": true
     },
     {
         "company": "Pfizer",
-        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizers-braftovi-regimen-nearly-doubles-median-progression",
-        "score": 117,
-        "date_added": "2026-06-01",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-invites-public-listen-webcast-pfizer-discussion-22",
+        "score": 116,
+        "date_added": "2026-06-02",
         "article_like": true
     },
     {
         "company": "Roche",
-        "url": "https://www.roche.com/media/releases/med-cor-2026-06-01",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-06-02",
         "score": 50,
-        "date_added": "2026-06-01",
+        "date_added": "2026-06-02",
         "article_like": true
     },
     {
-        "company": "Johnson & Johnson",
-        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-phase-3-prostate-cancer-study-shows-erleada-apalutamide-before-and-after-surgery-significantly-reduces-risk-of-metastasis-or-death-breaking-a-decades-long-treatment-paradigm",
-        "score": 234,
-        "date_added": "2026-06-01",
+        "company": "AstraZeneca",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/imfinzi-plus-imjudo-combined-with-lenvatinib-and-tace-reduced-the-risk-of-disease-progression-or-death-in-emerald-3-phase-iii-trial.html",
+        "score": 232,
+        "date_added": "2026-06-02",
         "article_like": true
     },
     {
-        "company": "Johnson & Johnson",
-        "url": "https://www.jnj.com/media-center/press-releases/rybrevant-faspro-amivantamab-and-hyaluronidase-lpuj-pivotal-data-show-strong-and-durable-responses-in-advanced-head-and-neck-cancer-where-options-remain-limited",
-        "score": 205,
-        "date_added": "2026-06-01",
-        "article_like": true
-    },
-    {
-        "company": "Takeda Pharmaceutical",
-        "url": "https://www.takeda.com/newsroom/newsreleases/2026/notice-concerning-withdrawal-of-shelf-registration-statement-and-filing-of-new-shelf-registration-statement-in-japan/",
-        "score": 190,
-        "date_added": "2026-06-01",
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-06-02-AbbVie-Announces-European-Commission-Approval-of-AQUIPTA-R-atogepant-for-the-Acute-Treatment-of-Migraine-in-Adults",
+        "score": 138,
+        "date_added": "2026-06-02",
         "article_like": true
     },
     {
         "company": "BeiGene",
-        "url": "https://ir.beonemedicines.com/news/beone-medicines-highlights-accelerating-solid-tumor-pipeline-with-new-data-at-asco-2026/c65de266-8b5a-4002-9ce8-e13b2564f924",
-        "score": 146,
-        "date_added": "2026-06-01",
-        "article_like": true
-    },
-    {
-        "company": "Immunocore",
-        "url": "https://www.immunocore.com/investors/news/press-releases/detail/131/immunocore-presents-updated-phase-1-data-of-brenetafusp-in-patients-with-heavily-pretreated-advanced-melanoma",
-        "score": 173,
-        "date_added": "2026-06-01",
+        "url": "https://ir.beonemedicines.com/media/custom-news/279d6660-cfd0-4a23-a5bf-5d78ef1481f0/assets/15943385-6b49-4387-a598-a70e6ae18ddb/beone.pdf?disposition=inline",
+        "score": 131,
+        "date_added": "2026-06-02",
         "article_like": true
     },
     {
         "company": "UCB",
-        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-and-biogen-announce-publication-in-the-lancet-of-positive-dapirolizumab-pegol-dzp-phase-3-study-results-in-systemic-lupus-erythematosus",
-        "score": 190,
-        "date_added": "2026-06-01",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-presents-research-at-euromit-2026-highlighting-burden-of-care-need-for-earlier-diagnosis-and-impact-of-pyrimidine-nucleoside-therapy-on-people-living-with-tk2d",
+        "score": 214,
+        "date_added": "2026-06-02",
         "article_like": true
     },
     {
-        "company": "Shionogi",
-        "url": "https://www.shionogi.com/global/en/news/2026/06/20260601,2.html",
-        "score": 76,
-        "date_added": "2026-06-01",
+        "company": "UCB",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-completes-acquisition-of-neurona-therapeutics-advancing-its-leadership-as-innovator-in-epilepsy-through-regenerative-science",
+        "score": 179,
+        "date_added": "2026-06-02",
+        "article_like": true
+    },
+    {
+        "company": "KaryoPharm Therapeutics",
+        "url": "https://investors.karyopharm.com/2026-06-01-Karyopharm-to-Host-Investor-Conference-Call-Featuring-Expert-Perspectives-on-the-Phase-3-SENTRY-Trial-in-Myelofibrosis-Following-2026-ASCO-Presentation",
+        "score": 175,
+        "date_added": "2026-06-02",
+        "article_like": true
+    },
+    {
+        "company": "KaryoPharm Therapeutics",
+        "url": "https://investors.karyopharm.com/2026-06-01-Karyopharm-Therapeutics-Reports-Inducement-Grant-Under-Nasdaq-Listing-Rule-5635-c-4",
+        "score": 107,
+        "date_added": "2026-06-02",
+        "article_like": true
+    },
+    {
+        "company": "Novavax",
+        "url": "https://ir.novavax.com/press-releases/2026-06-01-Novavax-to-Participate-in-2026-Jefferies-Global-Healthcare-Conference",
+        "score": 110,
+        "date_added": "2026-06-02",
+        "article_like": true
+    },
+    {
+        "company": "Novavax",
+        "url": "https://ir.novavax.com/press-releases/2026-06-01-Novavax-to-Participate-in-2026-Jefferies-Global-Healthcare-Conference?asPDF=1",
+        "score": 110,
+        "date_added": "2026-06-02",
+        "article_like": true
+    },
+    {
+        "company": "Bavarian Nordic",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7526",
+        "score": 30,
+        "date_added": "2026-06-02",
+        "article_like": true
+    },
+    {
+        "company": "OXB (Oxford Biomedica)",
+        "url": "https://oxb.com/vectorxcellerator-programme-closed/",
+        "score": 50,
+        "date_added": "2026-06-02",
+        "article_like": true
+    },
+    {
+        "company": "Spark Therapeutics",
+        "url": "https://sparktx.com/about-us/our-focus-on-obesity",
+        "score": 44,
+        "date_added": "2026-06-02",
         "article_like": true
     },
     {
         "company": "Grail",
-        "url": "https://grail.com/press-releases/grail-presents-pathfinder-2-results-of-more-than-35000-participants-showing-the-galleri-test-substantially-increased-cancer-detection-with-robust-performance-and-favorable-safety-at-2026-a/",
-        "score": 221,
-        "date_added": "2026-06-01",
+        "url": "https://grail.com/podcasts/32-nhs-galleri-trial-one-participants-journey-through-early-detection/",
+        "score": 96,
+        "date_added": "2026-06-02",
+        "article_like": true
+    },
+    {
+        "company": "Crinetics Pharmaceuticals",
+        "url": "https://crinetics.com/press-releases/crinetics-paradigm-shifting-portfolio-and-pipeline-on-display-at-endo-2026-with-six-presentations/",
+        "score": 130,
+        "date_added": "2026-06-02",
+        "article_like": true
+    },
+    {
+        "company": "Carmot Therapeutics",
+        "url": "https://carmot.us/about-us/our-focus-on-obesity",
+        "score": 44,
+        "date_added": "2026-06-02",
         "article_like": true
     }
 ]

@@ -1,4 +1,54 @@
 {
+  "2026-06-02": {
+    "bispecific antibodies": [
+      {
+        "company": "Amgen",
+        "modality": "bispecific antibodies",
+        "news": "The European Commission has granted marketing authorization for Amgen's IMDYLLTRA (tarlatamab), a bispecific T-cell engager targeting DLL3 and CD3, for the treatment of extensive-stage small cell lung cancer. The approval is based on Phase 3 DeLLphi-304 trial results showing a 40% reduction in the risk of death compared to chemotherapy.",
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/06/european-commission-approves-amgens-imdylltra-for-the-treatment-of-extensivestage-small-cell-lung-cancer",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "AstraZeneca",
+        "modality": "bispecific antibodies",
+        "news": "AstraZeneca is advancing rilvegostomig (AZD2936), a PD-1/TIGIT bispecific antibody, in combination with chemotherapy as an adjuvant therapy for biliary tract cancer and with bevacizumab for advanced hepatocellular carcinoma. The company is also developing AZD5863, a Claudin 18.2/CD3 T-cell engager bispecific antibody, which is currently in Phase I development for gastric and gastroesophageal junction cancers.",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/imfinzi-plus-imjudo-combined-with-lenvatinib-and-tace-reduced-the-risk-of-disease-progression-or-death-in-emerald-3-phase-iii-trial.html",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Amgen",
+        "modality": "bispecific antibodies",
+        "news": "The European Commission granted marketing authorization for IMDYLLTRA (tarlatamab), a DLL3xCD3 bispecific T-cell engager, for the treatment of extensive-stage small cell lung cancer. The approval is based on Phase 3 DeLLphi-304 trial results showing a 40% reduction in the risk of death compared to chemotherapy.",
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/06/european-commission-approves-amgens-imdylltra-for-the-treatment-of-extensivestage-small-cell-lung-cancer",
+        "query": "monoclonal antibodies"
+      }
+    ],
+    "monoclonal antibodies": [
+      {
+        "company": "Genentech",
+        "modality": "monoclonal antibodies",
+        "news": "The FDA has accepted Genentech's New Drug Application (NDA) for giredestrant, an oral selective estrogen receptor degrader (SERD), for the adjuvant treatment of ER-positive early-stage breast cancer. The filing, based on positive Phase III lidERA study results showing a 30% reduction in recurrence or death risk, is under priority review with a decision expected by November 30, 2026.",
+        "url": "https://www.gene.com/media/press-releases/15115/2026-06-01/fda-accepts-new-drug-application-for-gen",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "AstraZeneca",
+        "modality": "monoclonal antibodies",
+        "news": "AstraZeneca announced positive Phase III results from the EMERALD-3 trial, showing that the combination of Imfinzi (durvalumab) and Imjudo (tremelimumab) with lenvatinib and TACE reduced the risk of disease progression or death by 30% in patients with unresectable liver cancer. Imfinzi and Imjudo are human monoclonal antibodies targeting PD-L1 and CTLA-4, respectively.",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/imfinzi-plus-imjudo-combined-with-lenvatinib-and-tace-reduced-the-risk-of-disease-progression-or-death-in-emerald-3-phase-iii-trial.html",
+        "query": "monoclonal antibodies"
+      }
+    ],
+    "gene editing": [
+      {
+        "company": "OXB",
+        "modality": "gene editing",
+        "news": "OXB announced Cure Lowe Foundation as a selected recipient for its VectorXcellerator Programme, providing fully funded feasibility studies for early-stage gene therapy initiatives involving lentiviral vectors and AAV.",
+        "url": "https://oxb.com/vectorxcellerator-programme-closed/",
+        "query": "gene editing"
+      }
+    ]
+  },
   "2026-06-01": {
     "bispecific antibodies": [
       {
