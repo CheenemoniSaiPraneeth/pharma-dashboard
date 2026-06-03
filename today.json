@@ -1,205 +1,212 @@
 [
     {
-        "company": "Amgen",
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/06/european-commission-approves-amgens-imdylltra-for-the-treatment-of-extensivestage-small-cell-lung-cancer",
-        "score": 182,
-        "date_added": "2026-06-02",
+        "company": "Sanofi",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-03-06-00-00-3305783",
+        "score": 107,
+        "date_added": "2026-06-03",
         "article_like": true
     },
     {
-        "company": "Novartis",
-        "url": "https://www.novartis.com/news/media-releases/scemblix-continued-show-superior-efficacy-and-favorable-safety-and-tolerability-profile-week-144-newly-diagnosed-cml",
-        "score": 153,
-        "date_added": "2026-06-02",
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/06/Quantification-of-cyanobacterial-and-cyanotoxin-genes-by-qPCR",
+        "score": 140,
+        "date_added": "2026-06-03",
         "article_like": true
     },
     {
-        "company": "Solix Technologies, Inc.",
-        "url": "https://www.solix.com/company/news-events/press-releases/solix-technologies-names-dr-ujwala-director-of-technical-product-management-to-lead-life-sciences-and-ai-transformation/",
-        "score": 176,
-        "date_added": "2026-06-02",
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/06/Quantitative-algal-toxin-analysis-by-LC-MS-MS",
+        "score": 124,
+        "date_added": "2026-06-03",
         "article_like": true
     },
     {
-        "company": "SCIEX",
-        "url": "https://sciex.com/products/mass-spectrometers/triple-quad-systems/novus-v55-system",
-        "score": 83,
-        "date_added": "2026-06-02",
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/05/Planktonic-Algae-and-Cyanobacteria",
+        "score": 113,
+        "date_added": "2026-06-03",
         "article_like": true
     },
     {
-        "company": "Illumina",
-        "url": "https://www.illumina.com/company/news-center/feature-articles/hunting-for-hidden-clues-in-the-human-genome-s--dark-regions-.html",
-        "score": 122,
-        "date_added": "2026-06-02",
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/News-and-publications/Food-Blog/Articles-2026/Welcome-to-the-Food-Insights-blog",
+        "score": 103,
+        "date_added": "2026-06-03",
         "article_like": true
     },
     {
-        "company": "Agilisium",
-        "url": "https://www.agilisium.com/context-ai/commercial/speaker-program-agent",
-        "score": 60,
-        "date_added": "2026-06-02",
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/Food-insights-blog",
+        "score": 36,
+        "date_added": "2026-06-03",
+        "article_like": true
+    },
+    {
+        "company": "CAS (ACS International India Pvt Ltd.)",
+        "url": "https://www.cas.org/solutions/cas-connections",
+        "score": 40,
+        "date_added": "2026-06-03",
+        "article_like": true
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/press/3june2026-ai-reshaping-jobs-faster-than-companies-reshaping-work",
+        "score": 85,
+        "date_added": "2026-06-03",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/06/exit-readiness-rises-on-the-pe-agenda-as-firms-focus-on-early-systematic-preparation-alignment-with-management-and-ai-strategy",
+        "score": 195,
+        "date_added": "2026-06-03",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/06/global-businesses-risk-losing-growth-opportunities-as-cfos-sidelined-on-crucial-investment-and-value-decisions",
+        "score": 179,
+        "date_added": "2026-06-03",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/06/ey-named-a-leader-in-the-hfs-fincrime-and-compliance-horizons-report-2026",
+        "score": 142,
+        "date_added": "2026-06-03",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/06/ey-named-a-leader-in-isg-s-databricks-ecosystem-partners-2026-study",
+        "score": 136,
+        "date_added": "2026-06-03",
         "article_like": true
     },
     {
         "company": "Lupin",
-        "url": "https://www.lupin.com/media/perspectives/lupin-targeting-large-specialty-deals-but-with-guardrails-on-debt-and-risk",
-        "score": 110,
-        "date_added": "2026-06-02",
+        "url": "https://www.lupin.com/media/press-releases/lupin-and-natco-receive-approval-from-u-s-fda-for-eribulin-mesylate-injection",
+        "score": 115,
+        "date_added": "2026-06-03",
         "article_like": true
     },
     {
-        "company": "WuXi Biologics",
-        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-named-to-cdp-supplier-engagement-assessment-a-list-for-the-second-consecutive-year/",
-        "score": 129,
-        "date_added": "2026-06-02",
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/innovation/technologies/post-quantum-cryptography/",
+        "score": 77,
+        "date_added": "2026-06-03",
         "article_like": true
     },
     {
-        "company": "PPD (Thermo Fisher)",
-        "url": "https://www.ppd.com/news-item/thermo-fisher-scientifics-ppd-clinical-research-business-named-clinical-research-company-of-the-year-at-pharmatimes-international-competition/",
-        "score": 169,
-        "date_added": "2026-06-02",
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/triad-business-journal-labcorp-highlights-ai-powered-advances-diagnostics-and-alzheimers-research.html",
+        "score": 175,
+        "date_added": "2026-06-03",
         "article_like": true
     },
     {
-        "company": "Genentech",
-        "url": "https://www.gene.com/media/press-releases/15115/2026-06-01/fda-accepts-new-drug-application-for-gen",
-        "score": 99,
-        "date_added": "2026-06-02",
-        "article_like": true
-    },
-    {
-        "company": "Genentech",
-        "url": "https://www.gene.com/about-us/our-focus-on-obesity",
-        "score": 44,
-        "date_added": "2026-06-02",
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/fierce-biotech-labcorp-advances-ai-powered-personalization-launch-mylabcorp-app.html",
+        "score": 157,
+        "date_added": "2026-06-03",
         "article_like": true
     },
     {
         "company": "Foundation Medicine",
-        "url": "https://www.foundationmedicine.com/press-release/fda-approval-tissue-blood-therapy-mcrpc",
-        "score": 68,
-        "date_added": "2026-06-02",
-        "article_like": true
-    },
-    {
-        "company": "Pfizer",
-        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-invites-public-listen-webcast-pfizer-discussion-22",
-        "score": 116,
-        "date_added": "2026-06-02",
-        "article_like": true
-    },
-    {
-        "company": "Roche",
-        "url": "https://www.roche.com/media/releases/med-cor-2026-06-02",
-        "score": 50,
-        "date_added": "2026-06-02",
+        "url": "https://www.foundationmedicine.com/press-release/fda-foundationone-cdx-itovebi",
+        "score": 58,
+        "date_added": "2026-06-03",
         "article_like": true
     },
     {
         "company": "AstraZeneca",
-        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/imfinzi-plus-imjudo-combined-with-lenvatinib-and-tace-reduced-the-risk-of-disease-progression-or-death-in-emerald-3-phase-iii-trial.html",
-        "score": 232,
-        "date_added": "2026-06-02",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/camizestrant-combination-delayed-time-to-first-progression-in-patients-with-advanced-hr-positive-breast-cancer-with-an-ESR1-tumour-mutation.html",
+        "score": 240,
+        "date_added": "2026-06-03",
         "article_like": true
     },
     {
         "company": "AbbVie",
-        "url": "https://news.abbvie.com/2026-06-02-AbbVie-Announces-European-Commission-Approval-of-AQUIPTA-R-atogepant-for-the-Acute-Treatment-of-Migraine-in-Adults",
-        "score": 138,
-        "date_added": "2026-06-02",
+        "url": "https://news.abbvie.com/2026-06-02-AbbVie-to-Present-at-the-Goldman-Sachs-47th-Annual-Global-Healthcare-Conference",
+        "score": 103,
+        "date_added": "2026-06-03",
         "article_like": true
     },
     {
-        "company": "BeiGene",
-        "url": "https://ir.beonemedicines.com/media/custom-news/279d6660-cfd0-4a23-a5bf-5d78ef1481f0/assets/15943385-6b49-4387-a598-a70e6ae18ddb/beone.pdf?disposition=inline",
-        "score": 131,
-        "date_added": "2026-06-02",
+        "company": "Gilead Sciences",
+        "url": "https://www.gilead.com/news/news-details/2026/gileads-livdelzi-seladelpar-delivers-statistically-significant-composite-alp-normalization-in-phase-3-ideal-trial-in-primary-biliary-cholangitis-pbc",
+        "score": 215,
+        "date_added": "2026-06-03",
+        "article_like": true
+    },
+    {
+        "company": "Insilico Medicine",
+        "url": "https://insilico.com/news/s8o11au3t1-insilico-medicine-appoints-jue-wang-phd",
+        "score": 70,
+        "date_added": "2026-06-03",
         "article_like": true
     },
     {
         "company": "UCB",
-        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-presents-research-at-euromit-2026-highlighting-burden-of-care-need-for-earlier-diagnosis-and-impact-of-pyrimidine-nucleoside-therapy-on-people-living-with-tk2d",
-        "score": 214,
-        "date_added": "2026-06-02",
-        "article_like": true
-    },
-    {
-        "company": "UCB",
-        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-completes-acquisition-of-neurona-therapeutics-advancing-its-leadership-as-innovator-in-epilepsy-through-regenerative-science",
-        "score": 179,
-        "date_added": "2026-06-02",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/bimzelxrbimekizumab-data-at-eular-2026-show-early-and-sustained-inflammation-control-can-improve-patient-reported-outcomes-and-limit-disease-progression-in-psa-and-axspa",
+        "score": 220,
+        "date_added": "2026-06-03",
         "article_like": true
     },
     {
         "company": "KaryoPharm Therapeutics",
-        "url": "https://investors.karyopharm.com/2026-06-01-Karyopharm-to-Host-Investor-Conference-Call-Featuring-Expert-Perspectives-on-the-Phase-3-SENTRY-Trial-in-Myelofibrosis-Following-2026-ASCO-Presentation",
-        "score": 175,
-        "date_added": "2026-06-02",
+        "url": "https://investors.karyopharm.com/2026-06-02-Karyopharm-to-Present-Results-from-Phase-3-SENTRY-Trial-of-Selinexor-Plus-Ruxolitinib-in-Myelofibrosis-in-Late-Breaking-Oral-Presentation-at-ASCO-2026-with-Simultaneous-Publication-in-the-Journal-of-Clinical-Oncology",
+        "score": 240,
+        "date_added": "2026-06-03",
         "article_like": true
     },
     {
         "company": "KaryoPharm Therapeutics",
-        "url": "https://investors.karyopharm.com/2026-06-01-Karyopharm-Therapeutics-Reports-Inducement-Grant-Under-Nasdaq-Listing-Rule-5635-c-4",
-        "score": 107,
-        "date_added": "2026-06-02",
-        "article_like": true
-    },
-    {
-        "company": "Novavax",
-        "url": "https://ir.novavax.com/press-releases/2026-06-01-Novavax-to-Participate-in-2026-Jefferies-Global-Healthcare-Conference",
-        "score": 110,
-        "date_added": "2026-06-02",
-        "article_like": true
-    },
-    {
-        "company": "Novavax",
-        "url": "https://ir.novavax.com/press-releases/2026-06-01-Novavax-to-Participate-in-2026-Jefferies-Global-Healthcare-Conference?asPDF=1",
-        "score": 110,
-        "date_added": "2026-06-02",
-        "article_like": true
-    },
-    {
-        "company": "Bavarian Nordic",
-        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7526",
-        "score": 30,
-        "date_added": "2026-06-02",
+        "url": "https://investors.karyopharm.com/2026-06-02-Karyopharms-Phase-3-SENTRY-Trial-of-Selinexor-Plus-Ruxolitinib-in-Myelofibrosis-Selected-for-Late-Breaking-Oral-Presentation-at-EHA-2026",
+        "score": 160,
+        "date_added": "2026-06-03",
         "article_like": true
     },
     {
         "company": "OXB (Oxford Biomedica)",
-        "url": "https://oxb.com/vectorxcellerator-programme-closed/",
-        "score": 50,
-        "date_added": "2026-06-02",
+        "url": "https://oxb.com/investors/capital-markets-event-2026/",
+        "score": 54,
+        "date_added": "2026-06-03",
         "article_like": true
     },
     {
-        "company": "Spark Therapeutics",
-        "url": "https://sparktx.com/about-us/our-focus-on-obesity",
-        "score": 44,
-        "date_added": "2026-06-02",
-        "article_like": true
-    },
-    {
-        "company": "Grail",
-        "url": "https://grail.com/podcasts/32-nhs-galleri-trial-one-participants-journey-through-early-detection/",
-        "score": 96,
-        "date_added": "2026-06-02",
+        "company": "Dassault Systemes BIOVIA",
+        "url": "https://www.3ds.com/careers/jobs/solution-sales-specialist-biovia-548160",
+        "score": 69,
+        "date_added": "2026-06-03",
         "article_like": true
     },
     {
         "company": "Crinetics Pharmaceuticals",
-        "url": "https://crinetics.com/press-releases/crinetics-paradigm-shifting-portfolio-and-pipeline-on-display-at-endo-2026-with-six-presentations/",
-        "score": 130,
-        "date_added": "2026-06-02",
+        "url": "https://crinetics.com/press-releases/crinetics-and-leading-patient-groups-launch-everyday-advocacy-initiative-to-empower-people-across-endocrine-disease-communities-2/",
+        "score": 162,
+        "date_added": "2026-06-03",
         "article_like": true
     },
     {
-        "company": "Carmot Therapeutics",
-        "url": "https://carmot.us/about-us/our-focus-on-obesity",
-        "score": 44,
-        "date_added": "2026-06-02",
+        "company": "Crinetics Pharmaceuticals",
+        "url": "https://crinetics.com/press-releases/crinetics-and-leading-patient-groups-launch-everyday-advocacy-initiative-to-empower-people-across-endocrine-disease-communities/",
+        "score": 160,
+        "date_added": "2026-06-03",
+        "article_like": true
+    },
+    {
+        "company": "Junshi Biosciences",
+        "url": "https://www.junshipharma.com/en/junshi-biosciences-announces-primary-endpoints-met-in-final-analysis-of-phase-3-study-for-perioperative-toripalimab-plus-chemotherapy-for-resectable-stage-%e2%85%b1-%e2%85%b2-nsclc/",
+        "score": 201,
+        "date_added": "2026-06-03",
+        "article_like": true
+    },
+    {
+        "company": "Junshi Biosciences",
+        "url": "https://www.junshipharma.com/en/junshi-biosciences-announces-approval-of-toripalimab-nda-for-the-1st-line-treatment-of-her2-expressing-urothelial-carcinoma/",
+        "score": 144,
+        "date_added": "2026-06-03",
         "article_like": true
     }
 ]

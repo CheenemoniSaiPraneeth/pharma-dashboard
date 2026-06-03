@@ -1,4 +1,36 @@
 {
+  "2026-06-03": {
+    "monoclonal antibodies": [
+      {
+        "company": "Sanofi",
+        "modality": "monoclonal antibodies",
+        "news": "Sanofi announced that Biogen has joined accelRare, a free pre-diagnostic tool for rare diseases co-developed with Medvir. While the partnership focuses on diagnostic acceleration for conditions like Friedreich's ataxia, Sanofi's involvement leverages its broader biopharmaceutical ecosystem, which includes a significant portfolio of monoclonal antibody therapies for rare diseases.",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-03-06-00-00-3305783",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "UCB",
+        "modality": "monoclonal antibodies",
+        "news": "UCB presented new long-term data at EULAR 2026 for BIMZELX (bimekizumab), a dual IL-17A and IL-17F inhibitor monoclonal antibody. The data from Phase 2/3 trials in psoriatic arthritis and axial spondyloarthritis demonstrated that early and sustained inflammation control leads to improved patient-reported outcomes and limits radiographic disease progression over three years.",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/bimzelxrbimekizumab-data-at-eular-2026-show-early-and-sustained-inflammation-control-can-improve-patient-reported-outcomes-and-limit-disease-progression-in-psa-and-axspa",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Junshi Biosciences",
+        "modality": "monoclonal antibodies",
+        "news": "Junshi Biosciences announced that the primary endpoints of event-free survival and major pathological response were met in the final analysis of the Phase 3 NEOTORCH study for toripalimab plus chemotherapy in resectable stage II-III NSCLC. The company plans to submit a supplemental new drug application to expand the approval to include stage II patients.",
+        "url": "https://www.junshipharma.com/en/junshi-biosciences-announces-primary-endpoints-met-in-final-analysis-of-phase-3-study-for-perioperative-toripalimab-plus-chemotherapy-for-resectable-stage-%e2%85%b1-%e2%85%b2-nsclc/",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Junshi Biosciences",
+        "modality": "monoclonal antibodies",
+        "news": "The National Medical Products Administration (NMPA) approved toripalimab in combination with disitamab vedotin for the first-line treatment of HER2-expressing locally advanced or metastatic urothelial carcinoma. This approval marks the 13th indication for toripalimab in China, based on positive Phase 3 RC48-C016 trial results.",
+        "url": "https://www.junshipharma.com/en/junshi-biosciences-announces-approval-of-toripalimab-nda-for-the-1st-line-treatment-of-her2-expressing-urothelial-carcinoma/",
+        "query": "monoclonal antibodies"
+      }
+    ]
+  },
   "2026-06-02": {
     "bispecific antibodies": [
       {

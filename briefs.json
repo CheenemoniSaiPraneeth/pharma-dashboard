@@ -1,17 +1,10 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 27,
-    "items_extracted": 1,
+    "articles_used": 29,
+    "items_extracted": 0,
     "items_dropped": 0,
-    "generated_at": "2026-06-02 10:28:42"
+    "generated_at": "2026-06-03 11:14:31"
   },
-  "news": [
-    {
-      "company": "OXB",
-      "modality": "gene editing",
-      "news": "OXB announced Cure Lowe Foundation as a selected recipient for its VectorXcellerator Programme, providing fully funded feasibility studies for early-stage gene therapy initiatives involving lentiviral vectors and AAV.",
-      "url": "https://oxb.com/vectorxcellerator-programme-closed/"
-    }
-  ]
+  "news": []
 }
