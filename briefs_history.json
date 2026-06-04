@@ -1,4 +1,43 @@
 {
+  "2026-06-04": {
+    "monoclonal antibodies": [
+      {
+        "company": "UCB",
+        "modality": "monoclonal antibodies",
+        "news": "UCB and Biogen presented new data at EULAR 2026 for dapirolizumab pegol, an investigational humanized Fc-free Fab' fragment, showing potential to reduce flare rates and maintain disease control in systemic lupus erythematosus while allowing steroid tapering.",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/eular-2026-dapirolizumab-pegol-shows-potential-to-reduce-flare-rates-and-maintain-disease-control-in-systemic-lupus-erythematosus",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Amgen",
+        "modality": "monoclonal antibodies",
+        "news": "Amgen presented new Phase 3 MITIGATE trial data at EULAR 2026 demonstrating sustained efficacy and safety of UPLIZNA (inebilizumab), a humanized monoclonal antibody, for the treatment of IgG4-related disease. The data showed that patients continuing treatment achieved high rates of flare-free, glucocorticoid-free complete remission with no new safety signals.",
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/06/amgen-to-present-new-data-across-rare-autoimmune-and-inflammatory-diseases-at-eular-2026",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Novartis",
+        "modality": "monoclonal antibodies",
+        "news": "Novartis announced positive Phase III REPLENISH trial results for Cosentyx (secukinumab), a fully human monoclonal antibody, in polymyalgia rheumatica (PMR). The study showed statistically significant sustained remission rates compared to placebo and reduced steroid use, with data published in the New England Journal of Medicine and submitted for regulatory review in the US, EU, and Japan.",
+        "url": "https://www.novartis.com/news/media-releases/novartis-cosentyx-pmr-data-new-england-journal-medicine-showed-sustained-remission-vs-placebo-twice-many-patients",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "UCB",
+        "modality": "monoclonal antibodies",
+        "news": "UCB and Biogen presented new data at EULAR 2026 for dapirolizumab pegol, an investigational humanized Fc-free polyethylene glycol (PEG)-conjugated antigen-binding (Fab') fragment, showing potential to reduce flare rates and maintain disease control in systemic lupus erythematosus (SLE) while allowing for steroid tapering.",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/eular-2026-dapirolizumab-pegol-shows-potential-to-reduce-flare-rates-and-maintain-disease-control-in-systemic-lupus-erythematosus",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Nuclera",
+        "modality": "monoclonal antibodies",
+        "news": "Nuclera launched a new antibody triage service designed to overcome validation bottlenecks in AI-driven antibody discovery. The service utilizes cell-free protein synthesis to rapidly filter non-binders from AI-generated libraries before expensive mammalian expression, reducing timelines from weeks to days.",
+        "url": "https://www.nuclera.com/overcoming-the-ai-antibody-validation-bottleneck-with-early-hit-triage/",
+        "query": "monoclonal antibodies"
+      }
+    ]
+  },
   "2026-06-03": {
     "monoclonal antibodies": [
       {

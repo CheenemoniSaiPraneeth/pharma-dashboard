@@ -109211,5 +109211,313 @@
         "score": 144,
         "date_added": "2026-06-03",
         "article_like": true
+    },
+    {
+        "company": "Sanofi",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-04-08-07-00-3306553",
+        "score": 107,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Amgen",
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/06/amgen-to-present-new-data-across-rare-autoimmune-and-inflammatory-diseases-at-eular-2026",
+        "score": 166,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Novartis",
+        "url": "https://www.novartis.com/news/media-releases/novartis-cosentyx-pmr-data-new-england-journal-medicine-showed-sustained-remission-vs-placebo-twice-many-patients",
+        "score": 150,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/06/clean-water-testing-als-remi-camus",
+        "score": 113,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Veeva Systems",
+        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2027-first-quarter-results/",
+        "score": 77,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Sartorius Stedim India Pvt Ltd",
+        "url": "https://www.sartorius.com/en/company/newsroom/product-news/cubis-iii-compliant-weighing-direct-integration-and-scalable-connectivity-without-extra-software-1830874",
+        "score": 158,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "BIRAC",
+        "url": "https://www.birac.nic.in/desc_new.php?id=1334",
+        "score": 15,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "CAS (ACS International India Pvt Ltd.)",
+        "url": "https://www.cas.org/press-releases/cas-connections",
+        "score": 45,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Medtronic",
+        "url": "https://news.medtronic.com/2026-06-03-Medtronic-announces-strategic-investments-to-support-future-expansion-of-cardiac-ablation-portfolio-as-physician-demand-for-Affera-TM-technologies-broadens",
+        "score": 179,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Medtronic",
+        "url": "https://news.medtronic.com/2026-06-03-Medtronic-submits-510-k-filings-to-expand-Hugo-TM-robotic-assisted-surgery-system-into-general-and-gynecologic-specialties-in-the-United-States",
+        "score": 167,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Medtronic",
+        "url": "https://news.medtronic.com/2026-06-03-Medtronic-reports-fourth-quarter-and-full-year-fiscal-2026-results-delivers-highest-annual-revenue-growth-in-10-years",
+        "score": 141,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Medtronic",
+        "url": "https://news.medtronic.com/2026-06-03-Medtronic-reports-fourth-quarter-and-full-year-fiscal-2026-results-delivers-highest-annual-revenue-growth-in-10-years#assets_20295_124196-117",
+        "score": 141,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Agilisium",
+        "url": "https://www.agilisium.com/context-ai/commercial/mlr-review-agent",
+        "score": 55,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/publications/2026/ceos-need-to-shape-where-quantum-creates-value",
+        "score": 106,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/news/3june2026-agilent-openai-bcg-collaborate-ai-innovation",
+        "score": 74,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/press/4june2026-ai-transform-social-impact",
+        "score": 57,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/about/commitments#report",
+        "score": 22,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/06/ey-named-a-leader-in-the-hfs-horizons-sap-s-4hana-transformation-services-2026",
+        "score": 147,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Rx Propellant",
+        "url": "https://rxpropellant.com/from-bench-to-scale-up-why-chemistry-companies-outgrow-conventional-infrastructure-faster-than-they-expect/",
+        "score": 122,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Rx Propellant",
+        "url": "https://rxpropellant.com/2026/06/",
+        "score": 40,
+        "date_added": "2026-06-04",
+        "article_like": false
+    },
+    {
+        "company": "Rx Propellant",
+        "url": "https://rxpropellant.com/portfolio/hyderabad/1gv/ ",
+        "score": 34,
+        "date_added": "2026-06-04",
+        "article_like": false
+    },
+    {
+        "company": "GE HealthCare",
+        "url": "https://www.gehealthcare.com/api/v1/login?site=en-us",
+        "score": 19,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Genentech",
+        "url": "https://www.gene.com/ca-alpr-privacy-policy",
+        "score": 35,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-late-breaking-results-show-nipocalimab-significantly-reduced-systemic-lupus-erythematosus-sle-disease-activity-in-a-phase-2-study",
+        "score": 190,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-presents-new-data-further-reinforcing-the-role-of-nipocalimab-in-lowering-the-autoantibodies-driving-sjogrens-disease",
+        "score": 178,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Alnylam Pharmaceuticals",
+        "url": "https://investors.alnylam.com/press-release?id=29941",
+        "score": 26,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Alnylam Pharmaceuticals",
+        "url": "https://investors.alnylam.com/136",
+        "score": 6,
+        "date_added": "2026-06-04",
+        "article_like": false
+    },
+    {
+        "company": "Sarepta Therapeutics",
+        "url": "https://www.sarepta.com/newsroom/life-motion-one-familys-journey-duchenne",
+        "score": 64,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "IQVIA",
+        "url": "https://www.iqvia.com/newsroom/2026/06/iqvia-announces-offering-of-senior-notes",
+        "score": 101,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "UCB",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/eular-2026-dapirolizumab-pegol-shows-potential-to-reduce-flare-rates-and-maintain-disease-control-in-systemic-lupus-erythematosus",
+        "score": 180,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "KaryoPharm Therapeutics",
+        "url": "https://investors.karyopharm.com/2026-06-03-Karyopharm-to-Participate-in-Webcast-Featuring-Endometrial-Cancer-Key-Opinion-Leader-on-June-8,-2026",
+        "score": 124,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Valneva",
+        "url": "https://valneva.com/press-release/valneva-announces-availability-of-documentation-for-its-annual-general-meeting/",
+        "score": 110,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Valneva",
+        "url": "https://valneva.com/june-25-2026-annual-general-meeting/",
+        "score": 51,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "OXB (Oxford Biomedica)",
+        "url": "https://oxb.com/investors/results-and-presentations/",
+        "score": 53,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Spark Therapeutics",
+        "url": "https://sparktx.com/ca-alpr-privacy-policy",
+        "score": 35,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Cresset Group",
+        "url": "https://cresset-group.com/event/efmc-ismc-international-symposium-on-medicinal-chemistry/",
+        "score": 80,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Oxford Nanopore Technologies",
+        "url": "https://nanoporetech.com/support",
+        "score": 10,
+        "date_added": "2026-06-04",
+        "article_like": false
+    },
+    {
+        "company": "Nuclera",
+        "url": "https://www.nuclera.com/overcoming-the-ai-antibody-validation-bottleneck-with-early-hit-triage/",
+        "score": 86,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Nuclera",
+        "url": "https://www.nuclera.com/latest-news/?pg=5",
+        "score": 27,
+        "date_added": "2026-06-04",
+        "article_like": false
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/news-media/newsroom/hidradenitis-suppurativa-awareness-week-making-invisible-impact-visible",
+        "score": 108,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/news-media/newsroom/world-environmworld-environment-day-taking-climate-action-today-better",
+        "score": 107,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/news-media/newsroom/recognised-among-europes-climate-leaders-financial-times-and-statista",
+        "score": 106,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Carmot Therapeutics",
+        "url": "https://carmot.us/ca-alpr-privacy-policy",
+        "score": 35,
+        "date_added": "2026-06-04",
+        "article_like": true
+    },
+    {
+        "company": "Cipla",
+        "url": "https://www.cipla.com/press-releases-statements/cipla-launches-first-its-kind-sputum-inflammometry-lab",
+        "score": 95,
+        "date_added": "2026-06-04",
+        "article_like": true
     }
 ]
