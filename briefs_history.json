@@ -1,4 +1,38 @@
 {
+  "2026-06-05": {
+    "monoclonal antibodies": [
+      {
+        "company": "Lupin",
+        "modality": "monoclonal antibodies",
+        "news": "Lupin received U.S. FDA approval for Ranluspec (ranibizumab), an interchangeable biosimilar to Lucentis. Ranibizumab is a recombinant humanized IgG1 monoclonal antibody fragment indicated for treating neovascular age-related macular degeneration and other retinal conditions.",
+        "url": "https://www.lupin.com/media/press-releases/lupin-receives-approval-from-u-s-fda-for-ranluspec-tm-ranibizumab-injection",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Lupin",
+        "modality": "monoclonal antibodies",
+        "news": "The U.S. FDA has approved Lupin's Ranluspec (ranibizumab), an interchangeable biosimilar to Lucentis, for treating neovascular age-related macular degeneration and other retinal conditions. This approval covers both vial and pre-filled syringe presentations, marking Lupin's second U.S. biosimilar.",
+        "url": "https://www.lupin.com/media/press-releases/lupin-receives-approval-from-u-s-fda-for-ranluspec-tm-ranibizumab-injection",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "UCB",
+        "modality": "monoclonal antibodies",
+        "news": "UCB presented new EULAR 2026 data demonstrating that its Fc-free monoclonal antibody, certolizumab pegol (CIMZIA), delivers consistent efficacy in rheumatoid arthritis regardless of rheumatoid factor levels. The findings provide mechanistic support for the drug's differentiated structure, which avoids immune complex formation and clearance issues seen with Fc-containing biologics.",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/new-eular-2026-data-show-cimziar-certolizumab-pegol-delivered-consistent-effect-in-rheumatoid-arthritis-regardless-of-rheumatoid-factor-rf-levels",
+        "query": "monoclonal antibodies"
+      }
+    ],
+    "bispecific antibodies": [
+      {
+        "company": "Gilead Sciences",
+        "modality": "bispecific antibodies",
+        "news": "Gilead Sciences and Lakefront Biotherapeutics completed the acquisition of Ouro Medicines to advance gamgertamig, a clinical-stage BCMAxCD3 T cell engager bispecific antibody for autoimmune diseases. The drug has received Fast Track and Orphan Drug Designations from the FDA and is expected to enter registrational studies in 2027.",
+        "url": "https://www.gilead.com/news/news-details/2026/gilead-sciences-and-lakefront-complete-acquisition-of-ouro-medicines-to-further-expand-inflammation-pipeline",
+        "query": "bispecific antibodies"
+      }
+    ]
+  },
   "2026-06-04": {
     "monoclonal antibodies": [
       {
