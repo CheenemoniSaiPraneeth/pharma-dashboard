@@ -1,4 +1,22 @@
 {
+  "2026-06-07": {
+    "monoclonal antibodies": [
+      {
+        "company": "AstraZeneca",
+        "modality": "monoclonal antibodies",
+        "news": "AstraZeneca announced positive interim results from the Phase III I CAN trial for Ultomiris (ravulizumab), a monoclonal antibody targeting the C5 complement protein. The study demonstrated a 43.4% reduction in proteinuria versus placebo in adults with immunoglobulin A nephropathy (IgAN) at week 34, supporting its potential as a disease-modifying treatment.",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/ultomiris-demonstrated-43-4-reduction-in-proteinuri-vs-placebo-in-adults-with-immunoglobulin-i-can-phase-iii-trial.html",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "AstraZeneca",
+        "modality": "monoclonal antibodies",
+        "news": "AstraZeneca reported positive interim results from the Phase III I CAN trial for Ultomiris (ravulizumab), a monoclonal antibody targeting the C5 complement protein. The study demonstrated a 43.4% reduction in proteinuria versus placebo in adults with immunoglobulin A nephropathy (IgAN) at 34 weeks, supporting its potential as a disease-modifying treatment.",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/ultomiris-demonstrated-43-4-reduction-in-proteinuri-vs-placebo-in-adults-with-immunoglobulin-i-can-phase-iii-trial.html",
+        "query": "monoclonal antibodies"
+      }
+    ]
+  },
   "2026-06-05": {
     "monoclonal antibodies": [
       {

@@ -109708,5 +109708,82 @@
         "score": 150,
         "date_added": "2026-06-05",
         "article_like": true
+    },
+    {
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/Food-insights-blog?nav=global",
+        "score": 36,
+        "date_added": "2026-06-07",
+        "article_like": true
+    },
+    {
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/es/Food-insights-blog?nav=global",
+        "score": 36,
+        "date_added": "2026-06-07",
+        "article_like": true
+    },
+    {
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/fr/Food-insights-blog?nav=global",
+        "score": 36,
+        "date_added": "2026-06-07",
+        "article_like": true
+    },
+    {
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/pt/Food-insights-blog?nav=global",
+        "score": 36,
+        "date_added": "2026-06-07",
+        "article_like": true
+    },
+    {
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/2026-06-06-New-Abbott-data-show-many-people-with-diabetes-may-not-recognize-symptoms-of-diabetic-ketoacidosis",
+        "score": 122,
+        "date_added": "2026-06-07",
+        "article_like": true
+    },
+    {
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/2026-06-06-New-Abbott-data-show-many-people-with-diabetes-may-not-recognize-symptoms-of-diabetic-ketoacidosis#assets_2429_124754-111",
+        "score": 122,
+        "date_added": "2026-06-07",
+        "article_like": true
+    },
+    {
+        "company": "Pfizer",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/robust-phase-2b-efficacy-and-favorable-tolerability-support",
+        "score": 118,
+        "date_added": "2026-06-07",
+        "article_like": true
+    },
+    {
+        "company": "AstraZeneca",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/ultomiris-demonstrated-43-4-reduction-in-proteinuri-vs-placebo-in-adults-with-immunoglobulin-i-can-phase-iii-trial.html",
+        "score": 215,
+        "date_added": "2026-06-07",
+        "article_like": true
+    },
+    {
+        "company": "AbCellera",
+        "url": "https://www.abcellera.com/news/abcellera-appoints-dr-victor-sandor-to-its-board-of-directors",
+        "score": 81,
+        "date_added": "2026-06-07",
+        "article_like": true
+    },
+    {
+        "company": "Eisai",
+        "url": "https://www.eisai.com/news/2026/news202631.html",
+        "score": 57,
+        "date_added": "2026-06-07",
+        "article_like": true
+    },
+    {
+        "company": "Compass Pathways",
+        "url": "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-Announces-New-Employee-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635c4-d1029844d/default.aspx",
+        "score": 198,
+        "date_added": "2026-06-07",
+        "article_like": false
     }
 ]

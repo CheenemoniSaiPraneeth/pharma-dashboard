@@ -1,170 +1,72 @@
 [
     {
-        "company": "Amgen",
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/06/amgen-to-present-at-the-goldman-sachs-47th-annual-global-healthcare-conference",
-        "score": 156,
-        "date_added": "2026-06-05",
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/Food-insights-blog?nav=global",
+        "score": 36,
+        "date_added": "2026-06-07",
         "article_like": true
     },
     {
-        "company": "Novartis",
-        "url": "https://www.novartis.com/news/media-releases/novartis-igan-data-lancet-show-clinically-meaningful-slowing-kidney-function-decline-vanrafia-over-25-years",
-        "score": 144,
-        "date_added": "2026-06-05",
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/es/Food-insights-blog?nav=global",
+        "score": 36,
+        "date_added": "2026-06-07",
         "article_like": true
     },
     {
-        "company": "SCIEX",
-        "url": "https://sciex.com/events?event=upcoming",
-        "score": 9,
-        "date_added": "2026-06-05",
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/fr/Food-insights-blog?nav=global",
+        "score": 36,
+        "date_added": "2026-06-07",
         "article_like": true
     },
     {
-        "company": "SCIEX",
-        "url": "https://sciex.com/events?region=North%20America&event=upcoming",
-        "score": 9,
-        "date_added": "2026-06-05",
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/pt/Food-insights-blog?nav=global",
+        "score": 36,
+        "date_added": "2026-06-07",
         "article_like": true
     },
     {
-        "company": "SCIEX",
-        "url": "https://sciex.com/events?region=europe&event=upcoming",
-        "score": 9,
-        "date_added": "2026-06-05",
-        "article_like": true
-    },
-    {
-        "company": "SCIEX",
-        "url": "https://sciex.com/events?region=india&event=upcoming",
-        "score": 9,
-        "date_added": "2026-06-05",
-        "article_like": true
-    },
-    {
-        "company": "SCIEX",
-        "url": "https://sciex.com/events?region=korea&event=upcoming",
-        "score": 9,
-        "date_added": "2026-06-05",
-        "article_like": true
-    },
-    {
-        "company": "SCIEX",
-        "url": "https://sciex.com/events?event=on-demand",
-        "score": 9,
-        "date_added": "2026-06-05",
-        "article_like": true
-    },
-    {
-        "company": "SCIEX",
-        "url": "https://sciex.com/events?region=North%20America&event=on-demand",
-        "score": 9,
-        "date_added": "2026-06-05",
-        "article_like": true
-    },
-    {
-        "company": "SCIEX",
-        "url": "https://sciex.com/events?region=europe&event=on-demand",
-        "score": 9,
-        "date_added": "2026-06-05",
-        "article_like": true
-    },
-    {
-        "company": "Illumina",
-        "url": "https://www.illumina.com/company/news-center/feature-articles/multiomics-explained-multiomics.html",
-        "score": 92,
-        "date_added": "2026-06-05",
-        "article_like": true
-    },
-    {
-        "company": "Lupin",
-        "url": "https://www.lupin.com/media/press-releases/lupin-receives-approval-from-u-s-fda-for-ranluspec-tm-ranibizumab-injection",
-        "score": 113,
-        "date_added": "2026-06-05",
-        "article_like": true
-    },
-    {
-        "company": "WuXi Biologics",
-        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-singapore-crdmo-hub-completes-modular-topping-out-of-drug-product-facility/",
-        "score": 121,
-        "date_added": "2026-06-05",
-        "article_like": true
-    },
-    {
-        "company": "Gilead Sciences",
-        "url": "https://www.gilead.com/news/news-details/2026/gilead-sciences-and-lakefront-complete-acquisition-of-ouro-medicines-to-further-expand-inflammation-pipeline",
-        "score": 175,
-        "date_added": "2026-06-05",
-        "article_like": true
-    },
-    {
-        "company": "Gilead Sciences",
-        "url": "https://www.gilead.com/news/news-details/2026/gilead-applauds-collaborative-efforts-to-launch-lenacapavir-for-hiv-prevention-in-south-africa",
-        "score": 161,
-        "date_added": "2026-06-05",
-        "article_like": true
-    },
-    {
-        "company": "Takeda Pharmaceutical",
-        "url": "https://www.takeda.com/newsroom/newsreleases/2026/financial-results-update-amitiza-antitrust-litigation/",
-        "score": 127,
-        "date_added": "2026-06-05",
-        "article_like": true
-    },
-    {
-        "company": "IQVIA",
-        "url": "https://www.iqvia.com/newsroom/2026/06/iqvia-announces-pricing-of-senior-notes",
-        "score": 100,
-        "date_added": "2026-06-05",
-        "article_like": true
-    },
-    {
-        "company": "UCB",
-        "url": "https://www.ucb.com/newsroom/press-releases/article/new-eular-2026-data-show-cimziar-certolizumab-pegol-delivered-consistent-effect-in-rheumatoid-arthritis-regardless-of-rheumatoid-factor-rf-levels",
-        "score": 196,
-        "date_added": "2026-06-05",
-        "article_like": true
-    },
-    {
-        "company": "Otsuka Pharmaceutical",
-        "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260605_1.html",
-        "score": 80,
-        "date_added": "2026-06-05",
-        "article_like": true
-    },
-    {
-        "company": "Otsuka Pharmaceutical",
-        "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260605_2.html",
-        "score": 80,
-        "date_added": "2026-06-05",
-        "article_like": true
-    },
-    {
-        "company": "Dassault Systemes BIOVIA",
-        "url": "https://www.3ds.com/careers/jobs/solution-sales-specialist-biovia-548322",
-        "score": 69,
-        "date_added": "2026-06-05",
-        "article_like": true
-    },
-    {
-        "company": "Menarini Group",
-        "url": "https://www.menarini.com/en-us/news/news-detail/da-duplantis-a-paltrinieri-il-fair-play-menarini-accende-la-sua-30-edizione.html",
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/2026-06-06-New-Abbott-data-show-many-people-with-diabetes-may-not-recognize-symptoms-of-diabetic-ketoacidosis",
         "score": 122,
-        "date_added": "2026-06-05",
+        "date_added": "2026-06-07",
         "article_like": true
     },
     {
-        "company": "Almirall",
-        "url": "https://www.almirall.com/news-media/newsroom/world-environmwent-day-taking-climate-action-today-better-tomorrow",
-        "score": 103,
-        "date_added": "2026-06-05",
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/2026-06-06-New-Abbott-data-show-many-people-with-diabetes-may-not-recognize-symptoms-of-diabetic-ketoacidosis#assets_2429_124754-111",
+        "score": 122,
+        "date_added": "2026-06-07",
         "article_like": true
     },
     {
-        "company": "Lipocine",
-        "url": "https://ir.lipocine.com/2026-06-04-Lipocine-Inc-to-Host-Virtual-KOL-Event-Highlighting-Unmet-Needs-in-Postpartum-Depression-and-the-Clinical-Profile-of-LPCN-1154",
-        "score": 150,
-        "date_added": "2026-06-05",
+        "company": "Pfizer",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/robust-phase-2b-efficacy-and-favorable-tolerability-support",
+        "score": 118,
+        "date_added": "2026-06-07",
+        "article_like": true
+    },
+    {
+        "company": "AstraZeneca",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/ultomiris-demonstrated-43-4-reduction-in-proteinuri-vs-placebo-in-adults-with-immunoglobulin-i-can-phase-iii-trial.html",
+        "score": 215,
+        "date_added": "2026-06-07",
+        "article_like": true
+    },
+    {
+        "company": "AbCellera",
+        "url": "https://www.abcellera.com/news/abcellera-appoints-dr-victor-sandor-to-its-board-of-directors",
+        "score": 81,
+        "date_added": "2026-06-07",
+        "article_like": true
+    },
+    {
+        "company": "Eisai",
+        "url": "https://www.eisai.com/news/2026/news202631.html",
+        "score": 57,
+        "date_added": "2026-06-07",
         "article_like": true
     }
 ]
