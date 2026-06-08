@@ -109785,5 +109785,54 @@
         "score": 198,
         "date_added": "2026-06-07",
         "article_like": false
+    },
+    {
+        "company": "Sanofi",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-08-05-00-00-3307781",
+        "score": 107,
+        "date_added": "2026-06-08",
+        "article_like": true
+    },
+    {
+        "company": "Novartis",
+        "url": "https://www.novartis.com/news/media-releases/novartis-highlight-rhapsido-data-across-multiple-immune-mediated-diseases-eaaci-congress-2026",
+        "score": 130,
+        "date_added": "2026-06-08",
+        "article_like": true
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/press/8june2026-banner-year-banks-moment-to-shift-gears",
+        "score": 70,
+        "date_added": "2026-06-08",
+        "article_like": true
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/media/press-releases/lupin-collaborates-with-ern-for-luforbec-beclometasone-formoterol-p-mdi-launch-in-spain",
+        "score": 125,
+        "date_added": "2026-06-08",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-06-08",
+        "score": 50,
+        "date_added": "2026-06-08",
+        "article_like": true
+    },
+    {
+        "company": "WuXi AppTec",
+        "url": "https://www.wuxiapptec.com/news/events/t37tshp7kn1zj2ryrocbs29t",
+        "score": 43,
+        "date_added": "2026-06-08",
+        "article_like": true
+    },
+    {
+        "company": "Bavarian Nordic",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7530",
+        "score": 30,
+        "date_added": "2026-06-08",
+        "article_like": true
     }
 ]

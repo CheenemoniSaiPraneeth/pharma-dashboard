@@ -1,72 +1,51 @@
 [
     {
-        "company": "ALS Global",
-        "url": "https://www.alsglobal.com/en/Food-insights-blog?nav=global",
-        "score": 36,
-        "date_added": "2026-06-07",
+        "company": "Sanofi",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-08-05-00-00-3307781",
+        "score": 107,
+        "date_added": "2026-06-08",
         "article_like": true
     },
     {
-        "company": "ALS Global",
-        "url": "https://www.alsglobal.com/es/Food-insights-blog?nav=global",
-        "score": 36,
-        "date_added": "2026-06-07",
+        "company": "Novartis",
+        "url": "https://www.novartis.com/news/media-releases/novartis-highlight-rhapsido-data-across-multiple-immune-mediated-diseases-eaaci-congress-2026",
+        "score": 130,
+        "date_added": "2026-06-08",
         "article_like": true
     },
     {
-        "company": "ALS Global",
-        "url": "https://www.alsglobal.com/fr/Food-insights-blog?nav=global",
-        "score": 36,
-        "date_added": "2026-06-07",
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/press/8june2026-banner-year-banks-moment-to-shift-gears",
+        "score": 70,
+        "date_added": "2026-06-08",
         "article_like": true
     },
     {
-        "company": "ALS Global",
-        "url": "https://www.alsglobal.com/pt/Food-insights-blog?nav=global",
-        "score": 36,
-        "date_added": "2026-06-07",
+        "company": "Lupin",
+        "url": "https://www.lupin.com/media/press-releases/lupin-collaborates-with-ern-for-luforbec-beclometasone-formoterol-p-mdi-launch-in-spain",
+        "score": 125,
+        "date_added": "2026-06-08",
         "article_like": true
     },
     {
-        "company": "Abbott Laboratories",
-        "url": "https://abbott.mediaroom.com/2026-06-06-New-Abbott-data-show-many-people-with-diabetes-may-not-recognize-symptoms-of-diabetic-ketoacidosis",
-        "score": 122,
-        "date_added": "2026-06-07",
+        "company": "Roche",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-06-08",
+        "score": 50,
+        "date_added": "2026-06-08",
         "article_like": true
     },
     {
-        "company": "Abbott Laboratories",
-        "url": "https://abbott.mediaroom.com/2026-06-06-New-Abbott-data-show-many-people-with-diabetes-may-not-recognize-symptoms-of-diabetic-ketoacidosis#assets_2429_124754-111",
-        "score": 122,
-        "date_added": "2026-06-07",
+        "company": "WuXi AppTec",
+        "url": "https://www.wuxiapptec.com/news/events/t37tshp7kn1zj2ryrocbs29t",
+        "score": 43,
+        "date_added": "2026-06-08",
         "article_like": true
     },
     {
-        "company": "Pfizer",
-        "url": "https://www.pfizer.com/news/press-release/press-release-detail/robust-phase-2b-efficacy-and-favorable-tolerability-support",
-        "score": 118,
-        "date_added": "2026-06-07",
-        "article_like": true
-    },
-    {
-        "company": "AstraZeneca",
-        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/ultomiris-demonstrated-43-4-reduction-in-proteinuri-vs-placebo-in-adults-with-immunoglobulin-i-can-phase-iii-trial.html",
-        "score": 215,
-        "date_added": "2026-06-07",
-        "article_like": true
-    },
-    {
-        "company": "AbCellera",
-        "url": "https://www.abcellera.com/news/abcellera-appoints-dr-victor-sandor-to-its-board-of-directors",
-        "score": 81,
-        "date_added": "2026-06-07",
-        "article_like": true
-    },
-    {
-        "company": "Eisai",
-        "url": "https://www.eisai.com/news/2026/news202631.html",
-        "score": 57,
-        "date_added": "2026-06-07",
+        "company": "Bavarian Nordic",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7530",
+        "score": 30,
+        "date_added": "2026-06-08",
         "article_like": true
     }
 ]
