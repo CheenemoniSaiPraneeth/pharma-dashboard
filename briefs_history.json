@@ -1,4 +1,66 @@
 {
+  "2026-06-09": {
+    "bispecific antibodies": [
+      {
+        "company": "Pfizer",
+        "modality": "bispecific antibodies",
+        "news": "The U.S. FDA approved an expanded indication for HYMPAVZI (marstacimab-hncq), a bispecific antibody targeting TFPI, for the treatment of hemophilia A or B in patients aged 12 and older with inhibitors, as well as pediatric patients aged 6 to 11 with or without inhibitors.",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/us-fda-approves-pfizers-hympavzi-treatment-two-additional",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "AbbVie",
+        "modality": "bispecific antibodies",
+        "news": "AbbVie presented new data at EHA 2026 for epcoritamab (EPKINLY), a CD3×CD20 bispecific antibody, including Phase 3 results from the EPCORE DLBCL-1 trial showing improved progression-free survival in relapsed/refractory large B-cell lymphoma compared to chemoimmunotherapy.",
+        "url": "https://news.abbvie.com/2026-06-08-AbbVie-Presents-New-Data-Across-Its-Blood-Cancer-Portfolio-at-EHA-2026",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "AbbVie",
+        "modality": "bispecific antibodies",
+        "news": "AbbVie presented new clinical data at EHA 2026 for epcoritamab (EPKINLY), a CD3×CD20 bispecific antibody, including Phase 3 results from the EPCORE DLBCL-1 trial showing improved progression-free survival in relapsed/refractory large B-cell lymphoma compared to chemoimmunotherapy. Additional data highlighted efficacy in follicular lymphoma and long-term remission rates.",
+        "url": "https://news.abbvie.com/2026-06-08-AbbVie-Presents-New-Data-Across-Its-Blood-Cancer-Portfolio-at-EHA-2026",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "AbbVie",
+        "modality": "bispecific antibodies",
+        "news": "AbbVie presented new clinical data at EHA 2026 for epcoritamab (EPKINLY), a CD3×CD20 bispecific antibody. Results from the Phase 3 EPCORE DLBCL-1 trial showed statistically significant improvement in progression-free survival compared to chemoimmunotherapy in patients with relapsed/refractory large B-cell lymphoma.",
+        "url": "https://news.abbvie.com/2026-06-08-AbbVie-Presents-New-Data-Across-Its-Blood-Cancer-Portfolio-at-EHA-2026",
+        "query": "molecular glues"
+      }
+    ],
+    "monoclonal antibodies": [
+      {
+        "company": "Amgen",
+        "modality": "monoclonal antibodies",
+        "news": "Amgen presented new Phase 3 VESALIUS-CV subgroup results at the American Diabetes Association 86th Scientific Sessions, showing that Repatha (evolocumab), a human monoclonal antibody, reduced the risk of first major cardiovascular events by 29% in patients with high-risk diabetes. The data, based on 6,002 patients, demonstrated significant reductions in composite endpoints including coronary heart disease death, myocardial infarction, and ischemic stroke when Repatha was added to standard lipid-lowering therapies.",
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/06/amgen-presents-new-data-across-its-cardiometabolic-portfolio-at-american-diabetes-association-86th-scientific-sessions",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "GSK",
+        "modality": "monoclonal antibodies",
+        "news": "GSK has entered an agreement to acquire Nuvalent, Inc. for $10.6 billion, a deal that includes Ris-Rez, a B7-H3 antibody-drug conjugate (ADC) currently in phase III clinical development. The acquisition aims to accelerate GSK's entry into lung cancer and expand its portfolio of targeted oncology therapies.",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-enters-agreement-to-acquire-nuvalent-inc/",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Pfizer",
+        "modality": "monoclonal antibodies",
+        "news": "The U.S. FDA approved an expanded indication for HYMPAVZI (marstacimab-hncq), a bispecific monoclonal antibody, to include patients with hemophilia A or B ages 12 and older with inhibitors, as well as pediatric patients ages 6 to 11 with or without inhibitors. The approval covers routine prophylaxis for bleeding episodes in these populations, supported by Phase 3 BASIS and BASIS KIDS trial data.",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/us-fda-approves-pfizers-hympavzi-treatment-two-additional",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Merck",
+        "modality": "monoclonal antibodies",
+        "news": "Merck and Gilead announced the discontinuation of the Phase 3 KEYNOTE-D46/EVOKE-03 study evaluating the combination of Gilead's Trodelvy and Merck's anti-PD-1 monoclonal antibody KEYTRUDA (pembrolizumab) in metastatic non-small cell lung cancer. The decision followed a Data Monitoring Committee recommendation due to a lack of statistical significance in progression-free survival and an unlikely probability of achieving a significant overall survival benefit.",
+        "url": "https://www.gilead.com/news/news-details/2026/merck-and-gilead-provide-update-on-phase-3-keynote-d46-evoke-03-study",
+        "query": "monoclonal antibodies"
+      }
+    ]
+  },
   "2026-06-08": {
     "monoclonal antibodies": [
       {
