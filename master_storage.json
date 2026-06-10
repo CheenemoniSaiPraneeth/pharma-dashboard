@@ -110058,5 +110058,159 @@
         "score": 43,
         "date_added": "2026-06-09",
         "article_like": true
+    },
+    {
+        "company": "Sanofi",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-10-05-00-00-3309444",
+        "score": 107,
+        "date_added": "2026-06-10",
+        "article_like": true
+    },
+    {
+        "company": "Dr. Reddy's Laboratories",
+        "url": "https://www.drreddys.com/media/#main-content",
+        "score": 11,
+        "date_added": "2026-06-10",
+        "article_like": false
+    },
+    {
+        "company": "Dr. Reddy's Laboratories",
+        "url": "https://www.drreddys.com/cms/",
+        "score": 9,
+        "date_added": "2026-06-10",
+        "article_like": false
+    },
+    {
+        "company": "Veeva Systems",
+        "url": "https://www.veeva.com/resources/ucb-unifies-global-pharmacovigilance-operations-with-veeva-safety-suite/",
+        "score": 99,
+        "date_added": "2026-06-10",
+        "article_like": true
+    },
+    {
+        "company": "Google DeepMind",
+        "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+        "score": 90,
+        "date_added": "2026-06-10",
+        "article_like": true
+    },
+    {
+        "company": "Google DeepMind",
+        "url": "https://deepmind.google/blog/page/18/",
+        "score": 22,
+        "date_added": "2026-06-10",
+        "article_like": false
+    },
+    {
+        "company": "Jubilant Biosys",
+        "url": "https://www.jubilantbiosys.com/scientific-poster/",
+        "score": 33,
+        "date_added": "2026-06-10",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/insights/consulting/xoople-transforms-earth-data-into-business-insights",
+        "score": 96,
+        "date_added": "2026-06-10",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/alliances/daikin-transforms-business-transformation-with-ai",
+        "score": 82,
+        "date_added": "2026-06-10",
+        "article_like": true
+    },
+    {
+        "company": "KPMG",
+        "url": "https://kpmg.com/xx/en/media/press-releases/2026/06/kpmg-and-microsoft-scale-trusted-enterprise-ai-agents-globally.html",
+        "score": 152,
+        "date_added": "2026-06-10",
+        "article_like": true
+    },
+    {
+        "company": "PPD (Thermo Fisher)",
+        "url": "https://www.ppd.com/how-we-help/chronic-disease/",
+        "score": 45,
+        "date_added": "2026-06-10",
+        "article_like": true
+    },
+    {
+        "company": "Siemens Healthineers",
+        "url": "https://www.siemens-healthineers.com/press/releases/kromek-licensing-agreement",
+        "score": 58,
+        "date_added": "2026-06-10",
+        "article_like": true
+    },
+    {
+        "company": "Siemens Healthineers",
+        "url": "https://www.siemens-healthineers.com/press/releases/prisma-health",
+        "score": 45,
+        "date_added": "2026-06-10",
+        "article_like": false
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/depuy-synthes-launches-velys-hip-navigation-with-ai-to-support-intraoperative-consistency-and-efficiency-in-total-hip-arthroplasty",
+        "score": 175,
+        "date_added": "2026-06-10",
+        "article_like": true
+    },
+    {
+        "company": "Takeda Pharmaceutical",
+        "url": "https://www.takeda.com/newsroom/newsreleases/2026/application-intravenous-entyvio-pediatric/",
+        "score": 115,
+        "date_added": "2026-06-10",
+        "article_like": true
+    },
+    {
+        "company": "ICON plc",
+        "url": "https://www.iconplc.com/sectors/biotech/plotting-course-bring-apac-developed-drugs-world",
+        "score": 81,
+        "date_added": "2026-06-10",
+        "article_like": true
+    },
+    {
+        "company": "Ipsen",
+        "url": "https://www.ipsen.com/press-release/new-late-breaking-data-reinforces-iqirvos-impact-on-alp-fatigue-and-pruritus-in-pbc-3302504/",
+        "score": 123,
+        "date_added": "2026-06-10",
+        "article_like": true
+    },
+    {
+        "company": "Sumitomo Pharma",
+        "url": "https://www.sumitomo-pharma.com/news/20260610.html",
+        "score": 23,
+        "date_added": "2026-06-10",
+        "article_like": false
+    },
+    {
+        "company": "Disc Medicine",
+        "url": "https://ir.discmedicine.com/news-releases/news-release-details/disc-medicine-provides-update-fda-type-meeting-bitopertin",
+        "score": 109,
+        "date_added": "2026-06-10",
+        "article_like": true
+    },
+    {
+        "company": "Bavarian Nordic",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7531",
+        "score": 30,
+        "date_added": "2026-06-10",
+        "article_like": true
+    },
+    {
+        "company": "Genethon",
+        "url": "https://www.genethon.fr/genother-summit-2026-une-2e-edition-pour-accelerer-lavenir-de-la-medecine-genetique/",
+        "score": 99,
+        "date_added": "2026-06-10",
+        "article_like": true
+    },
+    {
+        "company": "10x Genomics",
+        "url": "https://investors.10xgenomics.com/news/news-details/2026/10x-Genomics-Acquires-Proteintech-Genomics-a-Division-Within-Proteintech-Group/default.aspx",
+        "score": 160,
+        "date_added": "2026-06-10",
+        "article_like": false
     }
 ]

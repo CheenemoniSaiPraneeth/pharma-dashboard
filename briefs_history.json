@@ -1,4 +1,29 @@
 {
+  "2026-06-10": {
+    "monoclonal antibodies": [
+      {
+        "company": "Takeda",
+        "modality": "monoclonal antibodies",
+        "news": "The U.S. FDA has accepted Takeda's supplemental Biologics License Application (sBLA) for intravenous ENTYVIO (vedolizumab) for the treatment of moderately to severely active ulcerative colitis and Crohn's disease in pediatric patients aged 2 years and older. The application is supported by data from the KEPLER and WEBB Phase 3 trials, with a PDUFA goal date set for the first quarter of 2027.",
+        "url": "https://www.takeda.com/newsroom/newsreleases/2026/application-intravenous-entyvio-pediatric/",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Sanofi",
+        "modality": "monoclonal antibodies",
+        "news": "Sanofi announced the termination of the MOBILIZE phase 3 study for riliprubart, an IgG4 humanized monoclonal antibody targeting C1s, in patients with chronic inflammatory demyelinating polyneuropathy (CIDP) due to insufficient efficacy in an interim analysis.",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-10-05-00-00-3309444",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Takeda",
+        "modality": "monoclonal antibodies",
+        "news": "The U.S. FDA has accepted Takeda's supplemental Biologics License Application (sBLA) for intravenous ENTYVIO (vedolizumab) for the treatment of moderately to severely active ulcerative colitis and Crohn's disease in pediatric patients aged 2 years and older. The application is supported by data from the KEPLER and WEBB Phase 3 clinical trials, with a PDUFA goal date set for the first quarter of 2027.",
+        "url": "https://www.takeda.com/newsroom/newsreleases/2026/application-intravenous-entyvio-pediatric/",
+        "query": "monoclonal antibodies"
+      }
+    ]
+  },
   "2026-06-09": {
     "bispecific antibodies": [
       {

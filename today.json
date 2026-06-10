@@ -1,177 +1,114 @@
 [
     {
-        "company": "Amgen",
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/06/amgen-presents-new-data-across-its-cardiometabolic-portfolio-at-american-diabetes-association-86th-scientific-sessions",
-        "score": 196,
-        "date_added": "2026-06-09",
+        "company": "Sanofi",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-10-05-00-00-3309444",
+        "score": 107,
+        "date_added": "2026-06-10",
         "article_like": true
     },
     {
-        "company": "Fumex India",
-        "url": "https://fumex.com/fumex-ab-enters-partnership-with-jonathan-engstrom/",
-        "score": 66,
-        "date_added": "2026-06-09",
+        "company": "Veeva Systems",
+        "url": "https://www.veeva.com/resources/ucb-unifies-global-pharmacovigilance-operations-with-veeva-safety-suite/",
+        "score": 99,
+        "date_added": "2026-06-10",
         "article_like": true
     },
     {
-        "company": "Illumina",
-        "url": "https://www.illumina.com/company/news-center/feature-articles/improving-patient-access-to-cancer-testing-IMPACT-grants.html",
-        "score": 117,
-        "date_added": "2026-06-09",
-        "article_like": true
-    },
-    {
-        "company": "Illumina",
-        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=582e652d-8a03-475c-87da-db84a18b0b1a",
-        "score": 80,
-        "date_added": "2026-06-09",
-        "article_like": true
-    },
-    {
-        "company": "Boston Consulting Group",
-        "url": "https://www.bcg.com/press/9june2026-europeans-worried-about-personal-finances-spending-cutbacks",
+        "company": "Google DeepMind",
+        "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
         "score": 90,
-        "date_added": "2026-06-09",
+        "date_added": "2026-06-10",
         "article_like": true
     },
     {
-        "company": "Panacea Biotec",
-        "url": "https://www.panaceabiotec.com/en/contentlaunch-of-the-denstar-project-advancing-the-licensure-of-a-tetravalent-live-attenuated-dengue-vaccine-dengiall-in-sub-saharan-africa-and-to-facilitate-its-global-access",
-        "score": 193,
-        "date_added": "2026-06-09",
+        "company": "Jubilant Biosys",
+        "url": "https://www.jubilantbiosys.com/scientific-poster/",
+        "score": 33,
+        "date_added": "2026-06-10",
         "article_like": true
     },
     {
-        "company": "Abbott Laboratories",
-        "url": "https://abbott.mediaroom.com/2026-06-08-New-research-shows-even-stronger-health-outcomes-for-participants-in-a-Food-is-Medicine-program-when-paired-with-support-from-community-health-workers",
-        "score": 174,
-        "date_added": "2026-06-09",
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/insights/consulting/xoople-transforms-earth-data-into-business-insights",
+        "score": 96,
+        "date_added": "2026-06-10",
         "article_like": true
     },
     {
-        "company": "Abbott Laboratories",
-        "url": "https://abbott.mediaroom.com/2026-06-08-New-research-shows-even-stronger-health-outcomes-for-participants-in-a-Food-is-Medicine-program-when-paired-with-support-from-community-health-workers#assets_2429_124755-111",
-        "score": 174,
-        "date_added": "2026-06-09",
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/alliances/daikin-transforms-business-transformation-with-ai",
+        "score": 82,
+        "date_added": "2026-06-10",
         "article_like": true
     },
     {
-        "company": "GSK",
-        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-enters-agreement-to-acquire-nuvalent-inc/",
-        "score": 93,
-        "date_added": "2026-06-09",
-        "article_like": true
-    },
-    {
-        "company": "WuXi Biologics",
-        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-ireland-wins-top-honors-at-the-2026-life-sciences-industry-awards/",
-        "score": 112,
-        "date_added": "2026-06-09",
+        "company": "KPMG",
+        "url": "https://kpmg.com/xx/en/media/press-releases/2026/06/kpmg-and-microsoft-scale-trusted-enterprise-ai-agents-globally.html",
+        "score": 152,
+        "date_added": "2026-06-10",
         "article_like": true
     },
     {
         "company": "PPD (Thermo Fisher)",
-        "url": "https://www.ppd.com/news-item/thermo-fisher-scientific-ppd-corevitas-chronic-hand-eczema-registry/",
-        "score": 95,
-        "date_added": "2026-06-09",
+        "url": "https://www.ppd.com/how-we-help/chronic-disease/",
+        "score": 45,
+        "date_added": "2026-06-10",
         "article_like": true
     },
     {
-        "company": "Caris Life Sciences",
-        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-announces-share-repurchase-program/",
-        "score": 95,
-        "date_added": "2026-06-09",
-        "article_like": true
-    },
-    {
-        "company": "Pfizer",
-        "url": "https://www.pfizer.com/news/press-release/press-release-detail/us-fda-approves-pfizers-hympavzi-treatment-two-additional",
-        "score": 116,
-        "date_added": "2026-06-09",
-        "article_like": true
-    },
-    {
-        "company": "AstraZeneca",
-        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/elecoglipron-an-oral-small-molecule-glp-1-ra-moves-to-phase-iii-programme.html",
-        "score": 174,
-        "date_added": "2026-06-09",
+        "company": "Siemens Healthineers",
+        "url": "https://www.siemens-healthineers.com/press/releases/kromek-licensing-agreement",
+        "score": 58,
+        "date_added": "2026-06-10",
         "article_like": true
     },
     {
         "company": "Johnson & Johnson",
-        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-to-acquire-firefly-bio-inc-to-expand-oncology-pipeline-with-novel-degrader-antibody-conjugate-platform",
-        "score": 163,
-        "date_added": "2026-06-09",
-        "article_like": true
-    },
-    {
-        "company": "AbbVie",
-        "url": "https://news.abbvie.com/2026-06-08-AbbVie-Presents-New-Data-Across-Its-Blood-Cancer-Portfolio-at-EHA-2026",
-        "score": 94,
-        "date_added": "2026-06-09",
-        "article_like": true
-    },
-    {
-        "company": "Gilead Sciences",
-        "url": "https://www.gilead.com/news/news-details/2026/gilead-and-merck-announce-positive-topline-results-from-two-phase-3-studies-evaluating-islatravirlenacapavir-an-oral-once-weekly-hiv-treatment",
-        "score": 209,
-        "date_added": "2026-06-09",
-        "article_like": true
-    },
-    {
-        "company": "Gilead Sciences",
-        "url": "https://www.gilead.com/news/news-details/2026/merck-and-gilead-provide-update-on-phase-3-keynote-d46-evoke-03-study",
-        "score": 136,
-        "date_added": "2026-06-09",
+        "url": "https://www.jnj.com/media-center/press-releases/depuy-synthes-launches-velys-hip-navigation-with-ai-to-support-intraoperative-consistency-and-efficiency-in-total-hip-arthroplasty",
+        "score": 175,
+        "date_added": "2026-06-10",
         "article_like": true
     },
     {
         "company": "Takeda Pharmaceutical",
-        "url": "https://www.takeda.com/newsroom/newsreleases/2026/new-shares-and-treasury-shares-under-long-term-incentive-plan-outside-japan/",
-        "score": 149,
-        "date_added": "2026-06-09",
+        "url": "https://www.takeda.com/newsroom/newsreleases/2026/application-intravenous-entyvio-pediatric/",
+        "score": 115,
+        "date_added": "2026-06-10",
         "article_like": true
     },
     {
-        "company": "Insitro",
-        "url": "https://www.insitro.com/news/insitro-presents-new-data-demonstrating-its-ai-discovered-mash-candidate-shows-anti-fibrotic-signal-beyond-liver-fat-reduction-at-the-american-diabetes-association-86th-scientific-sessions/",
-        "score": 211,
-        "date_added": "2026-06-09",
+        "company": "ICON plc",
+        "url": "https://www.iconplc.com/sectors/biotech/plotting-course-bring-apac-developed-drugs-world",
+        "score": 81,
+        "date_added": "2026-06-10",
         "article_like": true
     },
     {
-        "company": "WuXi AppTec",
-        "url": "https://www.wuxiapptec.com/news/wuxi-news/fqc0hlj7m70wmujxkhu82lu4",
-        "score": 56,
-        "date_added": "2026-06-09",
-        "article_like": true
-    },
-    {
-        "company": "Disc Medicine",
-        "url": "https://ir.discmedicine.com/news-releases/news-release-details/disc-medicine-presents-updated-positive-data-rally-mf-phase-2",
-        "score": 113,
-        "date_added": "2026-06-09",
+        "company": "Ipsen",
+        "url": "https://www.ipsen.com/press-release/new-late-breaking-data-reinforces-iqirvos-impact-on-alp-fatigue-and-pruritus-in-pbc-3302504/",
+        "score": 123,
+        "date_added": "2026-06-10",
         "article_like": true
     },
     {
         "company": "Disc Medicine",
-        "url": "https://ir.discmedicine.com/news-releases/news-release-details/disc-medicine-launches-expanded-access-program-bitopertin-epp",
-        "score": 113,
-        "date_added": "2026-06-09",
+        "url": "https://ir.discmedicine.com/news-releases/news-release-details/disc-medicine-provides-update-fda-type-meeting-bitopertin",
+        "score": 109,
+        "date_added": "2026-06-10",
         "article_like": true
     },
     {
-        "company": "BioSolveIT",
-        "url": "https://www.biosolveit.de/2026/06/08/synple-space-merging-with-explore/",
-        "score": 91,
-        "date_added": "2026-06-09",
+        "company": "Bavarian Nordic",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7531",
+        "score": 30,
+        "date_added": "2026-06-10",
         "article_like": true
     },
     {
-        "company": "Abiogenesis Clinpharm Private Limited",
-        "url": "https://abiogenesisclinpharm.com/india-uk-biosimilar-pathway/",
-        "score": 43,
-        "date_added": "2026-06-09",
+        "company": "Genethon",
+        "url": "https://www.genethon.fr/genother-summit-2026-une-2e-edition-pour-accelerer-lavenir-de-la-medecine-genetique/",
+        "score": 99,
+        "date_added": "2026-06-10",
         "article_like": true
     }
 ]
