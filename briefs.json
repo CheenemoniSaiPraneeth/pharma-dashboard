@@ -1,10 +1,17 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 14,
-    "items_extracted": 0,
+    "articles_used": 13,
+    "items_extracted": 1,
     "items_dropped": 0,
-    "generated_at": "2026-06-10 09:42:09"
+    "generated_at": "2026-06-11 10:27:46"
   },
-  "news": []
+  "news": [
+    {
+      "company": "Novartis",
+      "modality": "gene editing",
+      "news": "Novartis announced that the FORTITUDE Phase I/II study of del-brax, an investigational antibody oligonucleotide conjugate (AOC) targeting the DUX4 gene, met its primary biomarker endpoint in patients with facioscapulohumeral muscular dystrophy (FSHD). The therapy, acquired via the Avidity Biosciences deal, demonstrated significant reduction in DUX4-regulated biomarkers and muscle damage markers, validating the dosing regimen for the ongoing Phase III trial.",
+      "url": "https://www.novartis.com/news/media-releases/novartis-delpacibart-braxlosiran-del-brax-phase-iii-study-facioscapulohumeral-muscular-dystrophy-fshd-meets-primary-biomarker-endpoint"
+    }
+  ]
 }

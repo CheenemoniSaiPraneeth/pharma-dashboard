@@ -1,114 +1,100 @@
 [
     {
-        "company": "Sanofi",
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-10-05-00-00-3309444",
-        "score": 107,
-        "date_added": "2026-06-10",
+        "company": "Novartis",
+        "url": "https://www.novartis.com/news/media-releases/novartis-delpacibart-braxlosiran-del-brax-phase-iii-study-facioscapulohumeral-muscular-dystrophy-fshd-meets-primary-biomarker-endpoint",
+        "score": 171,
+        "date_added": "2026-06-11",
         "article_like": true
     },
     {
-        "company": "Veeva Systems",
-        "url": "https://www.veeva.com/resources/ucb-unifies-global-pharmacovigilance-operations-with-veeva-safety-suite/",
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/06/color-matching-and-skin-undertone",
+        "score": 112,
+        "date_added": "2026-06-11",
+        "article_like": true
+    },
+    {
+        "company": "JETRO",
+        "url": "https://www.jetro.go.jp/en/news/releases/2026/43d825be6a15425a.html",
+        "score": 79,
+        "date_added": "2026-06-11",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/06/ey-global-consumer-health-survey-2026-health-organizations-must-rethink-care-delivery-as-ai-and-digital-channels-reshape-how-people-seek-and-access-care",
+        "score": 221,
+        "date_added": "2026-06-11",
+        "article_like": true
+    },
+    {
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/ausl-names-labcorp-official-consumer-health-testing-partner-new-collaboration.html",
+        "score": 161,
+        "date_added": "2026-06-11",
+        "article_like": true
+    },
+    {
+        "company": "Genentech",
+        "url": "https://www.gene.com/media/press-releases/15116/2026-06-10/fda-grants-priority-review-for-genentech",
         "score": 99,
-        "date_added": "2026-06-10",
+        "date_added": "2026-06-11",
         "article_like": true
     },
     {
-        "company": "Google DeepMind",
-        "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
-        "score": 90,
-        "date_added": "2026-06-10",
+        "company": "Pfizer",
+        "url": "https://www.pfizer.com/about/programs-policies/transparency-payments-grants",
+        "score": 69,
+        "date_added": "2026-06-11",
         "article_like": true
     },
     {
-        "company": "Jubilant Biosys",
-        "url": "https://www.jubilantbiosys.com/scientific-poster/",
-        "score": 33,
-        "date_added": "2026-06-10",
+        "company": "Roche",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-06-11",
+        "score": 50,
+        "date_added": "2026-06-11",
         "article_like": true
     },
     {
-        "company": "EY-Parthenon",
-        "url": "https://www.ey.com/en_gl/insights/consulting/xoople-transforms-earth-data-into-business-insights",
-        "score": 96,
-        "date_added": "2026-06-10",
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-06-10-Allergan-Aesthetics-Releases-The-Aesthetics-Evolution-What-Consumers-Really-Want-Highlighting-Consumer-Motivations-and-Expectations-in-Aesthetics#assets_2429_124790-150",
+        "score": 169,
+        "date_added": "2026-06-11",
         "article_like": true
     },
     {
-        "company": "EY-Parthenon",
-        "url": "https://www.ey.com/en_gl/alliances/daikin-transforms-business-transformation-with-ai",
-        "score": 82,
-        "date_added": "2026-06-10",
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-06-10-Allergan-Aesthetics-Releases-The-Aesthetics-Evolution-What-Consumers-Really-Want-Highlighting-Consumer-Motivations-and-Expectations-in-Aesthetics",
+        "score": 169,
+        "date_added": "2026-06-11",
         "article_like": true
     },
     {
-        "company": "KPMG",
-        "url": "https://kpmg.com/xx/en/media/press-releases/2026/06/kpmg-and-microsoft-scale-trusted-enterprise-ai-agents-globally.html",
-        "score": 152,
-        "date_added": "2026-06-10",
-        "article_like": true
-    },
-    {
-        "company": "PPD (Thermo Fisher)",
-        "url": "https://www.ppd.com/how-we-help/chronic-disease/",
-        "score": 45,
-        "date_added": "2026-06-10",
-        "article_like": true
-    },
-    {
-        "company": "Siemens Healthineers",
-        "url": "https://www.siemens-healthineers.com/press/releases/kromek-licensing-agreement",
-        "score": 58,
-        "date_added": "2026-06-10",
-        "article_like": true
-    },
-    {
-        "company": "Johnson & Johnson",
-        "url": "https://www.jnj.com/media-center/press-releases/depuy-synthes-launches-velys-hip-navigation-with-ai-to-support-intraoperative-consistency-and-efficiency-in-total-hip-arthroplasty",
-        "score": 175,
-        "date_added": "2026-06-10",
-        "article_like": true
-    },
-    {
-        "company": "Takeda Pharmaceutical",
-        "url": "https://www.takeda.com/newsroom/newsreleases/2026/application-intravenous-entyvio-pediatric/",
-        "score": 115,
-        "date_added": "2026-06-10",
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/index.php?s=2429&o=2330#news_anchor",
+        "score": 12,
+        "date_added": "2026-06-11",
         "article_like": true
     },
     {
         "company": "ICON plc",
-        "url": "https://www.iconplc.com/sectors/biotech/plotting-course-bring-apac-developed-drugs-world",
-        "score": 81,
-        "date_added": "2026-06-10",
+        "url": "https://www.iconplc.com/solutions/real-world-solutions",
+        "score": 45,
+        "date_added": "2026-06-11",
         "article_like": true
     },
     {
-        "company": "Ipsen",
-        "url": "https://www.ipsen.com/press-release/new-late-breaking-data-reinforces-iqirvos-impact-on-alp-fatigue-and-pruritus-in-pbc-3302504/",
-        "score": 123,
-        "date_added": "2026-06-10",
-        "article_like": true
-    },
-    {
-        "company": "Disc Medicine",
-        "url": "https://ir.discmedicine.com/news-releases/news-release-details/disc-medicine-provides-update-fda-type-meeting-bitopertin",
-        "score": 109,
-        "date_added": "2026-06-10",
-        "article_like": true
-    },
-    {
-        "company": "Bavarian Nordic",
-        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7531",
+        "company": "Ono Pharmaceutical",
+        "url": "https://www.ono-pharma.com/en/news/20260611_2.html",
         "score": 30,
-        "date_added": "2026-06-10",
+        "date_added": "2026-06-11",
         "article_like": true
     },
     {
-        "company": "Genethon",
-        "url": "https://www.genethon.fr/genother-summit-2026-une-2e-edition-pour-accelerer-lavenir-de-la-medecine-genetique/",
-        "score": 99,
-        "date_added": "2026-06-10",
+        "company": "BigHat Biosciences",
+        "url": "https://www.bighatbio.com/news/bighat-biosciences-appoints-stefan-weigand-as-chief-scientific-officer",
+        "score": 90,
+        "date_added": "2026-06-11",
         "article_like": true
     }
 ]

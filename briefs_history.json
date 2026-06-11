@@ -1,4 +1,54 @@
 {
+  "2026-06-11": {
+    "monoclonal antibodies": [
+      {
+        "company": "Novartis",
+        "modality": "monoclonal antibodies",
+        "news": "Novartis announced that the FORTITUDE Phase I/II study of del-brax, an investigational antibody oligonucleotide conjugate (AOC) combining monoclonal antibody tissue specificity with oligonucleotide precision, met its primary biomarker endpoint in treating facioscapulohumeral muscular dystrophy (FSHD). The results demonstrated strong target engagement and reduction in muscle damage, validating the dosing regimen for the ongoing Phase III study.",
+        "url": "https://www.novartis.com/news/media-releases/novartis-delpacibart-braxlosiran-del-brax-phase-iii-study-facioscapulohumeral-muscular-dystrophy-fshd-meets-primary-biomarker-endpoint",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Novartis",
+        "modality": "monoclonal antibodies",
+        "news": "Novartis announced that the FORTITUDE Phase I/II study of del-brax, an investigational antibody oligonucleotide conjugate (AOC) combining monoclonal antibodies with siRNA, met its primary biomarker endpoint in treating facioscapulohumeral muscular dystrophy (FSHD). The results demonstrated significant reduction in DUX4-regulated biomarkers and muscle damage markers, validating the dosing regimen for the ongoing Phase III trial.",
+        "url": "https://www.novartis.com/news/media-releases/novartis-delpacibart-braxlosiran-del-brax-phase-iii-study-facioscapulohumeral-muscular-dystrophy-fshd-meets-primary-biomarker-endpoint",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Genentech",
+        "modality": "monoclonal antibodies",
+        "news": "The FDA granted Priority Review to Genentech's supplemental Biologics License Application (sBLA) for Tecentriq (atezolizumab) in combination with chemotherapy for stage III dMMR/MSI-H colon cancer. The decision is based on Phase III ATOMIC study results showing a 50% reduction in recurrence or death risk, with an approval decision expected by October 9, 2026.",
+        "url": "https://www.gene.com/media/press-releases/15116/2026-06-10/fda-grants-priority-review-for-genentech",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "BigHat Biosciences",
+        "modality": "monoclonal antibodies",
+        "news": "BigHat Biosciences appointed Stefan Weigand as Chief Scientific Officer to lead its AI-driven platform for designing complex protein therapeutics, including antibodies. Weigand brings over 25 years of experience in biologics research from Roche, where he oversaw the development of numerous antibody-based programs.",
+        "url": "https://www.bighatbio.com/news/bighat-biosciences-appoints-stefan-weigand-as-chief-scientific-officer",
+        "query": "monoclonal antibodies"
+      }
+    ],
+    "bispecific antibodies": [
+      {
+        "company": "BigHat Biosciences",
+        "modality": "bispecific antibodies",
+        "news": "BigHat Biosciences appointed Stefan Weigand as Chief Scientific Officer. Weigand previously led the team at Roche that established the CrossMab platform and T-cell bispecifics, enabling over 60 molecules to advance into clinical development.",
+        "url": "https://www.bighatbio.com/news/bighat-biosciences-appoints-stefan-weigand-as-chief-scientific-officer",
+        "query": "bispecific antibodies"
+      }
+    ],
+    "gene editing": [
+      {
+        "company": "Novartis",
+        "modality": "gene editing",
+        "news": "Novartis announced that the FORTITUDE Phase I/II study of del-brax, an investigational antibody oligonucleotide conjugate (AOC) targeting the DUX4 gene, met its primary biomarker endpoint in patients with facioscapulohumeral muscular dystrophy (FSHD). The therapy, acquired via the Avidity Biosciences deal, demonstrated significant reduction in DUX4-regulated biomarkers and muscle damage markers, validating the dosing regimen for the ongoing Phase III trial.",
+        "url": "https://www.novartis.com/news/media-releases/novartis-delpacibart-braxlosiran-del-brax-phase-iii-study-facioscapulohumeral-muscular-dystrophy-fshd-meets-primary-biomarker-endpoint",
+        "query": "gene editing"
+      }
+    ]
+  },
   "2026-06-10": {
     "monoclonal antibodies": [
       {

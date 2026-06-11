@@ -110212,5 +110212,152 @@
         "score": 160,
         "date_added": "2026-06-10",
         "article_like": false
+    },
+    {
+        "company": "Novartis",
+        "url": "https://www.novartis.com/news/media-releases/novartis-delpacibart-braxlosiran-del-brax-phase-iii-study-facioscapulohumeral-muscular-dystrophy-fshd-meets-primary-biomarker-endpoint",
+        "score": 171,
+        "date_added": "2026-06-11",
+        "article_like": true
+    },
+    {
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/06/color-matching-and-skin-undertone",
+        "score": 112,
+        "date_added": "2026-06-11",
+        "article_like": true
+    },
+    {
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/th/Thailand",
+        "score": 16,
+        "date_added": "2026-06-11",
+        "article_like": false
+    },
+    {
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/Thailand",
+        "score": 16,
+        "date_added": "2026-06-11",
+        "article_like": false
+    },
+    {
+        "company": "JETRO",
+        "url": "https://www.jetro.go.jp/en/news/releases/2026/43d825be6a15425a.html",
+        "score": 79,
+        "date_added": "2026-06-11",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/06/ey-global-consumer-health-survey-2026-health-organizations-must-rethink-care-delivery-as-ai-and-digital-channels-reshape-how-people-seek-and-access-care",
+        "score": 221,
+        "date_added": "2026-06-11",
+        "article_like": true
+    },
+    {
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/ausl-names-labcorp-official-consumer-health-testing-partner-new-collaboration.html",
+        "score": 161,
+        "date_added": "2026-06-11",
+        "article_like": true
+    },
+    {
+        "company": "Genentech",
+        "url": "https://www.gene.com/media/press-releases/15116/2026-06-10/fda-grants-priority-review-for-genentech",
+        "score": 99,
+        "date_added": "2026-06-11",
+        "article_like": true
+    },
+    {
+        "company": "Pfizer",
+        "url": "https://www.pfizer.com/about/programs-policies/transparency-payments-grants",
+        "score": 69,
+        "date_added": "2026-06-11",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-06-11",
+        "score": 50,
+        "date_added": "2026-06-11",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-06-10-Allergan-Aesthetics-Releases-The-Aesthetics-Evolution-What-Consumers-Really-Want-Highlighting-Consumer-Motivations-and-Expectations-in-Aesthetics#assets_2429_124790-150",
+        "score": 169,
+        "date_added": "2026-06-11",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-06-10-Allergan-Aesthetics-Releases-The-Aesthetics-Evolution-What-Consumers-Really-Want-Highlighting-Consumer-Motivations-and-Expectations-in-Aesthetics",
+        "score": 169,
+        "date_added": "2026-06-11",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/index.php?s=2429&o=2330#news_anchor",
+        "score": 12,
+        "date_added": "2026-06-11",
+        "article_like": true
+    },
+    {
+        "company": "ICON plc",
+        "url": "https://www.iconplc.com/solutions/real-world-solutions",
+        "score": 45,
+        "date_added": "2026-06-11",
+        "article_like": true
+    },
+    {
+        "company": "ICON plc",
+        "url": "https://www.iconplc.com/contact/",
+        "score": 13,
+        "date_added": "2026-06-11",
+        "article_like": false
+    },
+    {
+        "company": "ICON plc",
+        "url": "https://www.iconplc.com/about/",
+        "score": 11,
+        "date_added": "2026-06-11",
+        "article_like": false
+    },
+    {
+        "company": "Ono Pharmaceutical",
+        "url": "https://www.ono-pharma.com/en/news/20260611_2.html",
+        "score": 30,
+        "date_added": "2026-06-11",
+        "article_like": true
+    },
+    {
+        "company": "Ono Pharmaceutical",
+        "url": "https://www.ono-pharma.com/en/news/20260611.html",
+        "score": 28,
+        "date_added": "2026-06-11",
+        "article_like": false
+    },
+    {
+        "company": "Intra-Cellular Therapies",
+        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/IMAAVY-nipocalimab-aahu-demonstrates-durable-hemoglobin-response-and-rapid-onset-of-effect-in-pivotal-Phase-23-study-in-warm-autoimmune-hemolytic-anemia-wAIHA-an-autoantibody-driven-disease-with-no-FDA-approved-therapies/default.aspx",
+        "score": 311,
+        "date_added": "2026-06-11",
+        "article_like": false
+    },
+    {
+        "company": "Monte Rosa Therapeutics",
+        "url": "https://www.monterosatx.com/news",
+        "score": 7,
+        "date_added": "2026-06-11",
+        "article_like": false
+    },
+    {
+        "company": "BigHat Biosciences",
+        "url": "https://www.bighatbio.com/news/bighat-biosciences-appoints-stefan-weigand-as-chief-scientific-officer",
+        "score": 90,
+        "date_added": "2026-06-11",
+        "article_like": true
     }
 ]
