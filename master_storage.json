@@ -110359,5 +110359,215 @@
         "score": 90,
         "date_added": "2026-06-11",
         "article_like": true
+    },
+    {
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/06/RT-qPCR-Method-for-Four-Hour-Negative-Reporting-of-E-coli-in-Water",
+        "score": 145,
+        "date_added": "2026-06-12",
+        "article_like": true
+    },
+    {
+        "company": "Simson Pharma Limited",
+        "url": "https://www.simsonpharma.com/blog-details/importance-of-impurity-profiling-in-drug-development",
+        "score": 80,
+        "date_added": "2026-06-12",
+        "article_like": true
+    },
+    {
+        "company": "Google DeepMind",
+        "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+        "score": 66,
+        "date_added": "2026-06-12",
+        "article_like": true
+    },
+    {
+        "company": "Sai Life Sciences",
+        "url": "https://www.sailife.com/facilities",
+        "score": 13,
+        "date_added": "2026-06-12",
+        "article_like": false
+    },
+    {
+        "company": "Sai Life Sciences",
+        "url": "https://www.sailife.com/news#content",
+        "score": 7,
+        "date_added": "2026-06-12",
+        "article_like": false
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/feature-articles/illumina-grand-rounds-in-genomic-medicine-variants-of-uncertain-significance.html",
+        "score": 137,
+        "date_added": "2026-06-12",
+        "article_like": true
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/bcg-answer",
+        "score": 23,
+        "date_added": "2026-06-12",
+        "article_like": false
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/about/expertise",
+        "score": 20,
+        "date_added": "2026-06-12",
+        "article_like": false
+    },
+    {
+        "company": "Rx Propellant",
+        "url": "https://rxpropellant.com/designing-for-heat-the-overlooked-driver-of-efficiency-in-scientific-infrastructure/",
+        "score": 99,
+        "date_added": "2026-06-12",
+        "article_like": true
+    },
+    {
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-s-momelotinib-granted-orphan-drug-designations-in-the-us-and-eu-for-vexas-syndrome/",
+        "score": 135,
+        "date_added": "2026-06-12",
+        "article_like": true
+    },
+    {
+        "company": "WuXi Biologics",
+        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-included-in-sp-global-sustainability-yearbook-china-edition-for-fourth-consecutive-year/",
+        "score": 134,
+        "date_added": "2026-06-12",
+        "article_like": true
+    },
+    {
+        "company": "Guardant Health",
+        "url": "https://investors.guardanthealth.com/press-releases/press-releases/2026/Guardant-Health-Announces-FDA-Approval-of-Guardant360-CDx-as-Companion-Diagnostic-for-Boehringer-Ingelheims-HERNEXEOS/default.aspx",
+        "score": 211,
+        "date_added": "2026-06-12",
+        "article_like": false
+    },
+    {
+        "company": "Stryker",
+        "url": "https://www.stryker.com/us/en/about/news/2026/stryker-partners-with-fortune-to-share-our-digital-innovation-st.html",
+        "score": 139,
+        "date_added": "2026-06-12",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/imaavy-nipocalimab-aahu-demonstrates-durable-hemoglobin-response-and-rapid-onset-of-effect-in-pivotal-phase-2-3-study-in-warm-autoimmune-hemolytic-anemia-waiha-an-autoantibody-driven-disease-with-no-fda-approved-therapies",
+        "score": 266,
+        "date_added": "2026-06-12",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-expands-u-s-availability-of-tecnis-puresee-iol-an-advanced-lens-option-for-cataract-surgeons-and-patients",
+        "score": 166,
+        "date_added": "2026-06-12",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-06-12-AbbVie-Presents-New-Data-at-EHA-2026-Congress-for-VENCLEXTA-R-VENCLYXTO-R-venetoclax-in-First-Line-Chronic-Lymphocytic-Leukemia-Highlighting-Long-Term-Treatment-Outcomes-for-Patients-Nine-Year-Results",
+        "score": 224,
+        "date_added": "2026-06-12",
+        "article_like": true
+    },
+    {
+        "company": "Gilead Sciences",
+        "url": "https://www.gilead.com/news/news-details/2026/national-aids-memorial-and-the-gilead-foundation-launch-major-investment-to-expand-hivaids-education-and-community-leadership",
+        "score": 192,
+        "date_added": "2026-06-12",
+        "article_like": true
+    },
+    {
+        "company": "Takeda Pharmaceutical",
+        "url": "https://www.takeda.com/newsroom/newsreleases/2026/zasocitinib-outperforms-deucravacitinib-study/",
+        "score": 119,
+        "date_added": "2026-06-12",
+        "article_like": true
+    },
+    {
+        "company": "BeiGene",
+        "url": "https://ir.beonemedicines.com/news/beone-showcases-landmark-phase-3-data-in-cll-patients-aged-80-at-eha-2026-reinforcing/bf153395-fa20-4e6f-a4b8-c404b2c44aff",
+        "score": 144,
+        "date_added": "2026-06-12",
+        "article_like": true
+    },
+    {
+        "company": "WuXi AppTec",
+        "url": "https://www.wuxiapptec.com/news/wuxi-news/mrcqpfbago5nwhy5270oc58k",
+        "score": 56,
+        "date_added": "2026-06-12",
+        "article_like": true
+    },
+    {
+        "company": "Shionogi",
+        "url": "https://www.shionogi.com/global/en/news/2026/06/20260612.html",
+        "score": 74,
+        "date_added": "2026-06-12",
+        "article_like": false
+    },
+    {
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260612153000_1256.html?year=2026&category=",
+        "score": 53,
+        "date_added": "2026-06-12",
+        "article_like": true
+    },
+    {
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260612_eTecentriq_sky07_filling.pdf&src=[%0],[%1]&rep=130,1256",
+        "score": 26,
+        "date_added": "2026-06-12",
+        "article_like": true
+    },
+    {
+        "company": "Intra-Cellular Therapies",
+        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/Johnson--Johnson-Expands-U-S--Availability-of-TECNIS-PureSee-IOL-an-Advanced-Lens-Option-for-Cataract-Surgeons-and-Patients/default.aspx",
+        "score": 214,
+        "date_added": "2026-06-12",
+        "article_like": false
+    },
+    {
+        "company": "Argenx",
+        "url": "https://argenx.com/patients/untold-stories",
+        "score": 38,
+        "date_added": "2026-06-12",
+        "article_like": false
+    },
+    {
+        "company": "Dassault Systemes BIOVIA",
+        "url": "https://www.3ds.com/careers/jobs/senior-director-external-communications-547510",
+        "score": 76,
+        "date_added": "2026-06-12",
+        "article_like": true
+    },
+    {
+        "company": "Abridge",
+        "url": "https://www.abridge.com/open-reports/ambient-ai-adoption-scale-impact-report",
+        "score": 67,
+        "date_added": "2026-06-12",
+        "article_like": true
+    },
+    {
+        "company": "Abridge",
+        "url": "https://www.abridge.com/case-study/sutter-health",
+        "score": 39,
+        "date_added": "2026-06-12",
+        "article_like": false
+    },
+    {
+        "company": "Nuclera",
+        "url": "https://www.nuclera.com/webinars-events/the-missing-triage-step-in-ai-antibody-hit-validation/",
+        "score": 87,
+        "date_added": "2026-06-12",
+        "article_like": true
+    },
+    {
+        "company": "Travere Therapeutics",
+        "url": "https://ir.travere.com/press-releases/news-details/2026/Travere-Therapeutics-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635c4-522778034/default.aspx",
+        "score": 181,
+        "date_added": "2026-06-12",
+        "article_like": false
     }
 ]

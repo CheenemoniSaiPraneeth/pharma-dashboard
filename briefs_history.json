@@ -1,4 +1,22 @@
 {
+  "2026-06-12": {
+    "monoclonal antibodies": [
+      {
+        "company": "Chugai Pharmaceutical",
+        "modality": "monoclonal antibodies",
+        "news": "Chugai Pharmaceutical filed a regulatory application in Japan for Tecentriq (atezolizumab), a humanized anti-PD-L1 monoclonal antibody, for an additional indication as maintenance therapy following definitive chemoradiotherapy in locally advanced esophageal cancer. The filing is based on positive results from the global Phase III SKYSCRAPER-07 clinical trial.",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260612153000_1256.html?year=2026&category=",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Chugai Pharmaceutical",
+        "modality": "monoclonal antibodies",
+        "news": "Chugai filed a regulatory application in Japan for Tecentriq (atezolizumab), a humanized anti-PD-L1 monoclonal antibody, for an additional indication as maintenance therapy following definitive chemoradiotherapy in locally advanced esophageal cancer. The filing is based on positive results from the global Phase III SKYSCRAPER-07 clinical trial.",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260612153000_1256.html?year=2026&category=",
+        "query": "molecular glues"
+      }
+    ]
+  },
   "2026-06-11": {
     "monoclonal antibodies": [
       {
