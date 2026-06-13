@@ -110569,5 +110569,131 @@
         "score": 181,
         "date_added": "2026-06-12",
         "article_like": false
+    },
+    {
+        "company": "Sanofi",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-12-22-09-58-3311349",
+        "score": 107,
+        "date_added": "2026-06-13",
+        "article_like": true
+    },
+    {
+        "company": "Sanofi",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/library",
+        "score": 55,
+        "date_added": "2026-06-13",
+        "article_like": false
+    },
+    {
+        "company": "Novartis",
+        "url": "https://www.novartis.com/news/media-releases/novartis-remind-data-eaaci-show-rhapsido-potential-first-targeted-therapy-chronic-inducible-urticaria-cindu",
+        "score": 144,
+        "date_added": "2026-06-13",
+        "article_like": true
+    },
+    {
+        "company": "SCIEX",
+        "url": "https://sciex.com/search-results?contentType=Regulatory%20documents&facetId=technicaldocuments&value=Declaration%20of%20conformance",
+        "score": 27,
+        "date_added": "2026-06-13",
+        "article_like": true
+    },
+    {
+        "company": "SCIEX",
+        "url": "https://sciex.com/search-results?contentType=Regulatory%20documents&facetId=technicaldocuments&value=Safety%20data%20sheet",
+        "score": 27,
+        "date_added": "2026-06-13",
+        "article_like": true
+    },
+    {
+        "company": "SCIEX",
+        "url": "https://sciex.com/search-results?contentType=Regulatory%20documents&facetId=technicaldocuments&value=Certificate%20of%20analysis",
+        "score": 27,
+        "date_added": "2026-06-13",
+        "article_like": true
+    },
+    {
+        "company": "SCIEX",
+        "url": "https://sciex.com/products/technology",
+        "score": 24,
+        "date_added": "2026-06-13",
+        "article_like": false
+    },
+    {
+        "company": "SCIEX",
+        "url": "https://sciex.com/technology",
+        "score": 13,
+        "date_added": "2026-06-13",
+        "article_like": false
+    },
+    {
+        "company": "Medtronic",
+        "url": "https://news.medtronic.com/2026-06-12-Medtronic-completes-acquisition-of-Scientia-Vascular,-seamlessly-integrating-access-and-therapeutic-portfolios-for-neurovascular-care",
+        "score": 157,
+        "date_added": "2026-06-13",
+        "article_like": true
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/products/by-brand/somamer-proteomics.html",
+        "score": 58,
+        "date_added": "2026-06-13",
+        "article_like": true
+    },
+    {
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/2026-06-12-Abbott-declares-410th-consecutive-quarterly-dividend",
+        "score": 76,
+        "date_added": "2026-06-13",
+        "article_like": true
+    },
+    {
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/2026-06-12-Abbott-declares-410th-consecutive-quarterly-dividend#assets_2429_124756-111",
+        "score": 76,
+        "date_added": "2026-06-13",
+        "article_like": true
+    },
+    {
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/clinical-trials-arena-labcorp-introduces-global-trial-connect-advance-clinical-trials.html",
+        "score": 163,
+        "date_added": "2026-06-13",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-06-12",
+        "score": 50,
+        "date_added": "2026-06-13",
+        "article_like": true
+    },
+    {
+        "company": "AstraZeneca",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/truqap-approved-in-us-for-prostate-cancer.html",
+        "score": 142,
+        "date_added": "2026-06-13",
+        "article_like": true
+    },
+    {
+        "company": "Gilead Sciences",
+        "url": "https://www.gilead.com/news/news-details/2026/gilead-mobilizes-rapid-donation-of-remdesivir-to-support-ebola-response-building-on-decade-long-commitment-to-outbreak-relief",
+        "score": 192,
+        "date_added": "2026-06-13",
+        "article_like": true
+    },
+    {
+        "company": "BeiGene",
+        "url": "https://ir.beonemedicines.com/news/beone-medicines-foundational-hematology-franchise-leads-next-era-of-b-cell-cancer-innovation-at-eha-2026/a4df489f-2678-40f7-abc1-85b643207a62",
+        "score": 163,
+        "date_added": "2026-06-13",
+        "article_like": true
+    },
+    {
+        "company": "Alnylam Pharmaceuticals",
+        "url": "https://investors.alnylam.com/press-release?id=29951",
+        "score": 26,
+        "date_added": "2026-06-13",
+        "article_like": true
     }
 ]
