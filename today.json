@@ -1,107 +1,114 @@
 [
     {
-        "company": "Sanofi",
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-12-22-09-58-3311349",
-        "score": 107,
-        "date_added": "2026-06-13",
-        "article_like": true
-    },
-    {
-        "company": "Novartis",
-        "url": "https://www.novartis.com/news/media-releases/novartis-remind-data-eaaci-show-rhapsido-potential-first-targeted-therapy-chronic-inducible-urticaria-cindu",
-        "score": 144,
-        "date_added": "2026-06-13",
-        "article_like": true
-    },
-    {
-        "company": "SCIEX",
-        "url": "https://sciex.com/search-results?contentType=Regulatory%20documents&facetId=technicaldocuments&value=Declaration%20of%20conformance",
-        "score": 27,
-        "date_added": "2026-06-13",
-        "article_like": true
-    },
-    {
-        "company": "SCIEX",
-        "url": "https://sciex.com/search-results?contentType=Regulatory%20documents&facetId=technicaldocuments&value=Safety%20data%20sheet",
-        "score": 27,
-        "date_added": "2026-06-13",
-        "article_like": true
-    },
-    {
-        "company": "SCIEX",
-        "url": "https://sciex.com/search-results?contentType=Regulatory%20documents&facetId=technicaldocuments&value=Certificate%20of%20analysis",
-        "score": 27,
-        "date_added": "2026-06-13",
-        "article_like": true
-    },
-    {
-        "company": "Medtronic",
-        "url": "https://news.medtronic.com/2026-06-12-Medtronic-completes-acquisition-of-Scientia-Vascular,-seamlessly-integrating-access-and-therapeutic-portfolios-for-neurovascular-care",
-        "score": 157,
-        "date_added": "2026-06-13",
-        "article_like": true
-    },
-    {
         "company": "Illumina",
-        "url": "https://www.illumina.com/products/by-brand/somamer-proteomics.html",
-        "score": 58,
-        "date_added": "2026-06-13",
+        "url": "https://www.illumina.com/company/news-center/feature-articles/multiomics-explained-proteomics.html",
+        "score": 92,
+        "date_added": "2026-06-15",
         "article_like": true
     },
     {
-        "company": "Abbott Laboratories",
-        "url": "https://abbott.mediaroom.com/2026-06-12-Abbott-declares-410th-consecutive-quarterly-dividend",
-        "score": 76,
-        "date_added": "2026-06-13",
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/publications/2026/crisis-reaction-to-strategic-geopolitical-response",
+        "score": 110,
+        "date_added": "2026-06-15",
         "article_like": true
     },
     {
-        "company": "Abbott Laboratories",
-        "url": "https://abbott.mediaroom.com/2026-06-12-Abbott-declares-410th-consecutive-quarterly-dividend#assets_2429_124756-111",
-        "score": 76,
-        "date_added": "2026-06-13",
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/publications/2026/mobilizing-savings-to-close-the-investment-gap",
+        "score": 106,
+        "date_added": "2026-06-15",
         "article_like": true
     },
     {
-        "company": "Labcorp Drug Development",
-        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/clinical-trials-arena-labcorp-introduces-global-trial-connect-advance-clinical-trials.html",
-        "score": 163,
-        "date_added": "2026-06-13",
-        "article_like": true
-    },
-    {
-        "company": "Roche",
-        "url": "https://www.roche.com/media/releases/med-cor-2026-06-12",
-        "score": 50,
-        "date_added": "2026-06-13",
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/press/15june2026-cmos-ai-transforming-marketing-transform-function",
+        "score": 81,
+        "date_added": "2026-06-15",
         "article_like": true
     },
     {
         "company": "AstraZeneca",
-        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/truqap-approved-in-us-for-prostate-cancer.html",
-        "score": 142,
-        "date_added": "2026-06-13",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/ultomiris-granted-priority-review-in-the-us-as-treatment-for-adults-with-immunoglobulin-a-nephropathy.html",
+        "score": 202,
+        "date_added": "2026-06-15",
         "article_like": true
     },
     {
-        "company": "Gilead Sciences",
-        "url": "https://www.gilead.com/news/news-details/2026/gilead-mobilizes-rapid-donation-of-remdesivir-to-support-ebola-response-building-on-decade-long-commitment-to-outbreak-relief",
-        "score": 192,
-        "date_added": "2026-06-13",
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/new-talvey-talquetamab-tgvs-plus-darzalex-faspro-daratumumab-and-hyaluronidase-fihj-data-demonstrate-the-strength-of-a-bispecific-combination-in-earlier-line-relapsed-or-refractory-multiple-myeloma",
+        "score": 242,
+        "date_added": "2026-06-15",
         "article_like": true
     },
     {
-        "company": "BeiGene",
-        "url": "https://ir.beonemedicines.com/news/beone-medicines-foundational-hematology-franchise-leads-next-era-of-b-cell-cancer-innovation-at-eha-2026/a4df489f-2678-40f7-abc1-85b643207a62",
-        "score": 163,
-        "date_added": "2026-06-13",
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-invests-more-than-1-billion-to-strengthen-u-s-vision-manufacturing-in-jacksonville-florida",
+        "score": 151,
+        "date_added": "2026-06-15",
         "article_like": true
     },
     {
-        "company": "Alnylam Pharmaceuticals",
-        "url": "https://investors.alnylam.com/press-release?id=29951",
-        "score": 26,
-        "date_added": "2026-06-13",
+        "company": "Otsuka Pharmaceutical",
+        "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260615_1.html",
+        "score": 80,
+        "date_added": "2026-06-15",
+        "article_like": true
+    },
+    {
+        "company": "Bavarian Nordic",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7532",
+        "score": 30,
+        "date_added": "2026-06-15",
+        "article_like": true
+    },
+    {
+        "company": "BioSolveIT",
+        "url": "https://www.biosolveit.de/2026/06/15/auriverse-by-aurigene-access-now-with-our-tools/",
+        "score": 105,
+        "date_added": "2026-06-15",
+        "article_like": true
+    },
+    {
+        "company": "Oxford Nanopore Technologies",
+        "url": "https://nanoporetech.com/news/singapore-s-national-precision-medicine-npm-programme-engages-oxford-nanopore-to-advance-understanding-of-the-genetics-of-singapore-s-multi-ethnic-population",
+        "score": 177,
+        "date_added": "2026-06-15",
+        "article_like": true
+    },
+    {
+        "company": "Oxford Nanopore Technologies",
+        "url": "https://nanoporetech.com/news/oxford-nanopore-and-matrix-expand-collaboration-to-implement-rapid-cns-tumour-classification-across-norway",
+        "score": 126,
+        "date_added": "2026-06-15",
+        "article_like": true
+    },
+    {
+        "company": "Oxford Nanopore Technologies",
+        "url": "https://nanoporetech.com/news/oxford-nanopore-named-finalist-for-prestigious-macrobert-award",
+        "score": 82,
+        "date_added": "2026-06-15",
+        "article_like": true
+    },
+    {
+        "company": "Menarini Group",
+        "url": "https://www.menarini.com/en-us/news/news-detail/menarini-group-reports-data-from-the-phase-3-sentry-trial-of-selinexor-plus-ruxolitinib.html",
+        "score": 134,
+        "date_added": "2026-06-15",
+        "article_like": true
+    },
+    {
+        "company": "Crinetics Pharmaceuticals",
+        "url": "https://crinetics.com/press-releases/crinetics-presents-full-results-from-phase-2-trial-of-atumelnant-in-congenital-adrenal-hyperplasia-cah-in-oral-presentation-at-endo-2026/",
+        "score": 169,
+        "date_added": "2026-06-15",
+        "article_like": true
+    },
+    {
+        "company": "Crinetics Pharmaceuticals",
+        "url": "https://crinetics.com/press-releases/crinetics-presents-long-term-data-at-endo-2026-confirming-palsonify-paltusotine-provides-durable-consistent-acromegaly-control/",
+        "score": 159,
+        "date_added": "2026-06-15",
         "article_like": true
     }
 ]

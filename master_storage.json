@@ -110695,5 +110695,145 @@
         "score": 26,
         "date_added": "2026-06-13",
         "article_like": true
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/feature-articles/multiomics-explained-proteomics.html",
+        "score": 92,
+        "date_added": "2026-06-15",
+        "article_like": true
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/publications/2026/crisis-reaction-to-strategic-geopolitical-response",
+        "score": 110,
+        "date_added": "2026-06-15",
+        "article_like": true
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/publications/2026/mobilizing-savings-to-close-the-investment-gap",
+        "score": 106,
+        "date_added": "2026-06-15",
+        "article_like": true
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/press/15june2026-cmos-ai-transforming-marketing-transform-function",
+        "score": 81,
+        "date_added": "2026-06-15",
+        "article_like": true
+    },
+    {
+        "company": "AstraZeneca",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/ultomiris-granted-priority-review-in-the-us-as-treatment-for-adults-with-immunoglobulin-a-nephropathy.html",
+        "score": 202,
+        "date_added": "2026-06-15",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/new-talvey-talquetamab-tgvs-plus-darzalex-faspro-daratumumab-and-hyaluronidase-fihj-data-demonstrate-the-strength-of-a-bispecific-combination-in-earlier-line-relapsed-or-refractory-multiple-myeloma",
+        "score": 242,
+        "date_added": "2026-06-15",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-invests-more-than-1-billion-to-strengthen-u-s-vision-manufacturing-in-jacksonville-florida",
+        "score": 151,
+        "date_added": "2026-06-15",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/corporate",
+        "score": 54,
+        "date_added": "2026-06-15",
+        "article_like": false
+    },
+    {
+        "company": "Otsuka Pharmaceutical",
+        "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260615_1.html",
+        "score": 80,
+        "date_added": "2026-06-15",
+        "article_like": true
+    },
+    {
+        "company": "Intra-Cellular Therapies",
+        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/New-TALVEY-talquetamab-tgvs-plus-DARZALEX-FASPRO-daratumumab-and-hyaluronidase-fihj-data-demonstrate-the-strength-of-a-bispecific-combination-in-earlier-line-relapsed-or-refractory-multiple-myeloma/default.aspx",
+        "score": 288,
+        "date_added": "2026-06-15",
+        "article_like": false
+    },
+    {
+        "company": "Intra-Cellular Therapies",
+        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/Johnson--Johnson-Invests-more-than-1-Billion-to-Strengthen-U-S--Vision-Manufacturing-in-Jacksonville-Florida/default.aspx",
+        "score": 199,
+        "date_added": "2026-06-15",
+        "article_like": false
+    },
+    {
+        "company": "Bavarian Nordic",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7532",
+        "score": 30,
+        "date_added": "2026-06-15",
+        "article_like": true
+    },
+    {
+        "company": "BioSolveIT",
+        "url": "https://www.biosolveit.de/2026/06/15/auriverse-by-aurigene-access-now-with-our-tools/",
+        "score": 105,
+        "date_added": "2026-06-15",
+        "article_like": true
+    },
+    {
+        "company": "Oxford Nanopore Technologies",
+        "url": "https://nanoporetech.com/news/singapore-s-national-precision-medicine-npm-programme-engages-oxford-nanopore-to-advance-understanding-of-the-genetics-of-singapore-s-multi-ethnic-population",
+        "score": 177,
+        "date_added": "2026-06-15",
+        "article_like": true
+    },
+    {
+        "company": "Oxford Nanopore Technologies",
+        "url": "https://nanoporetech.com/news/oxford-nanopore-and-matrix-expand-collaboration-to-implement-rapid-cns-tumour-classification-across-norway",
+        "score": 126,
+        "date_added": "2026-06-15",
+        "article_like": true
+    },
+    {
+        "company": "Oxford Nanopore Technologies",
+        "url": "https://nanoporetech.com/news/oxford-nanopore-named-finalist-for-prestigious-macrobert-award",
+        "score": 82,
+        "date_added": "2026-06-15",
+        "article_like": true
+    },
+    {
+        "company": "Menarini Group",
+        "url": "https://www.menarini.com/en-us/news/news-detail/menarini-group-reports-data-from-the-phase-3-sentry-trial-of-selinexor-plus-ruxolitinib.html",
+        "score": 134,
+        "date_added": "2026-06-15",
+        "article_like": true
+    },
+    {
+        "company": "Crinetics Pharmaceuticals",
+        "url": "https://crinetics.com/press-releases/crinetics-presents-full-results-from-phase-2-trial-of-atumelnant-in-congenital-adrenal-hyperplasia-cah-in-oral-presentation-at-endo-2026/",
+        "score": 169,
+        "date_added": "2026-06-15",
+        "article_like": true
+    },
+    {
+        "company": "Crinetics Pharmaceuticals",
+        "url": "https://crinetics.com/press-releases/crinetics-presents-long-term-data-at-endo-2026-confirming-palsonify-paltusotine-provides-durable-consistent-acromegaly-control/",
+        "score": 159,
+        "date_added": "2026-06-15",
+        "article_like": true
+    },
+    {
+        "company": "Crinetics Pharmaceuticals",
+        "url": "https://crinetics.com/news-events/endo-2026/",
+        "score": 39,
+        "date_added": "2026-06-15",
+        "article_like": false
     }
 ]

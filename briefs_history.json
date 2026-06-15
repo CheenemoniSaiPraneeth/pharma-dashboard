@@ -1,4 +1,22 @@
 {
+  "2026-06-15": {
+    "monoclonal antibodies": [
+      {
+        "company": "AstraZeneca",
+        "modality": "monoclonal antibodies",
+        "news": "The FDA has granted Priority Review to AstraZeneca's supplemental Biologics License Application (sBLA) for Ultomiris (ravulizumab) for the treatment of adults with immunoglobulin A nephropathy (IgAN). The decision is based on positive interim results from the Phase III I CAN trial, which showed a significant reduction in proteinuria compared to placebo.",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/ultomiris-granted-priority-review-in-the-us-as-treatment-for-adults-with-immunoglobulin-a-nephropathy.html",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "AstraZeneca",
+        "modality": "monoclonal antibodies",
+        "news": "The US FDA has granted Priority Review to AstraZeneca's Alexion for Ultomiris (ravulizumab), a C5 complement inhibitor monoclonal antibody, for the treatment of adults with immunoglobulin A nephropathy (IgAN). The decision is based on Phase III I CAN trial results showing a 43.4% reduction in proteinuria versus placebo, with a regulatory decision expected in Q4 2026.",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/ultomiris-granted-priority-review-in-the-us-as-treatment-for-adults-with-immunoglobulin-a-nephropathy.html",
+        "query": "monoclonal antibodies"
+      }
+    ]
+  },
   "2026-06-13": {
     "monoclonal antibodies": [
       {
