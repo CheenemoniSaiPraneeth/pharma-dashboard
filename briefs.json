@@ -1,10 +1,17 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 13,
-    "items_extracted": 0,
+    "articles_used": 143,
+    "items_extracted": 1,
     "items_dropped": 0,
-    "generated_at": "2026-06-15 12:06:37"
+    "generated_at": "2026-06-21 09:58:22"
   },
-  "news": []
+  "news": [
+    {
+      "company": "UCB",
+      "modality": "bispecific antibodies",
+      "news": "UCB completed the acquisition of Candid Therapeutics for up to $2.2 billion, bringing cizutamig into its pipeline. Cizutamig is a bispecific antibody targeting BCMA and CD3 designed to deplete pathogenic B-cell populations for autoimmune diseases.",
+      "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-completes-acquisition-of-candid-therapeutics-strengthening-next-generation-immunology-pipeline"
+    }
+  ]
 }

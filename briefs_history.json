@@ -1,4 +1,122 @@
 {
+  "2026-06-21": {
+    "monoclonal antibodies": [
+      {
+        "company": "Sanofi",
+        "modality": "monoclonal antibodies",
+        "news": "Sanofi's Sarclisa (isatuximab) subcutaneous formulation received approval in Japan for treating multiple myeloma, based on the pivotal IRAKLIA phase 3 study. The approval covers combinations with pomalidomide/dexamethasone for relapsed/refractory cases and bortezomib/lenalidomide/dexamethasone for newly diagnosed patients.",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-19-10-31-15-3314694",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Sanofi",
+        "modality": "monoclonal antibodies",
+        "news": "Sanofi's Sarclisa (isatuximab) subcutaneous formulation received approval in Japan for treating multiple myeloma. The approval covers use in combination with standard-of-care regimens for both newly diagnosed and relapsed or refractory patients, based on data from the pivotal IRAKLIA phase 3 study.",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-19-10-31-15-3314694",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "WuXi Biologics",
+        "modality": "monoclonal antibodies",
+        "news": "WuXi Biologics' Suzhou Biosafety Testing Center received its fourth EMA GMP certification, enabling the commercialization of 19 biologics for the European market. The approved products include monoclonal antibodies developed and manufactured on WuXi Biologics' integrated platform.",
+        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-suzhou-biosafety-testing-center-received-fourth-ema-gmp-certification-enabling-19-commercial-products-for-the-european-market/",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Genentech",
+        "modality": "monoclonal antibodies",
+        "news": "The FDA accepted a supplemental Biologics License Application (sBLA) for Genentech's combination of Lunsumio (mosunetuzumab) and Polivy (polatuzumab vedotin) for treating relapsed or refractory large B-cell lymphoma. The filing is based on Phase III SUNMO study data showing a 59% reduction in the risk of disease progression or death compared to standard chemotherapy.",
+        "url": "https://www.gene.com/media/press-releases/15117/2026-06-17/fda-accepts-supplemental-biologics-licen",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Chugai Pharmaceutical Co., Ltd.",
+        "modality": "monoclonal antibodies",
+        "news": "Chugai received regulatory approval in Japan for an additional indication of Avastin (bevacizumab), a humanized anti-VEGF monoclonal antibody, for the treatment of neurofibromatosis type 2 (NF2). This approval, based on the BeatNF2 Phase II clinical study, marks the first therapeutic drug approval globally for this rare disease.",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260619153001_1255.html?year=2026&category=",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Zenyaku Kogyo Co., Ltd.",
+        "modality": "monoclonal antibodies",
+        "news": "Zenyaku Kogyo obtained regulatory approval in Japan for an additional indication of Rituxan (rituximab), an anti-CD20 monoclonal antibody, for the treatment of adult-onset frequently relapsing or steroid-dependent nephrotic syndrome. The approval follows positive results from an investigator-initiated Phase III clinical trial showing a significantly higher relapse-free rate compared to placebo.",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260619153000_1257.html?year=2026&category=",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Asimov",
+        "modality": "monoclonal antibodies",
+        "news": "Asimov announced a strategic partnership with the Rosalind & Morris Goodman Cancer Institute at McGill University to provide cell line and process development services for next-generation biologic candidates, including complex multispecifics and standard IgGs. The collaboration aims to support researchers in advancing promising biotherapeutic molecules through IND-enabling studies using Asimov's AI-powered CHO Edge System.",
+        "url": "https://www.asimov.com/news/asimov-announces-strategic-partnership-with-the-rosalind-morris-goodman-cancer-institute-at-mcgill-university-to-advance-next-generation-biologics",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Asimov",
+        "modality": "monoclonal antibodies",
+        "news": "Asimov announced a cell line development partnership with Score Pharma to advance biosuperior antibody therapeutics. The collaboration leverages Asimov's platform to support the development and optimization of antibody candidates.",
+        "url": "https://www.asimov.com/news/asimov-announces-cell-line-development-partnership-with-score-pharma-to-advance-biosuperior-antibody-therapeutics",
+        "query": "monoclonal antibodies"
+      }
+    ],
+    "bispecific antibodies": [
+      {
+        "company": "Genentech",
+        "modality": "bispecific antibodies",
+        "news": "The FDA has accepted a supplemental Biologics License Application (sBLA) for Genentech's subcutaneous bispecific antibody Lunsumio VELO (mosunetuzumab-axgb) in combination with Polivy for treating relapsed or refractory large B-cell lymphoma. The filing is based on Phase III SUNMO study data showing a 59% reduction in the risk of disease progression or death compared to standard chemotherapy.",
+        "url": "https://www.gene.com/media/press-releases/15117/2026-06-17/fda-accepts-supplemental-biologics-licen",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Roche",
+        "modality": "bispecific antibodies",
+        "news": "The FDA has accepted a supplemental Biologics License Application (sBLA) for Roche's subcutaneous bispecific antibody Lunsumio (mosunetuzumab) in combination with Polivy for treating relapsed or refractory large B-cell lymphoma. The filing is based on positive Phase III SUNMO study data showing a 59% reduction in the risk of disease progression or death compared to standard chemotherapy.",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-06-18",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "UCB",
+        "modality": "bispecific antibodies",
+        "news": "UCB completed the acquisition of Candid Therapeutics for up to $2.2 billion, bringing cizutamig into its pipeline. Cizutamig is a bispecific antibody targeting BCMA and CD3 designed to deplete pathogenic B-cell populations in autoimmune diseases.",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-completes-acquisition-of-candid-therapeutics-strengthening-next-generation-immunology-pipeline",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Asimov",
+        "modality": "bispecific antibodies",
+        "news": "Asimov announced a strategic partnership with the Rosalind & Morris Goodman Cancer Institute at McGill University to advance next-generation biologics, specifically supporting the development of complex multispecific architectures including bispecific antibodies through its AI-powered CHO Edge System.",
+        "url": "https://www.asimov.com/news/asimov-announces-strategic-partnership-with-the-rosalind-morris-goodman-cancer-institute-at-mcgill-university-to-advance-next-generation-biologics",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Roche",
+        "modality": "bispecific antibodies",
+        "news": "The FDA accepted a supplemental Biologics License Application (sBLA) for Roche's subcutaneous formulation of the bispecific antibody Lunsumio (mosunetuzumab) in combination with Polivy for treating relapsed or refractory large B-cell lymphoma. The filing is based on phase III SUNMO study data showing a 59% reduction in the risk of disease progression or death compared to standard chemotherapy.",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-06-18",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "UCB",
+        "modality": "bispecific antibodies",
+        "news": "UCB completed the acquisition of Candid Therapeutics for up to $2.2 billion, adding cizutamig to its pipeline. Cizutamig is a BCMA x CD3 bispecific antibody currently in Phase 1 clinical studies for autoimmune diseases.",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-completes-acquisition-of-candid-therapeutics-strengthening-next-generation-immunology-pipeline",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "UCB",
+        "modality": "bispecific antibodies",
+        "news": "UCB completed the acquisition of Candid Therapeutics for up to $2.2 billion, bringing cizutamig into its pipeline. Cizutamig is a BCMA x CD3 bispecific antibody currently in Phase 1 clinical studies for autoimmune diseases.",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-completes-acquisition-of-candid-therapeutics-strengthening-next-generation-immunology-pipeline",
+        "query": "molecular glues"
+      },
+      {
+        "company": "UCB",
+        "modality": "bispecific antibodies",
+        "news": "UCB completed the acquisition of Candid Therapeutics for up to $2.2 billion, bringing cizutamig into its pipeline. Cizutamig is a bispecific antibody targeting BCMA and CD3 designed to deplete pathogenic B-cell populations for autoimmune diseases.",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-completes-acquisition-of-candid-therapeutics-strengthening-next-generation-immunology-pipeline",
+        "query": "gene editing"
+      }
+    ]
+  },
   "2026-06-15": {
     "monoclonal antibodies": [
       {
