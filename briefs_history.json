@@ -1,4 +1,22 @@
 {
+  "2026-06-22": {
+    "monoclonal antibodies": [
+      {
+        "company": "AbbVie",
+        "modality": "monoclonal antibodies",
+        "news": "AbbVie announced a definitive agreement to acquire Apogee Therapeutics for approximately $10.9 billion, adding a pipeline of clinical-stage monoclonal antibodies including zumilokibart (APG777) targeting IL-13 for atopic dermatitis and a combination therapy targeting IL-13 and TSLP for asthma.",
+        "url": "https://news.abbvie.com/2026-06-22-AbbVie-to-Acquire-Apogee-Therapeutics,-Deepening-Immunology-Portfolio",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "AbbVie",
+        "modality": "monoclonal antibodies",
+        "news": "AbbVie announced a definitive agreement to acquire Apogee Therapeutics for approximately $10.9 billion, gaining access to a pipeline of half-life extended monoclonal antibodies. The deal includes zumilokibart (APG777), a late-stage anti-IL-13 antibody for atopic dermatitis, and APG273, a combination antibody targeting IL-13 and TSLP for asthma.",
+        "url": "https://news.abbvie.com/2026-06-22-AbbVie-to-Acquire-Apogee-Therapeutics,-Deepening-Immunology-Portfolio",
+        "query": "monoclonal antibodies"
+      }
+    ]
+  },
   "2026-06-21": {
     "monoclonal antibodies": [
       {
