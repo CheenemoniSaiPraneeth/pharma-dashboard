@@ -112823,5 +112823,110 @@
         "score": 30,
         "date_added": "2026-06-22",
         "article_like": true
+    },
+    {
+        "company": "Sanofi",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-23-05-15-00-3315701",
+        "score": 107,
+        "date_added": "2026-06-23",
+        "article_like": true
+    },
+    {
+        "company": "Sanofi",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-23-05-00-00-3315699",
+        "score": 107,
+        "date_added": "2026-06-23",
+        "article_like": true
+    },
+    {
+        "company": "Veeva Systems",
+        "url": "https://www.veeva.com/products/vault-ai/",
+        "score": 35,
+        "date_added": "2026-06-23",
+        "article_like": false
+    },
+    {
+        "company": "Sartorius Stedim India Pvt Ltd",
+        "url": "https://www.sartorius.com/en/company/newsroom/product-news/sartorius-and-lfb-biomanufacturing-strengthen-collaboration-1839348",
+        "score": 121,
+        "date_added": "2026-06-23",
+        "article_like": true
+    },
+    {
+        "company": "Jubilant Biosys",
+        "url": "https://www.jubilantbiosys.com/our-people/",
+        "score": 26,
+        "date_added": "2026-06-23",
+        "article_like": false
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/publications/2026/the-era-of-token-based-competition-is-here",
+        "score": 102,
+        "date_added": "2026-06-23",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/06/client-expectations-rise-as-wealth-managers-face-increasing-competition-for-assets-ey-report",
+        "score": 161,
+        "date_added": "2026-06-23",
+        "article_like": true
+    },
+    {
+        "company": "KPMG",
+        "url": "https://kpmg.com/xx/en/media/press-releases/2026/06/sustainability-gap-exposed-only-one-fifth-of-execs-are-quantifying-financial-impact.html",
+        "score": 173,
+        "date_added": "2026-06-23",
+        "article_like": true
+    },
+    {
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/2026-06-22-New-Similac-R-survey-finds-social-media-pressure-to-be-perfect-is-fueling-a-shift-toward-authenticity-for-the-next-generation-of-parents#assets_2429_124757-109",
+        "score": 160,
+        "date_added": "2026-06-23",
+        "article_like": true
+    },
+    {
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/2026-06-22-New-Similac-R-survey-finds-social-media-pressure-to-be-perfect-is-fueling-a-shift-toward-authenticity-for-the-next-generation-of-parents#assets_2429_124757-111",
+        "score": 160,
+        "date_added": "2026-06-23",
+        "article_like": true
+    },
+    {
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/2026-06-22-New-Similac-R-survey-finds-social-media-pressure-to-be-perfect-is-fueling-a-shift-toward-authenticity-for-the-next-generation-of-parents",
+        "score": 160,
+        "date_added": "2026-06-23",
+        "article_like": true
+    },
+    {
+        "company": "Pfizer",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-announces-topline-phase-3-results-sigvotatug-vedotin",
+        "score": 118,
+        "date_added": "2026-06-23",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-06-23-AbbVie-Announces-European-Commission-Approval-of-SKYRIZI-R-risankizumab-for-the-Treatment-of-Pediatric-Patients-with-Moderate-to-Severe-Plaque-Psoriasis",
+        "score": 176,
+        "date_added": "2026-06-23",
+        "article_like": true
+    },
+    {
+        "company": "Vividion Therapeutics",
+        "url": "https://vividion.com/news/vividion-therapeutics-doses-first-patient-in-phase-ib-combination-study-of-wrn-inhibitor-vvd-214-in-patients-with-advanced-colorectal-cancer/",
+        "score": 163,
+        "date_added": "2026-06-23",
+        "article_like": true
+    },
+    {
+        "company": "Abridge",
+        "url": "https://www.abridge.com/blog/adventist-health-ai-adoption-cerner",
+        "score": 55,
+        "date_added": "2026-06-23",
+        "article_like": true
     }
 ]

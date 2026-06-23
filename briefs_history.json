@@ -1,4 +1,31 @@
 {
+  "2026-06-23": {
+    "bispecific antibodies": [
+      {
+        "company": "Sartorius",
+        "modality": "bispecific antibodies",
+        "news": "Sartorius and LFB BIOMANUFACTURING announced an expansion of their collaboration to offer an integrated solution from cell line development to GMP drug substance manufacturing. The partnership specifically targets the acceleration of development for complex biologics, including bispecific antibodies, by combining Sartorius' cell line expertise with LFB's manufacturing capabilities.",
+        "url": "https://www.sartorius.com/en/company/newsroom/product-news/sartorius-and-lfb-biomanufacturing-strengthen-collaboration-1839348",
+        "query": "bispecific antibodies"
+      }
+    ],
+    "monoclonal antibodies": [
+      {
+        "company": "Pfizer",
+        "modality": "monoclonal antibodies",
+        "news": "Pfizer announced topline Phase 3 results for sigvotatug vedotin, an integrin beta-6 directed antibody-drug conjugate (ADC), in previously treated metastatic non-squamous non-small cell lung cancer. While the study did not meet the primary endpoint of overall survival in the overall population, a stronger trend was observed in patients with only one prior line of therapy, supporting continued evaluation in combination with immunotherapy.",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-announces-topline-phase-3-results-sigvotatug-vedotin",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "AbbVie",
+        "modality": "monoclonal antibodies",
+        "news": "The European Commission approved SKYRIZI (risankizumab), an IL-23 inhibitor monoclonal antibody, for treating moderate to severe plaque psoriasis in pediatric patients aged six and older. The approval is based on Phase 3 OptIMMize-1 and OptIMMize-2 trials and includes a new 55 mg pre-filled syringe for weight-based dosing.",
+        "url": "https://news.abbvie.com/2026-06-23-AbbVie-Announces-European-Commission-Approval-of-SKYRIZI-R-risankizumab-for-the-Treatment-of-Pediatric-Patients-with-Moderate-to-Severe-Plaque-Psoriasis",
+        "query": "monoclonal antibodies"
+      }
+    ]
+  },
   "2026-06-22": {
     "monoclonal antibodies": [
       {

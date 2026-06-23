@@ -1,226 +1,93 @@
 [
     {
         "company": "Sanofi",
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-22-06-00-00-3315046",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-23-05-15-00-3315701",
         "score": 107,
-        "date_added": "2026-06-22",
+        "date_added": "2026-06-23",
+        "article_like": true
+    },
+    {
+        "company": "Sanofi",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-23-05-00-00-3315699",
+        "score": 107,
+        "date_added": "2026-06-23",
+        "article_like": true
+    },
+    {
+        "company": "Sartorius Stedim India Pvt Ltd",
+        "url": "https://www.sartorius.com/en/company/newsroom/product-news/sartorius-and-lfb-biomanufacturing-strengthen-collaboration-1839348",
+        "score": 121,
+        "date_added": "2026-06-23",
         "article_like": true
     },
     {
         "company": "Boston Consulting Group",
-        "url": "https://www.bcg.com/press/22june2026-scale-blended-finance-funds-emerging-markets",
-        "score": 76,
-        "date_added": "2026-06-22",
+        "url": "https://www.bcg.com/publications/2026/the-era-of-token-based-competition-is-here",
+        "score": 102,
+        "date_added": "2026-06-23",
         "article_like": true
     },
     {
-        "company": "Cadila Pharmaceuticals",
-        "url": "https://www.cadilapharma.com/media/press-releases/cadila-pharmaceuticals-plants-over-2-000-fruit-and-native-plants-in-a-single-day-across-key-locations-on-world-environment-day",
-        "score": 164,
-        "date_added": "2026-06-22",
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/06/client-expectations-rise-as-wealth-managers-face-increasing-competition-for-assets-ey-report",
+        "score": 161,
+        "date_added": "2026-06-23",
         "article_like": true
     },
     {
-        "company": "Cadila Pharmaceuticals",
-        "url": "https://www.cadilapharma.com/media/media-coverages/cadila-pharmaceuticals-unveils-advanced-pharmaceutical-warehouse-to-enhance-efficiency-and-market-reach",
-        "score": 142,
-        "date_added": "2026-06-22",
+        "company": "KPMG",
+        "url": "https://kpmg.com/xx/en/media/press-releases/2026/06/sustainability-gap-exposed-only-one-fifth-of-execs-are-quantifying-financial-impact.html",
+        "score": 173,
+        "date_added": "2026-06-23",
         "article_like": true
     },
     {
-        "company": "Cadila Pharmaceuticals",
-        "url": "https://www.cadilapharma.com/media/media-coverages/cadila-pharmaceuticals-chezgreen-division-launches-subhadra-syrup-for-menstrual-health-support",
-        "score": 133,
-        "date_added": "2026-06-22",
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/2026-06-22-New-Similac-R-survey-finds-social-media-pressure-to-be-perfect-is-fueling-a-shift-toward-authenticity-for-the-next-generation-of-parents#assets_2429_124757-109",
+        "score": 160,
+        "date_added": "2026-06-23",
         "article_like": true
     },
     {
-        "company": "Cadila Pharmaceuticals",
-        "url": "https://www.cadilapharma.com/media/press-releases/cadila-pharmaceuticals-chezgreen-division-launches-subhadra-syrup-for-menstrual-health-support",
-        "score": 132,
-        "date_added": "2026-06-22",
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/2026-06-22-New-Similac-R-survey-finds-social-media-pressure-to-be-perfect-is-fueling-a-shift-toward-authenticity-for-the-next-generation-of-parents#assets_2429_124757-111",
+        "score": 160,
+        "date_added": "2026-06-23",
         "article_like": true
     },
     {
-        "company": "Cadila Pharmaceuticals",
-        "url": "https://www.cadilapharma.com/media/media-coverages/cadila-pharmaceuticals-marks-75-years-of-excellence-innovation-and-service-to-healthcare",
-        "score": 127,
-        "date_added": "2026-06-22",
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/2026-06-22-New-Similac-R-survey-finds-social-media-pressure-to-be-perfect-is-fueling-a-shift-toward-authenticity-for-the-next-generation-of-parents",
+        "score": 160,
+        "date_added": "2026-06-23",
         "article_like": true
     },
     {
-        "company": "Cadila Pharmaceuticals",
-        "url": "https://www.cadilapharma.com/media/media-coverages/cadila-pharma-launches-new-therapy-for-bp-control",
-        "score": 88,
-        "date_added": "2026-06-22",
-        "article_like": true
-    },
-    {
-        "company": "Cadila Pharmaceuticals",
-        "url": "https://www.cadilapharma.com/media/press-releases/cadila-pharma-launches-new-therapy-for-bp-control",
-        "score": 87,
-        "date_added": "2026-06-22",
-        "article_like": true
-    },
-    {
-        "company": "Cadila Pharmaceuticals",
-        "url": "https://www.cadilapharma.com/businesses/formulations/international-business",
-        "score": 63,
-        "date_added": "2026-06-22",
-        "article_like": true
-    },
-    {
-        "company": "Cadila Pharmaceuticals",
-        "url": "https://www.cadilapharma.com/businesses/contract-research-operation",
-        "score": 53,
-        "date_added": "2026-06-22",
-        "article_like": true
-    },
-    {
-        "company": "Cadila Pharmaceuticals",
-        "url": "https://www.cadilapharma.com/therapies/dermatology-and-cosmetology",
-        "score": 52,
-        "date_added": "2026-06-22",
-        "article_like": true
-    },
-    {
-        "company": "Cadila Pharmaceuticals",
-        "url": "https://www.cadilapharma.com/careers/campus-to-corporate-program",
-        "score": 50,
-        "date_added": "2026-06-22",
-        "article_like": true
-    },
-    {
-        "company": "Cadila Pharmaceuticals",
-        "url": "https://www.cadilapharma.com/research/world-first-innovations",
-        "score": 47,
-        "date_added": "2026-06-22",
-        "article_like": true
-    },
-    {
-        "company": "Cadila Pharmaceuticals",
-        "url": "https://www.cadilapharma.com/research/formulation-development",
-        "score": 47,
-        "date_added": "2026-06-22",
-        "article_like": true
-    },
-    {
-        "company": "Cadila Pharmaceuticals",
-        "url": "https://www.cadilapharma.com/careers/learning-and-development",
-        "score": 47,
-        "date_added": "2026-06-22",
-        "article_like": true
-    },
-    {
-        "company": "Cadila Pharmaceuticals",
-        "url": "https://www.cadilapharma.com/contact-us/report-adverse-event",
-        "score": 46,
-        "date_added": "2026-06-22",
-        "article_like": true
-    },
-    {
-        "company": "Cadila Pharmaceuticals",
-        "url": "https://www.cadilapharma.com/our-story/corporate-governance",
-        "score": 45,
-        "date_added": "2026-06-22",
-        "article_like": true
-    },
-    {
-        "company": "Cadila Pharmaceuticals",
-        "url": "https://www.cadilapharma.com/businesses/irm-group-companies",
-        "score": 45,
-        "date_added": "2026-06-22",
-        "article_like": true
-    },
-    {
-        "company": "Cadila Pharmaceuticals",
-        "url": "https://www.cadilapharma.com/research/biologics-development",
-        "score": 45,
-        "date_added": "2026-06-22",
-        "article_like": true
-    },
-    {
-        "company": "Cadila Pharmaceuticals",
-        "url": "https://www.cadilapharma.com/our-story/pharmacovigilance",
-        "score": 42,
-        "date_added": "2026-06-22",
-        "article_like": true
-    },
-    {
-        "company": "Cadila Pharmaceuticals",
-        "url": "https://www.cadilapharma.com/businesses/branded-generics",
-        "score": 42,
-        "date_added": "2026-06-22",
-        "article_like": true
-    },
-    {
-        "company": "Cadila Pharmaceuticals",
-        "url": "https://www.cadilapharma.com/therapies/anti-infectives",
-        "score": 40,
-        "date_added": "2026-06-22",
-        "article_like": true
-    },
-    {
-        "company": "Cadila Pharmaceuticals",
-        "url": "https://www.cadilapharma.com/research/api-development",
-        "score": 39,
-        "date_added": "2026-06-22",
-        "article_like": true
-    },
-    {
-        "company": "Cadila Pharmaceuticals",
-        "url": "https://www.cadilapharma.com/media/media-coverages",
-        "score": 36,
-        "date_added": "2026-06-22",
-        "article_like": true
-    },
-    {
-        "company": "Cadila Pharmaceuticals",
-        "url": "https://www.cadilapharma.com/drug-counterfeiting",
-        "score": 32,
-        "date_added": "2026-06-22",
-        "article_like": true
-    },
-    {
-        "company": "Cadila Pharmaceuticals",
-        "url": "https://www.cadilapharma.com/therapies/gastroenterology",
-        "score": 31,
-        "date_added": "2026-06-22",
-        "article_like": true
-    },
-    {
-        "company": "Labcorp Drug Development",
-        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-announces-nationwide-availability-colosenser-first-fda.html",
-        "score": 146,
-        "date_added": "2026-06-22",
+        "company": "Pfizer",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-announces-topline-phase-3-results-sigvotatug-vedotin",
+        "score": 118,
+        "date_added": "2026-06-23",
         "article_like": true
     },
     {
         "company": "AbbVie",
-        "url": "https://news.abbvie.com/2026-06-22-AbbVie-to-Acquire-Apogee-Therapeutics,-Deepening-Immunology-Portfolio",
-        "score": 93,
-        "date_added": "2026-06-22",
+        "url": "https://news.abbvie.com/2026-06-23-AbbVie-Announces-European-Commission-Approval-of-SKYRIZI-R-risankizumab-for-the-Treatment-of-Pediatric-Patients-with-Moderate-to-Severe-Plaque-Psoriasis",
+        "score": 176,
+        "date_added": "2026-06-23",
         "article_like": true
     },
     {
-        "company": "Insilico Medicine",
-        "url": "https://insilico.com/news/zm8me18st1-insilico-medicine-and-sk-biopharmaceutic",
-        "score": 71,
-        "date_added": "2026-06-22",
+        "company": "Vividion Therapeutics",
+        "url": "https://vividion.com/news/vividion-therapeutics-doses-first-patient-in-phase-ib-combination-study-of-wrn-inhibitor-vvd-214-in-patients-with-advanced-colorectal-cancer/",
+        "score": 163,
+        "date_added": "2026-06-23",
         "article_like": true
     },
     {
-        "company": "ICON plc",
-        "url": "https://www.iconplc.com/news-events/press-releases/icon-selects-microsoft-preferred-technology-partner-power-ai-enabled",
-        "score": 112,
-        "date_added": "2026-06-22",
-        "article_like": true
-    },
-    {
-        "company": "Bavarian Nordic",
-        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7534",
-        "score": 30,
-        "date_added": "2026-06-22",
+        "company": "Abridge",
+        "url": "https://www.abridge.com/blog/adventist-health-ai-adoption-cerner",
+        "score": 55,
+        "date_added": "2026-06-23",
         "article_like": true
     }
 ]
