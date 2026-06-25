@@ -1,10 +1,17 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 13,
-    "items_extracted": 0,
+    "articles_used": 50,
+    "items_extracted": 1,
     "items_dropped": 0,
-    "generated_at": "2026-06-23 10:32:33"
+    "generated_at": "2026-06-25 09:18:42"
   },
-  "news": []
+  "news": [
+    {
+      "company": "Genetix Biotherapeutics",
+      "modality": "gene editing",
+      "news": "Genetix Biotherapeutics and SPIMACO announced an exclusive strategic agreement to commercialize and manufacture the gene addition therapies LYFGENIA and ZYNTEGLO in Saudi Arabia and the broader Middle East. The partnership includes localized manufacturing capabilities to address sickle cell disease and beta-thalassemia in the region.",
+      "url": "https://www.genetixbiotx.com/press-release-2026-06-23.html"
+    }
+  ]
 }

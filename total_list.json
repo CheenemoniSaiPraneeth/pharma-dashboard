@@ -4,6 +4,11 @@
     "press_url": "https://www.sanofi.com/en/media-room/press-releases",
     "candidate_links": [
       {
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-25-06-00-00-3317281",
+        "anchor_text": "Read the Press Release",
+        "score": 107
+      },
+      {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-23-05-15-00-3315701",
         "anchor_text": "Read the Press Release",
         "score": 107
@@ -95,11 +100,6 @@
       },
       {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-05-00-00-3278646",
-        "anchor_text": "Read the Press Release",
-        "score": 107
-      },
-      {
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-18-10-00-00-3276558",
         "anchor_text": "Read the Press Release",
         "score": 107
       },
@@ -570,6 +570,116 @@
     "company": "Amgen",
     "press_url": "https://www.amgen.com/newsroom/press-releases",
     "candidate_links": [
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-announces-positive-topline-phase-3-results-for-subcutaneous-tepezza-in-adults-living-with-moderate-to-severe-active-thyroid-eye-disease",
+        "anchor_text": "AMGEN ANNOUNCES POSITIVE TOPLINE PHASE 3 RESULTS FOR SUBCUTANEOUS TEPEZZA® IN ADULTS LIVING WITH MODERATE-TO-SEVERE ACTIVE THYROID EYE DISEASE",
+        "score": 219
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/03/repatha-cuts-risk-of-first-major-cardiovascular-events-by-31-in-highrisk-patients-without-known-significant-atherosclerosis",
+        "anchor_text": "REPATHA® CUTS RISK OF FIRST MAJOR CARDIOVASCULAR EVENTS BY 31% IN HIGH-RISK PATIENTS WITHOUT KNOWN SIGNIFICANT ATHEROSCLEROSIS",
+        "score": 201
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/06/amgen-presents-new-data-across-its-cardiometabolic-portfolio-at-american-diabetes-association-86th-scientific-sessions",
+        "anchor_text": "AMGEN PRESENTS NEW DATA ACROSS ITS CARDIOMETABOLIC PORTFOLIO AT AMERICAN DIABETES ASSOCIATION 86TH SCIENTIFIC SESSIONS",
+        "score": 196
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/05/amgen-announces-additional-300-million-us-manufacturing-investment-totaling-nearly-2-billion-over-the-last-year",
+        "anchor_text": "AMGEN ANNOUNCES ADDITIONAL $300 MILLION U.S. MANUFACTURING INVESTMENT, TOTALING NEARLY $2 BILLION OVER THE LAST YEAR",
+        "score": 189
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/06/european-commission-approves-amgens-imdylltra-for-the-treatment-of-extensivestage-small-cell-lung-cancer",
+        "anchor_text": "EUROPEAN COMMISSION APPROVES AMGEN'S IMDYLLTRA® FOR THE TREATMENT OF EXTENSIVE-STAGE SMALL CELL LUNG CANCER",
+        "score": 182
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-announces-retirement-of-david-m-reese-executive-vice-president-and-chief-technology-officer",
+        "anchor_text": "AMGEN ANNOUNCES RETIREMENT OF DAVID M. REESE, EXECUTIVE VICE PRESIDENT AND CHIEF TECHNOLOGY OFFICER",
+        "score": 175
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/06/amgen-to-present-new-data-across-rare-autoimmune-and-inflammatory-diseases-at-eular-2026",
+        "anchor_text": "AMGEN TO PRESENT NEW DATA ACROSS RARE AUTOIMMUNE AND INFLAMMATORY DISEASES AT EULAR 2026",
+        "score": 166
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/05/amgen-to-present-at-the-bank-of-america-merrill-lynch-global-healthcare-conference",
+        "anchor_text": "AMGEN TO PRESENT AT THE BANK OF AMERICA MERRILL LYNCH GLOBAL HEALTHCARE CONFERENCE",
+        "score": 160
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/06/amgen-to-present-at-the-goldman-sachs-47th-annual-global-healthcare-conference",
+        "anchor_text": "AMGEN TO PRESENT AT THE GOLDMAN SACHS 47TH ANNUAL GLOBAL HEALTHCARE CONFERENCE",
+        "score": 156
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/01/amgen-announces-webcast-of-2025-fourth-quarter-and-full-year-financial-results",
+        "anchor_text": "AMGEN ANNOUNCES WEBCAST OF 2025 FOURTH QUARTER AND FULL YEAR FINANCIAL RESULTS",
+        "score": 156
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/european-commission-approves-amgens-uplizna-for-generalized-myasthenia-gravis",
+        "anchor_text": "EUROPEAN COMMISSION APPROVES AMGEN'S UPLIZNA® FOR GENERALIZED MYASTHENIA GRAVIS",
+        "score": 155
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/03/amgen-to-present-at-the-leerink-partners-2026-global-healthcare-conference",
+        "anchor_text": "AMGEN TO PRESENT AT THE LEERINK PARTNERS 2026 GLOBAL HEALTHCARE CONFERENCE",
+        "score": 152
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/01/amgen-to-present-at-the-44th-annual-j-p--morgan-healthcare-conference",
+        "anchor_text": "AMGEN TO PRESENT AT THE 44TH ANNUAL J.P. MORGAN HEALTHCARE CONFERENCE",
+        "score": 147
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/05/amgen-announces-retirement-of-chief-financial-officer-peter-griffith",
+        "anchor_text": "AMGEN ANNOUNCES RETIREMENT OF CHIEF FINANCIAL OFFICER PETER GRIFFITH",
+        "score": 146
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/amgen-to-present-at-the-46th-annual-td-cowen-health-care-conference",
+        "anchor_text": "AMGEN TO PRESENT AT THE 46TH ANNUAL TD COWEN HEALTH CARE CONFERENCE",
+        "score": 145
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/01/amgen-acquires-dark-blue-therapeutics-bolstering-oncology-pipeline",
+        "anchor_text": "AMGEN ACQUIRES DARK BLUE THERAPEUTICS, BOLSTERING ONCOLOGY PIPELINE",
+        "score": 144
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/amgen-to-present-at-citis-2026-virtual-oncology-leadership-summit",
+        "anchor_text": "AMGEN TO PRESENT AT CITI'S 2026 VIRTUAL ONCOLOGY LEADERSHIP SUMMIT",
+        "score": 143
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/amgen-reports-fourth-quarter-and-full-year-2025-financial-results",
+        "anchor_text": "AMGEN REPORTS FOURTH QUARTER AND FULL YEAR 2025 FINANCIAL RESULTS",
+        "score": 143
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-announces-webcast-of-2026-first-quarter-financial-results",
+        "anchor_text": "AMGEN ANNOUNCES WEBCAST OF 2026 FIRST QUARTER FINANCIAL RESULTS",
+        "score": 141
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/05/amgen-to-present-at-jefferies-global-healthcare-conference",
+        "anchor_text": "AMGEN TO PRESENT AT JEFFERIES GLOBAL HEALTHCARE CONFERENCE",
+        "score": 136
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-reports-first-quarter-2026-financial-results",
+        "anchor_text": "AMGEN REPORTS FIRST QUARTER 2026 FINANCIAL RESULTS",
+        "score": 128
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/03/amgen-announces-2026-second-quarter-dividend",
+        "anchor_text": "AMGEN ANNOUNCES 2026 SECOND QUARTER DIVIDEND",
+        "score": 122
+      },
       {
         "url": "https://www.amgen.com/about/how-we-operate/policies-practices-and-disclosures/business-conduct/quality",
         "anchor_text": "Product Quality",
@@ -4646,11 +4756,6 @@
     "press_url": "https://www.alsglobal.com/en/news-and-media-Global",
     "candidate_links": [
       {
-        "url": "https://www.alsglobal.com/en/News-and-publications/2026/06/Endotoxin-suitability-testing-the-foundation-for-reliable-bacterial-endotoxin-test-results",
-        "anchor_text": "Endotoxin suitability testing: the foundation for reliable bacterial…",
-        "score": 169
-      },
-      {
         "url": "https://www.alsglobal.com/en/News-and-publications/2026/06/Microbiological-suitability-testing-for-bioburden-the-foundation-for-reliable-results",
         "anchor_text": "Microbiological suitability testing for bioburden: the foundation for reliable…",
         "score": 164
@@ -4684,6 +4789,11 @@
         "url": "https://www.alsglobal.com/en/News-and-publications/2026/05/ALS-Limited-delivers-record-FY26-result",
         "anchor_text": "READ MORE",
         "score": 118
+      },
+      {
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/06/clean-water-testing-als-remi-camus",
+        "anchor_text": "Enduring environmental challenges",
+        "score": 113
       },
       {
         "url": "https://www.alsglobal.com/en/News-and-publications/2026/06/color-matching-and-skin-undertone",
@@ -5252,6 +5362,11 @@
         "score": 105
       },
       {
+        "url": "https://www.veeva.com/resources/veeva-acquires-copli-launches-veeva-falcon-mlr-to-accelerate-content-review/",
+        "anchor_text": "Read Press Release",
+        "score": 103
+      },
+      {
         "url": "https://www.veeva.com/resources/life-sciences-leaders-advance-unified-engagement-at-veeva-commercial-summit/",
         "anchor_text": "Read Press Release",
         "score": 103
@@ -5378,11 +5493,6 @@
       },
       {
         "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2026-first-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 77
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2025-third-quarter-results/",
         "anchor_text": "Read Press Release",
         "score": 77
       },
@@ -5968,12 +6078,17 @@
       },
       {
         "url": "https://www.veeva.com/products/vault-ai/",
-        "anchor_text": "AI AgentsDeploy industry-specific agents, quickly",
+        "anchor_text": "Agentic AIBuilt into Vault Platform",
         "score": 35
       },
       {
-        "url": "https://www.veeva.com/products/veeva-ai/",
-        "anchor_text": "AI AgentsDeploy industry-specific agents, quickly",
+        "url": "https://www.veeva.com/products/veeva-ai/#ai-agents",
+        "anchor_text": "AI AgentsDeploy standard and custom agents",
+        "score": 35
+      },
+      {
+        "url": "https://www.veeva.com/products/vault-ai/#ai-agents",
+        "anchor_text": "AI AgentsDeploy standard and custom agents",
         "score": 35
       },
       {
@@ -7277,33 +7392,53 @@
         "score": 15
       },
       {
-        "url": "https://www.birac.nic.in/desc_new.php?id=1346",
-        "anchor_text": "ENQ No. BIRAC/HR&A/007/2026/ENQ-58 - Empanelment of Financial Consulting Firms and Law Firms for the Biotechnology Industry Research Assistance Council (BIRAC) - Research, Development and Innovation (RDI) Fund.",
+        "url": "https://www.birac.nic.in/desc_new.php?id=1336",
+        "anchor_text": "Vacancy for Manager (Regulatory Affairs)  – Make In India at BIRAC Disclaimer: \"The last date for submission of Applications for this position is extended till 12th July,2026.\"",
         "score": 15
       },
       {
-        "url": "https://www.birac.nic.in/desc_new.php?id=1334",
-        "anchor_text": "DBT BIRAC Joint Call for Proposals on Bio-AI for establishing मूलांकुर hubs under BioE3 Policy for Biomanufacturing",
+        "url": "https://www.birac.nic.in/desc_new.php?id=1337",
+        "anchor_text": "Vacancy for Manager (Research Analysis)  – Make In India at BIRAC. Disclaimer:",
         "score": 15
       },
       {
-        "url": "https://www.birac.nic.in/desc_new.php?id=1330",
-        "anchor_text": "The MII Scale-Up Clinic",
+        "url": "https://www.birac.nic.in/desc_new.php?id=1338",
+        "anchor_text": "Vacancy for Sr. Program Officer  – Make In India at BIRAC. Disclaimer: \"The last date for submission of Applications for this position is extended till 12th July,2026.\"",
         "score": 15
       },
       {
-        "url": "https://www.birac.nic.in/desc_new.php?id=1319",
-        "anchor_text": "Please note that the call for proposals under PCP fund is currently closed due to unavoidable reasons. It will be informed when the call becomes active. Inconvenience caused is regretted.",
+        "url": "https://www.birac.nic.in/desc_new.php?id=1339",
+        "anchor_text": "Vacancy for Program Officer  – Make In India at BIRAC. Disclaimer: \"The last date for submission of Applications for this position is extended till 12th July,2026.\"",
         "score": 15
       },
       {
-        "url": "https://www.birac.nic.in/desc_new.php?id=1314",
-        "anchor_text": "BioManthan Bridging science, policy and regulation World Wide",
+        "url": "https://www.birac.nic.in/desc_new.php?id=1340",
+        "anchor_text": "Vacancy for Project Management Analyst  – Make In India at BIRAC. Disclaimer: \"The last date for submission of Applications for this position is extended till 12th July,2026.\"",
         "score": 15
       },
       {
-        "url": "https://www.birac.nic.in/desc_new.php?id=1289",
-        "anchor_text": "DBT BIRAC Joint Call for Proposals on Bio-AI for establishing मूलांकुर hubs under BioE3 Policy for Biomanufacturing",
+        "url": "https://www.birac.nic.in/desc_new.php?id=1341",
+        "anchor_text": "Vacancy for Finance Officer  – Make In India at BIRAC. Disclaimer: \"The last date for submission of Applications for this position is extended till 12th July,2026.\"",
+        "score": 15
+      },
+      {
+        "url": "https://www.birac.nic.in/desc_new.php?id=1342",
+        "anchor_text": "Vacancy for Administrative Assistant  – Make In India at BIRAC. Disclaimer: \"The last date for submission of Applications for this position is extended till 12th July,2026.\"",
+        "score": 15
+      },
+      {
+        "url": "https://www.birac.nic.in/desc_new.php?id=1343",
+        "anchor_text": "Vacancy for Officer (Legal) – Make In India at BIRAC. Disclaimer: \"The last date for submission of Applications for this position is extended till 12th July,2026.\"",
+        "score": 15
+      },
+      {
+        "url": "https://www.birac.nic.in/desc_new.php?id=1344",
+        "anchor_text": "Vacancy for Young Professional  – Make In India at BIRAC. Disclaimer: \"The last date for submission of Applications for this position is extended till 12th July,2026.\"",
+        "score": 15
+      },
+      {
+        "url": "https://www.birac.nic.in/desc_new.php?id=1345",
+        "anchor_text": "Vacancy for Associate Consultant - Clean Energy  in BIRAC. Disclaimer: \"The last date for submission of Applications for this position is extended till 12th July,2026.\"",
         "score": 15
       },
       {
@@ -13797,287 +13932,6 @@
     ]
   },
   {
-    "company": "Abiogenesis Clinpharm Private Limited",
-    "press_url": "https://abiogenesisclinpharm.com/blog/",
-    "candidate_links": [
-      {
-        "url": "https://abiogenesisclinpharm.com/clinical-research-organization-in-india-2026/",
-        "anchor_text": "0",
-        "score": 60
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/category/clinical-research-organization/",
-        "anchor_text": "Clinical Research Organization",
-        "score": 57
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/cell-and-gene-therapy-progress-challenges/",
-        "anchor_text": "Cell and Gene Therapy in 2026: Progress, Challenges, and What’s Coming Next",
-        "score": 57
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/rbqm-in-2026-intelligence-clinical-trials/",
-        "anchor_text": "0",
-        "score": 57
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/clinical-research-organization-in-indias/",
-        "anchor_text": "0",
-        "score": 56
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/uk-clinical-trials-reform-2026-ich-e6r3/",
-        "anchor_text": "0",
-        "score": 55
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/clinical-research-organizations-trials/",
-        "anchor_text": "0",
-        "score": 54
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/herbal-food-and-nutraceutical-studies/",
-        "anchor_text": "Herbal, Food, and Nutraceutical Studies",
-        "score": 53
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/real-world-evidence-supports-programs/",
-        "anchor_text": "",
-        "score": 53
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/semaglutide-clinical-trials-generics/",
-        "anchor_text": "0",
-        "score": 52
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/service/biostatistics-programming/",
-        "anchor_text": "Biostatistics & Programming",
-        "score": 51
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/category/clinical-operations/",
-        "anchor_text": "Clinical Operations",
-        "score": 46
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/service/clinical-operations/",
-        "anchor_text": "Clinical Operations",
-        "score": 45
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/decentralized-clinical-trials/",
-        "anchor_text": "Decentralized Clinical Trials",
-        "score": 45
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/category/regulatory-affairs/",
-        "anchor_text": "Regulatory Affairs",
-        "score": 45
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/service/regulatory-affairs/",
-        "anchor_text": "Regulatory Affairs",
-        "score": 44
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/category/quality-assurance/",
-        "anchor_text": "Quality Assurance",
-        "score": 44
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/service/quality-assurance/",
-        "anchor_text": "Quality Assurance",
-        "score": 43
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/india-uk-biosimilar-pathway/",
-        "anchor_text": "India – UK Biosimilar Corridor: A Controlled Evidence Pathway",
-        "score": 43
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/blog/contact@abiogenesisclinpharm.com",
-        "anchor_text": "contact@abiogenesisclinpharm.com",
-        "score": 42
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/category/data-management/",
-        "anchor_text": "Data Management",
-        "score": 42
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/category/medical-affairs/",
-        "anchor_text": "Medical Affairs",
-        "score": 42
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/service/data-management/",
-        "anchor_text": "Data Management",
-        "score": 41
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/service/medical-affairs/",
-        "anchor_text": "Medical Affairs",
-        "score": 41
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/small-molecule-and-fdc/",
-        "anchor_text": "Small Molecule & FDC",
-        "score": 38
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/ethnographic-research/",
-        "anchor_text": "Ethnographic Research",
-        "score": 37
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/real-world-studies/",
-        "anchor_text": "Real World Studies",
-        "score": 34
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/medical-monitoring/",
-        "anchor_text": "Medical Monitoring",
-        "score": 34
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/narcotics-studies/",
-        "anchor_text": "Narcotics Studies",
-        "score": 33
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/cosmetic-studies/",
-        "anchor_text": "Cosmetic Studies",
-        "score": 32
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/terms-conditions/",
-        "anchor_text": "Terms & Conditions",
-        "score": 32
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/medical-devices/",
-        "anchor_text": "Medical Devices",
-        "score": 31
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/rescue-studies/",
-        "anchor_text": "Rescue Studies",
-        "score": 30
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/privacy-policy/",
-        "anchor_text": "Privacy Policy",
-        "score": 30
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/cookies-policy/",
-        "anchor_text": "Cookies Policy",
-        "score": 30
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/pk-pd-studies/",
-        "anchor_text": "Pk/Pd Studies",
-        "score": 29
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/category/biostastics/",
-        "anchor_text": "Biostastics",
-        "score": 28
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/our-journey/",
-        "anchor_text": "Our Journey",
-        "score": 27
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/about-us/",
-        "anchor_text": "About Us",
-        "score": 24
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/our-team/",
-        "anchor_text": "Team",
-        "score": 24
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/contact-us",
-        "anchor_text": "CONTACT US",
-        "score": 23
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/blog/page/2/",
-        "anchor_text": "Next page",
-        "score": 21
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/blog/page/3/",
-        "anchor_text": "3",
-        "score": 21
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/blog/page/6/",
-        "anchor_text": "6",
-        "score": 21
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/biosimilar/",
-        "anchor_text": "Biosimilar",
-        "score": 16
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/accolades/",
-        "anchor_text": "Accolades",
-        "score": 15
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/contacts/",
-        "anchor_text": "Contact",
-        "score": 14
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/product/",
-        "anchor_text": "Product",
-        "score": 13
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/vaccine/",
-        "anchor_text": "Vaccine",
-        "score": 13
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/career/",
-        "anchor_text": "Career",
-        "score": 12
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/cdisc/",
-        "anchor_text": "CDISC",
-        "score": 11
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/blog/",
-        "anchor_text": "Blog",
-        "score": 10
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/blog/#top",
-        "anchor_text": "",
-        "score": 10
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/nce/",
-        "anchor_text": "NCE",
-        "score": 9
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/",
-        "anchor_text": "Abiogenesis Clinpharm",
-        "score": 3
-      }
-    ]
-  },
-  {
     "company": "IKP Knowledge Park",
     "press_url": "https://ikpknowledgepark.com/newsletters/",
     "candidate_links": [
@@ -14207,11 +14061,6 @@
         "score": 16
       },
       {
-        "url": "https://ikpknowledgepark.com/locations/",
-        "anchor_text": "Locations",
-        "score": 15
-      },
-      {
         "url": "https://ikpknowledgepark.com/bionest/",
         "anchor_text": "BioLabs",
         "score": 13
@@ -14263,7 +14112,7 @@
       },
       {
         "url": "https://ikpknowledgepark.com/",
-        "anchor_text": "Home",
+        "anchor_text": "",
         "score": 3
       }
     ]
@@ -15374,6 +15223,11 @@
     "press_url": "https://www.olympus-global.com/news/",
     "candidate_links": [
       {
+        "url": "https://www.olympus-global.com/news/2026/nr03002.html",
+        "anchor_text": "Jun. 24, 2026MedicalOlympus Launches 4K LCD Monitors to Enhance Clarity in Endoscopic Diagnosis and Therapy",
+        "score": 54
+      },
+      {
         "url": "https://www.olympus-global.com/news/2026/nr03020.html",
         "anchor_text": "May. 26, 2026M&AOlympus to Acquire BioProtect to Expand Its Portfolio of Urological Technologies and Address Prostate Cancer",
         "score": 54
@@ -15830,11 +15684,6 @@
         "score": 36
       },
       {
-        "url": "https://deepmind.google/blog/ai-pointer/",
-        "anchor_text": "Learn more",
-        "score": 33
-      },
-      {
         "url": "https://deepmind.google/research/publications/",
         "anchor_text": "Publications",
         "score": 29
@@ -15925,6 +15774,11 @@
         "score": 18
       },
       {
+        "url": "https://deepmind.google/accelerators/",
+        "anchor_text": "Accelerator programs",
+        "score": 18
+      },
+      {
         "url": "https://deepmind.google/education/",
         "anchor_text": "Education",
         "score": 15
@@ -15961,7 +15815,7 @@
       },
       {
         "url": "https://deepmind.google/",
-        "anchor_text": "Google DeepMindDeepMind",
+        "anchor_text": "Google DeepMind",
         "score": 3
       },
       {
@@ -17086,9 +16940,9 @@
         "score": 35
       },
       {
-        "url": "https://www.jubilantbiosys.com/scientific-poster/",
+        "url": "https://www.jubilantbiosys.com/scientific-posters/",
         "anchor_text": "Scientific Posters",
-        "score": 33
+        "score": 34
       },
       {
         "url": "https://www.jubilantbiosys.com/leadership-team/",
@@ -17262,6 +17116,11 @@
         "score": 100
       },
       {
+        "url": "https://www.illumina.com/company/news-center/feature-articles/The-Sequence-video-podcast-episode-02.html",
+        "anchor_text": "Illumina CEO: Chasing challenges & transforming global health",
+        "score": 98
+      },
+      {
         "url": "https://www.illumina.com/products/by-type/sequencing-kits/library-prep-kits/stranded-mrna-prep.html",
         "anchor_text": "Illumina Stranded mRNA Prep",
         "score": 95
@@ -17274,11 +17133,6 @@
       {
         "url": "https://www.illumina.com/company/news-center/feature-articles/multiomics-explained-proteomics.html",
         "anchor_text": "What is proteomics? A simple guide to understanding measuring proteins at scale",
-        "score": 92
-      },
-      {
-        "url": "https://www.illumina.com/company/news-center/feature-articles/multiomics-explained-multiomics.html",
-        "anchor_text": "What is multiomics? A simple guide to the future of biology",
         "score": 92
       },
       {
@@ -17372,6 +17226,11 @@
         "score": 80
       },
       {
+        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=0e864f97-e34a-4a60-bc9e-f8c4604a045e",
+        "anchor_text": "Daniel M. Skovronsky, MD, PhD, appointed to Illumina's Board of Directors",
+        "score": 80
+      },
+      {
         "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=582e652d-8a03-475c-87da-db84a18b0b1a",
         "anchor_text": "Illumina launches StrataMap Spatial Solution, a powerful end-to-end spatial whole transcriptome research solution",
         "score": 80
@@ -17389,11 +17248,6 @@
       {
         "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=499938cc-6795-4076-8244-19022892376c",
         "anchor_text": "David P. King elected to Illumina's Board of Directors",
-        "score": 80
-      },
-      {
-        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=2f46acc9-1d25-4e73-90de-9252593f9eee",
-        "anchor_text": "Illumina releases 2025 Corporate Responsibility Report, expanding access to genomics and accelerating global impact",
         "score": 80
       },
       {
@@ -18413,11 +18267,6 @@
         "score": 70
       },
       {
-        "url": "https://www.bcg.com/press/8june2026-banner-year-banks-moment-to-shift-gears",
-        "anchor_text": "",
-        "score": 70
-      },
-      {
         "url": "https://www.bcg.com/capabilities/digital-technology-data/cloud-computing",
         "anchor_text": "Cloud Computing",
         "score": 69
@@ -18835,6 +18684,11 @@
       {
         "url": "https://www.bcg.com/industries/industrial-goods/overview",
         "anchor_text": "Visit Page",
+        "score": 53
+      },
+      {
+        "url": "https://www.bcg.com/press/24june2026-cpg-retail-leaders-ai",
+        "anchor_text": "",
         "score": 53
       },
       {
@@ -20650,9 +20504,9 @@
     "press_url": "https://kpmg.com/xx/en/media.html",
     "candidate_links": [
       {
-        "url": "https://kpmg.com/xx/en/media/press-releases/2026/05/kpmg-and-anthropic-sign-global-alliance-and-launch-digital-gateway-powered-by-claude.html",
+        "url": "https://kpmg.com/xx/en/media/press-releases/2026/06/growing-adoption-signals-progress-as-cost-visibility-and-accountability-drive-ai-value.html",
         "anchor_text": "",
-        "score": 174
+        "score": 176
       },
       {
         "url": "https://kpmg.com/xx/en/media/press-releases/2026/06/sustainability-gap-exposed-only-one-fifth-of-execs-are-quantifying-financial-impact.html",
@@ -25317,11 +25171,6 @@
     "press_url": "https://www.gsk.com/en-gb/media/press-releases/",
     "candidate_links": [
       {
-        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-s-b7-h3-targeted-antibody-drug-conjugate-risvutatug-rezetecan-granted-orphan-drug-designation-for-small-cell-lung-cancer-in-japan/",
-        "anchor_text": "23 March 2026GSK’s B7-H3-targeted antibody-drug conjugate, risvutatug rezetecan, granted Orphan Drug Designation for small-cell lung cancer in JapanDesignation supported by early clinical data showing durable responses in certain types of small-cell lung cancer (SCLC).",
-        "score": 182
-      },
-      {
         "url": "https://www.gsk.com/en-gb/media/press-releases/bepirovirsen-accepted-for-review-by-the-european-medicines-agency-as-a-potential-first-in-class-treatment-for-chronic-hepatitis-b/",
         "anchor_text": "27 March 2026Bepirovirsen accepted for review by the European Medicines Agency as a potential first-in-class treatment for chronic hepatitis BSubmission supported by statistically significant and clinically meaningful functional cure rates in pivotal PhIII B-Well trials",
         "score": 178
@@ -25400,6 +25249,11 @@
         "url": "https://www.gsk.com/en-gb/media/press-releases/tesaro-a-gsk-subsidiary-provides-update-on-anaptysbio-inc-litigation/",
         "anchor_text": "27 April 2026TESARO, a GSK subsidiary, provides update on AnaptysBio, Inc. litigationDelaware Chancery Court has granted the motion to dismiss filed by AnaptysBio, Inc. against TESARO’s claim for anticipatory breach.",
         "score": 117
+      },
+      {
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-announces-commencement-of-tender-offer-to-acquire-nuvalent-inc/",
+        "anchor_text": "24 June 2026GSK announces commencement of tender offer to acquire Nuvalent, Inc.GSK plc today announced that Harmony Row Acquisition Co. has commenced a tender offer to purchase all of the shares of Nuvalent, Inc.",
+        "score": 115
       },
       {
         "url": "https://www.gsk.com/en-gb/responsibility/global-health-and-health-security/using-our-science-for-global-health/",
@@ -26268,9 +26122,14 @@
     "press_url": "https://www.wuxibiologics.com/media",
     "candidate_links": [
       {
-        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-suzhou-biosafety-testing-center-received-fourth-ema-gmp-certification-enabling-19-commercial-products-for-the-european-market/",
+        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-25th-drug-substance-facility-completes-first-gmp-production-manufacturing-process-execution-with-zero-deviations/",
+        "anchor_text": "NewsJun. 24, 2026WuXi Biologics’ 25th Drug Substance Facility Completes First GMP Production, Manufacturing Process Execution with Zero Deviations",
+        "score": 159
+      },
+      {
+        "url": "https://www.wuxibiologics.com/wuxi-biologics-suzhou-biosafety-testing-center-received-fourth-ema-gmp-certification-enabling-19-commercial-products-for-the-european-market/",
         "anchor_text": "NewsJun. 18, 2026WuXi Biologics’ Suzhou Biosafety Testing Center Received Fourth EMA GMP Certification, Enabling 19 Commercial Products for the European Market",
-        "score": 172
+        "score": 156
       },
       {
         "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-included-in-sp-global-sustainability-yearbook-china-edition-for-fourth-consecutive-year/",
@@ -26280,11 +26139,6 @@
       {
         "url": "https://www.wuxibiologics.com/production-systems/mammalian-derived-product-services/recombinant-proteins-enzymes-cytokines/",
         "anchor_text": "Learn more",
-        "score": 112
-      },
-      {
-        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-ireland-wins-top-honors-at-the-2026-life-sciences-industry-awards/",
-        "anchor_text": "AwardsJun. 08, 2026WuXi Biologics Ireland Wins Top Honors at the 2026 Life Sciences Industry Awards",
         "score": 112
       },
       {
@@ -28140,6 +27994,11 @@
     "press_url": "https://www.labcorp.com/newsroom",
     "candidate_links": [
       {
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/new-labcorp-studies-show-promise-blood-based-tests-predict-liver-disease-risk-and-progression-0.html",
+        "anchor_text": "New Labcorp Studies Show Promise of Blood-Based Tests to Predict Liver Disease Risk and Progression",
+        "score": 179
+      },
+      {
         "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/beckers-healthcare-podcast-advancing-pediatric-care-through-diagnostic-innovation-and-collaboration.html",
         "anchor_text": "Read moreRead More about Becker's Healthcare Podcast: Advancing Pediatric Care through Diagnostic Innovation and Collaboration",
         "score": 177
@@ -28168,6 +28027,11 @@
         "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/baby-girls-legacy-lives-what-advances-genetic-testing-rare-diseases-can-mean-families-everywhere.html",
         "anchor_text": "Read moreRead More about A baby girl’s legacy lives on: What advances in genetic testing for rare diseases can mean for families everywhere",
         "score": 174
+      },
+      {
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/labcorp-and-olaris-announce-collaboration-expand-access-innovative-kidney-transplant-monitoring.html",
+        "anchor_text": "Read moreRead More about Labcorp and Olaris Announce Collaboration to Expand Access to Innovative Kidney Transplant Monitoring",
+        "score": 173
       },
       {
         "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/optumai-and-labcorp-announce-strategic-collaboration-advance-laboratory-operations-and-patient.html",
@@ -28233,6 +28097,11 @@
         "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/drug-digest-podcast-labcorps-dr-maryland-franklin-driving-innovation-cell-and-gene-therapy.html",
         "anchor_text": "Read moreRead More about Drug Digest Podcast: Labcorp's Dr. Maryland Franklin on Driving Innovation in Cell and Gene Therapy",
         "score": 168
+      },
+      {
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/why-medical-laboratory-scientists-matter-how-labcorp-building-healthcare-talent-pipeline.html",
+        "anchor_text": "Read moreRead More about Why medical laboratory scientists matter: How Labcorp Is building a healthcare talent pipeline",
+        "score": 166
       },
       {
         "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/why-interpreting-genetic-variants-not-just-finding-them-key-faster-answers-rare-diseases.html",
@@ -28308,6 +28177,11 @@
         "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/expanding-cervical-cancer-screening-access-teal-health-approach-preventive-care.html",
         "anchor_text": "Read moreRead More about Expanding cervical cancer screening access: The Teal Health approach to preventive care",
         "score": 157
+      },
+      {
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/fierce-pharma-how-real-world-data-powering-faster-smarter-biopharma-innovation.html",
+        "anchor_text": "Read moreRead More about Fierce Pharma: How Real-World Data Is Powering Faster, Smarter Biopharma Innovation",
+        "score": 156
       },
       {
         "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/womens-health-labcorp-highlights-growing-importance-genetic-carrier-screening.html",
@@ -28400,11 +28274,6 @@
         "score": 145
       },
       {
-        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-launches-expanded-dpyd-test-identify-cancer-patients.html",
-        "anchor_text": "Labcorp Launches Expanded DPYD Test to Identify Cancer Patients at Risk for Severe Chemotherapy Side Effects",
-        "score": 144
-      },
-      {
         "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/artificial-intelligence-cervical-cancer-screening-digital-cytology.html",
         "anchor_text": "Read moreRead More about A new way to fight cervical cancer: How artificial Intelligence is transforming pap test screening",
         "score": 144
@@ -28428,6 +28297,11 @@
         "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/new-heart-health-guidelines-start-early-age-30-what-you-need-know.html",
         "anchor_text": "Read moreRead More about New heart health guidelines start as early as age 30: What you need to know",
         "score": 143
+      },
+      {
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/study-blood-test-high-risk-liver-disease-primary-care-diabetes.html",
+        "anchor_text": "Read moreRead More about New Labcorp research highlights how blood-based tools may improve early identification and risk prediction in liver disease",
+        "score": 140
       },
       {
         "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/five-tips-controlling-diabetes-and-blood-sugar-during-summer.html",
@@ -29741,11 +29615,6 @@
         "score": 68
       },
       {
-        "url": "https://www.gehealthcare.com/en-us/services/digital-solutions/onwatch-predict",
-        "anchor_text": "Onwatch Predict",
-        "score": 67
-      },
-      {
         "url": "https://www.gehealthcare.com/en-us/products/ultrasound/ultrasound-transducers",
         "anchor_text": "Disinfection of Ultrasound Probes",
         "score": 67
@@ -29768,11 +29637,6 @@
       {
         "url": "https://www.gehealthcare.com/en-us/products/ultrasound/breast-ultrasound",
         "anchor_text": "Breast Ultrasound",
-        "score": 62
-      },
-      {
-        "url": "https://www.gehealthcare.com/en-us/services/digital-solutions/tube-watch",
-        "anchor_text": "Tube Watch",
         "score": 62
       },
       {
@@ -29831,11 +29695,6 @@
         "score": 57
       },
       {
-        "url": "https://www.gehealthcare.com/en-us/services/refresh-payment-solutions",
-        "anchor_text": "Refresh Financial Services",
-        "score": 57
-      },
-      {
         "url": "https://www.gehealthcare.com/content/gehealthcare/us/en/insights/articles?speciality=news-trends",
         "anchor_text": "GE HealthCare reports",
         "score": 57
@@ -29853,6 +29712,11 @@
       {
         "url": "https://www.gehealthcare.com/en-us/products/image-guiding-solutions",
         "anchor_text": "Image Guiding Solutions",
+        "score": 55
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/ultrasound/veterinary",
+        "anchor_text": "VET Ultrasound Suite",
         "score": 55
       },
       {
@@ -29932,7 +29796,7 @@
       },
       {
         "url": "https://www.gehealthcare.com/en-us/services/predictive-services",
-        "anchor_text": "All Predictive Services",
+        "anchor_text": "Predictive Services",
         "score": 51
       },
       {
@@ -29958,6 +29822,11 @@
       {
         "url": "https://www.gehealthcare.com/en-us/services/financial-services",
         "anchor_text": "Healthcare Financial Services",
+        "score": 50
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/services/service-agreements",
+        "anchor_text": "Service Agreements",
         "score": 50
       },
       {
@@ -30021,11 +29890,6 @@
         "score": 47
       },
       {
-        "url": "https://www.gehealthcare.com/en-us/productsecurity/products",
-        "anchor_text": "Security",
-        "score": 47
-      },
-      {
         "url": "https://www.gehealthcare.com/en-us/products/medical-affairs",
         "anchor_text": "Medical Affairs - Pharmaceutical Diagnostics",
         "score": 47
@@ -30038,6 +29902,11 @@
       {
         "url": "https://www.gehealthcare.com/en-us/about/latest-innovations",
         "anchor_text": "Our Innovations",
+        "score": 47
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/productsecurity/products",
+        "anchor_text": "Security",
         "score": 47
       },
       {
@@ -30262,11 +30131,6 @@
         "score": 66
       },
       {
-        "url": "https://www.siemens-healthineers.com/press/releases/stroke-partnership-cercaremedical",
-        "anchor_text": "Learn more",
-        "score": 65
-      },
-      {
         "url": "https://www.siemens-healthineers.com/support-documentation/quality-control-management",
         "anchor_text": "Quality control management for assays",
         "score": 63
@@ -30319,6 +30183,11 @@
       {
         "url": "https://www.siemens-healthineers.com/investor-relations/financial-calendar",
         "anchor_text": "Financial calendar",
+        "score": 52
+      },
+      {
+        "url": "https://www.siemens-healthineers.com/press/releases/photon-flash-therapy",
+        "anchor_text": "Learn more",
         "score": 52
       },
       {
@@ -30477,11 +30346,6 @@
         "score": 31
       },
       {
-        "url": "https://www.siemens-healthineers.com/press/releases/estro2026",
-        "anchor_text": "Learn more",
-        "score": 31
-      },
-      {
         "url": "https://www.siemens-healthineers.com/products-services",
         "anchor_text": "Products & Services",
         "score": 30
@@ -30494,6 +30358,11 @@
       {
         "url": "https://www.siemens-healthineers.com/innovations/futureshaper",
         "anchor_text": "Discover our #Futureshapers",
+        "score": 29
+      },
+      {
+        "url": "https://www.siemens-healthineers.com/press/releases/optiqai",
+        "anchor_text": "Learn more",
         "score": 29
       },
       {
@@ -31471,6 +31340,11 @@
         "url": "https://www.stryker.com/us/en/about/news/2023/features/changing-the-way-you-see-your-colorectal-cancer-patients.html",
         "anchor_text": "Read More",
         "score": 142
+      },
+      {
+        "url": "https://www.stryker.com/us/en/about/news/2026/stryker-partners-professional-golfer-shane-lowry-caregiver-journey.html",
+        "anchor_text": "Read More",
+        "score": 141
       },
       {
         "url": "https://www.stryker.com/us/en/about/news/2025/stryker-names-spencer-stiles-president-and-chief-operating-officer.html",
@@ -32501,11 +32375,6 @@
         "url": "https://www.stryker.com/us/en/about/news/2023/features/stepping-it-up-in-the-fight-against-brain-tumors.html",
         "anchor_text": "Read More",
         "score": 134
-      },
-      {
-        "url": "https://www.stryker.com/us/en/about/news/2023/watch-kevin-lobo-on-fox-business-network-s-claman-countdown.html",
-        "anchor_text": "Read More",
-        "score": 134
       }
     ]
   },
@@ -32896,7 +32765,7 @@
       },
       {
         "url": "https://www.edwards.com/legal/privacy-policy",
-        "anchor_text": "Privacy Statement",
+        "anchor_text": "Privacy Policy",
         "score": 35
       },
       {
@@ -34295,11 +34164,6 @@
         "score": 95
       },
       {
-        "url": "https://www.carislifesciences.com/privacy-website-policies/do-not-sell-or-share-my-personal-information/",
-        "anchor_text": "webform",
-        "score": 87
-      },
-      {
         "url": "https://www.carislifesciences.com/research/artificial-intelligence/molecular-tumor-board-report/",
         "anchor_text": "Molecular Tumor Board Report",
         "score": 81
@@ -34921,26 +34785,6 @@
         "score": 34
       },
       {
-        "url": "https://www.foundationmedicine.com/faq/biopharma-faqs#biopharma-faqs-3",
-        "anchor_text": "How can ctDNA support your drug development?",
-        "score": 33
-      },
-      {
-        "url": "https://www.foundationmedicine.com/faq/biopharma-faqs#biopharma-faqs-2",
-        "anchor_text": "How can genomic data generated by Foundation Medicine tests be used for biomarker discovery?",
-        "score": 33
-      },
-      {
-        "url": "https://www.foundationmedicine.com/faq/biopharma-faqs#biopharma-faqs-6",
-        "anchor_text": "How do I contact someone in the biopharma group to discuss a project?",
-        "score": 33
-      },
-      {
-        "url": "https://www.foundationmedicine.com/faq/biopharma-faqs",
-        "anchor_text": "View all Biopharma Partner FAQs",
-        "score": 33
-      },
-      {
         "url": "https://www.foundationmedicine.com/department-pathology",
         "anchor_text": "Pathology Services",
         "score": 33
@@ -35157,23 +35001,18 @@
         "score": 116
       },
       {
-        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-invites-public-view-and-listen-webcast-pfizer-27",
-        "anchor_text": "Pfizer Invites Public to View and Listen to Webcast of Pfizer Discussion at Healthcare Conference",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/fda-approves-pfizers-ibrance-regimen-hr-her2-metastatic",
+        "anchor_text": "FDA Approves Pfizer’s IBRANCE Regimen for HR+, HER2+ Metastatic Breast Cancer Frontline Maintenance",
         "score": 114
       },
       {
-        "url": "https://www.pfizer.com/news/press-release/press-release-detail/european-commission-approves-pfizers-hympavzi-treatment",
-        "anchor_text": "European Commission Approves Pfizer’s HYMPAVZI for the Treatment of Adults and Adolescents with Hemophilia A or B With Inhibitors",
-        "score": 114
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-invites-public-view-and-listen-webcast-august-4",
+        "anchor_text": "Pfizer Invites Public to View and Listen to Webcast of August 4 Conference Call with Analysts",
+        "score": 113
       },
       {
         "url": "https://www.pfizer.com/news/press-release/press-release-detail/seven-year-analysis-pfizers-lorbrena-crown-trial-shows",
         "anchor_text": "Seven-Year Analysis from Pfizer’s LORBRENA CROWN Trial Shows Longest Progression-Free Survival Reported to Date in Advanced Non-Small Cell Lung Cancer",
-        "score": 113
-      },
-      {
-        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-advances-pivotal-pediatric-pneumococcal-vaccine",
-        "anchor_text": "Pfizer Advances Pivotal Pediatric Pneumococcal Vaccine Program Following Strong Positive Phase 2 Results",
         "score": 113
       },
       {
@@ -35185,6 +35024,11 @@
         "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-announces-chief-financial-officer-transition",
         "anchor_text": "Pfizer Announces Chief Financial Officer Transition",
         "score": 110
+      },
+      {
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-declares-third-quarter-2026-dividend",
+        "anchor_text": "Pfizer Declares Third-Quarter 2026 Dividend",
+        "score": 102
       },
       {
         "url": "https://www.pfizer.com/about/responsibility/patient-advocacy-engagement-putting-patients-first",
@@ -35392,6 +35236,11 @@
         "score": 50
       },
       {
+        "url": "https://www.pfizer.com/washington-health-data-privacy-policy",
+        "anchor_text": "Washington Health Data Privacy Policy",
+        "score": 50
+      },
+      {
         "url": "https://www.pfizer.com/science/clinical-trials/children",
         "anchor_text": "Clinical Trials in Children",
         "score": 49
@@ -35487,16 +35336,6 @@
         "score": 38
       },
       {
-        "url": "https://www.pfizer.com/newsroom/press-releases?field_media_asset_category_target_id[22798]=22798",
-        "anchor_text": "Research and Pipeline",
-        "score": 38
-      },
-      {
-        "url": "https://www.pfizer.com/newsroom/press-releases?field_tags_target_id[6461]=6461",
-        "anchor_text": "Research",
-        "score": 38
-      },
-      {
         "url": "https://www.pfizer.com/newsroom/press-releases?field_media_asset_category_target_id[22795]=22795",
         "anchor_text": "Corporate",
         "score": 38
@@ -35507,8 +35346,8 @@
         "score": 38
       },
       {
-        "url": "https://www.pfizer.com/newsroom/press-releases?field_tags_target_id[6126]=6126",
-        "anchor_text": "Leadership",
+        "url": "https://www.pfizer.com/newsroom/press-releases?field_tags_target_id[22256]=22256",
+        "anchor_text": "Finance",
         "score": 38
       },
       {
@@ -35522,8 +35361,18 @@
         "score": 38
       },
       {
-        "url": "https://www.pfizer.com/newsroom/press-releases?field_tags_target_id[22256]=22256",
-        "anchor_text": "Finance",
+        "url": "https://www.pfizer.com/newsroom/press-releases?field_media_asset_category_target_id[22798]=22798",
+        "anchor_text": "Research and Pipeline",
+        "score": 38
+      },
+      {
+        "url": "https://www.pfizer.com/newsroom/press-releases?field_tags_target_id[6461]=6461",
+        "anchor_text": "Research",
+        "score": 38
+      },
+      {
+        "url": "https://www.pfizer.com/newsroom/press-releases?field_tags_target_id[6126]=6126",
+        "anchor_text": "Leadership",
         "score": 38
       },
       {
@@ -35630,11 +35479,6 @@
         "url": "https://www.pfizer.com/accessibility",
         "anchor_text": "Accessibility Statement",
         "score": 16
-      },
-      {
-        "url": "https://www.pfizer.com/investors",
-        "anchor_text": "Investors",
-        "score": 12
       },
       {
         "url": "https://www.pfizer.com/products",
@@ -36069,7 +35913,7 @@
       },
       {
         "url": "https://www.roche.com/investors/bonds",
-        "anchor_text": "Share price324.10CHF+ 5.50(+1.73%)Today",
+        "anchor_text": "Share price329.30CHF- 2.70(-0.81%)Today",
         "score": 20
       },
       {
@@ -36515,7 +36359,7 @@
       },
       {
         "url": "https://www.astrazeneca.com/media-centre/press-releases.html",
-        "anchor_text": "Select Preferences",
+        "anchor_text": "More Details",
         "score": 47
       },
       {
@@ -37317,14 +37161,14 @@
     "press_url": "https://news.abbvie.com/",
     "candidate_links": [
       {
+        "url": "https://news.abbvie.com/2026-06-23-Allergan-Aesthetics-receives-approval-for-Boey-R-trenibotulinumtoxinE-in-Canada,-the-first-and-only-rapid-onset,-short-duration-neurotoxin-for-the-temporary-improvement-of-frown-lines-in-adult-patients",
+        "anchor_text": "Allergan Aesthetics receives approval for Boey® (trenibotulinumtoxinE) in Canada, the first and only rapid-onset, short-duration neurotoxin for the temporary improvement of frown lines in adult patients",
+        "score": 225
+      },
+      {
         "url": "https://news.abbvie.com/2026-06-12-AbbVie-Presents-New-Data-at-EHA-2026-Congress-for-VENCLEXTA-R-VENCLYXTO-R-venetoclax-in-First-Line-Chronic-Lymphocytic-Leukemia-Highlighting-Long-Term-Treatment-Outcomes-for-Patients-Nine-Year-Results",
         "anchor_text": "AbbVie Presents New Data at EHA 2026 Congress for VENCLEXTA®/VENCLYXTO® (venetoclax) in First-Line Chronic Lymphocytic Leukemia Highlighting Long-Term Treatment Outcomes for Patients: Nine-Year Results",
         "score": 224
-      },
-      {
-        "url": "https://news.abbvie.com/2026-05-29-AbbVie-Announces-European-Commission-Authorization-of-Expanded-Label-for-VENCLYXTO-R-venetoclax-to-Include-Additional-Combinations-in-Previously-Untreated-Chronic-Lymphocytic-Leukemia",
-        "anchor_text": "AbbVie Announces European Commission Authorization of Expanded Label for VENCLYXTO® (venetoclax) to Include Additional Combinations in Previously Untreated Chronic Lymphocytic Leukemia",
-        "score": 207
       },
       {
         "url": "https://news.abbvie.com/2026-06-23-AbbVie-Announces-European-Commission-Approval-of-SKYRIZI-R-risankizumab-for-the-Treatment-of-Pediatric-Patients-with-Moderate-to-Severe-Plaque-Psoriasis",
@@ -37342,9 +37186,9 @@
         "score": 169
       },
       {
-        "url": "https://news.abbvie.com/2026-06-02-AbbVie-Announces-European-Commission-Approval-of-AQUIPTA-R-atogepant-for-the-Acute-Treatment-of-Migraine-in-Adults",
-        "anchor_text": "AbbVie Announces European Commission Approval of AQUIPTA® (atogepant) for the Acute Treatment of Migraine in Adults",
-        "score": 138
+        "url": "https://news.abbvie.com/2026-06-23-AbbVie-Announces-European-Commission-Approval-of-MAVIRET-R-Glecaprevir-Pibrentasvir-for-People-with-Acute-Hepatitis-C-Virus-Infection",
+        "anchor_text": "AbbVie Announces European Commission Approval of MAVIRET® (Glecaprevir/Pibrentasvir) for People with Acute Hepatitis C Virus Infection",
+        "score": 157
       },
       {
         "url": "https://news.abbvie.com/2026-06-16-Allergan-Aesthetics-Receives-U-S-FDA-Approval-for-SKINVIVE-by-JUVEDERM-R-for-the-Improvement-of-Neck-Appearance",
@@ -37352,9 +37196,14 @@
         "score": 135
       },
       {
-        "url": "https://news.abbvie.com/2026-06-02-AbbVie-to-Present-at-the-Goldman-Sachs-47th-Annual-Global-Healthcare-Conference",
-        "anchor_text": "AbbVie to Present at the Goldman Sachs 47th Annual Global Healthcare Conference",
-        "score": 103
+        "url": "https://news.abbvie.com/2026-06-24-BOTOX-R-Cosmetic-onabotulinumtoxinA-Introduces-The-Confidence-Collectives-Entrepreneur-Class-of-2026",
+        "anchor_text": "BOTOX® Cosmetic (onabotulinumtoxinA) Introduces The Confidence Collective's Entrepreneur Class of 2026",
+        "score": 124
+      },
+      {
+        "url": "https://news.abbvie.com/2026-06-24-BOTOX-R-Cosmetic-onabotulinumtoxinA-Introduces-The-Confidence-Collectives-Entrepreneur-Class-of-2026#assets_2429_124798-149",
+        "anchor_text": "Photos1",
+        "score": 124
       },
       {
         "url": "https://news.abbvie.com/2026-06-08-AbbVie-Presents-New-Data-Across-Its-Blood-Cancer-Portfolio-at-EHA-2026",
@@ -37498,9 +37347,9 @@
     "press_url": "https://www.gilead.com/media",
     "candidate_links": [
       {
-        "url": "https://www.gilead.com/news/news-details/2026/gilead-and-merck-announce-positive-topline-results-from-two-phase-3-studies-evaluating-islatravirlenacapavir-an-oral-once-weekly-hiv-treatment",
-        "anchor_text": "June 8, 2026Gilead and Merck Announce Positive Topline Results From Two Phase 3 Studies Evaluating Islatravir/Lenacapavir, an Oral Once-Weekly HIV Treatment",
-        "score": 209
+        "url": "https://www.gilead.com/news/news-details/2026/european-commission-approves-trodelvy-as-a-first-line-treatment-for-metastatic-triple-negative-breast-cancer-patients-not-candidates-for-pd-l1-inhibitors",
+        "anchor_text": "June 23, 2026European Commission Approves Trodelvy® as a First-Line Treatment for Metastatic Triple-Negative Breast Cancer Patients Not Candidates for PD-(l)1 Inhibitors",
+        "score": 220
       },
       {
         "url": "https://www.gilead.com/news/news-details/2026/u-s--fda-accepts-gileads-application-for-investigational-once-weekly-oral-yeztugo-potentially-the-first-long-acting-pill-for-hiv-prevention",
@@ -37513,9 +37362,9 @@
         "score": 192
       },
       {
-        "url": "https://www.gilead.com/news/news-details/2026/national-aids-memorial-and-the-gilead-foundation-launch-major-investment-to-expand-hivaids-education-and-community-leadership",
-        "anchor_text": "June 11, 2026National AIDS Memorial and the Gilead Foundation Launch Major Investment to Expand HIV/AIDS Education and Community Leadership",
-        "score": 192
+        "url": "https://www.gilead.com/news/news-details/2026/u-s--fda-approves-trodelvy-for-first-line-treatment-of-metastatic-triple-negative-breast-cancer",
+        "anchor_text": "June 24, 2026U.S. FDA Approves Trodelvy® for First-Line Treatment of Metastatic Triple-Negative Breast Cancer",
+        "score": 162
       },
       {
         "url": "https://www.gilead.com/responsibility/giving-at-gilead/corporate-giving/strategic-initiatives/toward-health-equity-for-black-people-impacted-by-tnbc",
@@ -39870,6 +39719,11 @@
     "press_url": "https://newsroom.astellas.com/news",
     "candidate_links": [
       {
+        "url": "https://newsroom.astellas.com/2026-06-24-european-commission-approves-padcev-enfortumab-vedotin-in-combination-with-keytruda-pembrolizumab-as-the-first-and-only-approved-perioperative-treatment-option-for-cisplatin-ineligible-patients-with-resectable-muscle-invasive-bladder-cancer",
+        "anchor_text": "Read moreabout European Commission Approves PADCEV™ (enfortumab vedotin) in Combination with Keytruda®(pembrolizumab) as the First and Only Approved Perioperative Treatment Option for Cisplatin-Ineligible Patients with Resectable Muscle-Invasive Bladder Cancer",
+        "score": 264
+      },
+      {
         "url": "https://newsroom.astellas.com/2026-05-22-padcev-in-combination-with-keytruda-receives-positive-chmp-opinion-for-the-treatment-of-patients-with-resectable-mibc-who-are-ineligible-for-cisplatin-based-chemotherapy",
         "anchor_text": "Read moreabout PADCEV™ (enfortumab vedotin) in Combination with Keytruda®(pembrolizumab) Receives Positive CHMP Opinion for the Treatment of Patients with Resectable Muscle-Invasive Bladder Cancer who are Ineligible for Cisplatin-Based Chemotherapy",
         "score": 193
@@ -39883,11 +39737,6 @@
         "url": "https://newsroom.astellas.com/2026-05-29-notice-regarding-the-resignation-of-an-outside-director-and-partial-withdrawal-of-matters-to-be-resolved-at-the-21st-term-annual-shareholders-meeting",
         "anchor_text": "Read moreabout Notice Regarding the Resignation of an Outside Director and Partial Withdrawal of Matters to be Resolved at the 21st Term Annual Shareholders Meeting",
         "score": 173
-      },
-      {
-        "url": "https://newsroom.astellas.com/2026-05-19-astellas-to-present-data-on-long-term-outcomes-and-clinical-use-of-its-portfolio-across-disease-stages-at-asco-2026",
-        "anchor_text": "Read moreabout Astellas to Present Data on Long-Term Outcomes and Clinical Use of Its Portfolio Across Disease Stages at ASCO 2026",
-        "score": 139
       },
       {
         "url": "https://newsroom.astellas.com/2026-05-29-astellas-view-on-iss-voting-recommendations",
@@ -40071,11 +39920,6 @@
         "score": 118
       },
       {
-        "url": "https://www.takeda.com/newsroom/newsreleases/2026/takeda-reports-third-quarter-fy2025-results/",
-        "anchor_text": "Takeda Reports Third-Quarter FY2025 Results – Updates Full Year Outlook to Reflect VYVANSE® Generics Impact, OPEX Discipline and FX Tailwind – Progressing Toward Three Transformative Launches AheadTakeda Reports Third-Quarter FY2025 Results – Updates Full Year Outlook to Reflect VYVANSE® Generics Impact, OPEX Discipline and FX Tailwind – Progressing Toward Three Transformative Launches Ahead",
-        "score": 117
-      },
-      {
         "url": "https://www.takeda.com/newsroom/newsreleases/2026/application-intravenous-entyvio-pediatric/",
         "anchor_text": "U.S. FDA Accepts Takeda's Application for Intravenous ENTYVIO® (vedolizumab) in Pediatric Ulcerative Colitis and Crohn's DiseaseU.S. FDA Accepts Takeda's Application for Intravenous ENTYVIO® (vedolizumab) in Pediatric Ulcerative Colitis and Crohn's Disease",
         "score": 115
@@ -40084,6 +39928,11 @@
         "url": "https://www.takeda.com/newsroom/newsreleases/2026/zasocitinib-phase3-clinical-trial-results/",
         "anchor_text": "Takeda’s Zasocitinib Delivered Rapid and Durable Skin Clearance in a Convenient Once-Daily Pill, Affirming Promise to Reshape Psoriasis CareTakeda’s Zasocitinib Delivered Rapid and Durable Skin Clearance in a Convenient Once-Daily Pill, Affirming Promise to Reshape Psoriasis Care",
         "score": 115
+      },
+      {
+        "url": "https://www.takeda.com/newsroom/newsreleases/2026/julie-kim-appointed-president-ceo-takeda/",
+        "anchor_text": "Takeda Announces New Assignments of Directors and Appointment of Julie Kim as Representative Director, President and CEOTakeda Announces New Assignments of Directors and Appointment of Julie Kim as Representative Director, President and CEO",
+        "score": 114
       },
       {
         "url": "https://www.takeda.com/newsroom/newsreleases/2026/oveporexton-phase-3-narcolepsy-type-1/",
@@ -40792,6 +40641,11 @@
         "score": 171
       },
       {
+        "url": "https://ir.beonemedicines.com/news/blood-cancer-united-and-beone-medicines-announce-expanded-partnership-to-advance-patient-support-and-community/f66eb6b3-6e84-4be9-9fee-86ef1c26a260",
+        "anchor_text": "Blood Cancer United and BeOne Medicines Announce Expanded Partnership to Advance Patient Support and Community for People Impacted by Blood Cancer",
+        "score": 169
+      },
+      {
         "url": "https://ir.beonemedicines.com/news/beone-medicines-announces-fourth-quarter-and-full-year-2025-financial-results-highlighting-global-success-of/6559b41c-7beb-45ca-bc76-5e1c9cdb26cc",
         "anchor_text": "BeOne Medicines Announces Fourth Quarter and Full Year 2025 Financial Results, Highlighting Global Success of BRUKINSA and Foundational Oncology Leadership",
         "score": 167
@@ -40880,11 +40734,6 @@
         "url": "https://ir.beonemedicines.com/media/custom-news/de0b99ed-2d1a-4200-b186-d36affeaeef1/assets/efba344e-4b7b-4ebc-9d2f-aa6a64f0c444/P.pdf?disposition=inline",
         "anchor_text": "FORM OF PROXY",
         "score": 127
-      },
-      {
-        "url": "https://ir.beonemedicines.com/news/beone-medicines-to-present-at-upcoming-investor-conference/3e1fb5bc-8c8d-4631-8b16-e11107a18f05",
-        "anchor_text": "BeOne Medicines to Present at Upcoming Investor Conference",
-        "score": 117
       },
       {
         "url": "https://ir.beonemedicines.com/filings-financials/shareholder-meeting-materials",
@@ -43397,6 +43246,11 @@
         "score": 28
       },
       {
+        "url": "https://www.immunocore.com/privacy-policy",
+        "anchor_text": "Privacy Policy",
+        "score": 27
+      },
+      {
         "url": "https://www.immunocore.com/science/publications",
         "anchor_text": "Publications",
         "score": 25
@@ -43705,6 +43559,11 @@
     "press_url": "https://insilico.com/news",
     "candidate_links": [
       {
+        "url": "https://insilico.com/news/fzshrjdhj1-pharmaai-summer-update-preview-drive-the",
+        "anchor_text": "Pharma.AI Summer Update Preview: Drive the future of pharmaceutical intelligence",
+        "score": 71
+      },
+      {
         "url": "https://insilico.com/news/zm8me18st1-insilico-medicine-and-sk-biopharmaceutic",
         "anchor_text": "Insilico Medicine And SK Biopharmaceuticals Achieved AI-powered Drug Discovery Collaboration Worth Up to 2.5 Billion for Neuroimmune Disorders",
         "score": 71
@@ -43722,11 +43581,6 @@
       {
         "url": "https://insilico.com/news/f8il5i2j91-insilico-medicine-and-saudi-aramco-intro",
         "anchor_text": "Insilico Medicine and Saudi Aramco Introduce the “Sanity Pipeline” to Advance AI-driven Discovery of MOFs",
-        "score": 71
-      },
-      {
-        "url": "https://insilico.com/news/tmikccj2f1-advancing-drug-discovery-from-automation",
-        "anchor_text": "Advancing Drug Discovery from Automation to Autonomy: Insilico Medicine Announces LabClaw the Intelligent System",
         "score": 71
       },
       {
@@ -44034,147 +43888,6 @@
     ]
   },
   {
-    "company": "Generate Biomedicines",
-    "press_url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases",
-    "candidate_links": [
-      {
-        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-expands-board-of-directors-with-appointment-of-marsha-fanucci",
-        "anchor_text": "Generate:Biomedicines Expands Board of Directors with Appointment of Marsha Fanucci",
-        "score": 110
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-announces-multi-target-collaboration-with-novartis",
-        "anchor_text": "Generate:Biomedicines Announces Multi-Target Collaboration with Novartis to Discover and Develop Protein Therapeutics with GenerativeAI",
-        "score": 99
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-provides-update-on-its-platform-and-pipeline",
-        "anchor_text": "Generate:Biomedicines Provides Update on its Platform and Pipeline Powered byAIat the43rdAnnual J.P. Morgan Healthcare Conference",
-        "score": 93
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-expands-board-of-directors",
-        "anchor_text": "Generate:Biomedicines Expands Board of Directors with the Appointment of Rupert Vessey, M.D., Ph.D., and Nancy Simonian, M.D.",
-        "score": 75
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-expands-c-suite",
-        "anchor_text": "Generate:Biomedicines Expands C‑suite with Chief Corporate Affairs Officer and Chief Technical Operations Officer",
-        "score": 64
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/generate-welcomes-laurie-lee",
-        "anchor_text": "Generate:Biomedicines Welcomes Laurie Lee,MD, as Chief Medical Officer for the Immunology&Inflammation Portfolio",
-        "score": 56
-      },
-      {
-        "url": "https://generatebiomedicines.com/generative-biology",
-        "anchor_text": "Generative Biology®",
-        "score": 31
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases",
-        "anchor_text": "News Releases",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases#main-content",
-        "anchor_text": "Skip to content",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases#main-nav",
-        "anchor_text": "Skip to navigation",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type",
-        "anchor_text": "Overview",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type=blogPosts",
-        "anchor_text": "Blog Posts",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type=mediaHighlights",
-        "anchor_text": "Media Highlights",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type=publications",
-        "anchor_text": "Presentations & Publications",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p3?type=newsReleases",
-        "anchor_text": "Next Page",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p4?type=newsReleases",
-        "anchor_text": "4",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p5?type=newsReleases",
-        "anchor_text": "5",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/privacy-policy",
-        "anchor_text": "Privacy Policy",
-        "score": 27
-      },
-      {
-        "url": "https://generatebiomedicines.com/terms-of-use",
-        "anchor_text": "Terms of Use",
-        "score": 25
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center",
-        "anchor_text": "Media Center",
-        "score": 25
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center?type=newsReleases",
-        "anchor_text": "1",
-        "score": 25
-      },
-      {
-        "url": "https://generatebiomedicines.com/about-us",
-        "anchor_text": "About Us",
-        "score": 21
-      },
-      {
-        "url": "https://generatebiomedicines.com/platform",
-        "anchor_text": "The Generate Platform™",
-        "score": 11
-      },
-      {
-        "url": "https://generatebiomedicines.com/pipeline",
-        "anchor_text": "Pipeline",
-        "score": 11
-      },
-      {
-        "url": "https://generatebiomedicines.com/careers",
-        "anchor_text": "Careers",
-        "score": 10
-      },
-      {
-        "url": "https://generatebiomedicines.com/contact",
-        "anchor_text": "",
-        "score": 10
-      },
-      {
-        "url": "https://generatebiomedicines.com/",
-        "anchor_text": "",
-        "score": 3
-      }
-    ]
-  },
-  {
     "company": "AbCellera",
     "press_url": "https://www.abcellera.com/news",
     "candidate_links": [
@@ -44364,6 +44077,11 @@
     "company": "Genetix Bio",
     "press_url": "https://www.genetixbiotx.com/news.html",
     "candidate_links": [
+      {
+        "url": "https://www.genetixbiotx.com/press-release-2026-06-23.html",
+        "anchor_text": "Read more",
+        "score": 42
+      },
       {
         "url": "https://www.genetixbiotx.com/press-release-2026-03-02.html",
         "anchor_text": "Read more",
@@ -46030,6 +45748,11 @@
         "score": 56
       },
       {
+        "url": "https://www.wuxiapptec.com/news/wuxi-news/ljam2k30v1x53wz61xlvoaiv",
+        "anchor_text": "Shareholder Value Enhancement in Life Sciences",
+        "score": 56
+      },
+      {
         "url": "https://www.wuxiapptec.com/news/wuxi-news/qw2822xkk8hj0zt42ik9jqqp",
         "anchor_text": "Scalable CRDMO Capacity and Capability Build",
         "score": 56
@@ -46037,11 +45760,6 @@
       {
         "url": "https://www.wuxiapptec.com/news/events/t37tshp7kn1zj2ryrocbs29t",
         "anchor_text": "Healthcare and Life Sciences Leadership Forum",
-        "score": 43
-      },
-      {
-        "url": "https://www.wuxiapptec.com/investors/announcement/announcements",
-        "anchor_text": "Bioanalytical Testing Service Announcements",
         "score": 43
       },
       {
@@ -46171,11 +45889,6 @@
         "score": 104
       },
       {
-        "url": "https://www.iconplc.com/news-events/press-releases/icon-survey-reveals-increasing-clinical-trial-startup-delays",
-        "anchor_text": "ICON survey reveals increasing clinical trial startup delays, underscoring need for human-centred site activation solutions",
-        "score": 104
-      },
-      {
         "url": "https://www.iconplc.com/news-events/press-releases/icon-schedules-first-quarter-2026-earnings-conference-call",
         "anchor_text": "ICON schedules first quarter 2026 earnings conference call",
         "score": 102
@@ -46194,6 +45907,11 @@
         "url": "https://www.iconplc.com/about/environmental-social-and-governance/governance/icon-suppliers",
         "anchor_text": "Suppliers",
         "score": 86
+      },
+      {
+        "url": "https://www.iconplc.com/news-events/press-releases/icon-reports-first-quarter-2026-results",
+        "anchor_text": "ICON reports first quarter 2026 results",
+        "score": 83
       },
       {
         "url": "https://www.iconplc.com/sectors/biotech/plotting-course-bring-apac-developed-drugs-world",
@@ -47894,11 +47612,6 @@
     "press_url": "https://www.gsk.com/en-gb/media/press-releases/",
     "candidate_links": [
       {
-        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-s-b7-h3-targeted-antibody-drug-conjugate-risvutatug-rezetecan-granted-orphan-drug-designation-for-small-cell-lung-cancer-in-japan/",
-        "anchor_text": "23 March 2026GSK’s B7-H3-targeted antibody-drug conjugate, risvutatug rezetecan, granted Orphan Drug Designation for small-cell lung cancer in JapanDesignation supported by early clinical data showing durable responses in certain types of small-cell lung cancer (SCLC).",
-        "score": 182
-      },
-      {
         "url": "https://www.gsk.com/en-gb/media/press-releases/bepirovirsen-accepted-for-review-by-the-european-medicines-agency-as-a-potential-first-in-class-treatment-for-chronic-hepatitis-b/",
         "anchor_text": "27 March 2026Bepirovirsen accepted for review by the European Medicines Agency as a potential first-in-class treatment for chronic hepatitis BSubmission supported by statistically significant and clinically meaningful functional cure rates in pivotal PhIII B-Well trials",
         "score": 178
@@ -47977,6 +47690,11 @@
         "url": "https://www.gsk.com/en-gb/media/press-releases/tesaro-a-gsk-subsidiary-provides-update-on-anaptysbio-inc-litigation/",
         "anchor_text": "27 April 2026TESARO, a GSK subsidiary, provides update on AnaptysBio, Inc. litigationDelaware Chancery Court has granted the motion to dismiss filed by AnaptysBio, Inc. against TESARO’s claim for anticipatory breach.",
         "score": 117
+      },
+      {
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-announces-commencement-of-tender-offer-to-acquire-nuvalent-inc/",
+        "anchor_text": "24 June 2026GSK announces commencement of tender offer to acquire Nuvalent, Inc.GSK plc today announced that Harmony Row Acquisition Co. has commenced a tender offer to purchase all of the shares of Nuvalent, Inc.",
+        "score": 115
       },
       {
         "url": "https://www.gsk.com/en-gb/responsibility/global-health-and-health-security/using-our-science-for-global-health/",
@@ -49451,6 +49169,11 @@
         "score": 23
       },
       {
+        "url": "https://www.sumitomo-pharma.com/news/20260625.html",
+        "anchor_text": "Matters Concerning Controlling Shareholders, Etc.",
+        "score": 23
+      },
+      {
         "url": "https://www.sumitomo-pharma.com/news/20260619.html",
         "anchor_text": "Wegovy Subcutaneous Injection, Co-Promoted with Novo Nordisk Pharma, Approved in Japan for Metabolic Dysfunction-Associated Steatohepatitis (MASH)",
         "score": 23
@@ -49619,6 +49342,16 @@
       {
         "url": "https://www.otsuka.co.jp/en/research-and-development/clinical-trial-data-transparency/",
         "anchor_text": "Clinical Trial Data Transparency",
+        "score": 80
+      },
+      {
+        "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260625_1.html",
+        "anchor_text": "25 JUN 2026NewPharmaceuticalsOtsuka Announces Positive Phase 3b Results for Centanafadine in Adults with ADHD and Comorbid Anxiety",
+        "score": 80
+      },
+      {
+        "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260624_1.html",
+        "anchor_text": "24 JUN 2026NewNutraceuticalsOtsuka America Establishes the POCARI SWEAT SCIENCE ADVISORY BOARDAnnounces New Heat Illness Prevention Guidance to Address Heat Challenges in the United States",
         "score": 80
       },
       {
@@ -50623,6 +50356,11 @@
         "score": 79
       },
       {
+        "url": "https://www.shionogi.com/global/en/investors/ir-library/Action-to-stock-price.html",
+        "anchor_text": "Update for Actions to Achieve Management that is Conscious of Capital Costs and Stock Prices",
+        "score": 78
+      },
+      {
         "url": "https://www.shionogi.com/global/en/sustainability/governance/risk-management.html",
         "anchor_text": "Risk Management",
         "score": 77
@@ -50676,6 +50414,11 @@
         "url": "https://www.shionogi.com/global/en/news/2026/01/20260120_01.html",
         "anchor_text": "GSK, Pfizer and Shionogi agree on changes to ViiV Healthcare shareholding",
         "score": 77
+      },
+      {
+        "url": "https://www.shionogi.com/global/en/news/2026/06/2026062400.html",
+        "anchor_text": "Notice of Disposal of Treasury Shares as Restricted Stock Compensation Plan",
+        "score": 76
       },
       {
         "url": "https://www.shionogi.com/global/en/news/2026/06/20260601,2.html",
@@ -51977,11 +51720,6 @@
       {
         "url": "https://www.kyowakirin.com/media_center/news_releases/2026/e20260303_01.html",
         "anchor_text": "Kyowa Kirin Announces Discontinuation of Rocatinlimab Clinical Trials",
-        "score": 83
-      },
-      {
-        "url": "https://www.kyowakirin.com/media_center/news_releases/2026/e20260216_01.html",
-        "anchor_text": "Kyowa Kirin Highlights Positive Phase 3 Topline Data from BridgeBio’s Global PROPEL 3 Study of Infigratinib in Achondroplasia",
         "score": 83
       },
       {
@@ -57040,7 +56778,7 @@
         "score": 27
       },
       {
-        "url": "https://ir.novavax.com/press-releases?page=34",
+        "url": "https://ir.novavax.com/press-releases?page=33",
         "anchor_text": "last pageLast",
         "score": 27
       },
@@ -61105,11 +60843,6 @@
         "score": 161
       },
       {
-        "url": "https://www.genethon.fr/ana-buj-bello-laureate-du-prix-leon-baratz-docteur-darolles-pour-ses-travaux-sur-une-therapie-genique-pour-traiter-la-myopathie-myotubulaire/",
-        "anchor_text": "(plus)",
-        "score": 156
-      },
-      {
         "url": "https://www.genethon.fr/drepanocytose-feu-vert-de-lansm-pour-lessai-clinique-drepamir-genethon-contributeur-cle-au-developpement-du-vecteur-lentiviral-innovant/",
         "anchor_text": "(plus)",
         "score": 151
@@ -61177,6 +60910,11 @@
       {
         "url": "https://www.genethon.fr/notre-science/nos-equipes/equipe-maladies-neuromusculaires-et-therapie-genique/",
         "anchor_text": "Maladies neuromusculaires et thérapie génique",
+        "score": 98
+      },
+      {
+        "url": "https://www.genethon.fr/genother-summit-2026-une-dynamique-collective-pour-accelerer-la-medecine-genetique/",
+        "anchor_text": "(plus)",
         "score": 98
       },
       {
@@ -61492,6 +61230,11 @@
         "score": 128
       },
       {
+        "url": "https://www.asimov.com/news/asimov-launches-chrysalis-transposase-a-wholly-owned-genome-integration-tool-for-biotherapeutics-production",
+        "anchor_text": "Read more",
+        "score": 127
+      },
+      {
         "url": "https://www.asimov.com/news/asimov-launches-rna-edge-a-lab-in-the-loop-platform-for-ai-optimization-of-rna-therapeutic-candidates",
         "anchor_text": "Read more",
         "score": 121
@@ -61505,11 +61248,6 @@
         "url": "https://www.asimov.com/news/drug-manufacture-has-one-huge-flaw-this-synthetic-biology-startup-just-raised-200m-to-fix-it",
         "anchor_text": "Read more",
         "score": 112
-      },
-      {
-        "url": "https://www.asimov.com/news/cytiva-and-asimov-collaborate-on-next-generation-cell-line-design-and-process-development",
-        "anchor_text": "Read more",
-        "score": 109
       },
       {
         "url": "https://www.asimov.com/news/bio-programming-toolkit-maker-asimov-launches-with-4-7m-from-andreessen-horowit",
@@ -61575,6 +61313,11 @@
         "url": "https://www.asimov.com/news/andreessen-horowitz",
         "anchor_text": "Read more",
         "score": 39
+      },
+      {
+        "url": "https://www.asimov.com/chrysalis-transposase",
+        "anchor_text": "New: Chrysalis transposase",
+        "score": 34
       },
       {
         "url": "https://www.asimov.com/terms-of-service",
@@ -64650,7 +64393,7 @@
       },
       {
         "url": "https://www.chemcomp.com/en/UGM-2026-North_America.htm",
-        "anchor_text": "Read More",
+        "anchor_text": "Montreal, Canada",
         "score": 44
       },
       {
@@ -64930,34 +64673,9 @@
         "score": 134
       },
       {
-        "url": "https://www.biosolveit.de/2025/12/17/biosolveit-at-34th-gp2a-2026-conference-on-medicinal-chemistry-in-gothenburg/",
-        "anchor_text": "Read on",
-        "score": 134
-      },
-      {
-        "url": "https://www.biosolveit.de/2026/01/21/ai-ml-in-early-drug-discovery-from-data-to-decisions-virtual-colloquium/",
-        "anchor_text": "Read on",
-        "score": 129
-      },
-      {
         "url": "https://www.biosolveit.de/2026/03/05/freedom-space-by-chemspace-march-2026-update-now-a-massive-296-billion/",
         "anchor_text": "Read on",
         "score": 128
-      },
-      {
-        "url": "https://www.biosolveit.de/2025/12/08/save-the-date-uk-qsar-2026-in-edinburgh-on-21-april-2026/",
-        "anchor_text": "Read on",
-        "score": 114
-      },
-      {
-        "url": "https://www.biosolveit.de/2025/09/23/enamines-real-space-september-2025-update-now-83-billion/",
-        "anchor_text": "Read on",
-        "score": 114
-      },
-      {
-        "url": "https://www.biosolveit.de/2025/12/09/emina-yekt-yilmaz-wins-scientific-challenge-winter-2024/",
-        "anchor_text": "Read on",
-        "score": 113
       },
       {
         "url": "https://www.biosolveit.de/2026/03/30/uk-qsar-2026-abstract-and-full-programme-now-avaliable/",
@@ -64985,17 +64703,7 @@
         "score": 105
       },
       {
-        "url": "https://www.biosolveit.de/2025/10/15/recordings-of-the-biosolveit-day-2025-available/",
-        "anchor_text": "Read on",
-        "score": 105
-      },
-      {
         "url": "https://www.biosolveit.de/2026/05/21/vast-space-by-xtalpi-access-now-with-our-tools/",
-        "anchor_text": "Read on",
-        "score": 104
-      },
-      {
-        "url": "https://www.biosolveit.de/2026/02/10/seesar-15-apollo-decode-activity-gain-insights/",
         "anchor_text": "Read on",
         "score": 104
       },
@@ -65025,29 +64733,9 @@
         "score": 93
       },
       {
-        "url": "https://www.biosolveit.de/2026/01/21/uk-qsar-2026-registrations-are-open/",
-        "anchor_text": "Read on",
-        "score": 93
-      },
-      {
         "url": "https://www.biosolveit.de/2026/06/08/synple-space-merging-with-explore/",
         "anchor_text": "Read on",
         "score": 91
-      },
-      {
-        "url": "https://www.biosolveit.de/2026/02/09/scientific-challenge-spring-2026/",
-        "anchor_text": "Read on",
-        "score": 90
-      },
-      {
-        "url": "https://www.biosolveit.de/2025/11/10/winter-2025-scientific-challenge/",
-        "anchor_text": "Read on",
-        "score": 90
-      },
-      {
-        "url": "https://www.biosolveit.de/2026/01/19/tool-of-the-month-spacelight/",
-        "anchor_text": "Read on",
-        "score": 86
       },
       {
         "url": "https://www.biosolveit.de/2026/03/19/uk-qsar-2026-one-month-away/",
@@ -65066,11 +64754,6 @@
       },
       {
         "url": "https://www.biosolveit.de/2026/04/29/tool-of-the-month-flexx/",
-        "anchor_text": "Read on",
-        "score": 81
-      },
-      {
-        "url": "https://www.biosolveit.de/2025/12/15/biosolveit-wrapped-2025/",
         "anchor_text": "Read on",
         "score": 81
       },
@@ -66971,11 +66654,6 @@
         "score": 81
       },
       {
-        "url": "https://nanoporetech.com/blog/benchmarking-data-what-it-is-why-it-matters-and-how-to-use-it",
-        "anchor_text": "Benchmarking data: what it is, why it matters, and how to use it",
-        "score": 81
-      },
-      {
         "url": "https://nanoporetech.com/news/action-for-me-announces-research-study-for-me-and-long-covid",
         "anchor_text": "Action for ME announces research study for ME and Long Covid",
         "score": 80
@@ -67004,6 +66682,11 @@
         "url": "https://nanoporetech.com/news/news-blog-you-cant-put-label-innovation-or-can-you",
         "anchor_text": "news blog you cant put label innovation or can you",
         "score": 70
+      },
+      {
+        "url": "https://nanoporetech.com/blog/science-unlocked-publication-picks-from-may-2026",
+        "anchor_text": "Science Unlocked: publication picks from May 2026",
+        "score": 68
       },
       {
         "url": "https://nanoporetech.com/applications/investigations/single-cell-sequencing",
@@ -67998,11 +67681,6 @@
     "press_url": "https://www.gsk.com/en-gb/media/press-releases/",
     "candidate_links": [
       {
-        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-s-b7-h3-targeted-antibody-drug-conjugate-risvutatug-rezetecan-granted-orphan-drug-designation-for-small-cell-lung-cancer-in-japan/",
-        "anchor_text": "23 March 2026GSK’s B7-H3-targeted antibody-drug conjugate, risvutatug rezetecan, granted Orphan Drug Designation for small-cell lung cancer in JapanDesignation supported by early clinical data showing durable responses in certain types of small-cell lung cancer (SCLC).",
-        "score": 182
-      },
-      {
         "url": "https://www.gsk.com/en-gb/media/press-releases/bepirovirsen-accepted-for-review-by-the-european-medicines-agency-as-a-potential-first-in-class-treatment-for-chronic-hepatitis-b/",
         "anchor_text": "27 March 2026Bepirovirsen accepted for review by the European Medicines Agency as a potential first-in-class treatment for chronic hepatitis BSubmission supported by statistically significant and clinically meaningful functional cure rates in pivotal PhIII B-Well trials",
         "score": 178
@@ -68081,6 +67759,11 @@
         "url": "https://www.gsk.com/en-gb/media/press-releases/tesaro-a-gsk-subsidiary-provides-update-on-anaptysbio-inc-litigation/",
         "anchor_text": "27 April 2026TESARO, a GSK subsidiary, provides update on AnaptysBio, Inc. litigationDelaware Chancery Court has granted the motion to dismiss filed by AnaptysBio, Inc. against TESARO’s claim for anticipatory breach.",
         "score": 117
+      },
+      {
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-announces-commencement-of-tender-offer-to-acquire-nuvalent-inc/",
+        "anchor_text": "24 June 2026GSK announces commencement of tender offer to acquire Nuvalent, Inc.GSK plc today announced that Harmony Row Acquisition Co. has commenced a tender offer to purchase all of the shares of Nuvalent, Inc.",
+        "score": 115
       },
       {
         "url": "https://www.gsk.com/en-gb/responsibility/global-health-and-health-security/using-our-science-for-global-health/",
@@ -68949,9 +68632,9 @@
     "press_url": "https://www.menarini.com/en-us/news.html",
     "candidate_links": [
       {
-        "url": "https://www.menarini.com/en-us/news/news-detail/fair-play-menarini-international-award-honouring-three-young-champions-of-courage-and-humanity.html",
+        "url": "https://www.menarini.com/en-us/news/news-detail/premio-internazionale-fair-play-menarini-diego-milito-ed-emilio-butragueno-nel-parterre-della-30esima-edizione.html",
         "anchor_text": "READ MORE",
-        "score": 141
+        "score": 157
       },
       {
         "url": "https://www.menarini.com/en-us/news/fair-play-menarini/archive/fair-play-menarini-international-awards-2023/fair-play-in-menarinis-dna.html",
@@ -70226,8 +69909,8 @@
         "score": 30
       },
       {
-        "url": "https://www.glpg.com/press-releases/?pr_page=76",
-        "anchor_text": "76",
+        "url": "https://www.glpg.com/press-releases/?pr_page=77",
+        "anchor_text": "77",
         "score": 30
       },
       {
@@ -70251,6 +69934,11 @@
     "company": "Ablynx (Sanofi)",
     "press_url": "https://www.sanofi.com/en/media-room/press-releases",
     "candidate_links": [
+      {
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-25-06-00-00-3317281",
+        "anchor_text": "Read the Press Release",
+        "score": 107
+      },
       {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-23-05-15-00-3315701",
         "anchor_text": "Read the Press Release",
@@ -70343,11 +70031,6 @@
       },
       {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-05-00-00-3278646",
-        "anchor_text": "Read the Press Release",
-        "score": 107
-      },
-      {
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-18-10-00-00-3276558",
         "anchor_text": "Read the Press Release",
         "score": 107
       },
@@ -71719,6 +71402,11 @@
         "score": 182
       },
       {
+        "url": "https://www.calicolabs.com/press/calico-life-sciences-announces-fosigotifator-granted-breakthrough-therapy-designation-by-the-u-s-fda-for-the-treatment-of-vanishing-white-matter-disease/",
+        "anchor_text": "Keep Reading",
+        "score": 176
+      },
+      {
         "url": "https://www.calicolabs.com/press/calico-life-sciences-announces-that-fosigotifator-abbv-cls-7262-for-vanishing-white-matter-disease-has-been-selected-for-the-fda-start-pilot-program/",
         "anchor_text": "Calico Life Sciences Announces that Fosigotifator (ABBV-CLS-7262) for Vanishing White Matter Disease has been Selected for the FDA START Pilot Program",
         "score": 172
@@ -71780,7 +71468,7 @@
       },
       {
         "url": "https://www.calicolabs.com/press/calico-and-nexo-enter-into-collaboration-to-discover-and-develop-small-molecule-therapies-for-age-related-diseases/",
-        "anchor_text": "Keep Reading",
+        "anchor_text": "Calico and Nexo Enter into Collaboration to Discover and Develop Small Molecule Therapies for Age-Related Diseases",
         "score": 138
       },
       {
@@ -71801,6 +71489,11 @@
       {
         "url": "https://www.calicolabs.com/press/calico-appoints-joseph-r-arron-m-d-ph-d-as-head-of-human-biology-and-genetics/",
         "anchor_text": "Calico Appoints Joseph R. Arron, M.D., Ph.D., as Head of Human Biology and Genetics",
+        "score": 101
+      },
+      {
+        "url": "https://www.calicolabs.com/story/our-story-taking-a-long-term-view-on-tackling-aging-and-increasing-healthspan/",
+        "anchor_text": "Our Story",
         "score": 101
       },
       {
@@ -72400,44 +72093,14 @@
         "score": 50
       },
       {
-        "url": "https://alexion.com/our-therapy-areas/bone-metabolism",
-        "anchor_text": "Bone Metabolism",
-        "score": 48
-      },
-      {
-        "url": "https://alexion.com/our-therapy-areas/endocrinology",
-        "anchor_text": "Endocrinology",
-        "score": 46
-      },
-      {
         "url": "https://alexion.com/innovation/data-science-and-ai",
         "anchor_text": "Data Science and AI",
         "score": 45
       },
       {
-        "url": "https://alexion.com/our-therapy-areas/rare-cancers",
-        "anchor_text": "Rare Cancers",
-        "score": 45
-      },
-      {
-        "url": "https://alexion.com/our-therapy-areas/haematology",
-        "anchor_text": "Haematology",
-        "score": 44
-      },
-      {
         "url": "https://alexion.com/alexion-managed-access-programs",
         "anchor_text": "Managed Access",
         "score": 44
-      },
-      {
-        "url": "https://alexion.com/our-therapy-areas/cardiology",
-        "anchor_text": "Cardiology",
-        "score": 43
-      },
-      {
-        "url": "https://alexion.com/our-therapy-areas/nephrology",
-        "anchor_text": "Nephrology",
-        "score": 43
       },
       {
         "url": "https://alexion.com/media-center/press-releases#main",
@@ -72450,18 +72113,13 @@
         "score": 42
       },
       {
-        "url": "https://alexion.com/our-therapy-areas/neurology",
-        "anchor_text": "Neurology",
-        "score": 42
-      },
-      {
         "url": "https://alexion.com/externally-sponsored-research",
         "anchor_text": "Externally Sponsored Research",
         "score": 42
       },
       {
         "url": "https://alexion.com/media-center/press-releases",
-        "anchor_text": "Cookie Settings",
+        "anchor_text": "More Details",
         "score": 42
       },
       {
@@ -72510,11 +72168,6 @@
         "score": 34
       },
       {
-        "url": "https://alexion.com/our-therapy-areas",
-        "anchor_text": "Therapy Areas",
-        "score": 30
-      },
-      {
         "url": "https://alexion.com/clinical-trials",
         "anchor_text": "Clinical Trials",
         "score": 28
@@ -72537,6 +72190,11 @@
       {
         "url": "https://alexion.com/worldwide/switzerland",
         "anchor_text": "Switzerland",
+        "score": 26
+      },
+      {
+        "url": "https://alexion.com/disease-areas",
+        "anchor_text": "Disease Areas",
         "score": 26
       },
       {
@@ -72661,7 +72319,7 @@
       },
       {
         "url": "https://alexion.com/Legal#privacynotice",
-        "anchor_text": "More information",
+        "anchor_text": "cookie notice web page",
         "score": 8
       },
       {
@@ -73223,16 +72881,6 @@
         "score": 28
       },
       {
-        "url": "https://inventivapharma.com/investors/financials/#shareholder-meetings",
-        "anchor_text": "Shareholder Meetings",
-        "score": 28
-      },
-      {
-        "url": "https://inventivapharma.com/investors/financials/#shareholder-newsletter",
-        "anchor_text": "Shareholder Newsletter",
-        "score": 28
-      },
-      {
         "url": "https://inventivapharma.com/investors/governance/",
         "anchor_text": "Governance",
         "score": 28
@@ -73250,6 +72898,16 @@
       {
         "url": "https://inventivapharma.com/investors/governance/#committees",
         "anchor_text": "Committees",
+        "score": 28
+      },
+      {
+        "url": "https://inventivapharma.com/investors/governance/#shareholder-meetings",
+        "anchor_text": "Shareholder Meetings",
+        "score": 28
+      },
+      {
+        "url": "https://inventivapharma.com/investors/governance/#shareholder-newsletter",
+        "anchor_text": "Shareholder Newsletter",
         "score": 28
       },
       {
@@ -73846,6 +73504,11 @@
     "press_url": "https://www.sanofi.com/en/media-room/press-releases",
     "candidate_links": [
       {
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-25-06-00-00-3317281",
+        "anchor_text": "Read the Press Release",
+        "score": 107
+      },
+      {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-23-05-15-00-3315701",
         "anchor_text": "Read the Press Release",
         "score": 107
@@ -73937,11 +73600,6 @@
       },
       {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-05-00-00-3278646",
-        "anchor_text": "Read the Press Release",
-        "score": 107
-      },
-      {
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-18-10-00-00-3276558",
         "anchor_text": "Read the Press Release",
         "score": 107
       },
@@ -75583,6 +75241,287 @@
     "candidate_links": []
   },
   {
+    "company": "Abiogenesis Clinpharm Private Limited",
+    "press_url": "https://abiogenesisclinpharm.com/blog/",
+    "candidate_links": [
+      {
+        "url": "https://abiogenesisclinpharm.com/clinical-research-organization-in-india-2026/",
+        "anchor_text": "0",
+        "score": 60
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/category/clinical-research-organization/",
+        "anchor_text": "Clinical Research Organization",
+        "score": 57
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/cell-and-gene-therapy-progress-challenges/",
+        "anchor_text": "Cell and Gene Therapy in 2026: Progress, Challenges, and What’s Coming Next",
+        "score": 57
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/rbqm-in-2026-intelligence-clinical-trials/",
+        "anchor_text": "0",
+        "score": 57
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/clinical-research-organization-in-indias/",
+        "anchor_text": "0",
+        "score": 56
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/uk-clinical-trials-reform-2026-ich-e6r3/",
+        "anchor_text": "0",
+        "score": 55
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/clinical-research-organizations-trials/",
+        "anchor_text": "0",
+        "score": 54
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/herbal-food-and-nutraceutical-studies/",
+        "anchor_text": "Herbal, Food, and Nutraceutical Studies",
+        "score": 53
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/real-world-evidence-supports-programs/",
+        "anchor_text": "",
+        "score": 53
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/semaglutide-clinical-trials-generics/",
+        "anchor_text": "0",
+        "score": 52
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/service/biostatistics-programming/",
+        "anchor_text": "Biostatistics & Programming",
+        "score": 51
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/category/clinical-operations/",
+        "anchor_text": "Clinical Operations",
+        "score": 46
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/service/clinical-operations/",
+        "anchor_text": "Clinical Operations",
+        "score": 45
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/decentralized-clinical-trials/",
+        "anchor_text": "Decentralized Clinical Trials",
+        "score": 45
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/category/regulatory-affairs/",
+        "anchor_text": "Regulatory Affairs",
+        "score": 45
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/service/regulatory-affairs/",
+        "anchor_text": "Regulatory Affairs",
+        "score": 44
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/category/quality-assurance/",
+        "anchor_text": "Quality Assurance",
+        "score": 44
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/service/quality-assurance/",
+        "anchor_text": "Quality Assurance",
+        "score": 43
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/india-uk-biosimilar-pathway/",
+        "anchor_text": "India – UK Biosimilar Corridor: A Controlled Evidence Pathway",
+        "score": 43
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/blog/contact@abiogenesisclinpharm.com",
+        "anchor_text": "[email protected]",
+        "score": 42
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/category/data-management/",
+        "anchor_text": "Data Management",
+        "score": 42
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/category/medical-affairs/",
+        "anchor_text": "Medical Affairs",
+        "score": 42
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/service/data-management/",
+        "anchor_text": "Data Management",
+        "score": 41
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/service/medical-affairs/",
+        "anchor_text": "Medical Affairs",
+        "score": 41
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/small-molecule-and-fdc/",
+        "anchor_text": "Small Molecule & FDC",
+        "score": 38
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/ethnographic-research/",
+        "anchor_text": "Ethnographic Research",
+        "score": 37
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/real-world-studies/",
+        "anchor_text": "Real World Studies",
+        "score": 34
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/medical-monitoring/",
+        "anchor_text": "Medical Monitoring",
+        "score": 34
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/narcotics-studies/",
+        "anchor_text": "Narcotics Studies",
+        "score": 33
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/cosmetic-studies/",
+        "anchor_text": "Cosmetic Studies",
+        "score": 32
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/terms-conditions/",
+        "anchor_text": "Terms & Conditions",
+        "score": 32
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/medical-devices/",
+        "anchor_text": "Medical Devices",
+        "score": 31
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/rescue-studies/",
+        "anchor_text": "Rescue Studies",
+        "score": 30
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/privacy-policy/",
+        "anchor_text": "Privacy Policy",
+        "score": 30
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/cookies-policy/",
+        "anchor_text": "Cookies Policy",
+        "score": 30
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/pk-pd-studies/",
+        "anchor_text": "Pk/Pd Studies",
+        "score": 29
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/category/biostastics/",
+        "anchor_text": "Biostastics",
+        "score": 28
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/our-journey/",
+        "anchor_text": "Our Journey",
+        "score": 27
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/about-us/",
+        "anchor_text": "About Us",
+        "score": 24
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/our-team/",
+        "anchor_text": "Team",
+        "score": 24
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/contact-us",
+        "anchor_text": "CONTACT US",
+        "score": 23
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/blog/page/2/",
+        "anchor_text": "Next page",
+        "score": 21
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/blog/page/3/",
+        "anchor_text": "3",
+        "score": 21
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/blog/page/6/",
+        "anchor_text": "6",
+        "score": 21
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/biosimilar/",
+        "anchor_text": "Biosimilar",
+        "score": 16
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/accolades/",
+        "anchor_text": "Accolades",
+        "score": 15
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/contacts/",
+        "anchor_text": "Contact",
+        "score": 14
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/product/",
+        "anchor_text": "Product",
+        "score": 13
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/vaccine/",
+        "anchor_text": "Vaccine",
+        "score": 13
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/career/",
+        "anchor_text": "Career",
+        "score": 12
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/cdisc/",
+        "anchor_text": "CDISC",
+        "score": 11
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/blog/",
+        "anchor_text": "Blog",
+        "score": 10
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/blog/#top",
+        "anchor_text": "",
+        "score": 10
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/nce/",
+        "anchor_text": "NCE",
+        "score": 9
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/",
+        "anchor_text": "Abiogenesis Clinpharm",
+        "score": 3
+      }
+    ]
+  },
+  {
     "company": "T-Hub",
     "press_url": "https://t-hub.co/media/",
     "candidate_links": []
@@ -76104,7 +76043,7 @@
       },
       {
         "url": "https://www.merckgroup.com/en/sustainability/business-ethics/compliance/compliance-hotline.html",
-        "anchor_text": "Compliance-Hotline",
+        "anchor_text": "Company Info",
         "score": 89
       },
       {
@@ -77050,6 +76989,147 @@
     "candidate_links": []
   },
   {
+    "company": "Generate Biomedicines",
+    "press_url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases",
+    "candidate_links": [
+      {
+        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-expands-board-of-directors-with-appointment-of-marsha-fanucci",
+        "anchor_text": "Generate:Biomedicines Expands Board of Directors with Appointment of Marsha Fanucci",
+        "score": 110
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-announces-multi-target-collaboration-with-novartis",
+        "anchor_text": "Generate:Biomedicines Announces Multi-Target Collaboration with Novartis to Discover and Develop Protein Therapeutics with GenerativeAI",
+        "score": 99
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-provides-update-on-its-platform-and-pipeline",
+        "anchor_text": "Generate:Biomedicines Provides Update on its Platform and Pipeline Powered byAIat the43rdAnnual J.P. Morgan Healthcare Conference",
+        "score": 93
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-expands-board-of-directors",
+        "anchor_text": "Generate:Biomedicines Expands Board of Directors with the Appointment of Rupert Vessey, M.D., Ph.D., and Nancy Simonian, M.D.",
+        "score": 75
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-expands-c-suite",
+        "anchor_text": "Generate:Biomedicines Expands C‑suite with Chief Corporate Affairs Officer and Chief Technical Operations Officer",
+        "score": 64
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/generate-welcomes-laurie-lee",
+        "anchor_text": "Generate:Biomedicines Welcomes Laurie Lee,MD, as Chief Medical Officer for the Immunology&Inflammation Portfolio",
+        "score": 56
+      },
+      {
+        "url": "https://generatebiomedicines.com/generative-biology",
+        "anchor_text": "Generative Biology®",
+        "score": 31
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases",
+        "anchor_text": "News Releases",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases#main-content",
+        "anchor_text": "Skip to content",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases#main-nav",
+        "anchor_text": "Skip to navigation",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type",
+        "anchor_text": "Overview",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type=blogPosts",
+        "anchor_text": "Blog Posts",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type=mediaHighlights",
+        "anchor_text": "Media Highlights",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type=publications",
+        "anchor_text": "Presentations & Publications",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p3?type=newsReleases",
+        "anchor_text": "Next Page",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p4?type=newsReleases",
+        "anchor_text": "4",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p5?type=newsReleases",
+        "anchor_text": "5",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/privacy-policy",
+        "anchor_text": "Privacy Policy",
+        "score": 27
+      },
+      {
+        "url": "https://generatebiomedicines.com/terms-of-use",
+        "anchor_text": "Terms of Use",
+        "score": 25
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center",
+        "anchor_text": "Media Center",
+        "score": 25
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center?type=newsReleases",
+        "anchor_text": "1",
+        "score": 25
+      },
+      {
+        "url": "https://generatebiomedicines.com/about-us",
+        "anchor_text": "About Us",
+        "score": 21
+      },
+      {
+        "url": "https://generatebiomedicines.com/platform",
+        "anchor_text": "The Generate Platform™",
+        "score": 11
+      },
+      {
+        "url": "https://generatebiomedicines.com/pipeline",
+        "anchor_text": "Pipeline",
+        "score": 11
+      },
+      {
+        "url": "https://generatebiomedicines.com/careers",
+        "anchor_text": "Careers",
+        "score": 10
+      },
+      {
+        "url": "https://generatebiomedicines.com/contact",
+        "anchor_text": "",
+        "score": 10
+      },
+      {
+        "url": "https://generatebiomedicines.com/",
+        "anchor_text": "",
+        "score": 3
+      }
+    ]
+  },
+  {
     "company": "Sangamo Therapeutics",
     "press_url": "http://investor.sangamo.com/news-releases",
     "candidate_links": []
@@ -77085,7 +77165,7 @@
       },
       {
         "url": "https://www.merckgroup.com/en/sustainability/business-ethics/compliance/compliance-hotline.html",
-        "anchor_text": "Compliance-Hotline",
+        "anchor_text": "Company Info",
         "score": 89
       },
       {

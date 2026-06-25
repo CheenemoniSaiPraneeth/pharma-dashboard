@@ -1,4 +1,75 @@
 {
+  "2026-06-25": {
+    "bispecific antibodies": [
+      {
+        "company": "WuXi Biologics",
+        "modality": "bispecific antibodies",
+        "news": "WuXi Biologics announced that its 25th drug substance facility (MFG17) in Shanghai successfully completed its first GMP production campaign with zero deviations. The facility is equipped to support the manufacturing of complex biologics, including bispecific antibodies, utilizing flexible single-use technologies and advanced continuous manufacturing capabilities.",
+        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-25th-drug-substance-facility-completes-first-gmp-production-manufacturing-process-execution-with-zero-deviations/",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "WuXi Biologics",
+        "modality": "bispecific antibodies",
+        "news": "WuXi Biologics' Suzhou Biosafety Testing Center received its fourth EMA GMP certification following a successful inspection with zero critical findings. This certification enables the release of 19 commercial biologics for the European market, a portfolio that includes complex modalities such as bispecific antibodies developed on the company's integrated platforms.",
+        "url": "https://www.wuxibiologics.com/wuxi-biologics-suzhou-biosafety-testing-center-received-fourth-ema-gmp-certification-enabling-19-commercial-products-for-the-european-market/",
+        "query": "bispecific antibodies"
+      }
+    ],
+    "monoclonal antibodies": [
+      {
+        "company": "WuXi Biologics",
+        "modality": "monoclonal antibodies",
+        "news": "WuXi Biologics announced that its 25th drug substance facility, MFG17 in Shanghai, successfully completed its first GMP production campaign with zero deviations. The facility is equipped to support the manufacturing of monoclonal antibodies and other biologics with a capacity of 9,000 liters for 80-100 batches annually.",
+        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-25th-drug-substance-facility-completes-first-gmp-production-manufacturing-process-execution-with-zero-deviations/",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "WuXi Biologics",
+        "modality": "monoclonal antibodies",
+        "news": "The Suzhou Biosafety Testing Center of WuXi Biologics received its fourth EMA GMP certification following a successful inspection with zero critical findings. This certification enables the release of 19 commercial biologics products, the majority of which are monoclonal antibodies, for the European market.",
+        "url": "https://www.wuxibiologics.com/wuxi-biologics-suzhou-biosafety-testing-center-received-fourth-ema-gmp-certification-enabling-19-commercial-products-for-the-european-market/",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Pfizer",
+        "modality": "monoclonal antibodies",
+        "news": "The FDA approved Pfizer's IBRANCE (palbociclib) regimen in combination with the monoclonal antibodies trastuzumab and pertuzumab for the frontline maintenance treatment of HR+, HER2+ metastatic breast cancer. This approval, based on Phase 3 PATINA trial data, marks the first CDK4/6 inhibitor indication for patients regardless of HER2 status.",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/fda-approves-pfizers-ibrance-regimen-hr-her2-metastatic",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Gilead Sciences",
+        "modality": "monoclonal antibodies",
+        "news": "The European Commission granted marketing authorization for Trodelvy (sacituzumab govitecan-hziy) as a first-line treatment for metastatic triple-negative breast cancer in patients not candidates for PD-(L)1 inhibitors, based on Phase 3 ASCENT-03 data.",
+        "url": "https://www.gilead.com/news/news-details/2026/european-commission-approves-trodelvy-as-a-first-line-treatment-for-metastatic-triple-negative-breast-cancer-patients-not-candidates-for-pd-l1-inhibitors",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Gilead Sciences",
+        "modality": "monoclonal antibodies",
+        "news": "The U.S. FDA approved Trodelvy (sacituzumab govitecan-hziy) for the first-line treatment of metastatic triple-negative breast cancer, either as a monotherapy or in combination with Keytruda (pembrolizumab), based on ASCENT-03 and ASCENT-04 trial results.",
+        "url": "https://www.gilead.com/news/news-details/2026/u-s--fda-approves-trodelvy-for-first-line-treatment-of-metastatic-triple-negative-breast-cancer",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Astellas Pharma",
+        "modality": "monoclonal antibodies",
+        "news": "The European Commission approved PADCEV (enfortumab vedotin) in combination with Keytruda (pembrolizumab) as the first perioperative treatment option for cisplatin-ineligible patients with resectable muscle-invasive bladder cancer, based on Phase 3 EV-303 results.",
+        "url": "https://newsroom.astellas.com/2026-06-24-european-commission-approves-padcev-enfortumab-vedotin-in-combination-with-keytruda-pembrolizumab-as-the-first-and-only-approved-perioperative-treatment-option-for-cisplatin-ineligible-patients-with-resectable-muscle-invasive-bladder-cancer",
+        "query": "monoclonal antibodies"
+      }
+    ],
+    "gene editing": [
+      {
+        "company": "Genetix Biotherapeutics",
+        "modality": "gene editing",
+        "news": "Genetix Biotherapeutics and SPIMACO announced an exclusive strategic agreement to commercialize and manufacture the gene addition therapies LYFGENIA and ZYNTEGLO in Saudi Arabia and the broader Middle East. The partnership includes localized manufacturing capabilities to address sickle cell disease and beta-thalassemia in the region.",
+        "url": "https://www.genetixbiotx.com/press-release-2026-06-23.html",
+        "query": "gene editing"
+      }
+    ]
+  },
   "2026-06-23": {
     "bispecific antibodies": [
       {
