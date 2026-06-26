@@ -1,394 +1,79 @@
 [
     {
-        "company": "Sanofi",
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-25-06-00-00-3317281",
-        "score": 107,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
         "company": "Veeva Systems",
-        "url": "https://www.veeva.com/resources/veeva-acquires-copli-launches-veeva-falcon-mlr-to-accelerate-content-review/",
-        "score": 103,
-        "date_added": "2026-06-25",
+        "url": "https://www.veeva.com/resources/veeva-introduces-new-ehs-application-for-proactive-risk-management-and-intelligent-automation/",
+        "score": 121,
+        "date_added": "2026-06-26",
         "article_like": true
     },
     {
-        "company": "BIRAC",
-        "url": "https://www.birac.nic.in/desc_new.php?id=1336",
-        "score": 15,
-        "date_added": "2026-06-25",
+        "company": "Lupin",
+        "url": "https://www.lupin.com/media/press-releases/lupin-receives-tentative-approval-from-u-s-fda-for-enzalutamide-tablets",
+        "score": 109,
+        "date_added": "2026-06-26",
         "article_like": true
     },
     {
-        "company": "BIRAC",
-        "url": "https://www.birac.nic.in/desc_new.php?id=1337",
-        "score": 15,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "BIRAC",
-        "url": "https://www.birac.nic.in/desc_new.php?id=1338",
-        "score": 15,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "BIRAC",
-        "url": "https://www.birac.nic.in/desc_new.php?id=1339",
-        "score": 15,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "BIRAC",
-        "url": "https://www.birac.nic.in/desc_new.php?id=1340",
-        "score": 15,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "BIRAC",
-        "url": "https://www.birac.nic.in/desc_new.php?id=1341",
-        "score": 15,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "BIRAC",
-        "url": "https://www.birac.nic.in/desc_new.php?id=1342",
-        "score": 15,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "BIRAC",
-        "url": "https://www.birac.nic.in/desc_new.php?id=1343",
-        "score": 15,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "BIRAC",
-        "url": "https://www.birac.nic.in/desc_new.php?id=1344",
-        "score": 15,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "BIRAC",
-        "url": "https://www.birac.nic.in/desc_new.php?id=1345",
-        "score": 15,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "Jubilant Biosys",
-        "url": "https://www.jubilantbiosys.com/scientific-posters/",
-        "score": 34,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "Illumina",
-        "url": "https://www.illumina.com/company/news-center/feature-articles/The-Sequence-video-podcast-episode-02.html",
-        "score": 98,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "Illumina",
-        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=0e864f97-e34a-4a60-bc9e-f8c4604a045e",
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/2026-06-25-Abbott-hosts-conference-call-for-second-quarter-earnings",
         "score": 80,
-        "date_added": "2026-06-25",
+        "date_added": "2026-06-26",
         "article_like": true
     },
     {
-        "company": "Boston Consulting Group",
-        "url": "https://www.bcg.com/press/24june2026-cpg-retail-leaders-ai",
-        "score": 53,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "KPMG",
-        "url": "https://kpmg.com/xx/en/media/press-releases/2026/06/growing-adoption-signals-progress-as-cost-visibility-and-accountability-drive-ai-value.html",
-        "score": 176,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "GSK",
-        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-announces-commencement-of-tender-offer-to-acquire-nuvalent-inc/",
-        "score": 115,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "WuXi Biologics",
-        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-25th-drug-substance-facility-completes-first-gmp-production-manufacturing-process-execution-with-zero-deviations/",
-        "score": 159,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "WuXi Biologics",
-        "url": "https://www.wuxibiologics.com/wuxi-biologics-suzhou-biosafety-testing-center-received-fourth-ema-gmp-certification-enabling-19-commercial-products-for-the-european-market/",
-        "score": 156,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "Labcorp Drug Development",
-        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/new-labcorp-studies-show-promise-blood-based-tests-predict-liver-disease-risk-and-progression-0.html",
-        "score": 179,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "Labcorp Drug Development",
-        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/labcorp-and-olaris-announce-collaboration-expand-access-innovative-kidney-transplant-monitoring.html",
-        "score": 173,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "Labcorp Drug Development",
-        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/why-medical-laboratory-scientists-matter-how-labcorp-building-healthcare-talent-pipeline.html",
-        "score": 166,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "Labcorp Drug Development",
-        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/fierce-pharma-how-real-world-data-powering-faster-smarter-biopharma-innovation.html",
-        "score": 156,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "Labcorp Drug Development",
-        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/study-blood-test-high-risk-liver-disease-primary-care-diabetes.html",
-        "score": 140,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "GE HealthCare",
-        "url": "https://www.gehealthcare.com/en-us/services/service-agreements",
-        "score": 50,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "Stryker",
-        "url": "https://www.stryker.com/us/en/about/news/2026/stryker-partners-professional-golfer-shane-lowry-caregiver-journey.html",
-        "score": 141,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "Pfizer",
-        "url": "https://www.pfizer.com/news/press-release/press-release-detail/fda-approves-pfizers-ibrance-regimen-hr-her2-metastatic",
-        "score": 114,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "Pfizer",
-        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-invites-public-view-and-listen-webcast-august-4",
-        "score": 113,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "Pfizer",
-        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-declares-third-quarter-2026-dividend",
-        "score": 102,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "Pfizer",
-        "url": "https://www.pfizer.com/washington-health-data-privacy-policy",
-        "score": 50,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "AbbVie",
-        "url": "https://news.abbvie.com/2026-06-23-Allergan-Aesthetics-receives-approval-for-Boey-R-trenibotulinumtoxinE-in-Canada,-the-first-and-only-rapid-onset,-short-duration-neurotoxin-for-the-temporary-improvement-of-frown-lines-in-adult-patients",
-        "score": 225,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "AbbVie",
-        "url": "https://news.abbvie.com/2026-06-23-AbbVie-Announces-European-Commission-Approval-of-MAVIRET-R-Glecaprevir-Pibrentasvir-for-People-with-Acute-Hepatitis-C-Virus-Infection",
-        "score": 157,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "AbbVie",
-        "url": "https://news.abbvie.com/2026-06-24-BOTOX-R-Cosmetic-onabotulinumtoxinA-Introduces-The-Confidence-Collectives-Entrepreneur-Class-of-2026",
-        "score": 124,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "AbbVie",
-        "url": "https://news.abbvie.com/2026-06-24-BOTOX-R-Cosmetic-onabotulinumtoxinA-Introduces-The-Confidence-Collectives-Entrepreneur-Class-of-2026#assets_2429_124798-149",
-        "score": 124,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "Gilead Sciences",
-        "url": "https://www.gilead.com/news/news-details/2026/european-commission-approves-trodelvy-as-a-first-line-treatment-for-metastatic-triple-negative-breast-cancer-patients-not-candidates-for-pd-l1-inhibitors",
-        "score": 220,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "Gilead Sciences",
-        "url": "https://www.gilead.com/news/news-details/2026/u-s--fda-approves-trodelvy-for-first-line-treatment-of-metastatic-triple-negative-breast-cancer",
-        "score": 162,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "Astellas Pharma",
-        "url": "https://newsroom.astellas.com/2026-06-24-european-commission-approves-padcev-enfortumab-vedotin-in-combination-with-keytruda-pembrolizumab-as-the-first-and-only-approved-perioperative-treatment-option-for-cisplatin-ineligible-patients-with-resectable-muscle-invasive-bladder-cancer",
-        "score": 264,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "Takeda Pharmaceutical",
-        "url": "https://www.takeda.com/newsroom/newsreleases/2026/julie-kim-appointed-president-ceo-takeda/",
-        "score": 114,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "BeiGene",
-        "url": "https://ir.beonemedicines.com/news/blood-cancer-united-and-beone-medicines-announce-expanded-partnership-to-advance-patient-support-and-community/f66eb6b3-6e84-4be9-9fee-86ef1c26a260",
-        "score": 169,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "Insilico Medicine",
-        "url": "https://insilico.com/news/fzshrjdhj1-pharmaai-summer-update-preview-drive-the",
-        "score": 71,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "Genetix Bio",
-        "url": "https://www.genetixbiotx.com/press-release-2026-06-23.html",
-        "score": 42,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "WuXi AppTec",
-        "url": "https://www.wuxiapptec.com/news/wuxi-news/ljam2k30v1x53wz61xlvoaiv",
-        "score": 56,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "ICON plc",
-        "url": "https://www.iconplc.com/news-events/press-releases/icon-reports-first-quarter-2026-results",
-        "score": 83,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "Otsuka Pharmaceutical",
-        "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260625_1.html",
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/2026-06-25-Abbott-hosts-conference-call-for-second-quarter-earnings#assets_2429_124758-111",
         "score": 80,
-        "date_added": "2026-06-25",
+        "date_added": "2026-06-26",
         "article_like": true
     },
     {
-        "company": "Otsuka Pharmaceutical",
-        "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260624_1.html",
-        "score": 80,
-        "date_added": "2026-06-25",
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-advances-cardiac-ablation-technology-in-europe-with-availability-of-dual-energy-thermocool-smarttouch-sf-platform",
+        "score": 174,
+        "date_added": "2026-06-26",
         "article_like": true
     },
     {
-        "company": "Shionogi",
-        "url": "https://www.shionogi.com/global/en/investors/ir-library/Action-to-stock-price.html",
-        "score": 78,
-        "date_added": "2026-06-25",
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-begins-enrollment-in-pivotal-studies-evaluating-first-of-its-kind-carotid-ivl-platform",
+        "score": 147,
+        "date_added": "2026-06-26",
         "article_like": true
     },
     {
-        "company": "Shionogi",
-        "url": "https://www.shionogi.com/global/en/news/2026/06/2026062400.html",
-        "score": 76,
-        "date_added": "2026-06-25",
+        "company": "ProQR Therapeutics",
+        "url": "https://ir.proqr.com/press-releases/proqr-announces-positive-phase-1-target-engagement-data-for-ax-0810-establishing-first-clinical-validation-of-the-axiomer-rna-editing-platform",
+        "score": 172,
+        "date_added": "2026-06-26",
         "article_like": true
     },
     {
-        "company": "Genethon",
-        "url": "https://www.genethon.fr/genother-summit-2026-une-dynamique-collective-pour-accelerer-la-medecine-genetique/",
-        "score": 98,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "Asimov",
-        "url": "https://www.asimov.com/news/asimov-launches-chrysalis-transposase-a-wholly-owned-genome-integration-tool-for-biotherapeutics-production",
+        "company": "ProQR Therapeutics",
+        "url": "https://ir.proqr.com/press-releases/proqr-prices-500-million-underwritten-registered-direct-offering-and-concurrent-private-placement",
         "score": 127,
-        "date_added": "2026-06-25",
+        "date_added": "2026-06-26",
         "article_like": true
     },
     {
-        "company": "Asimov",
-        "url": "https://www.asimov.com/chrysalis-transposase",
-        "score": 34,
-        "date_added": "2026-06-25",
+        "company": "Valneva",
+        "url": "https://valneva.com/press-release/valneva-announces-successful-outcome-of-its-annual-general-meeting/",
+        "score": 98,
+        "date_added": "2026-06-26",
         "article_like": true
     },
     {
-        "company": "Oxford Nanopore Technologies",
-        "url": "https://nanoporetech.com/blog/science-unlocked-publication-picks-from-may-2026",
-        "score": 68,
-        "date_added": "2026-06-25",
+        "company": "Grail",
+        "url": "https://grail.com/press-releases/grail-completes-110-million-equity-financing-with-samsung-entities/",
+        "score": 99,
+        "date_added": "2026-06-26",
         "article_like": true
     },
     {
-        "company": "Menarini Group",
-        "url": "https://www.menarini.com/en-us/news/news-detail/premio-internazionale-fair-play-menarini-diego-milito-ed-emilio-butragueno-nel-parterre-della-30esima-edizione.html",
-        "score": 157,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "Calico Life Sciences",
-        "url": "https://www.calicolabs.com/press/calico-life-sciences-announces-fosigotifator-granted-breakthrough-therapy-designation-by-the-u-s-fda-for-the-treatment-of-vanishing-white-matter-disease/",
-        "score": 176,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "Inventiva Pharma",
-        "url": "https://inventivapharma.com/investors/governance/#shareholder-meetings",
-        "score": 28,
-        "date_added": "2026-06-25",
-        "article_like": true
-    },
-    {
-        "company": "Inventiva Pharma",
-        "url": "https://inventivapharma.com/investors/governance/#shareholder-newsletter",
-        "score": 28,
-        "date_added": "2026-06-25",
+        "company": "Abiogenesis Clinpharm Private Limited",
+        "url": "https://abiogenesisclinpharm.com/choose-right-cro-clinical-trials-2026/",
+        "score": 53,
+        "date_added": "2026-06-26",
         "article_like": true
     }
 ]
