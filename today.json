@@ -1,79 +1,100 @@
 [
     {
         "company": "Veeva Systems",
-        "url": "https://www.veeva.com/resources/veeva-introduces-new-ehs-application-for-proactive-risk-management-and-intelligent-automation/",
-        "score": 121,
-        "date_added": "2026-06-26",
+        "url": "https://www.veeva.com/commercial-evidence/",
+        "score": 35,
+        "date_added": "2026-06-27",
         "article_like": true
     },
     {
-        "company": "Lupin",
-        "url": "https://www.lupin.com/media/press-releases/lupin-receives-tentative-approval-from-u-s-fda-for-enzalutamide-tablets",
-        "score": 109,
-        "date_added": "2026-06-26",
+        "company": "SCIEX",
+        "url": "https://sciex.com/applications/pharma-and-biopharma/drug-discovery-research/metabolite-identification",
+        "score": 102,
+        "date_added": "2026-06-27",
         "article_like": true
     },
     {
-        "company": "Abbott Laboratories",
-        "url": "https://abbott.mediaroom.com/2026-06-25-Abbott-hosts-conference-call-for-second-quarter-earnings",
-        "score": 80,
-        "date_added": "2026-06-26",
+        "company": "Simson Pharma Limited",
+        "url": "https://www.simsonpharma.com/blog-details/difference-between-api-and-impurity-in-pharmaceuticals",
+        "score": 82,
+        "date_added": "2026-06-27",
         "article_like": true
     },
     {
-        "company": "Abbott Laboratories",
-        "url": "https://abbott.mediaroom.com/2026-06-25-Abbott-hosts-conference-call-for-second-quarter-earnings#assets_2429_124758-111",
-        "score": 80,
-        "date_added": "2026-06-26",
+        "company": "WuXi Biologics",
+        "url": "https://www.wuxibiologics.com/press-release/2026-summer-davos-wuxi-biologics-ceo-dr-chris-chen-empowering-client-growth-and-unlocking-the-business-value-through-green-crdmo/",
+        "score": 160,
+        "date_added": "2026-06-27",
         "article_like": true
     },
     {
-        "company": "Johnson & Johnson",
-        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-advances-cardiac-ablation-technology-in-europe-with-availability-of-dual-energy-thermocool-smarttouch-sf-platform",
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/inside-precision-medicine-labcorp-expands-dpyd-test-advance-safer-personalized-chemotherapy-care.html",
         "score": 174,
-        "date_added": "2026-06-26",
+        "date_added": "2026-06-27",
+        "article_like": true
+    },
+    {
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/medical-device-network-labcorp-launches-colosense-nationwide-expanding-access-home-colorectal.html",
+        "score": 171,
+        "date_added": "2026-06-27",
+        "article_like": true
+    },
+    {
+        "company": "Edwards Lifesciences",
+        "url": "https://www.edwards.com/newsroom/news/2026-06-26-edwards--structural-heart-leadership-demonstrated-",
+        "score": 92,
+        "date_added": "2026-06-27",
+        "article_like": true
+    },
+    {
+        "company": "AstraZeneca",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/datroway-recommended-for-approval-in-eu-for-tnbc.html",
+        "score": 149,
+        "date_added": "2026-06-27",
         "article_like": true
     },
     {
         "company": "Johnson & Johnson",
-        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-begins-enrollment-in-pivotal-studies-evaluating-first-of-its-kind-carotid-ivl-platform",
-        "score": 147,
-        "date_added": "2026-06-26",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-presents-new-imaavy-nipocalimab-aahu-data-at-european-academy-of-neurology-ean-2026-congress-reinforcing-sustained-disease-control-in-generalized-myasthenia-gravis",
+        "score": 224,
+        "date_added": "2026-06-27",
         "article_like": true
     },
     {
-        "company": "ProQR Therapeutics",
-        "url": "https://ir.proqr.com/press-releases/proqr-announces-positive-phase-1-target-engagement-data-for-ax-0810-establishing-first-clinical-validation-of-the-axiomer-rna-editing-platform",
-        "score": 172,
-        "date_added": "2026-06-26",
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/chmp-recommendation-advances-johnson-johnsons-tecvayli-teclistamab-plus-daratumumab-as-a-potential-standard-of-care-for-relapsed-refractory-multiple-myeloma",
+        "score": 201,
+        "date_added": "2026-06-27",
         "article_like": true
     },
     {
-        "company": "ProQR Therapeutics",
-        "url": "https://ir.proqr.com/press-releases/proqr-prices-500-million-underwritten-registered-direct-offering-and-concurrent-private-placement",
-        "score": 127,
-        "date_added": "2026-06-26",
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-06-26-SKYRIZI-R-risankizumab-rzaa-Now-FDA-Approved-for-Pediatric-Use-in-Psoriatic-Disease",
+        "score": 107,
+        "date_added": "2026-06-27",
         "article_like": true
     },
     {
-        "company": "Valneva",
-        "url": "https://valneva.com/press-release/valneva-announces-successful-outcome-of-its-annual-general-meeting/",
-        "score": 98,
-        "date_added": "2026-06-26",
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-06-26-AbbVie-to-Host-Second-Quarter-2026-Earnings-Conference-Call",
+        "score": 83,
+        "date_added": "2026-06-27",
         "article_like": true
     },
     {
-        "company": "Grail",
-        "url": "https://grail.com/press-releases/grail-completes-110-million-equity-financing-with-samsung-entities/",
-        "score": 99,
-        "date_added": "2026-06-26",
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/index.php?s=2429&o=2340#news_anchor",
+        "score": 12,
+        "date_added": "2026-06-27",
         "article_like": true
     },
     {
-        "company": "Abiogenesis Clinpharm Private Limited",
-        "url": "https://abiogenesisclinpharm.com/choose-right-cro-clinical-trials-2026/",
-        "score": 53,
-        "date_added": "2026-06-26",
+        "company": "Sarepta Therapeutics",
+        "url": "https://www.sarepta.com/newsroom/muscle-mri-duchenne-what-it-shows-and-why-it-matters",
+        "score": 76,
+        "date_added": "2026-06-27",
         "article_like": true
     }
 ]

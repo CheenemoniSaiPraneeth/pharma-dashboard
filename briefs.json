@@ -1,17 +1,10 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 9,
-    "items_extracted": 1,
+    "articles_used": 11,
+    "items_extracted": 0,
     "items_dropped": 0,
-    "generated_at": "2026-06-26 09:26:29"
+    "generated_at": "2026-06-27 08:53:23"
   },
-  "news": [
-    {
-      "company": "ProQR Therapeutics",
-      "modality": "gene editing",
-      "news": "ProQR Therapeutics announced positive Phase 1 target engagement data for its candidate AX-0810. This milestone establishes the first clinical validation of the company's Axiomer RNA editing platform, which utilizes ADAR machinery to make specific single nucleotide edits in RNA.",
-      "url": "https://ir.proqr.com/press-releases/proqr-announces-positive-phase-1-target-engagement-data-for-ax-0810-establishing-first-clinical-validation-of-the-axiomer-rna-editing-platform"
-    }
-  ]
+  "news": []
 }

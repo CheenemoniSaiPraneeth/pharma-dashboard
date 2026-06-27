@@ -1,4 +1,29 @@
 {
+  "2026-06-27": {
+    "monoclonal antibodies": [
+      {
+        "company": "AstraZeneca",
+        "modality": "monoclonal antibodies",
+        "news": "The CHMP recommended approval of Datroway (datopotamab deruxtecan), a TROP2-directed antibody drug conjugate containing a humanized anti-TROP2 monoclonal antibody, as a first-line treatment for metastatic triple-negative breast cancer in the EU. This recommendation is based on positive results from the TROPION-Breast02 Phase III trial showing significant improvements in overall survival and progression-free survival.",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/datroway-recommended-for-approval-in-eu-for-tnbc.html",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "AbbVie",
+        "modality": "monoclonal antibodies",
+        "news": "The FDA approved SKYRIZI (risankizumab-rzaa), an IL-23 inhibitor monoclonal antibody, for the treatment of moderate-to-severe plaque psoriasis and active psoriatic arthritis in pediatric patients aged six years and older. The approval includes a new 55 mg pre-filled syringe to support weight-based dosing for patients weighing less than 40 kg.",
+        "url": "https://news.abbvie.com/2026-06-26-SKYRIZI-R-risankizumab-rzaa-Now-FDA-Approved-for-Pediatric-Use-in-Psoriatic-Disease",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "AbbVie",
+        "modality": "monoclonal antibodies",
+        "news": "SKYRIZI (risankizumab-rzaa) received FDA approval for pediatric use in patients six years of age and older with moderate-to-severe plaque psoriasis or active psoriatic arthritis. The approval includes a new 55 mg pre-filled syringe formulation for this expanded indication.",
+        "url": "https://news.abbvie.com/index.php?s=2429&o=2340#news_anchor",
+        "query": "monoclonal antibodies"
+      }
+    ]
+  },
   "2026-06-26": {
     "gene editing": [
       {
