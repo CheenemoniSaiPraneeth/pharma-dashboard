@@ -113621,5 +113621,26 @@
         "score": 191,
         "date_added": "2026-06-27",
         "article_like": false
+    },
+    {
+        "company": "Novartis",
+        "url": "https://www.novartis.com/News",
+        "score": 7,
+        "date_added": "2026-06-28",
+        "article_like": false
+    },
+    {
+        "company": "Gland Pharma Limited",
+        "url": "https://glandpharma.com/sustainability",
+        "score": 17,
+        "date_added": "2026-06-28",
+        "article_like": false
+    },
+    {
+        "company": "Daicel Chiral Technologies Pvt. Ltd.",
+        "url": "https://chiraltech.com/news-events/#top",
+        "score": 27,
+        "date_added": "2026-06-28",
+        "article_like": false
     }
 ]
