@@ -1,1 +1,72 @@
-[]
+[
+    {
+        "company": "Miltenyi Biotec",
+        "url": "https://www.miltenyibiotec.com/IN-en/applications/by-cell-type/dendritic-cells--monocytes-macrophages/m1-m2-macrophage-polarization-and-characterization.html",
+        "score": 147,
+        "date_added": "2026-06-29",
+        "article_like": true
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/media/perspectives/building-an-ai-native-pharmaceutical-enterprise-lupin-s-blueprint-for-intelligent-transformation",
+        "score": 132,
+        "date_added": "2026-06-29",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-06-29",
+        "score": 50,
+        "date_added": "2026-06-29",
+        "article_like": true
+    },
+    {
+        "company": "AstraZeneca",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/efzimfotase-alfa-demonstrated-improvements-in-bone-health-in-treatment-naive-patients-with-hypophosphatasia-at-week-25-in-mulberry-phase-iii-trial.html",
+        "score": 247,
+        "date_added": "2026-06-29",
+        "article_like": true
+    },
+    {
+        "company": "AstraZeneca",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/enhertu-approved-in-eu-for-her-solid-tumours.html",
+        "score": 145,
+        "date_added": "2026-06-29",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-06-29-AbbVie-Receives-Positive-CHMP-Opinion-for-Upadacitinib-RINVOQ-R-for-the-Treatment-of-Adults-and-Adolescents-with-Severe-Alopecia-Areata",
+        "score": 159,
+        "date_added": "2026-06-29",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-06-29-AbbVie-Receives-Positive-CHMP-Opinion-for-Upadacitinib-RINVOQ-R-for-the-Treatment-of-Adults-and-Adolescents-with-Non-segmental-Vitiligo",
+        "score": 159,
+        "date_added": "2026-06-29",
+        "article_like": true
+    },
+    {
+        "company": "Otsuka Pharmaceutical",
+        "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260629_1.html",
+        "score": 80,
+        "date_added": "2026-06-29",
+        "article_like": true
+    },
+    {
+        "company": "Bavarian Nordic",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7542",
+        "score": 30,
+        "date_added": "2026-06-29",
+        "article_like": true
+    },
+    {
+        "company": "Bavarian Nordic",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7533",
+        "score": 30,
+        "date_added": "2026-06-29",
+        "article_like": true
+    }
+]

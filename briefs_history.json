@@ -1,4 +1,22 @@
 {
+  "2026-06-29": {
+    "monoclonal antibodies": [
+      {
+        "company": "AstraZeneca",
+        "modality": "monoclonal antibodies",
+        "news": "AstraZeneca and Daiichi Sankyo received European Union approval for Enhertu (trastuzumab deruxtecan) as the first tumour-agnostic HER2-directed therapy and antibody drug conjugate for patients with previously treated HER2-positive metastatic solid tumours.",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/enhertu-approved-in-eu-for-her-solid-tumours.html",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "AstraZeneca",
+        "modality": "monoclonal antibodies",
+        "news": "AstraZeneca and Daiichi Sankyo announced that Enhertu (trastuzumab deruxtecan), a HER2-directed antibody drug conjugate, received approval in the European Union as the first tumour-agnostic therapy for patients with previously treated HER2-positive metastatic solid tumours.",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/enhertu-approved-in-eu-for-her-solid-tumours.html",
+        "query": "monoclonal antibodies"
+      }
+    ]
+  },
   "2026-06-27": {
     "monoclonal antibodies": [
       {
