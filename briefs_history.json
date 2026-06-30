@@ -1,4 +1,73 @@
 {
+  "2026-06-30": {
+    "monoclonal antibodies": [
+      {
+        "company": "Genentech",
+        "modality": "monoclonal antibodies",
+        "news": "The FDA granted priority review to Genentech's supplemental Biologics License Application for Enspryng (satralizumab), a humanized monoclonal antibody targeting the IL-6 receptor, for the treatment of thyroid eye disease. The decision is based on positive Phase III SatraGO-1 and SatraGO-2 study results showing significant improvements in proptosis and diplopia.",
+        "url": "https://www.gene.com/media/press-releases/15118/2026-06-29/fda-grants-priority-review-to-genentechs",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Sanofi",
+        "modality": "monoclonal antibodies",
+        "news": "Sanofi announced that Nexviazyme (avalglucosidase alfa) met all primary and secondary endpoints in the Baby-COMET phase 3 study for infantile-onset Pompe disease. The company plans to submit data to the FDA for a label extension in the second half of 2026.",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-30-05-00-00-3319382",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "WuXi Biologics",
+        "modality": "monoclonal antibodies",
+        "news": "WuXi Biologics received Brazil ANVISA GMP certification for its Drug Substance Facility 2, Drug Product Facility 1, and Packaging Center. This approval enables the commercial manufacturing of an anti-PD-L1 monoclonal antibody for cancer immunotherapy.",
+        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-receives-brazil-anvisa-gmp-certification-to-enable-global-commercial-manufacturing-of-innovative-cancer-immunotherapy/",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Genentech",
+        "modality": "monoclonal antibodies",
+        "news": "The FDA granted priority review to Genentech's supplemental Biologics License Application for Enspryng (satralizumab), a humanized monoclonal antibody, for the treatment of thyroid eye disease. A decision on approval is expected by October 15, 2026.",
+        "url": "https://www.gene.com/media/press-releases/15118/2026-06-29/fda-grants-priority-review-to-genentechs",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Roche",
+        "modality": "monoclonal antibodies",
+        "news": "The FDA granted Priority Review to Roche's Enspryng (satralizumab), a humanized monoclonal antibody targeting the IL-6 receptor, for the treatment of thyroid eye disease (TED). The decision is based on positive Phase III SatraGO-1 and SatraGO-2 trial results showing significant improvements in proptosis and diplopia.",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-06-30",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Eisai Co., Ltd.",
+        "modality": "monoclonal antibodies",
+        "news": "Eisai announced a strategic investment of approximately £48 million in its Hatfield, UK manufacturing site, supported by the UK Government's LSIMF. The investment aims to establish in-house cold-chain packaging and supply capabilities for lecanemab, a monoclonal antibody for Alzheimer's disease.",
+        "url": "https://www.eisai.com/news/2026/news202632.html",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Roche",
+        "modality": "monoclonal antibodies",
+        "news": "The U.S. Food and Drug Administration (FDA) accepted an application for Enspryng (satralizumab), a monoclonal antibody, for the treatment of thyroid eye disease (TED). The application has been granted Priority Review status.",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260630170000_1260.html?year=2026&category=",
+        "query": "monoclonal antibodies"
+      }
+    ],
+    "bispecific antibodies": [
+      {
+        "company": "AbbVie",
+        "modality": "bispecific antibodies",
+        "news": "AbbVie announced positive topline results from the Phase 3 EPCORE DLBCL-4 trial evaluating epcoritamab, a T-cell engaging bispecific antibody, in combination with lenalidomide for relapsed or refractory diffuse large B-cell lymphoma. The study met its primary endpoint, demonstrating a statistically significant 60% reduction in the risk of disease progression and death compared to chemoimmunotherapy.",
+        "url": "https://news.abbvie.com/2026-06-29-AbbVie-Announces-Positive-Phase-3-Results-for-Epcoritamab-Plus-Lenalidomide-in-Patients-with-Relapsed-or-Refractory-Diffuse-Large-B-Cell-Lymphoma",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "AbbVie",
+        "modality": "bispecific antibodies",
+        "news": "AbbVie announced positive Phase 3 results for epcoritamab, a T-cell engaging bispecific antibody, when combined with lenalidomide in patients with relapsed or refractory diffuse large B-cell lymphoma. The trial met its primary endpoint, demonstrating a 60% reduction in the risk of disease progression and death compared to chemoimmunotherapy.",
+        "url": "https://news.abbvie.com/2026-06-29-AbbVie-Announces-Positive-Phase-3-Results-for-Epcoritamab-Plus-Lenalidomide-in-Patients-with-Relapsed-or-Refractory-Diffuse-Large-B-Cell-Lymphoma",
+        "query": "monoclonal antibodies"
+      }
+    ]
+  },
   "2026-06-29": {
     "monoclonal antibodies": [
       {

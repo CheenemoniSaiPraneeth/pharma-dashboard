@@ -113726,5 +113726,131 @@
         "score": 30,
         "date_added": "2026-06-29",
         "article_like": true
+    },
+    {
+        "company": "Sanofi",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-30-05-00-00-3319382",
+        "score": 107,
+        "date_added": "2026-06-30",
+        "article_like": true
+    },
+    {
+        "company": "Novartis",
+        "url": "https://www.novartis.com/healthcare-professionals/managed-access-programs/managed-access-patient-privacy-notice-and-consent-templates",
+        "score": 125,
+        "date_added": "2026-06-30",
+        "article_like": true
+    },
+    {
+        "company": "Mylan (Viatris)",
+        "url": "https://newsroom.viatris.com/2026-06-29-Viatris-Announces-Positive-Top-Line-Results-from-Phase-3-Study-of-VR-205-in-Japanese-Adults-with-Primary-Immunoglobulin-A-Nephropathy",
+        "score": 157,
+        "date_added": "2026-06-30",
+        "article_like": true
+    },
+    {
+        "company": "WuXi Biologics",
+        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-receives-brazil-anvisa-gmp-certification-to-enable-global-commercial-manufacturing-of-innovative-cancer-immunotherapy/",
+        "score": 164,
+        "date_added": "2026-06-30",
+        "article_like": true
+    },
+    {
+        "company": "Genentech",
+        "url": "https://www.gene.com/media/press-releases/15118/2026-06-29/fda-grants-priority-review-to-genentechs",
+        "score": 99,
+        "date_added": "2026-06-30",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-06-30",
+        "score": 50,
+        "date_added": "2026-06-30",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/depuy-synthes-appoints-christina-zamarro-as-chief-financial-officer",
+        "score": 112,
+        "date_added": "2026-06-30",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-06-29-AbbVie-Announces-Positive-Phase-3-Results-for-Epcoritamab-Plus-Lenalidomide-in-Patients-with-Relapsed-or-Refractory-Diffuse-Large-B-Cell-Lymphoma",
+        "score": 169,
+        "date_added": "2026-06-30",
+        "article_like": true
+    },
+    {
+        "company": "Insilico Medicine",
+        "url": "https://insilico.com/news/tt2t6rbzr1-insilico-medicine-caps-monumental-week-a",
+        "score": 71,
+        "date_added": "2026-06-30",
+        "article_like": true
+    },
+    {
+        "company": "Eisai",
+        "url": "https://www.eisai.com/news/2026/news202635.html",
+        "score": 57,
+        "date_added": "2026-06-30",
+        "article_like": true
+    },
+    {
+        "company": "Eisai",
+        "url": "https://www.eisai.com/news/2026/news202634.html",
+        "score": 57,
+        "date_added": "2026-06-30",
+        "article_like": true
+    },
+    {
+        "company": "Eisai",
+        "url": "https://www.eisai.com/news/2026/news202633.html",
+        "score": 57,
+        "date_added": "2026-06-30",
+        "article_like": true
+    },
+    {
+        "company": "Eisai",
+        "url": "https://www.eisai.com/news/2026/news202632.html",
+        "score": 57,
+        "date_added": "2026-06-30",
+        "article_like": true
+    },
+    {
+        "company": "Sumitomo Pharma",
+        "url": "https://www.sumitomo-pharma.com/ir/library/financial_results_summary/",
+        "score": 46,
+        "date_added": "2026-06-30",
+        "article_like": true
+    },
+    {
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260630170000_1260.html?year=2026&category=",
+        "score": 53,
+        "date_added": "2026-06-30",
+        "article_like": true
+    },
+    {
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260630153000_1259.html?year=2026&category=",
+        "score": 53,
+        "date_added": "2026-06-30",
+        "article_like": true
+    },
+    {
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260630_eEnspryng_TED_FDA.pdf&src=[%0],[%1]&rep=130,1260",
+        "score": 26,
+        "date_added": "2026-06-30",
+        "article_like": true
+    },
+    {
+        "company": "Chugai Pharmaceutical",
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260630_eJoint+research+on+patient+selection+for+clinical+trial+candidates.pdf&src=[%0],[%1]&rep=130,1259",
+        "score": 26,
+        "date_added": "2026-06-30",
+        "article_like": true
     }
 ]
