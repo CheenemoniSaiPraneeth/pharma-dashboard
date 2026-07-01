@@ -113852,5 +113852,180 @@
         "score": 26,
         "date_added": "2026-06-30",
         "article_like": true
+    },
+    {
+        "company": "Sanofi",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-07-01-05-30-00-3320323",
+        "score": 107,
+        "date_added": "2026-07-01",
+        "article_like": true
+    },
+    {
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/06/Extended-PFAS-Analyte-Reporting-and-Trace-Level-Testing-by-EPA-Method-1633A",
+        "score": 154,
+        "date_added": "2026-07-01",
+        "article_like": true
+    },
+    {
+        "company": "IKP Knowledge Park",
+        "url": "https://ikpknowledgepark.com/genesis/",
+        "score": 13,
+        "date_added": "2026-07-01",
+        "article_like": false
+    },
+    {
+        "company": "IKP Knowledge Park",
+        "url": "https://ikpknowledgepark.com/compass",
+        "score": 10,
+        "date_added": "2026-07-01",
+        "article_like": false
+    },
+    {
+        "company": "IKP Knowledge Park",
+        "url": "https://ikpknowledgepark.com/ark/",
+        "score": 9,
+        "date_added": "2026-07-01",
+        "article_like": false
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/publications/2026/us-and-china-ai-strategy-causing-global-ai-divide",
+        "score": 109,
+        "date_added": "2026-07-01",
+        "article_like": true
+    },
+    {
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-announce-second-quarter-2026-financial-results-july-30.html",
+        "score": 146,
+        "date_added": "2026-07-01",
+        "article_like": true
+    },
+    {
+        "company": "23andMe",
+        "url": "https://blog.23andme.com/category/news#cookie-choices",
+        "score": 18,
+        "date_added": "2026-07-01",
+        "article_like": true
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/patients/find-a-doctor/find-an-oncologist/",
+        "score": 61,
+        "date_added": "2026-07-01",
+        "article_like": true
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/physicians/physician-tests/caris-mi-clarity",
+        "score": 60,
+        "date_added": "2026-07-01",
+        "article_like": true
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/physicians/physician-tests/caris-chromoseq",
+        "score": 59,
+        "date_added": "2026-07-01",
+        "article_like": true
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/physicians/physician-tests/caris-detect/",
+        "score": 59,
+        "date_added": "2026-07-01",
+        "article_like": false
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/patients/find-a-doctor/",
+        "score": 40,
+        "date_added": "2026-07-01",
+        "article_like": false
+    },
+    {
+        "company": "Pfizer",
+        "url": "https://www.pfizer.com/about/programs-policies/prescription-value-and-pricing",
+        "score": 71,
+        "date_added": "2026-07-01",
+        "article_like": true
+    },
+    {
+        "company": "Pfizer",
+        "url": "https://www.pfizer.com/about/purpose-history",
+        "score": 36,
+        "date_added": "2026-07-01",
+        "article_like": true
+    },
+    {
+        "company": "Pfizer",
+        "url": "https://www.pfizer.com/about/our-leaders",
+        "score": 32,
+        "date_added": "2026-07-01",
+        "article_like": false
+    },
+    {
+        "company": "BeiGene",
+        "url": "https://ir.beonemedicines.com/news/beone-medicines-announces-positive-phase-3-results-for-brukinsa-in-frontline-mantle-cell-lymphoma/44597eac-a44b-451f-a021-48d345cdb85e",
+        "score": 156,
+        "date_added": "2026-07-01",
+        "article_like": true
+    },
+    {
+        "company": "Iktos",
+        "url": "https://iktos.ai/resources/press/aligning-artificial-intelligence-and-laboratory-execution-in-drug-discovery",
+        "score": 108,
+        "date_added": "2026-07-01",
+        "article_like": true
+    },
+    {
+        "company": "ICON plc",
+        "url": "https://www.iconplc.com/therapeutics/critical-care",
+        "score": 41,
+        "date_added": "2026-07-01",
+        "article_like": false
+    },
+    {
+        "company": "Intra-Cellular Therapies",
+        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/DePuy-Synthes-Appoints-Christina-Zamarro-as-Chief-Financial-Officer--2026-Lg0IIPIzI9/default.aspx",
+        "score": 175,
+        "date_added": "2026-07-01",
+        "article_like": false
+    },
+    {
+        "company": "BioSolveIT",
+        "url": "https://www.biosolveit.de/2026/06/29/important-news-free-access-to-seesar-chemical-space-docking/",
+        "score": 117,
+        "date_added": "2026-07-01",
+        "article_like": true
+    },
+    {
+        "company": "BioSolveIT",
+        "url": "https://www.biosolveit.de/2026/06/30/tool-of-the-month-flexs/",
+        "score": 81,
+        "date_added": "2026-07-01",
+        "article_like": true
+    },
+    {
+        "company": "Menarini Group",
+        "url": "https://www.menarini.com/de-de/stories.html",
+        "score": 33,
+        "date_added": "2026-07-01",
+        "article_like": false
+    },
+    {
+        "company": "Crinetics Pharmaceuticals",
+        "url": "https://crinetics.com/press-releases/crinetics-pharmaceuticals-to-report-second-quarter-2026-financial-results-on-august-4-2026/",
+        "score": 123,
+        "date_added": "2026-07-01",
+        "article_like": true
+    },
+    {
+        "company": "Crinetics Pharmaceuticals",
+        "url": "https://crinetics.com/events/webcast-crinetics-pharmaceuticals-to-report-second-quarter-2026-financial-results/",
+        "score": 106,
+        "date_added": "2026-07-01",
+        "article_like": true
     }
 ]
