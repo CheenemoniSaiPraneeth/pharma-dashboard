@@ -1483,11 +1483,6 @@
         "score": 153
       },
       {
-        "url": "https://www.novartis.com/news/media-releases/novartis-breaks-ground-denton-texas-radioligand-therapy-site-construction-now-underway-across-all-new-us-facilities",
-        "anchor_text": "Press releaseMay 07, 2026Novartis breaks ground on Denton, Texas radioligand therapy site; construction now underway across all new US facilitiesUS Under Secretary of Commerce Jeffrey Kessler, Texas State Senator Brent Hagenbuch, Novartis leadership mark expansion of company’s coast-to-coast RLT manufacturing network – the largest in the…",
-        "score": 152
-      },
-      {
         "url": "https://www.novartis.com/news/media-releases/novartis-cosentyx-pmr-data-new-england-journal-medicine-showed-sustained-remission-vs-placebo-twice-many-patients",
         "anchor_text": "Press releaseJun 03, 2026Novartis Cosentyx® PMR data in New England Journal of Medicine showed sustained remission vs placebo in twice as many patientsClinically meaningful, statistically significant efficacy achieved in primary and all secondary endpoints, including reduced steroid use; safety consistent with established Cosentyx profile1,…",
         "score": 150
@@ -1565,6 +1560,11 @@
       {
         "url": "https://www.novartis.com/research-and-development/research-disease-areas/cardiovascular-and-metabolic-disease-research-novartis",
         "anchor_text": "Cardiovascular and metabolic disease research at Novartis",
+        "score": 119
+      },
+      {
+        "url": "https://www.novartis.com/news/media-releases/novartis-receives-european-commission-approval-itvisma-spinal-muscular-atrophy-sma",
+        "anchor_text": "Press releaseJul 02, 2026Novartis receives European Commission approval for Itvisma® for spinal muscular atrophy (SMA)First gene replacement therapy in the EU for broad population with SMA, including children two years and older, teens and adults Fixed, one-time dose designed to replace the faulty SMN1 gene,…",
         "score": 119
       },
       {
@@ -4761,6 +4761,16 @@
     "press_url": "https://www.alsglobal.com/en/news-and-media-Global",
     "candidate_links": [
       {
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/03/reducing-contamination-of-drinking-water-at-the-source-with-surprisingly-affordable-technology",
+        "anchor_text": "Reducing contamination of drinking water at the source with  surprisingly…",
+        "score": 173
+      },
+      {
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/06/Endotoxin-suitability-testing-the-foundation-for-reliable-bacterial-endotoxin-test-results",
+        "anchor_text": "Endotoxin suitability testing: the foundation for reliable bacterial…",
+        "score": 169
+      },
+      {
         "url": "https://www.alsglobal.com/en/News-and-publications/2026/06/Microbiological-suitability-testing-for-bioburden-the-foundation-for-reliable-results",
         "anchor_text": "Microbiological suitability testing for bioburden: the foundation for reliable…",
         "score": 164
@@ -4799,16 +4809,6 @@
         "url": "https://www.alsglobal.com/en/News-and-publications/2026/05/ALS-Limited-delivers-record-FY26-result",
         "anchor_text": "READ MORE",
         "score": 118
-      },
-      {
-        "url": "https://www.alsglobal.com/en/News-and-publications/2026/06/clean-water-testing-als-remi-camus",
-        "anchor_text": "Enduring environmental challenges",
-        "score": 113
-      },
-      {
-        "url": "https://www.alsglobal.com/en/News-and-publications/2026/06/color-matching-and-skin-undertone",
-        "anchor_text": "Color matching and skin undertone: the scientific path to more accurate…",
-        "score": 112
       },
       {
         "url": "https://www.alsglobal.com/en/investor-relations/ASX-announcements-archive",
@@ -5252,42 +5252,12 @@
         "score": 160
       },
       {
-        "url": "https://www.veeva.com/medtech/news/new-research-finds-87-of-medtechs-lack-consistent-methods-to-share-product-information-across-global-regulatory-teams/%20",
-        "anchor_text": "Read Press Release",
-        "score": 153
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-first-customer-win-and-april-2024-availability-for-vault-crm-the-next-generation-of-crm-for-life-sciences/",
-        "anchor_text": "Read Press Release",
-        "score": 149
-      },
-      {
-        "url": "https://www.veeva.com/resources/st-cloud-state-university-and-veeva-partner-to-deliver-real-world-clinical-technology-experience-to-medtech-students/",
-        "anchor_text": "Read Press Release",
-        "score": 144
-      },
-      {
-        "url": "https://www.veeva.com/medtech/resources/veeva-medtech-clinical-trials-report-signals-significant-opportunity-to-improve-data-delivery-and-quality/",
-        "anchor_text": "Read Press Release",
-        "score": 143
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-announces-esource-application-for-research-sites-to-eliminate-paper-and-streamline-clinical-trial-data-flow/",
         "anchor_text": "Read Press Release",
         "score": 141
       },
       {
-        "url": "https://www.veeva.com/resources/leading-pharma-adopts-veeva-vault-validation-management-for-digital-validation-execution-and-improved-efficiency/",
-        "anchor_text": "Read Press Release",
-        "score": 140
-      },
-      {
         "url": "https://www.veeva.com/resources/more-than-125-customers-worldwide-live-on-vault-crm-as-veeva-accelerates-the-industrys-agentic-transformation/",
-        "anchor_text": "Read Press Release",
-        "score": 137
-      },
-      {
-        "url": "https://www.veeva.com/resources/minaris-regenerative-medicine-streamlining-contract-manufacturing-with-veeva-vault-quality-suite-applications/",
         "anchor_text": "Read Press Release",
         "score": 137
       },
@@ -5297,24 +5267,9 @@
         "score": 135
       },
       {
-        "url": "https://www.veeva.com/resources/boehringer-ingelheim-partners-with-veeva-to-advance-its-clinical-and-regulatory-operations-in-animal-health/",
-        "anchor_text": "Read Press Release",
-        "score": 135
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-and-sarah-cannon-research-institute-form-strategic-collaboration-to-advance-oncology-clinical-trials/",
         "anchor_text": "Read Press Release",
         "score": 134
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-pulse-reveals-digital-content-more-than-twice-as-effective-in-driving-promotional-response-globally/",
-        "anchor_text": "Read Press Release",
-        "score": 133
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-clinical-database-crosses-200-study-milestone-cuts-time-to-aggregate-and-clean-study-data-by-30-50/",
-        "anchor_text": "Read Press Release",
-        "score": 132
       },
       {
         "url": "https://www.veeva.com/resources/iqvia-and-veeva-announce-long-term-clinical-and-commercial-partnerships-and-resolution-of-all-disputes/",
@@ -5327,39 +5282,9 @@
         "score": 130
       },
       {
-        "url": "https://www.veeva.com/resources/new-batch-release-application-for-life-sciences-manufacturing-to-speed-time-to-market-and-reduce-cost/",
-        "anchor_text": "Read Press Release",
-        "score": 129
-      },
-      {
-        "url": "https://www.veeva.com/resources/merck-kgaa-darmstadt-germany-partners-with-veeva-to-transform-medical-information-operations-globally/",
-        "anchor_text": "Read Press Release",
-        "score": 129
-      },
-      {
-        "url": "https://www.veeva.com/resources/more-than-450-companies-adopt-veeva-vault-etmf-for-improved-trial-efficiency-and-inspection-readiness/",
-        "anchor_text": "Read Press Release",
-        "score": 129
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-commercial-summit-connects-nearly-1500-life-sciences-leaders-across-sales-medical-and-marketing/",
-        "anchor_text": "Learn More",
-        "score": 129
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-pulse-shows-post-pandemic-hcp-access-nearing-80-in-key-specialties-driven-by-digital-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 129
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-opendata-and-veeva-network-mdm-enable-coordinated-customer-engagement-for-boehringer-ingelheim/",
         "anchor_text": "Read Press Release",
         "score": 128
-      },
-      {
-        "url": "https://www.veeva.com/resources/biopharmas-boost-marketing-effectiveness-by-23-by-synchronizing-digital-media-with-field-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 127
       },
       {
         "url": "https://www.veeva.com/medtech/news/new-study-finds-88-of-medtechs-prioritizing-postmarket-quality-modernization-within-next-3-years",
@@ -5372,39 +5297,9 @@
         "score": 126
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-vault-rim-driving-greater-speed-and-compliance-for-more-than-350-life-sciences-organizations/",
-        "anchor_text": "Read Press Release",
-        "score": 126
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-announces-collaboration-with-global-biotech-to-further-accelerate-clinical-trial-innovation/",
         "anchor_text": "Read Press Release",
         "score": 125
-      },
-      {
-        "url": "https://www.veeva.com/resources/biopharma-leaders-come-together-at-veeva-commercial-summit-to-advance-customer-centric-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 125
-      },
-      {
-        "url": "https://www.veeva.com/resources/southern-star-research-adopts-veeva-vault-etmf-and-veeva-vault-ctms-to-streamline-trial-processes/",
-        "anchor_text": "Read Press Release",
-        "score": 125
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-compass-modernizes-prescriber-data-with-new-approach-designed-for-todays-complex-therapies/",
-        "anchor_text": "Read Press Release",
-        "score": 124
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-pulse-reveals-digital-content-more-than-twice-as-effective-in-driving-promotional-response/",
-        "anchor_text": "Read Press Release",
-        "score": 124
-      },
-      {
-        "url": "https://www.veeva.com/medtech/resources/industrywide-survey-reveals-centralizing-regulatory-is-number-one-priority-for-medtech/",
-        "anchor_text": "Read Press Release",
-        "score": 124
       },
       {
         "url": "https://www.veeva.com/resources/veeva-announces-environmental-monitoring-solution-to-modernize-quality-control-in-manufacturing/",
@@ -5412,22 +5307,7 @@
         "score": 123
       },
       {
-        "url": "https://www.veeva.com/resources/major-release-of-veeva-site-connect-streamlines-clinical-trial-execution-for-sites-and-sponsors/",
-        "anchor_text": "Read Press Release",
-        "score": 123
-      },
-      {
-        "url": "https://www.veeva.com/resources/life-sciences-community-advances-toward-next-phase-of-innovation-at-veeva-rd-and-quality-summit/",
-        "anchor_text": "Read Press Release",
-        "score": 123
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-basics-adopted-by-more-than-100-emerging-biotechs-to-simplify-and-standardize-operations/",
-        "anchor_text": "Read Press Release",
-        "score": 122
-      },
-      {
-        "url": "https://www.veeva.com/resources/life-sciences-brands-reach-clinically-relevant-audiences-with-new-veeva-crossix-prime-segments/",
         "anchor_text": "Read Press Release",
         "score": 122
       },
@@ -5452,22 +5332,7 @@
         "score": 120
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-cdb-application-to-streamline-aggregation-cleaning-and-transformation-of-clinical-data/",
-        "anchor_text": "Read Press Release",
-        "score": 120
-      },
-      {
         "url": "https://www.veeva.com/resources/aop-health-standardizes-on-veeva-industry-cloud-for-life-sciences-across-all-business-areas/",
-        "anchor_text": "Read Press Release",
-        "score": 119
-      },
-      {
-        "url": "https://www.veeva.com/resources/new-veeva-pulse-findings-show-connected-engagement-creates-an-advantage-as-hcp-access-drops/",
-        "anchor_text": "Read Press Release",
-        "score": 119
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-introduces-link-workflow-a-no-code-platform-for-building-custom-workflow-applications/",
         "anchor_text": "Read Press Release",
         "score": 119
       },
@@ -5482,114 +5347,14 @@
         "score": 117
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-vault-crm-suite-to-unlock-greater-customer-centricity-with-launch-of-service-center/",
-        "anchor_text": "Learn More",
-        "score": 117
-      },
-      {
-        "url": "https://www.veeva.com/resources/top-biopharma-brands-reach-audiences-10x-more-qualified-with-veeva-crossix-prime-segments/",
-        "anchor_text": "Read Press Release",
-        "score": 117
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-becomes-first-life-sciences-training-solutions-provider-to-gain-iacet-accreditation/",
-        "anchor_text": "Read Press Release",
-        "score": 117
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-vault-lims-gains-momentum-as-companies-unify-quality-assurance-and-quality-control/",
-        "anchor_text": "Read Press Release",
-        "score": 116
-      },
-      {
-        "url": "https://www.veeva.com/resources/more-than-350-companies-increase-efficiency-and-compliance-with-veeva-training-solutions/",
-        "anchor_text": "Read Press Release",
-        "score": 116
-      },
-      {
-        "url": "https://www.veeva.com/medtech/news/report-reveals-70-of-medtechs-use-manual-processes-for-managing-content-and-claims/",
-        "anchor_text": "Read Press Release",
-        "score": 115
-      },
-      {
-        "url": "https://www.veeva.com/resources/new-veeva-vault-submissions-publishing-elearning-application-speeds-employee-onboarding/",
-        "anchor_text": "Read Press Release",
-        "score": 115
-      },
-      {
         "url": "https://www.veeva.com/resources/more-than-75-emerging-biotechs-use-veeva-basics-across-clinical-regulatory-and-quality/",
         "anchor_text": "Read Press Release",
         "score": 114
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-pulse-shows-doctors-opening-up-two-way-communications-doubles-digital-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 114
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-rd-and-quality-summit-brings-together-biopharma-leaders-to-accelerate-innovation/",
-        "anchor_text": "Read Press Release",
-        "score": 114
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-new-digital-hazard-analysis-and-critical-control-point-haccp-solution/",
-        "anchor_text": "Read Press Release",
-        "score": 113
-      },
-      {
-        "url": "https://www.veeva.com/resources/anthem-biosciences-launches-veeva-vault-quality-for-greater-efficiency-and-compliance/",
-        "anchor_text": "Read Press Release",
-        "score": 113
-      },
-      {
-        "url": "https://www.veeva.com/resources/leo-pharma-connects-affiliates-with-veeva-vault-safety-to-transform-safety-operations/",
-        "anchor_text": "Read Press Release",
-        "score": 113
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-introduces-study-portal-and-veevaid-to-streamline-research-site-trial-execution/",
-        "anchor_text": "Read Press Release",
-        "score": 113
-      },
-      {
-        "url": "https://www.veeva.com/medtech/news/new-veeva-link-medtech-provides-real-time-data-to-optimize-scientific-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 113
-      },
-      {
-        "url": "https://www.veeva.com/resources/global-cdmo-adare-pharma-solutions-harmonizing-quality-with-veeva-vault-quality-suite/",
-        "anchor_text": "Read Press Release",
-        "score": 113
-      },
-      {
-        "url": "https://www.veeva.com/resources/lotus-clinical-research-expands-partnership-with-veeva-to-accelerate-clinical-trials/",
-        "anchor_text": "Read Press Release",
-        "score": 112
-      },
-      {
         "url": "https://www.veeva.com/medtech/news/medtech-industry-establishes-foundation-for-clinical-trials-with-veeva-medtech/",
         "anchor_text": "Read Press Release",
         "score": 111
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-expands-relationship-with-accenture-to-help-customers-transition-to-vault-crm/",
-        "anchor_text": "Read Press Release",
-        "score": 111
-      },
-      {
-        "url": "https://www.veeva.com/resources/six-of-the-top-20-pharma-select-veeva-vault-edc-as-company-standard-for-new-trials/",
-        "anchor_text": "Learn More",
-        "score": 110
-      },
-      {
-        "url": "https://www.veeva.com/medtech/news/for-the-second-year-in-a-row-veeva-medtech-named-best-overall-medtech-software",
-        "anchor_text": "Read Press Release",
-        "score": 108
-      },
-      {
-        "url": "https://www.veeva.com/resources/vita-global-sciences-partners-with-veeva-to-streamline-clinical-data-management/",
-        "anchor_text": "Read Press Release",
-        "score": 107
       },
       {
         "url": "https://www.veeva.com/resources/veeva-ai-agents-now-available-to-increase-productivity-and-customer-centricity/",
@@ -5598,16 +5363,6 @@
       },
       {
         "url": "https://www.veeva.com/resources/veeva-direct-data-api-now-included-with-vault-platform-to-enable-ai-innovation/",
-        "anchor_text": "Read Press Release",
-        "score": 106
-      },
-      {
-        "url": "https://www.veeva.com/resources/troy-animal-healthcare-strengthens-quality-operations-with-veeva-vault-quality/",
-        "anchor_text": "Read Press Release",
-        "score": 106
-      },
-      {
-        "url": "https://www.veeva.com/resources/ucb-and-veeva-collaborate-to-advance-the-patient-experience-in-clinical-trials/",
         "anchor_text": "Read Press Release",
         "score": 106
       },
@@ -5627,22 +5382,7 @@
         "score": 103
       },
       {
-        "url": "https://www.veeva.com/resources/targeted-pre-launch-scientific-outreach-drives-40-faster-treatment-adoption/",
-        "anchor_text": "Read Press Release",
-        "score": 103
-      },
-      {
-        "url": "https://www.veeva.com/resources/recipharm-harmonizes-its-global-quality-operations-with-veeva-vault-quality/",
-        "anchor_text": "Read Press Release",
-        "score": 103
-      },
-      {
         "url": "https://www.veeva.com/resources/13-of-the-top-20-biopharmas-standardize-globally-on-veeva-link-key-people/",
-        "anchor_text": "Read Press Release",
-        "score": 101
-      },
-      {
-        "url": "https://www.veeva.com/medtech/news/veeva-vault-qms-adds-field-actions-and-recall-management-for-medtech/",
         "anchor_text": "Read Press Release",
         "score": 101
       },
@@ -5662,47 +5402,7 @@
         "score": 99
       },
       {
-        "url": "https://www.veeva.com/resources/top-biopharma-commits-to-veeva-vault-crm-for-global-customer-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 99
-      },
-      {
-        "url": "https://www.veeva.com/resources/leading-asia-pacific-biopharmas-power-digital-engagement-with-veeva-crm/",
-        "anchor_text": "Read Press Release",
-        "score": 99
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-introduces-new-epro-application-for-faster-access-to-patient-data/",
-        "anchor_text": "Read Press Release",
-        "score": 99
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-pulse-data-shows-new-science-calls-for-more-connected-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 98
-      },
-      {
-        "url": "https://www.veeva.com/resources/new-service-center-in-veeva-vault-crm-suite-unifies-sales-and-service/",
-        "anchor_text": "Read Press Release",
-        "score": 97
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-completes-study-migrations-to-veeva-vault-edc-for-top-biopharma/",
-        "anchor_text": "Read Press Release",
-        "score": 97
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-statement-in-support-of-proposed-ftc-rule-to-ban-non-competes/",
-        "anchor_text": "Read Press Release",
-        "score": 95
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-and-zifo-partner-to-accelerate-quality-control-modernization/",
-        "anchor_text": "Read Press Release",
-        "score": 94
-      },
-      {
-        "url": "https://www.veeva.com/resources/40-cros-select-veeva-vault-ctms-to-drive-clinical-trial-operations/",
         "anchor_text": "Read Press Release",
         "score": 94
       },
@@ -5722,26 +5422,6 @@
         "score": 92
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-unveils-vault-crm-next-generation-of-crm-for-life-sciences/",
-        "anchor_text": "Read Press Release",
-        "score": 92
-      },
-      {
-        "url": "https://www.veeva.com/resources/modular-content-powers-omnichannel-engagement-at-speed-and-scale/",
-        "anchor_text": "Learn More",
-        "score": 92
-      },
-      {
-        "url": "https://www.veeva.com/medtech/news/18-of-the-top-20-medtech-companies-partner-with-veeva-medtech",
-        "anchor_text": "Read Press Release",
-        "score": 91
-      },
-      {
-        "url": "https://www.veeva.com/resources/tigermed-advances-clinical-data-management-with-veeva-vault-edc/",
-        "anchor_text": "Read Press Release",
-        "score": 91
-      },
-      {
         "url": "https://www.veeva.com/resources/merck-kgaa-darmstadt-germany-selects-veeva-vault-crm-worldwide/",
         "anchor_text": "Read Press Release",
         "score": 90
@@ -5752,17 +5432,7 @@
         "score": 90
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-delivers-vault-crm-suite-with-vault-crm-campaign-manager/",
-        "anchor_text": "Read Press Release",
-        "score": 90
-      },
-      {
         "url": "https://www.veeva.com/resources/leaders-come-together-to-advance-the-industry-at-veeva-summit/",
-        "anchor_text": "Read Press Release",
-        "score": 89
-      },
-      {
-        "url": "https://www.veeva.com/resources/now-available-veeva-compass-suite-of-commercial-data-products/",
         "anchor_text": "Read Press Release",
         "score": 89
       },
@@ -5777,11 +5447,6 @@
         "score": 88
       },
       {
-        "url": "https://www.veeva.com/resources/bayer-commits-to-veeva-vault-crm-and-veeva-opendata-globally/",
-        "anchor_text": "Read Press Release",
-        "score": 88
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-announces-fourth-quarter-and-fiscal-year-2026-results/",
         "anchor_text": "Read Press Release",
         "score": 87
@@ -5792,27 +5457,7 @@
         "score": 87
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-announces-fourth-quarter-and-fiscal-year-2024-results/",
-        "anchor_text": "Read Press Release",
-        "score": 87
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fourth-quarter-and-fiscal-year-2023-results/",
-        "anchor_text": "Read Press Release",
-        "score": 87
-      },
-      {
         "url": "https://www.veeva.com/resources/top-global-biopharmas-standardize-on-veeva-china-crm-suite/",
-        "anchor_text": "Read Press Release",
-        "score": 86
-      },
-      {
-        "url": "https://www.veeva.com/resources/kemwell-biopharma-drives-quality-excellence-with-veeva-qms/",
-        "anchor_text": "Read Press Release",
-        "score": 86
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-partners-with-sanofi-to-transform-its-quality-system/",
         "anchor_text": "Read Press Release",
         "score": 86
       },
@@ -5827,47 +5472,12 @@
         "score": 82
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-business-consulting-expands-with-new-rd-services/",
-        "anchor_text": "Read Press Release",
-        "score": 82
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-vault-lims-to-support-civica-rx-quality-control/",
-        "anchor_text": "Read Press Release",
-        "score": 81
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-vault-edc-surpasses-1000-study-start-milestone/",
-        "anchor_text": "Read Press Release",
-        "score": 80
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-and-merck-form-long-term-strategic-partnership/",
-        "anchor_text": "Read Press Release",
-        "score": 80
-      },
-      {
         "url": "https://www.veeva.com/resources/astellas-chooses-veeva-vault-crm-as-global-standard/",
         "anchor_text": "Read Press Release",
         "score": 79
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-vault-crm-now-available-for-all-new-customers/",
-        "anchor_text": "Read Press Release",
-        "score": 79
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2026-second-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 78
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2025-second-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 78
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2024-second-quarter-results/",
         "anchor_text": "Read Press Release",
         "score": 78
       },
@@ -5892,31 +5502,6 @@
         "score": 77
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2025-third-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 77
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2025-first-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 77
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2024-third-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 77
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2024-first-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 77
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2023-third-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 77
-      },
-      {
         "url": "https://www.veeva.com/resources/teva-pharmaceuticals-commits-to-veeva-vault-crm/",
         "anchor_text": "Read Press Release",
         "score": 75
@@ -5932,37 +5517,12 @@
         "score": 75
       },
       {
-        "url": "https://www.veeva.com/resources/boehringer-ingelheim-commits-to-veeva-vault-crm/",
-        "anchor_text": "Read Press Release",
-        "score": 75
-      },
-      {
-        "url": "https://www.veeva.com/resources/walgreens-and-veeva-form-strategic-partnership/",
-        "anchor_text": "Learn More",
-        "score": 74
-      },
-      {
         "url": "https://www.veeva.com/resources/indero-marks-40th-study-live-with-veeva-rtsm/",
         "anchor_text": "Read Press Release",
         "score": 72
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-introduces-veeva-vault-crm-for-medtech/",
-        "anchor_text": "Read Press Release",
-        "score": 72
-      },
-      {
         "url": "https://www.veeva.com/resources/gilead-sciences-commits-to-veeva-vault-crm/",
-        "anchor_text": "Read Press Release",
-        "score": 70
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-introduces-vault-basics-for-biotechs/",
-        "anchor_text": "Read Press Release",
-        "score": 70
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-vault-crm-campaign-manager/",
         "anchor_text": "Read Press Release",
         "score": 70
       },
@@ -5997,11 +5557,6 @@
         "score": 61
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-launches-ai-partner-program/",
-        "anchor_text": "Read Press Release",
-        "score": 61
-      },
-      {
         "url": "https://www.veeva.com/resources/merck-commits-to-veeva-vault-crm/",
         "anchor_text": "Read Press Release",
         "score": 60
@@ -6009,11 +5564,6 @@
       {
         "url": "https://www.veeva.com/products/vault-medical/veeva-medinquiry/",
         "anchor_text": "Veeva MedInquiryStreamline inquiry intake and fulfillment",
-        "score": 59
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-ai-in-vault-crm/",
-        "anchor_text": "Read Press Release",
         "score": 59
       },
       {
@@ -8357,6 +7907,11 @@
         "score": 15
       },
       {
+        "url": "https://www.birac.nic.in/desc_new.php?id=1346",
+        "anchor_text": "ENQ No. BIRAC/HR&A/007/2026/ENQ-58 - Empanelment of Financial Consulting Firms and Law Firms for the Biotechnology Industry Research Assistance Council (BIRAC) - Research, Development and Innovation (RDI) Fund.",
+        "score": 15
+      },
+      {
         "url": "https://www.birac.nic.in/desc_new.php?id=1332",
         "anchor_text": "Webinar on “Enzymes” Under the Biomanufacturing Initiative of DBT and BIRAC",
         "score": 15
@@ -8399,11 +7954,6 @@
       {
         "url": "https://www.birac.nic.in/desc_new.php?id=1296",
         "anchor_text": "BIRAC announces call for proposals under “National Green Hydrogen Misson” (Extended Last date: 05 Feb 2026)",
-        "score": 15
-      },
-      {
-        "url": "https://www.birac.nic.in/desc_new.php?id=1306",
-        "anchor_text": "Bid Status - Bid Ref No.: No. BIRAC/HR&A/007/2025/ENQ-57",
         "score": 15
       },
       {
@@ -8500,132 +8050,6 @@
         "url": "https://www.birac.nic.in/cfp.php",
         "anchor_text": "Call for Proposal",
         "score": 10
-      }
-    ]
-  },
-  {
-    "company": "FocalCXM",
-    "press_url": "https://www.focalcxm.com/news/",
-    "candidate_links": [
-      {
-        "url": "https://www.focalcxm.com/veeva-managed-services/",
-        "anchor_text": "Veeva Managed Services",
-        "score": 38
-      },
-      {
-        "url": "https://www.focalcxm.com/corporate-citizenship/",
-        "anchor_text": "Corporate Citizenship",
-        "score": 37
-      },
-      {
-        "url": "https://www.focalcxm.com/crm-managed-service/",
-        "anchor_text": "CRM Managed Services",
-        "score": 35
-      },
-      {
-        "url": "https://www.focalcxm.com/financial-services/",
-        "anchor_text": "Financial Services",
-        "score": 34
-      },
-      {
-        "url": "https://www.focalcxm.com/enterprise-search/",
-        "anchor_text": "Enterprise Search",
-        "score": 33
-      },
-      {
-        "url": "https://www.focalcxm.com/crm-blueprinting/",
-        "anchor_text": "CRM Blueprinting",
-        "score": 32
-      },
-      {
-        "url": "https://www.focalcxm.com/privacy-policy/",
-        "anchor_text": "Legal",
-        "score": 30
-      },
-      {
-        "url": "https://www.focalcxm.com/data-services/",
-        "anchor_text": "Data Services",
-        "score": 29
-      },
-      {
-        "url": "https://www.focalcxm.com/life-sciences/",
-        "anchor_text": "Life Sciences",
-        "score": 29
-      },
-      {
-        "url": "https://www.focalcxm.com/public-sector/",
-        "anchor_text": "Public Sector",
-        "score": 29
-      },
-      {
-        "url": "https://www.focalcxm.com/focal-events/",
-        "anchor_text": "Events",
-        "score": 28
-      },
-      {
-        "url": "https://www.focalcxm.com/case-studies/",
-        "anchor_text": "Case Studies",
-        "score": 28
-      },
-      {
-        "url": "https://www.focalcxm.com/b2b-rebates/",
-        "anchor_text": "B2B Rebates",
-        "score": 27
-      },
-      {
-        "url": "https://www.focalcxm.com/contact-us/",
-        "anchor_text": "Contact Us",
-        "score": 26
-      },
-      {
-        "url": "https://www.focalcxm.com/about-us/",
-        "anchor_text": "About Us",
-        "score": 24
-      },
-      {
-        "url": "https://www.focalcxm.com/veeva-3/",
-        "anchor_text": "Veeva Services",
-        "score": 23
-      },
-      {
-        "url": "https://www.focalcxm.com/omnichannel/",
-        "anchor_text": "Omni Channel",
-        "score": 17
-      },
-      {
-        "url": "https://www.focalcxm.com/salesforce/",
-        "anchor_text": "SalesForce Services",
-        "score": 16
-      },
-      {
-        "url": "https://www.focalcxm.com/resources/",
-        "anchor_text": "Resources",
-        "score": 15
-      },
-      {
-        "url": "https://www.focalcxm.com/partners/",
-        "anchor_text": "Partners",
-        "score": 14
-      },
-      {
-        "url": "https://www.focalcxm.com/careers/",
-        "anchor_text": "Careers",
-        "score": 13
-      },
-      {
-        "url": "https://www.focalcxm.com/blogs/",
-        "anchor_text": "Blogs",
-        "score": 11
-      },
-      {
-        "url": "https://www.focalcxm.com/news/",
-        "anchor_text": "News",
-        "score": 10
-      },
-      {
-        "url": "https://www.focalcxm.com/",
-        "anchor_text": "",
-        "score": 3
       }
     ]
   },
@@ -9644,6 +9068,11 @@
         "url": "https://insilicominds.com/while-the-world-talks-about-the-massive-10-billion-india-uzbekistan-eurasian-pharma-corridor/",
         "anchor_text": "Read More »",
         "score": 108
+      },
+      {
+        "url": "https://insilicominds.com/passage-of-senate-bill-s-5002-fda-modernization-act-2-0-relating-to-animal-testing/",
+        "anchor_text": "Read More »",
+        "score": 98
       },
       {
         "url": "https://insilicominds.com/fda-model-integrated-evidence-mie-industry-meeting-pilot-program-for-generic-drugs/",
@@ -11253,6 +10682,11 @@
         "url": "https://www.jetro.go.jp/en/news/announcement/2025/580554dc11092bc8.html",
         "anchor_text": "【WEB SEMINAR】Strategic Gateway to JAPAN -Advantages of Expanding to AICHI & NAGOYA",
         "score": 83
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/news/releases/2026/f589ac29abb25df3.html",
+        "anchor_text": "Applications Now Open  “Japan Entry Acceleration Program (JEAP) 2026” A Program to Foster Business Collaboration with Global Regenerative Medicine Companies",
+        "score": 79
       },
       {
         "url": "https://www.jetro.go.jp/en/news/releases/2026/43d825be6a15425a.html",
@@ -14857,293 +14291,12 @@
     ]
   },
   {
-    "company": "Abiogenesis Clinpharm Private Limited",
-    "press_url": "https://abiogenesisclinpharm.com/blog/",
-    "candidate_links": [
-      {
-        "url": "https://abiogenesisclinpharm.com/category/clinical-research-organization/",
-        "anchor_text": "Clinical Research Organization",
-        "score": 57
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/cell-and-gene-therapy-progress-challenges/",
-        "anchor_text": "0",
-        "score": 57
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/rbqm-in-2026-intelligence-clinical-trials/",
-        "anchor_text": "0",
-        "score": 57
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/clinical-research-organization-in-indias/",
-        "anchor_text": "0",
-        "score": 56
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/uk-clinical-trials-reform-2026-ich-e6r3/",
-        "anchor_text": "0",
-        "score": 55
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/clinical-research-organizations-trials/",
-        "anchor_text": "0",
-        "score": 54
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/herbal-food-and-nutraceutical-studies/",
-        "anchor_text": "Herbal, Food, and Nutraceutical Studies",
-        "score": 53
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/choose-right-cro-clinical-trials-2026/",
-        "anchor_text": "How to Choose the Right Clinical Research Organization (CRO) for Successful Clinical Trials",
-        "score": 53
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/real-world-evidence-supports-programs/",
-        "anchor_text": "",
-        "score": 53
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/semaglutide-clinical-trials-generics/",
-        "anchor_text": "0",
-        "score": 52
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/service/biostatistics-programming/",
-        "anchor_text": "Biostatistics & Programming",
-        "score": 51
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/category/clinical-operations/",
-        "anchor_text": "Clinical Operations",
-        "score": 46
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/service/clinical-operations/",
-        "anchor_text": "Clinical Operations",
-        "score": 45
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/decentralized-clinical-trials/",
-        "anchor_text": "Decentralized Clinical Trials",
-        "score": 45
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/category/regulatory-affairs/",
-        "anchor_text": "Regulatory Affairs",
-        "score": 45
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/service/regulatory-affairs/",
-        "anchor_text": "Regulatory Affairs",
-        "score": 44
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/category/quality-assurance/",
-        "anchor_text": "Quality Assurance",
-        "score": 44
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/service/quality-assurance/",
-        "anchor_text": "Quality Assurance",
-        "score": 43
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/india-uk-biosimilar-pathway/",
-        "anchor_text": "India – UK Biosimilar Corridor: A Controlled Evidence Pathway",
-        "score": 43
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/blog/contact@abiogenesisclinpharm.com",
-        "anchor_text": "contact@abiogenesisclinpharm.com",
-        "score": 42
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/category/data-management/",
-        "anchor_text": "Data Management",
-        "score": 42
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/category/medical-affairs/",
-        "anchor_text": "Medical Affairs",
-        "score": 42
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/service/data-management/",
-        "anchor_text": "Data Management",
-        "score": 41
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/service/medical-affairs/",
-        "anchor_text": "Medical Affairs",
-        "score": 41
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/small-molecule-and-fdc/",
-        "anchor_text": "Small Molecule & FDC",
-        "score": 38
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/ethnographic-research/",
-        "anchor_text": "Ethnographic Research",
-        "score": 37
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/real-world-studies/",
-        "anchor_text": "Real World Studies",
-        "score": 34
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/medical-monitoring/",
-        "anchor_text": "Medical Monitoring",
-        "score": 34
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/narcotics-studies/",
-        "anchor_text": "Narcotics Studies",
-        "score": 33
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/cosmetic-studies/",
-        "anchor_text": "Cosmetic Studies",
-        "score": 32
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/terms-conditions/",
-        "anchor_text": "Terms & Conditions",
-        "score": 32
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/medical-devices/",
-        "anchor_text": "Medical Devices",
-        "score": 31
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/rescue-studies/",
-        "anchor_text": "Rescue Studies",
-        "score": 30
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/privacy-policy/",
-        "anchor_text": "Privacy Policy",
-        "score": 30
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/cookies-policy/",
-        "anchor_text": "Cookies Policy",
-        "score": 30
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/pk-pd-studies/",
-        "anchor_text": "Pk/Pd Studies",
-        "score": 29
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/category/biostastics/",
-        "anchor_text": "Biostastics",
-        "score": 28
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/our-journey/",
-        "anchor_text": "Our Journey",
-        "score": 27
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/about-us/",
-        "anchor_text": "About Us",
-        "score": 24
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/our-team/",
-        "anchor_text": "Team",
-        "score": 24
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/contact-us",
-        "anchor_text": "CONTACT US",
-        "score": 23
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/blog/page/2/",
-        "anchor_text": "Next page",
-        "score": 21
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/blog/page/3/",
-        "anchor_text": "3",
-        "score": 21
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/blog/page/6/",
-        "anchor_text": "6",
-        "score": 21
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/biosimilar/",
-        "anchor_text": "Biosimilar",
-        "score": 16
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/accolades/",
-        "anchor_text": "Accolades",
-        "score": 15
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/contacts/",
-        "anchor_text": "Contact",
-        "score": 14
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/product/",
-        "anchor_text": "Product",
-        "score": 13
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/vaccine/",
-        "anchor_text": "Vaccine",
-        "score": 13
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/career/",
-        "anchor_text": "Career",
-        "score": 12
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/cdisc/",
-        "anchor_text": "CDISC",
-        "score": 11
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/blog/",
-        "anchor_text": "Blog",
-        "score": 10
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/blog/#top",
-        "anchor_text": "",
-        "score": 10
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/nce/",
-        "anchor_text": "NCE",
-        "score": 9
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/",
-        "anchor_text": "Abiogenesis Clinpharm",
-        "score": 3
-      }
-    ]
-  },
-  {
     "company": "IKP Knowledge Park",
     "press_url": "https://ikpknowledgepark.com/newsletters/",
     "candidate_links": [
       {
         "url": "https://ikpknowledgepark.com/biotechnology-ignition-grant/",
-        "anchor_text": "Biotechnology ignition grant",
+        "anchor_text": "Biotechnology Ignition Grant (BIG)",
         "score": 44
       },
       {
@@ -15208,7 +14361,7 @@
       },
       {
         "url": "https://ikpknowledgepark.com/genesis/",
-        "anchor_text": "Early-stage Deep-Science Genesis",
+        "anchor_text": "Early-stage Deep-ScienceGenesis",
         "score": 13
       },
       {
@@ -15238,7 +14391,7 @@
       },
       {
         "url": "https://ikpknowledgepark.com/ark/",
-        "anchor_text": "Venture Acceleration – ARK",
+        "anchor_text": "Venture Acceleration –ARK",
         "score": 9
       },
       {
@@ -18818,7 +17971,7 @@
       },
       {
         "url": "https://www.illumina.com/company/news-center.html",
-        "anchor_text": "Share on Linkedin",
+        "anchor_text": "Cookie Management Center",
         "score": 39
       },
       {
@@ -18963,11 +18116,6 @@
         "score": 109
       },
       {
-        "url": "https://www.bcg.com/publications/2026/ceos-need-to-shape-where-quantum-creates-value",
-        "anchor_text": "Learn More",
-        "score": 106
-      },
-      {
         "url": "https://www.bcg.com/capabilities/digital-technology-data/emerging-technologies/augmented-virtual-reality",
         "anchor_text": "Augmented and Virtual Reality",
         "score": 103
@@ -19105,6 +18253,11 @@
       {
         "url": "https://www.bcg.com/press/16june2026-global-mobility-skilled-talent-competition-ai-expertise",
         "anchor_text": "",
+        "score": 87
+      },
+      {
+        "url": "https://www.bcg.com/news/1july2026/bcg-recognized-leader-in-innovation-consulting-services",
+        "anchor_text": "Learn More",
         "score": 87
       },
       {
@@ -24486,6 +23639,11 @@
         "score": 142
       },
       {
+        "url": "https://www.lupin.com/media/press-releases/lupin-announces-ema-approval-for-na-muscla-expansion-for-pediatric-indication-with-new-strengths",
+        "anchor_text": "Lupin Announces EMA Approval for NaMuscla® Expansion for Pediatric Indication with New Strengths",
+        "score": 134
+      },
+      {
         "url": "https://www.lupin.com/media/perspectives/building-an-ai-native-pharmaceutical-enterprise-lupin-s-blueprint-for-intelligent-transformation",
         "anchor_text": "June 29, 2026Building an AI-native pharmaceutical enterprise: Lupin’s blueprint for intelligent transformation",
         "score": 132
@@ -24494,6 +23652,11 @@
         "url": "https://www.lupin.com/media/press-releases/lupin-collaborates-with-ern-for-luforbec-beclometasone-formoterol-p-mdi-launch-in-spain",
         "anchor_text": "Lupin Collaborates with ERN for Luforbec®(beclometasone/formoterol) pMDI Launch in Spain",
         "score": 125
+      },
+      {
+        "url": "https://www.lupin.com/media/press-releases/lupin-receives-eir-from-u-s-fda-for-its-somerset-facility-with-vai-classification",
+        "anchor_text": "Lupin Receives EIR from U.S. FDA for its Somerset Facility with VAI Classification",
+        "score": 119
       },
       {
         "url": "https://www.lupin.com/media/press-releases/lupin-and-natco-receive-approval-from-u-s-fda-for-eribulin-mesylate-injection",
@@ -24531,11 +23694,6 @@
         "score": 109
       },
       {
-        "url": "https://www.lupin.com/media/press-releases/lupin-receives-china-approval-for-oseltamivir-phosphate-oral-suspension",
-        "anchor_text": "Lupin Receives China Approval for Oseltamivir Phosphate Oral Suspension",
-        "score": 109
-      },
-      {
         "url": "https://www.lupin.com/media/press-releases/lupin-shares-phase-1-data-on-lnp-8701-at-the-asco-annual-meeting-2026",
         "anchor_text": "Lupin Shares Phase 1 Data on LNP8701 at the ASCO Annual Meeting 2026",
         "score": 107
@@ -24544,11 +23702,6 @@
         "url": "https://www.lupin.com/media/press-releases/lupin-launches-azilsartan-medoxomil-tablets-in-the-united-states",
         "anchor_text": "Lupin Launches Azilsartan Medoxomil Tablets in the United States",
         "score": 102
-      },
-      {
-        "url": "https://www.lupin.com/media/press-releases/lupin-makes-its-debut-in-dow-jones-best-in-class-indices-2026",
-        "anchor_text": "Lupin Makes its Debut in Dow Jones Best-in-Class Indices 2026",
-        "score": 99
       },
       {
         "url": "https://www.lupin.com/media/perspectives/the-intergenerational-impact-of-investing-in-women-s-health",
@@ -25735,11 +24888,6 @@
         "score": 148
       },
       {
-        "url": "https://newsroom.viatris.com/2026-03-23-Viatris-Advances-Innovative-Portfolio-with-Approval-of-Effexor-R-in-Japan-for-Adults-with-Generalized-Anxiety-Disorder-GAD",
-        "anchor_text": "",
-        "score": 146
-      },
-      {
         "url": "https://newsroom.viatris.com/2026-05-18-U-S-FDA-Accepts-Viatris-New-Drug-Application-for-Fast-Acting-Meloxicam-for-the-Treatment-of-Moderate-to-Severe-Acute-Pain",
         "anchor_text": "",
         "score": 145
@@ -25748,6 +24896,11 @@
         "url": "https://newsroom.viatris.com/2026-05-07-Viatris-to-Present-at-the-Bank-of-America-Securities-2026-Healthcare-Conference",
         "anchor_text": "",
         "score": 103
+      },
+      {
+        "url": "https://newsroom.viatris.com/2026-07-01-Viatris-to-Report-Second-Quarter-2026-Financial-Results-on-August-6,-2026",
+        "anchor_text": "",
+        "score": 97
       },
       {
         "url": "https://newsroom.viatris.com/2026-04-13-Viatris-to-Report-First-Quarter-2026-Financial-Results-on-May-7,-2026",
@@ -29375,6 +28528,11 @@
         "score": 150
       },
       {
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/what-employers-and-their-employees-need-know-about-biometric-screenings.html",
+        "anchor_text": "Read moreRead More about What employers and their employees need to know about biometric screenings",
+        "score": 149
+      },
+      {
         "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/genomeweb-labcorp-and-illumina-expand-precision-oncology-collaboration.html",
         "anchor_text": "Read moreRead More about GenomeWeb: Labcorp and Illumina Expand Precision Oncology Collaboration",
         "score": 148
@@ -29672,6 +28830,11 @@
       {
         "url": "https://www.labcorp.com/modalities/vaccines/assays",
         "anchor_text": "Vaccines",
+        "score": 33
+      },
+      {
+        "url": "https://www.labcorp.com/terms-and-conditions",
+        "anchor_text": "Terms and Conditions",
         "score": 33
       },
       {
@@ -30386,6 +29549,11 @@
         "url": "https://investors.guardanthealth.com/press-releases/press-releases/2026/Guardant-Health-to-Report-Fourth-Quarter-and-Full-Year-2025-Financial-Results-on-February-19-2026/default.aspx",
         "anchor_text": "Continue Reading",
         "score": 191
+      },
+      {
+        "url": "https://investors.guardanthealth.com/press-releases/press-releases/2026/UnitedHealth-Group-Now-Covers-Guardant-Healths-Shield-Blood-Test-for-Colorectal-Cancer-Screening/default.aspx",
+        "anchor_text": "Continue Reading",
+        "score": 190
       },
       {
         "url": "https://investors.guardanthealth.com/press-releases/press-releases/2026/Guardant-Health-Reports-First-Quarter-2026-Financial-Results-and-Increases-2026-Revenue-Guidance/default.aspx",
@@ -33906,7 +33074,7 @@
       },
       {
         "url": "https://www.edwards.com/legal/privacy-policy",
-        "anchor_text": "Privacy Statement",
+        "anchor_text": "Privacy Policy",
         "score": 35
       },
       {
@@ -34237,6 +33405,11 @@
         "score": 103
       },
       {
+        "url": "https://www.gene.com/media/press-releases/15119/2026-07-01/genentechs-divarasib-shows-superiority-i",
+        "anchor_text": "Genentech’s Divarasib Shows Superiority in Head-to-Head Phase III Trial Against Approved KRAS G12C Inhibitors in Non-Small Cell Lung Cancer",
+        "score": 99
+      },
+      {
         "url": "https://www.gene.com/media/press-releases/15118/2026-06-29/fda-grants-priority-review-to-genentechs",
         "anchor_text": "FDA Grants Priority Review To Genentech’s Application for Enspryng, the First and Only At-Home Subcutaneous Treatment Option for Thyroid Eye Disease (TED)",
         "score": 99
@@ -34354,11 +33527,6 @@
       {
         "url": "https://www.gene.com/media/press-releases/15094/2025-12-19/genentech-announces-agreement-with-us-go",
         "anchor_text": "Genentech Announces Agreement With U.S. Government",
-        "score": 99
-      },
-      {
-        "url": "https://www.gene.com/media/press-releases/15093/2025-12-10/genentechs-giredestrant-reduced-risk-of-",
-        "anchor_text": "Genentech’s Giredestrant Reduced Risk of Invasive Disease Recurrence or Death by 30% in ER-Positive Early-Stage Breast Cancer",
         "score": 99
       },
       {
@@ -35280,11 +34448,6 @@
         "score": 106
       },
       {
-        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-reports-first-quarter-2026-financial-results/",
-        "anchor_text": "Read more: Caris Life Sciences Reports First Quarter 2026 Financial Results",
-        "score": 105
-      },
-      {
         "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-launches-behind-the-diagnosis-campaign/",
         "anchor_text": "Read more: Caris Life Sciences Launches Behind the Diagnosis Campaign Spotlighting Patient Lives Transformed by Caris’ Comprehensive Genomic Testing",
         "score": 99
@@ -35305,9 +34468,9 @@
         "score": 95
       },
       {
-        "url": "https://www.carislifesciences.com/privacy-website-policies/do-not-sell-or-share-my-personal-information/",
-        "anchor_text": "webform",
-        "score": 87
+        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-launches-caris-detect/",
+        "anchor_text": "Read more: Caris Life Sciences Launches Caris Detect, the World’s Most Sensitive and Comprehensive Multi-Cancer Early Detection Blood Test",
+        "score": 82
       },
       {
         "url": "https://www.carislifesciences.com/research/artificial-intelligence/molecular-tumor-board-report/",
@@ -35662,6 +34825,11 @@
       {
         "url": "https://www.carislifesciences.com/about/",
         "anchor_text": "About",
+        "score": 11
+      },
+      {
+        "url": "https://www.carislifesciences.com/payer/",
+        "anchor_text": "Payer",
         "score": 11
       },
       {
@@ -36347,6 +35515,11 @@
         "score": 50
       },
       {
+        "url": "https://www.pfizer.com/washington-health-data-privacy-policy",
+        "anchor_text": "Washington Health Data Privacy Policy",
+        "score": 50
+      },
+      {
         "url": "https://www.pfizer.com/science/clinical-trials/children",
         "anchor_text": "Clinical Trials in Children",
         "score": 49
@@ -36753,6 +35926,11 @@
         "score": 50
       },
       {
+        "url": "https://www.roche.com/media/releases/med-cor-2026-07-02",
+        "anchor_text": "[Ad hoc announcement pursuant to Art. 53 LR] Roche’s divarasib shows superiority in head-to-head phase III trial against approved KRAS G12C inhibitors in non-small cell lung cancerJuly 02, 2026",
+        "score": 50
+      },
+      {
         "url": "https://www.roche.com/media/releases/med-cor-2026-06-30",
         "anchor_text": "FDA grants Priority Review to Roche’s Enspryng, the first and only at-home subcutaneous treatment option for thyroid eye disease (TED)June 30, 2026",
         "score": 50
@@ -36795,11 +35973,6 @@
       {
         "url": "https://www.roche.com/media/releases/med-cor-2026-05-27",
         "anchor_text": "Roche launches the Liver Disease Panel, the first suite of certified algorithms to support Chronic Liver Disease managementMay 27, 2026",
-        "score": 50
-      },
-      {
-        "url": "https://www.roche.com/media/releases/med-cor-2026-05-19",
-        "anchor_text": "Roche to present new data at ASCO 2026, reinforcing giredestrant's potential to transform the treatment paradigm in early breast cancerMay 19, 2026",
         "score": 50
       },
       {
@@ -37009,7 +36182,7 @@
       },
       {
         "url": "https://www.roche.com/investors/bonds",
-        "anchor_text": "Share price334.50CHF+ 1.70(+0.51%)Today",
+        "anchor_text": "Share price332.20CHF+ 3.40(+1.03%)Today",
         "score": 20
       },
       {
@@ -37455,7 +36628,7 @@
       },
       {
         "url": "https://www.astrazeneca.com/media-centre/press-releases.html",
-        "anchor_text": "Select Preferences",
+        "anchor_text": "More Details",
         "score": 47
       },
       {
@@ -37931,16 +37104,6 @@
         "score": 108
       },
       {
-        "url": "https://www.bms.com/life-and-science/insights/strengthening-cancer-care-across-africa-through-partnership.html",
-        "anchor_text": "Building a healthier future together: Strengthening cancer care across Africa through partnership",
-        "score": 107
-      },
-      {
-        "url": "https://www.bms.com/life-and-science/insights/c2c4c-2025-contributing-millions-for-global-cancer-research.html",
-        "anchor_text": "Bristol Myers Squibb employees from 33 nations pedal together, inspiring hope and advancing cancer research around the world",
-        "score": 107
-      },
-      {
         "url": "https://www.bms.com/life-and-science/science/patient-driven-therapy-design-and-product-development.html",
         "anchor_text": "Product Development: Designing patient‑driven therapies for real life",
         "score": 100
@@ -37961,6 +37124,11 @@
         "score": 86
       },
       {
+        "url": "https://www.bms.com/life-and-science/insights/building-resilient-energy-systems.html",
+        "anchor_text": "Building a more resilient energy future to support patients",
+        "score": 81
+      },
+      {
         "url": "https://www.bms.com/life-and-science/patients/patient-voices-wont-lose-mindset.html",
         "anchor_text": "Patients and purpose in action",
         "score": 80
@@ -37969,6 +37137,11 @@
         "url": "https://www.bms.com/life-and-science/patients/toni-story-living-with-lupus.html",
         "anchor_text": "Toni’s story",
         "score": 76
+      },
+      {
+        "url": "https://www.bms.com/life-and-science/insights/c2c4c-2026-cancer-research.html",
+        "anchor_text": "Bristol Myers Squibb employees cycle across four continents to advance cancer research",
+        "score": 74
       },
       {
         "url": "https://www.bms.com/our-company/partnerships-and-business-development.html",
@@ -44655,6 +43828,11 @@
     "press_url": "https://insilico.com/news",
     "candidate_links": [
       {
+        "url": "https://insilico.com/news/4ifuiaal01-insilico-medicine-announces-collaboratio",
+        "anchor_text": "Insilico Medicine Announces Collaboration with Takeda to Advance Strategic AI Drug Discovery",
+        "score": 71
+      },
+      {
         "url": "https://insilico.com/news/tt2t6rbzr1-insilico-medicine-caps-monumental-week-a",
         "anchor_text": "Insilico Medicine caps monumental week at BIO 2026: Secures landmark $2.5B partnership and dominates thought leadership",
         "score": 71
@@ -44672,11 +43850,6 @@
       {
         "url": "https://insilico.com/news/bno2kl4lp1-insilico-completes-first-in-human-dosing",
         "anchor_text": "Insilico Completes First-in-Human Dosing in Phase I Clinical Study of AI-Driven NLRP3 Inhibitor ISM8969, Achieving First Clinical Milestone in Collaboration with Hygtia Therapeutics",
-        "score": 71
-      },
-      {
-        "url": "https://insilico.com/news/ps2bndbh61-insilico-medicine-and-human-longevity-an",
-        "anchor_text": "Insilico Medicine and Human Longevity Announce Collaboration to Co-Develop Industry-First AI Foundation Model for Longevity Science",
         "score": 71
       },
       {
@@ -44979,147 +44152,6 @@
       {
         "url": "https://numerionlabs.ai/",
         "anchor_text": "Home",
-        "score": 3
-      }
-    ]
-  },
-  {
-    "company": "Generate Biomedicines",
-    "press_url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases",
-    "candidate_links": [
-      {
-        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-expands-board-of-directors-with-appointment-of-marsha-fanucci",
-        "anchor_text": "Generate:Biomedicines Expands Board of Directors with Appointment of Marsha Fanucci",
-        "score": 110
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-announces-multi-target-collaboration-with-novartis",
-        "anchor_text": "Generate:Biomedicines Announces Multi-Target Collaboration with Novartis to Discover and Develop Protein Therapeutics with GenerativeAI",
-        "score": 99
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-provides-update-on-its-platform-and-pipeline",
-        "anchor_text": "Generate:Biomedicines Provides Update on its Platform and Pipeline Powered byAIat the43rdAnnual J.P. Morgan Healthcare Conference",
-        "score": 93
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-expands-board-of-directors",
-        "anchor_text": "Generate:Biomedicines Expands Board of Directors with the Appointment of Rupert Vessey, M.D., Ph.D., and Nancy Simonian, M.D.",
-        "score": 75
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-expands-c-suite",
-        "anchor_text": "Generate:Biomedicines Expands C‑suite with Chief Corporate Affairs Officer and Chief Technical Operations Officer",
-        "score": 64
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/generate-welcomes-laurie-lee",
-        "anchor_text": "Generate:Biomedicines Welcomes Laurie Lee,MD, as Chief Medical Officer for the Immunology&Inflammation Portfolio",
-        "score": 56
-      },
-      {
-        "url": "https://generatebiomedicines.com/generative-biology",
-        "anchor_text": "Generative Biology®",
-        "score": 31
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases",
-        "anchor_text": "News Releases",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases#main-content",
-        "anchor_text": "Skip to content",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases#main-nav",
-        "anchor_text": "Skip to navigation",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type",
-        "anchor_text": "Overview",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type=blogPosts",
-        "anchor_text": "Blog Posts",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type=mediaHighlights",
-        "anchor_text": "Media Highlights",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type=publications",
-        "anchor_text": "Presentations & Publications",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p3?type=newsReleases",
-        "anchor_text": "Next Page",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p4?type=newsReleases",
-        "anchor_text": "4",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p5?type=newsReleases",
-        "anchor_text": "5",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/privacy-policy",
-        "anchor_text": "Privacy Policy",
-        "score": 27
-      },
-      {
-        "url": "https://generatebiomedicines.com/terms-of-use",
-        "anchor_text": "Terms of Use",
-        "score": 25
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center",
-        "anchor_text": "Media Center",
-        "score": 25
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center?type=newsReleases",
-        "anchor_text": "1",
-        "score": 25
-      },
-      {
-        "url": "https://generatebiomedicines.com/about-us",
-        "anchor_text": "About Us",
-        "score": 21
-      },
-      {
-        "url": "https://generatebiomedicines.com/platform",
-        "anchor_text": "The Generate Platform™",
-        "score": 11
-      },
-      {
-        "url": "https://generatebiomedicines.com/pipeline",
-        "anchor_text": "Pipeline",
-        "score": 11
-      },
-      {
-        "url": "https://generatebiomedicines.com/careers",
-        "anchor_text": "Careers",
-        "score": 10
-      },
-      {
-        "url": "https://generatebiomedicines.com/contact",
-        "anchor_text": "",
-        "score": 10
-      },
-      {
-        "url": "https://generatebiomedicines.com/",
-        "anchor_text": "",
         "score": 3
       }
     ]
@@ -45842,6 +44874,11 @@
         "score": 103
       },
       {
+        "url": "https://www.gene.com/media/press-releases/15119/2026-07-01/genentechs-divarasib-shows-superiority-i",
+        "anchor_text": "Genentech’s Divarasib Shows Superiority in Head-to-Head Phase III Trial Against Approved KRAS G12C Inhibitors in Non-Small Cell Lung Cancer",
+        "score": 99
+      },
+      {
         "url": "https://www.gene.com/media/press-releases/15118/2026-06-29/fda-grants-priority-review-to-genentechs",
         "anchor_text": "FDA Grants Priority Review To Genentech’s Application for Enspryng, the First and Only At-Home Subcutaneous Treatment Option for Thyroid Eye Disease (TED)",
         "score": 99
@@ -45959,11 +44996,6 @@
       {
         "url": "https://www.gene.com/media/press-releases/15094/2025-12-19/genentech-announces-agreement-with-us-go",
         "anchor_text": "Genentech Announces Agreement With U.S. Government",
-        "score": 99
-      },
-      {
-        "url": "https://www.gene.com/media/press-releases/15093/2025-12-10/genentechs-giredestrant-reduced-risk-of-",
-        "anchor_text": "Genentech’s Giredestrant Reduced Risk of Invasive Disease Recurrence or Death by 30% in ER-Positive Early-Stage Breast Cancer",
         "score": 99
       },
       {
@@ -46981,12 +46013,17 @@
       },
       {
         "url": "https://www.wuxiapptec.com/news/wuxi-news/ukp6jpdhyncifp8ovk4kv1z6",
-        "anchor_text": "Peptide API and Small Molecule CRDMO Services",
+        "anchor_text": "Read more",
         "score": 56
       },
       {
         "url": "https://www.wuxiapptec.com/news/wuxi-news/ljam2k30v1x53wz61xlvoaiv",
         "anchor_text": "Shareholder Value Enhancement in Life Sciences",
+        "score": 56
+      },
+      {
+        "url": "https://www.wuxiapptec.com/news/wuxi-news/qw2822xkk8hj0zt42ik9jqqp",
+        "anchor_text": "Scalable CRDMO Capacity and Capability Build",
         "score": 56
       },
       {
@@ -50582,6 +49619,11 @@
         "score": 80
       },
       {
+        "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260702_1.html",
+        "anchor_text": "2 JUL 2026NewPharmaceuticalsOtsuka Reports Positive Phase 3 VISIONARY Two-Year eGFR Results Demonstrating VOYXACT®(sibeprenlimab-szsi) Prevented Progression to Kidney Failure and Improved Kidney Function in IgA Nephropathy (IgAN)",
+        "score": 80
+      },
+      {
         "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260629_1.html",
         "anchor_text": "29 JUN 2026NewNutraceuticalsJoint Research with Tohoku UniversityEstablishment of a Collaborative Research Program on Water Turnover and Total Conditioning",
         "score": 80
@@ -50593,7 +49635,7 @@
       },
       {
         "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260624_1.html",
-        "anchor_text": "24 JUN 2026NewNutraceuticalsOtsuka America Establishes the POCARI SWEAT SCIENCE ADVISORY BOARDAnnounces New Heat Illness Prevention Guidance to Address Heat Challenges in the United States",
+        "anchor_text": "24 JUN 2026NutraceuticalsOtsuka America Establishes the POCARI SWEAT SCIENCE ADVISORY BOARDAnnounces New Heat Illness Prevention Guidance to Address Heat Challenges in the United States",
         "score": 80
       },
       {
@@ -52194,6 +51236,11 @@
         "score": 56
       },
       {
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260702153000_1262.html?year=2026&category=",
+        "anchor_text": "Roche’s Announcement Regarding divarasib (Announcement of Phase III Krascendo1 Study Results)",
+        "score": 53
+      },
+      {
         "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260630170000_1260.html?year=2026&category=",
         "anchor_text": "Roche’s Announcement Regarding Enspryng (FDA Accepts Application for Thyroid Eye Disease)",
         "score": 53
@@ -52659,6 +51706,11 @@
         "score": 26
       },
       {
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260701_edivarasib_Krascendo1.pdf&src=[%0],[%1]&rep=130,1262",
+        "anchor_text": "[PDF\n                            86KB]",
+        "score": 26
+      },
+      {
         "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260630_eEnspryng_TED_FDA.pdf&src=[%0],[%1]&rep=130,1260",
         "anchor_text": "[PDF\n                            105KB]",
         "score": 26
@@ -52977,11 +52029,6 @@
       {
         "url": "https://www.kyowakirin.com/media_center/news_releases/2026/e20260424_01.html",
         "anchor_text": "Kyowa Kirin and Kura Oncology Initiate Japanese Phase 2 Registration-Directed Trial of Ziftomenib in R/R NPM1-m AML",
-        "score": 83
-      },
-      {
-        "url": "https://www.kyowakirin.com/media_center/news_releases/2026/e20260303_01.html",
-        "anchor_text": "Kyowa Kirin Announces Discontinuation of Rocatinlimab Clinical Trials",
         "score": 83
       },
       {
@@ -57332,6 +56379,11 @@
         "score": 141
       },
       {
+        "url": "https://investors.karyopharm.com/2026-07-01-Karyopharm-Therapeutics-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4",
+        "anchor_text": "Karyopharm Therapeutics Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+        "score": 108
+      },
+      {
         "url": "https://investors.karyopharm.com/2026-06-01-Karyopharm-Therapeutics-Reports-Inducement-Grant-Under-Nasdaq-Listing-Rule-5635-c-4",
         "anchor_text": "Karyopharm Therapeutics Reports Inducement Grant Under Nasdaq Listing Rule 5635(c)(4)",
         "score": 107
@@ -57345,11 +56397,6 @@
         "url": "https://investors.karyopharm.com/2026-05-07-Karyopharm-to-Report-First-Quarter-2026-Financial-Results-on-May-14,-2026",
         "anchor_text": "Karyopharm to Report First Quarter 2026 Financial Results on May 14, 2026",
         "score": 97
-      },
-      {
-        "url": "https://investors.karyopharm.com/2026-03-24-Karyopharm-Announces-30-Million-Private-Placement-with-RA-Capital",
-        "anchor_text": "Karyopharm Announces $30 Million Private Placement with RA Capital",
-        "score": 89
       },
       {
         "url": "https://investors.karyopharm.com/2026-05-12-Karyopharm-to-Participate-at-Upcoming-Investor-Conferences",
@@ -59261,16 +58308,6 @@
         "score": 108
       },
       {
-        "url": "https://ir.mirati.com/life-and-science/insights/strengthening-cancer-care-across-africa-through-partnership.html",
-        "anchor_text": "Building a healthier future together: Strengthening cancer care across Africa through partnership",
-        "score": 107
-      },
-      {
-        "url": "https://ir.mirati.com/life-and-science/insights/c2c4c-2025-contributing-millions-for-global-cancer-research.html",
-        "anchor_text": "Bristol Myers Squibb employees from 33 nations pedal together, inspiring hope and advancing cancer research around the world",
-        "score": 107
-      },
-      {
         "url": "https://ir.mirati.com/life-and-science/science/patient-driven-therapy-design-and-product-development.html",
         "anchor_text": "Product Development: Designing patient‑driven therapies for real life",
         "score": 100
@@ -59296,6 +58333,11 @@
         "score": 82
       },
       {
+        "url": "https://ir.mirati.com/life-and-science/insights/building-resilient-energy-systems.html",
+        "anchor_text": "Building a more resilient energy future to support patients",
+        "score": 81
+      },
+      {
         "url": "https://ir.mirati.com/life-and-science/patients/patient-voices-wont-lose-mindset.html",
         "anchor_text": "Patients and purpose in action",
         "score": 80
@@ -59309,6 +58351,11 @@
         "url": "https://ir.mirati.com/investors/investor-contacts/investor-alerts-subscribe.html",
         "anchor_text": "Subscribe to Investor Alerts",
         "score": 75
+      },
+      {
+        "url": "https://ir.mirati.com/life-and-science/insights/c2c4c-2026-cancer-research.html",
+        "anchor_text": "Bristol Myers Squibb employees cycle across four continents to advance cancer research",
+        "score": 74
       },
       {
         "url": "https://ir.mirati.com/our-company/partnerships-and-business-development.html",
@@ -62201,7 +61248,7 @@
       },
       {
         "url": "https://www.genethon.fr/notre-science/la-therapie-genique-de-demain/comprendre-la-therapie-genique/",
-        "anchor_text": "Comprendre la thérapie génique",
+        "anchor_text": "thérapie génique",
         "score": 94
       },
       {
@@ -64773,382 +63820,6 @@
     ]
   },
   {
-    "company": "Cresset Group",
-    "press_url": "https://cresset-group.com/about/news/",
-    "candidate_links": [
-      {
-        "url": "https://cresset-group.com/news/ai-unlocks-unparalleled-efficiency-gains-in-flare-v11-cressets-leading-software-solution-for-digital-molecular-discovery-2/",
-        "anchor_text": "Read More",
-        "score": 145
-      },
-      {
-        "url": "https://cresset-group.com/news/ai-unlocks-unparalleled-efficiency-gains-in-flare-v11-cressets-leading-software-solution-for-digital-molecular-discovery/",
-        "anchor_text": "",
-        "score": 143
-      },
-      {
-        "url": "https://cresset-group.com/news/cresset-releases-flare-v12-to-cut-synthesis-and-testing-cycles-with-faster-more-flexible-fep/",
-        "anchor_text": "",
-        "score": 115
-      },
-      {
-        "url": "https://cresset-group.com/news/cresset-acquires-molab-ai-to-advance-digitization-of-drug-discovery/",
-        "anchor_text": "Read More",
-        "score": 90
-      },
-      {
-        "url": "https://cresset-group.com/news/cresset-discovery-accelerates-optimization-of-mettl3-inhibitor/",
-        "anchor_text": "",
-        "score": 85
-      },
-      {
-        "url": "https://cresset-group.com/event/efmc-ismc-international-symposium-on-medicinal-chemistry/",
-        "anchor_text": "",
-        "score": 80
-      },
-      {
-        "url": "https://cresset-group.com/solutions/by-discovery-phase/target-validation/",
-        "anchor_text": "Target Validation",
-        "score": 66
-      },
-      {
-        "url": "https://cresset-group.com/solutions/by-discovery-phase/lead-optimization/",
-        "anchor_text": "Lead Optimization",
-        "score": 66
-      },
-      {
-        "url": "https://cresset-group.com/solutions/by-discovery-phase/hit-discovery/",
-        "anchor_text": "Hit Discovery",
-        "score": 62
-      },
-      {
-        "url": "https://cresset-group.com/solutions/by-user/computational-chemistry/",
-        "anchor_text": "Computational Chemistry",
-        "score": 61
-      },
-      {
-        "url": "https://cresset-group.com/solutions/by-discovery-phase/hit-to-lead/",
-        "anchor_text": "Hit to Lead",
-        "score": 60
-      },
-      {
-        "url": "https://cresset-group.com/news/fep-in-2025-read-our-latest-blog-post/",
-        "anchor_text": "Read More",
-        "score": 60
-      },
-      {
-        "url": "https://cresset-group.com/solutions/by-user/medicinal-chemistry/",
-        "anchor_text": "Medicinal Chemistry",
-        "score": 57
-      },
-      {
-        "url": "https://cresset-group.com/news/cresset-newsletter-september-2025/",
-        "anchor_text": "Read More",
-        "score": 56
-      },
-      {
-        "url": "https://cresset-group.com/solutions/by-user/academic-research/",
-        "anchor_text": "Academic Research",
-        "score": 55
-      },
-      {
-        "url": "https://cresset-group.com/news/cresset-newsletter-december-2025/",
-        "anchor_text": "Read More",
-        "score": 55
-      },
-      {
-        "url": "https://cresset-group.com/news/cresset-newsletter-october-2025/",
-        "anchor_text": "Read More",
-        "score": 54
-      },
-      {
-        "url": "https://cresset-group.com/about/global-locations-distributors/",
-        "anchor_text": "Locations & distributors",
-        "score": 53
-      },
-      {
-        "url": "https://cresset-group.com/news/cresset-newsletter-august-2025/",
-        "anchor_text": "Read More",
-        "score": 53
-      },
-      {
-        "url": "https://cresset-group.com/news/cresset-newsletter-july-2025/",
-        "anchor_text": "Read More",
-        "score": 51
-      },
-      {
-        "url": "https://cresset-group.com/news/cresset-newsletter-june-2025/",
-        "anchor_text": "Read More",
-        "score": 51
-      },
-      {
-        "url": "https://cresset-group.com/news/end-of-year-message-2025/",
-        "anchor_text": "Read More",
-        "score": 47
-      },
-      {
-        "url": "https://cresset-group.com/solutions/by-discovery-phase/",
-        "anchor_text": "By discovery phase",
-        "score": 46
-      },
-      {
-        "url": "https://cresset-group.com/science/your-trusted-partner/",
-        "anchor_text": "Your trusted partner",
-        "score": 46
-      },
-      {
-        "url": "https://cresset-group.com/software/discovery-services/",
-        "anchor_text": "Discovery Services",
-        "score": 45
-      },
-      {
-        "url": "https://cresset-group.com/about/responsible-business/",
-        "anchor_text": "Responsible business",
-        "score": 44
-      },
-      {
-        "url": "https://cresset-group.com/news/meet-the-new-cresset/",
-        "anchor_text": "Read More",
-        "score": 43
-      },
-      {
-        "url": "https://cresset-group.com/software/methods-archive/",
-        "anchor_text": "Explore all methods and technologies",
-        "score": 42
-      },
-      {
-        "url": "https://cresset-group.com/support/product-releases/",
-        "anchor_text": "Product releases",
-        "score": 42
-      },
-      {
-        "url": "https://cresset-group.com/science/ai-technologies/",
-        "anchor_text": "AI technologies",
-        "score": 41
-      },
-      {
-        "url": "https://cresset-group.com/resources/all-resources/",
-        "anchor_text": "All resources",
-        "score": 41
-      },
-      {
-        "url": "https://cresset-group.com/resources/all-resources/?_category=webinar",
-        "anchor_text": "Webinars",
-        "score": 41
-      },
-      {
-        "url": "https://cresset-group.com/resources/all-resources/?_category=publication",
-        "anchor_text": "Publications",
-        "score": 41
-      },
-      {
-        "url": "https://cresset-group.com/resources/all-resources/?_category=citation",
-        "anchor_text": "Citations",
-        "score": 41
-      },
-      {
-        "url": "https://cresset-group.com/resources/all-resources/?_category=whitepaper",
-        "anchor_text": "Whitepapers",
-        "score": 41
-      },
-      {
-        "url": "https://cresset-group.com/resources/all-resources/?_category=case-study",
-        "anchor_text": "Case Studies",
-        "score": 41
-      },
-      {
-        "url": "https://cresset-group.com/resources/all-resources/?_category=article",
-        "anchor_text": "Articles",
-        "score": 41
-      },
-      {
-        "url": "https://cresset-group.com/software/flare-connect/",
-        "anchor_text": "Flare™ Connect – Collaborative Design",
-        "score": 40
-      },
-      {
-        "url": "https://cresset-group.com/support/knowledge-base/",
-        "anchor_text": "Knowledge Base",
-        "score": 40
-      },
-      {
-        "url": "https://cresset-group.com/science/our-science/",
-        "anchor_text": "Our Science",
-        "score": 37
-      },
-      {
-        "url": "https://cresset-group.com/software/flare-fep/",
-        "anchor_text": "Flare™ FEP – Predict Binding Affinity",
-        "score": 36
-      },
-      {
-        "url": "https://cresset-group.com/solutions/by-user/",
-        "anchor_text": "By user group",
-        "score": 35
-      },
-      {
-        "url": "https://cresset-group.com/about/why-cresset/",
-        "anchor_text": "Why Cresset",
-        "score": 35
-      },
-      {
-        "url": "https://cresset-group.com/software/ai-adme/",
-        "anchor_text": "AI-Powered ADME model building",
-        "score": 34
-      },
-      {
-        "url": "https://cresset-group.com/about/contact-us/",
-        "anchor_text": "Request demo",
-        "score": 34
-      },
-      {
-        "url": "https://cresset-group.com/ai-terms/",
-        "anchor_text": "Additional terms for AI features",
-        "score": 24
-      },
-      {
-        "url": "https://cresset-group.com/about/news/10/",
-        "anchor_text": "Page10",
-        "score": 23
-      },
-      {
-        "url": "https://cresset-group.com/software/flare/",
-        "anchor_text": "Flare™ Drug Design Software",
-        "score": 22
-      },
-      {
-        "url": "https://cresset-group.com/software/spark/",
-        "anchor_text": "Spark™ Scaffold Hopping Software",
-        "score": 22
-      },
-      {
-        "url": "https://cresset-group.com/software/blaze/",
-        "anchor_text": "Blaze™ Virtual Screening Software",
-        "score": 22
-      },
-      {
-        "url": "https://cresset-group.com/about/news/2/",
-        "anchor_text": "Next",
-        "score": 22
-      },
-      {
-        "url": "https://cresset-group.com/about/news/3/",
-        "anchor_text": "Page3",
-        "score": 22
-      },
-      {
-        "url": "https://cresset-group.com/about/news/4/",
-        "anchor_text": "Page4",
-        "score": 22
-      },
-      {
-        "url": "https://cresset-group.com/about/news/5/",
-        "anchor_text": "Page5",
-        "score": 22
-      },
-      {
-        "url": "https://cresset-group.com/about/news/6/",
-        "anchor_text": "Page6",
-        "score": 22
-      },
-      {
-        "url": "https://cresset-group.com/about/news/7/",
-        "anchor_text": "Page7",
-        "score": 22
-      },
-      {
-        "url": "https://cresset-group.com/about/news/8/",
-        "anchor_text": "Page8",
-        "score": 22
-      },
-      {
-        "url": "https://cresset-group.com/about/news/9/",
-        "anchor_text": "Page9",
-        "score": 22
-      },
-      {
-        "url": "https://cresset-group.com/about/careers/",
-        "anchor_text": "Careers",
-        "score": 21
-      },
-      {
-        "url": "https://cresset-group.com/about/events/",
-        "anchor_text": "Events",
-        "score": 20
-      },
-      {
-        "url": "https://cresset-group.com/about/people/",
-        "anchor_text": "People",
-        "score": 20
-      },
-      {
-        "url": "https://cresset-group.com/about/news/#content",
-        "anchor_text": "Skip to content",
-        "score": 18
-      },
-      {
-        "url": "https://cresset-group.com/about/news/",
-        "anchor_text": "News",
-        "score": 18
-      },
-      {
-        "url": "https://cresset-group.com/about/news/#elementor-action%3Aaction%3Doff_canvas%3Aopen%26settings%3DeyJpZCI6ImM3M2NlM2QiLCJkaXNwbGF5TW9kZSI6Im9wZW4ifQ%3D%3D",
-        "anchor_text": "",
-        "score": 18
-      },
-      {
-        "url": "https://cresset-group.com/about/news/#elementor-action%3Aaction%3Doff_canvas%3Aclose%26settings%3DeyJpZCI6ImM3M2NlM2QiLCJkaXNwbGF5TW9kZSI6ImNsb3NlIn0%3D",
-        "anchor_text": "",
-        "score": 18
-      },
-      {
-        "url": "https://cresset-group.com/solutions/",
-        "anchor_text": "Solution areas",
-        "score": 15
-      },
-      {
-        "url": "https://cresset-group.com/resources/",
-        "anchor_text": "Resources",
-        "score": 15
-      },
-      {
-        "url": "https://cresset-group.com/subscribe/",
-        "anchor_text": "Subscribe",
-        "score": 15
-      },
-      {
-        "url": "https://cresset-group.com/software/",
-        "anchor_text": "Software & Services",
-        "score": 14
-      },
-      {
-        "url": "https://cresset-group.com/science/",
-        "anchor_text": "Science",
-        "score": 13
-      },
-      {
-        "url": "https://cresset-group.com/support/",
-        "anchor_text": "Support",
-        "score": 13
-      },
-      {
-        "url": "http://cresset-group.com/privacy/",
-        "anchor_text": "Privacy notice",
-        "score": 13
-      },
-      {
-        "url": "https://cresset-group.com/about/",
-        "anchor_text": "About",
-        "score": 11
-      },
-      {
-        "url": "https://cresset-group.com",
-        "anchor_text": "",
-        "score": 0
-      }
-    ]
-  },
-  {
     "company": "OpenEye Scientific",
     "press_url": "https://www.eyesopen.com/news",
     "candidate_links": [
@@ -66998,6 +65669,152 @@
         "url": "https://gothamtx.com/news/#page",
         "anchor_text": "",
         "score": 10
+      }
+    ]
+  },
+  {
+    "company": "Storm Therapeutics",
+    "press_url": "https://www.stormtherapeutics.com/news/",
+    "candidate_links": [
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/storm-therapeutics-to-present-promising-phase-1-sarcoma-data-demonstrating-activity-of-first-in-class-mettl3-inhibitor-stc-15/",
+        "anchor_text": "Read more",
+        "score": 165
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/storm-therapeutics-and-alidabio-announce-strategic-collaboration-to-accelerate-development-of-cancer-therapies-targeting-rna/",
+        "anchor_text": "Read more",
+        "score": 164
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/storm-therapeutics-announces-first-patient-dosed-in-clinical-collaboration-to-evaluate-stc-15-in-combination-with-loqtorzi/",
+        "anchor_text": "Read more",
+        "score": 162
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/storm-therapeutics-secures-56-million-series-c-financing-and-doses-first-patient-in-phase-2-sarcoma-trial-of-stc-15/",
+        "anchor_text": "Read more",
+        "score": 155
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/storm-therapeutics-appoints-veteran-cancer-drug-developer-dr-eric-martin-as-chief-development-officer/",
+        "anchor_text": "Read more",
+        "score": 141
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/platform/rna-modifying-enzymes/",
+        "anchor_text": "RNA modifying enzymes",
+        "score": 48
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/page10/",
+        "anchor_text": "10",
+        "score": 46
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/page11/",
+        "anchor_text": "11",
+        "score": 46
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/page2/",
+        "anchor_text": "Next",
+        "score": 45
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/page3/",
+        "anchor_text": "3",
+        "score": 45
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/page4/",
+        "anchor_text": "4",
+        "score": 45
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/page5/",
+        "anchor_text": "5",
+        "score": 45
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/page6/",
+        "anchor_text": "6",
+        "score": 45
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/page7/",
+        "anchor_text": "7",
+        "score": 45
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/page8/",
+        "anchor_text": "8",
+        "score": 45
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/page9/",
+        "anchor_text": "9",
+        "score": 45
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/storm-in-the-news/",
+        "anchor_text": "STORM in the News",
+        "score": 40
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/about/leadership-team/",
+        "anchor_text": "Leadership team",
+        "score": 39
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/about/board-members/",
+        "anchor_text": "Board members",
+        "score": 37
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/news/press-releases/",
+        "anchor_text": "1",
+        "score": 37
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/clinical-trials/",
+        "anchor_text": "Clinical trials",
+        "score": 31
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/privacy-policy/",
+        "anchor_text": "Privacy policy",
+        "score": 30
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/platform/publications/",
+        "anchor_text": "Publications",
+        "score": 29
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/about/investors/",
+        "anchor_text": "Investors",
+        "score": 23
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/stc-15/",
+        "anchor_text": "STC-15",
+        "score": 22
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/contact/",
+        "anchor_text": "Contact",
+        "score": 13
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/about/",
+        "anchor_text": "About us",
+        "score": 11
+      },
+      {
+        "url": "https://www.stormtherapeutics.com/",
+        "anchor_text": "",
+        "score": 3
       }
     ]
   },
@@ -69818,11 +68635,6 @@
         "score": 134
       },
       {
-        "url": "https://www.menarini.com/en-us/news/news-detail/menarini-group-presents-new-data-from-the-phase-1-b-2-elevate-study-of-elacestrant.html",
-        "anchor_text": "READ MORE",
-        "score": 129
-      },
-      {
         "url": "https://www.menarini.com/en-us/oncology/hematologic-malignancies/relapsed-refractory-cd123-expressing-hematologic-malignancies.html",
         "anchor_text": "Hematologic Malignancies (CD123)",
         "score": 125
@@ -69846,6 +68658,11 @@
         "url": "https://www.menarini.com/en-us/oncology/hematologic-malignancies/blastic-plasmacytoid-dendritic-cell-neoplasm-bpdcn.html",
         "anchor_text": "BPDCN",
         "score": 114
+      },
+      {
+        "url": "https://www.menarini.com/en-us/news/news-detail/fair-play-menarini-international-award-the-30th-edition-kicks-off.html",
+        "anchor_text": "READ MORE",
+        "score": 112
       },
       {
         "url": "https://www.menarini.com/en-us/news/news-detail/lusofarmaco-75-anni-di-storia-al-servizio-della-salute.html",
@@ -72110,11 +70927,6 @@
         "score": 168
       },
       {
-        "url": "https://crinetics.com/press-releases/crinetics-pharmaceuticals-announces-submission-of-marketing-authorization-application-in-brazil-for-palsonify-paltusotine-in-acromegaly/",
-        "anchor_text": "READ MORE",
-        "score": 168
-      },
-      {
         "url": "https://crinetics.com/press-releases/crinetics-and-leading-patient-groups-launch-everyday-advocacy-initiative-to-empower-people-across-endocrine-disease-communities/",
         "anchor_text": "READ MORE",
         "score": 160
@@ -72135,6 +70947,11 @@
         "score": 130
       },
       {
+        "url": "https://crinetics.com/press-releases/crinetics-pharmaceuticals-to-report-second-quarter-2026-financial-results-on-august-4-2026-3/",
+        "anchor_text": "READ MORE",
+        "score": 125
+      },
+      {
         "url": "https://crinetics.com/press-releases/crinetics-pharmaceuticals-to-report-second-quarter-2026-financial-results-on-august-4-2026/",
         "anchor_text": "READ MORE",
         "score": 123
@@ -72153,6 +70970,11 @@
         "url": "https://crinetics.com/press-releases/crinetics-pharmaceuticals-to-report-first-quarter-2026-financial-results-on-may-7-2026/",
         "anchor_text": "READ MORE",
         "score": 119
+      },
+      {
+        "url": "https://crinetics.com/events/webcast-crinetics-pharmaceuticals-to-report-second-quarter-2026-financial-results-2/",
+        "anchor_text": "VIEW DETAILS",
+        "score": 108
       },
       {
         "url": "https://crinetics.com/events/webcast-crinetics-pharmaceuticals-to-report-second-quarter-2026-financial-results/",
@@ -72198,11 +71020,6 @@
         "url": "https://crinetics.com/contact/charitable-contributions-sponsorships/",
         "anchor_text": "Charitable Contributions & Sponsorships",
         "score": 63
-      },
-      {
-        "url": "https://crinetics.com/events/crinetics-pharmaceuticals-2025-rd-day/",
-        "anchor_text": "Crinetics Pharmaceuticals 2025 R&D Day",
-        "score": 62
       },
       {
         "url": "https://crinetics.com/pipeline/atumelnant-oral-acth-antagonist/",
@@ -73290,7 +72107,7 @@
       },
       {
         "url": "https://alexion.com/media-center/press-releases",
-        "anchor_text": "Cookie Settings",
+        "anchor_text": "More Details",
         "score": 42
       },
       {
@@ -73490,7 +72307,7 @@
       },
       {
         "url": "https://alexion.com/Legal#privacynotice",
-        "anchor_text": "More information",
+        "anchor_text": "cookie notice web page",
         "score": 8
       },
       {
@@ -76543,9 +75360,295 @@
     ]
   },
   {
+    "company": "FocalCXM",
+    "press_url": "https://www.focalcxm.com/news/",
+    "candidate_links": []
+  },
+  {
     "company": "AdametNext",
     "press_url": "https://adametnext.com/blog/",
     "candidate_links": []
+  },
+  {
+    "company": "Abiogenesis Clinpharm Private Limited",
+    "press_url": "https://abiogenesisclinpharm.com/blog/",
+    "candidate_links": [
+      {
+        "url": "https://abiogenesisclinpharm.com/category/clinical-research-organization/",
+        "anchor_text": "Clinical Research Organization",
+        "score": 57
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/cell-and-gene-therapy-progress-challenges/",
+        "anchor_text": "0",
+        "score": 57
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/rbqm-in-2026-intelligence-clinical-trials/",
+        "anchor_text": "0",
+        "score": 57
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/clinical-research-organization-in-indias/",
+        "anchor_text": "0",
+        "score": 56
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/uk-clinical-trials-reform-2026-ich-e6r3/",
+        "anchor_text": "0",
+        "score": 55
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/clinical-research-organizations-trials/",
+        "anchor_text": "0",
+        "score": 54
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/herbal-food-and-nutraceutical-studies/",
+        "anchor_text": "Herbal, Food, and Nutraceutical Studies",
+        "score": 53
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/choose-right-cro-clinical-trials-2026/",
+        "anchor_text": "How to Choose the Right Clinical Research Organization (CRO) for Successful Clinical Trials",
+        "score": 53
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/real-world-evidence-supports-programs/",
+        "anchor_text": "",
+        "score": 53
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/semaglutide-clinical-trials-generics/",
+        "anchor_text": "0",
+        "score": 52
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/service/biostatistics-programming/",
+        "anchor_text": "Biostatistics & Programming",
+        "score": 51
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/category/clinical-operations/",
+        "anchor_text": "Clinical Operations",
+        "score": 46
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/service/clinical-operations/",
+        "anchor_text": "Clinical Operations",
+        "score": 45
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/decentralized-clinical-trials/",
+        "anchor_text": "Decentralized Clinical Trials",
+        "score": 45
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/category/regulatory-affairs/",
+        "anchor_text": "Regulatory Affairs",
+        "score": 45
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/service/regulatory-affairs/",
+        "anchor_text": "Regulatory Affairs",
+        "score": 44
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/category/quality-assurance/",
+        "anchor_text": "Quality Assurance",
+        "score": 44
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/service/quality-assurance/",
+        "anchor_text": "Quality Assurance",
+        "score": 43
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/india-uk-biosimilar-pathway/",
+        "anchor_text": "India – UK Biosimilar Corridor: A Controlled Evidence Pathway",
+        "score": 43
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/blog/contact@abiogenesisclinpharm.com",
+        "anchor_text": "[email protected]",
+        "score": 42
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/category/data-management/",
+        "anchor_text": "Data Management",
+        "score": 42
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/category/medical-affairs/",
+        "anchor_text": "Medical Affairs",
+        "score": 42
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/service/data-management/",
+        "anchor_text": "Data Management",
+        "score": 41
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/service/medical-affairs/",
+        "anchor_text": "Medical Affairs",
+        "score": 41
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/small-molecule-and-fdc/",
+        "anchor_text": "Small Molecule & FDC",
+        "score": 38
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/ethnographic-research/",
+        "anchor_text": "Ethnographic Research",
+        "score": 37
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/real-world-studies/",
+        "anchor_text": "Real World Studies",
+        "score": 34
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/medical-monitoring/",
+        "anchor_text": "Medical Monitoring",
+        "score": 34
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/narcotics-studies/",
+        "anchor_text": "Narcotics Studies",
+        "score": 33
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/cosmetic-studies/",
+        "anchor_text": "Cosmetic Studies",
+        "score": 32
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/terms-conditions/",
+        "anchor_text": "Terms & Conditions",
+        "score": 32
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/medical-devices/",
+        "anchor_text": "Medical Devices",
+        "score": 31
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/rescue-studies/",
+        "anchor_text": "Rescue Studies",
+        "score": 30
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/privacy-policy/",
+        "anchor_text": "Privacy Policy",
+        "score": 30
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/cookies-policy/",
+        "anchor_text": "Cookies Policy",
+        "score": 30
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/pk-pd-studies/",
+        "anchor_text": "Pk/Pd Studies",
+        "score": 29
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/category/biostastics/",
+        "anchor_text": "Biostastics",
+        "score": 28
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/our-journey/",
+        "anchor_text": "Our Journey",
+        "score": 27
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/about-us/",
+        "anchor_text": "About Us",
+        "score": 24
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/our-team/",
+        "anchor_text": "Team",
+        "score": 24
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/contact-us",
+        "anchor_text": "CONTACT US",
+        "score": 23
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/blog/page/2/",
+        "anchor_text": "Next page",
+        "score": 21
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/blog/page/3/",
+        "anchor_text": "3",
+        "score": 21
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/blog/page/6/",
+        "anchor_text": "6",
+        "score": 21
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/biosimilar/",
+        "anchor_text": "Biosimilar",
+        "score": 16
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/accolades/",
+        "anchor_text": "Accolades",
+        "score": 15
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/contacts/",
+        "anchor_text": "Contact",
+        "score": 14
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/product/",
+        "anchor_text": "Product",
+        "score": 13
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/vaccine/",
+        "anchor_text": "Vaccine",
+        "score": 13
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/career/",
+        "anchor_text": "Career",
+        "score": 12
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/cdisc/",
+        "anchor_text": "CDISC",
+        "score": 11
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/blog/",
+        "anchor_text": "Blog",
+        "score": 10
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/blog/#top",
+        "anchor_text": "",
+        "score": 10
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/nce/",
+        "anchor_text": "NCE",
+        "score": 9
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/",
+        "anchor_text": "Abiogenesis Clinpharm",
+        "score": 3
+      }
+    ]
   },
   {
     "company": "T-Hub",
@@ -78015,6 +77118,147 @@
     "candidate_links": []
   },
   {
+    "company": "Generate Biomedicines",
+    "press_url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases",
+    "candidate_links": [
+      {
+        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-expands-board-of-directors-with-appointment-of-marsha-fanucci",
+        "anchor_text": "Generate:Biomedicines Expands Board of Directors with Appointment of Marsha Fanucci",
+        "score": 110
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-announces-multi-target-collaboration-with-novartis",
+        "anchor_text": "Generate:Biomedicines Announces Multi-Target Collaboration with Novartis to Discover and Develop Protein Therapeutics with GenerativeAI",
+        "score": 99
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-provides-update-on-its-platform-and-pipeline",
+        "anchor_text": "Generate:Biomedicines Provides Update on its Platform and Pipeline Powered byAIat the43rdAnnual J.P. Morgan Healthcare Conference",
+        "score": 93
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-expands-board-of-directors",
+        "anchor_text": "Generate:Biomedicines Expands Board of Directors with the Appointment of Rupert Vessey, M.D., Ph.D., and Nancy Simonian, M.D.",
+        "score": 75
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-expands-c-suite",
+        "anchor_text": "Generate:Biomedicines Expands C‑suite with Chief Corporate Affairs Officer and Chief Technical Operations Officer",
+        "score": 64
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/generate-welcomes-laurie-lee",
+        "anchor_text": "Generate:Biomedicines Welcomes Laurie Lee,MD, as Chief Medical Officer for the Immunology&Inflammation Portfolio",
+        "score": 56
+      },
+      {
+        "url": "https://generatebiomedicines.com/generative-biology",
+        "anchor_text": "Generative Biology®",
+        "score": 31
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases",
+        "anchor_text": "News Releases",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases#main-content",
+        "anchor_text": "Skip to content",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases#main-nav",
+        "anchor_text": "Skip to navigation",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type",
+        "anchor_text": "Overview",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type=blogPosts",
+        "anchor_text": "Blog Posts",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type=mediaHighlights",
+        "anchor_text": "Media Highlights",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type=publications",
+        "anchor_text": "Presentations & Publications",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p3?type=newsReleases",
+        "anchor_text": "Next Page",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p4?type=newsReleases",
+        "anchor_text": "4",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p5?type=newsReleases",
+        "anchor_text": "5",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/privacy-policy",
+        "anchor_text": "Privacy Policy",
+        "score": 27
+      },
+      {
+        "url": "https://generatebiomedicines.com/terms-of-use",
+        "anchor_text": "Terms of Use",
+        "score": 25
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center",
+        "anchor_text": "Media Center",
+        "score": 25
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center?type=newsReleases",
+        "anchor_text": "1",
+        "score": 25
+      },
+      {
+        "url": "https://generatebiomedicines.com/about-us",
+        "anchor_text": "About Us",
+        "score": 21
+      },
+      {
+        "url": "https://generatebiomedicines.com/platform",
+        "anchor_text": "The Generate Platform™",
+        "score": 11
+      },
+      {
+        "url": "https://generatebiomedicines.com/pipeline",
+        "anchor_text": "Pipeline",
+        "score": 11
+      },
+      {
+        "url": "https://generatebiomedicines.com/careers",
+        "anchor_text": "Careers",
+        "score": 10
+      },
+      {
+        "url": "https://generatebiomedicines.com/contact",
+        "anchor_text": "",
+        "score": 10
+      },
+      {
+        "url": "https://generatebiomedicines.com/",
+        "anchor_text": "",
+        "score": 3
+      }
+    ]
+  },
+  {
     "company": "Sangamo Therapeutics",
     "press_url": "http://investor.sangamo.com/news-releases",
     "candidate_links": []
@@ -79091,8 +78335,8 @@
     "candidate_links": []
   },
   {
-    "company": "Storm Therapeutics",
-    "press_url": "https://www.stormtherapeutics.com/news/",
+    "company": "Cresset Group",
+    "press_url": "https://cresset-group.com/about/news/",
     "candidate_links": []
   },
   {
