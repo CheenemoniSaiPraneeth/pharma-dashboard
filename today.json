@@ -1,163 +1,79 @@
 [
     {
-        "company": "Novartis",
-        "url": "https://www.novartis.com/news/media-releases/novartis-receives-european-commission-approval-itvisma-spinal-muscular-atrophy-sma",
-        "score": 119,
-        "date_added": "2026-07-02",
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/07/global-financial-services-m-and-a-activity-rose-in-h1-2026-with-an-increase-in-deal-volume-but-overall-value-fell-as-fewer-megadeals-completed",
+        "score": 211,
+        "date_added": "2026-07-03",
         "article_like": true
     },
     {
-        "company": "ALS Global",
-        "url": "https://www.alsglobal.com/en/News-and-publications/2026/03/reducing-contamination-of-drinking-water-at-the-source-with-surprisingly-affordable-technology",
-        "score": 173,
-        "date_added": "2026-07-02",
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/06/ey-luxury-client-index-2026-new-ownership-models-experiences-and-ai-could-reshape-how-aspirational-clients-engage-with-luxury-brands",
+        "score": 201,
+        "date_added": "2026-07-03",
         "article_like": true
     },
     {
-        "company": "JETRO",
-        "url": "https://www.jetro.go.jp/en/news/releases/2026/f589ac29abb25df3.html",
-        "score": 79,
-        "date_added": "2026-07-02",
+        "company": "Boston Scientific",
+        "url": "https://news.bostonscientific.com/valencia-technologies-acquisition-overactive-bladder",
+        "score": 65,
+        "date_added": "2026-07-03",
         "article_like": true
     },
     {
-        "company": "Boston Consulting Group",
-        "url": "https://www.bcg.com/news/1july2026/bcg-recognized-leader-in-innovation-consulting-services",
-        "score": 87,
-        "date_added": "2026-07-02",
+        "company": "Eisai",
+        "url": "https://www.eisai.com/news/2026/news202637.html",
+        "score": 57,
+        "date_added": "2026-07-03",
         "article_like": true
     },
     {
-        "company": "Lupin",
-        "url": "https://www.lupin.com/media/press-releases/lupin-announces-ema-approval-for-na-muscla-expansion-for-pediatric-indication-with-new-strengths",
-        "score": 134,
-        "date_added": "2026-07-02",
+        "company": "Mankind Pharma",
+        "url": "https://www.mankindpharma.com/media/press-release/prega-newss-mamas-day-out-returns-with-parineeti-chopra-reaffirming-the-brands-place-beyond-the-pregnancy-test",
+        "score": 147,
+        "date_added": "2026-07-03",
         "article_like": true
     },
     {
-        "company": "Lupin",
-        "url": "https://www.lupin.com/media/press-releases/lupin-receives-eir-from-u-s-fda-for-its-somerset-facility-with-vai-classification",
-        "score": 119,
-        "date_added": "2026-07-02",
+        "company": "Mankind Pharma",
+        "url": "https://www.mankindpharma.com/oHDfwMAvj_W5FhyvK4ja6j9DpZaob4qqmkI0sTU2Fd4=.html",
+        "score": 52,
+        "date_added": "2026-07-03",
         "article_like": true
     },
     {
-        "company": "Mylan (Viatris)",
-        "url": "https://newsroom.viatris.com/2026-07-01-Viatris-to-Report-Second-Quarter-2026-Financial-Results-on-August-6,-2026",
-        "score": 97,
-        "date_added": "2026-07-02",
-        "article_like": true
-    },
-    {
-        "company": "Labcorp Drug Development",
-        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/what-employers-and-their-employees-need-know-about-biometric-screenings.html",
-        "score": 149,
-        "date_added": "2026-07-02",
-        "article_like": true
-    },
-    {
-        "company": "Genentech",
-        "url": "https://www.gene.com/media/press-releases/15119/2026-07-01/genentechs-divarasib-shows-superiority-i",
-        "score": 99,
-        "date_added": "2026-07-02",
-        "article_like": true
-    },
-    {
-        "company": "Caris Life Sciences",
-        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-launches-caris-detect/",
-        "score": 82,
-        "date_added": "2026-07-02",
-        "article_like": true
-    },
-    {
-        "company": "Roche",
-        "url": "https://www.roche.com/media/releases/med-cor-2026-07-02",
-        "score": 50,
-        "date_added": "2026-07-02",
-        "article_like": true
-    },
-    {
-        "company": "Bristol Myers Squibb",
-        "url": "https://www.bms.com/life-and-science/insights/building-resilient-energy-systems.html",
-        "score": 81,
-        "date_added": "2026-07-02",
-        "article_like": true
-    },
-    {
-        "company": "Bristol Myers Squibb",
-        "url": "https://www.bms.com/life-and-science/insights/c2c4c-2026-cancer-research.html",
-        "score": 74,
-        "date_added": "2026-07-02",
-        "article_like": true
-    },
-    {
-        "company": "Insilico Medicine",
-        "url": "https://insilico.com/news/4ifuiaal01-insilico-medicine-announces-collaboratio",
-        "score": 71,
-        "date_added": "2026-07-02",
-        "article_like": true
-    },
-    {
-        "company": "Otsuka Pharmaceutical",
-        "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260702_1.html",
-        "score": 80,
-        "date_added": "2026-07-02",
-        "article_like": true
-    },
-    {
-        "company": "Chugai Pharmaceutical",
-        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260702153000_1262.html?year=2026&category=",
-        "score": 53,
-        "date_added": "2026-07-02",
-        "article_like": true
-    },
-    {
-        "company": "Chugai Pharmaceutical",
-        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260701_edivarasib_Krascendo1.pdf&src=[%0],[%1]&rep=130,1262",
-        "score": 26,
-        "date_added": "2026-07-02",
-        "article_like": true
-    },
-    {
-        "company": "KaryoPharm Therapeutics",
-        "url": "https://investors.karyopharm.com/2026-07-01-Karyopharm-Therapeutics-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4",
-        "score": 108,
-        "date_added": "2026-07-02",
-        "article_like": true
-    },
-    {
-        "company": "Mirati Therapeutics",
-        "url": "https://ir.mirati.com/life-and-science/insights/building-resilient-energy-systems.html",
-        "score": 81,
-        "date_added": "2026-07-02",
-        "article_like": true
-    },
-    {
-        "company": "Mirati Therapeutics",
-        "url": "https://ir.mirati.com/life-and-science/insights/c2c4c-2026-cancer-research.html",
-        "score": 74,
-        "date_added": "2026-07-02",
+        "company": "Nuclera",
+        "url": "https://www.nuclera.com/webinars-events/cell-free-protein-screening-to-predict-scale-up-success/",
+        "score": 89,
+        "date_added": "2026-07-03",
         "article_like": true
     },
     {
         "company": "Menarini Group",
-        "url": "https://www.menarini.com/en-us/news/news-detail/fair-play-menarini-international-award-the-30th-edition-kicks-off.html",
-        "score": 112,
-        "date_added": "2026-07-02",
+        "url": "https://www.menarini.com/en-us/news/news-detail/trent-anni-da-incorniciare-il-premio-fair-play-menarini-incanta-il-maggio-musicale-fiorentino.html",
+        "score": 140,
+        "date_added": "2026-07-03",
         "article_like": true
     },
     {
-        "company": "Crinetics Pharmaceuticals",
-        "url": "https://crinetics.com/press-releases/crinetics-pharmaceuticals-to-report-second-quarter-2026-financial-results-on-august-4-2026-3/",
-        "score": 125,
-        "date_added": "2026-07-02",
+        "company": "Menarini Group",
+        "url": "https://www.menarini.com/en-us/news/news-detail/fair-play-menarini-a-night-of-champions-the-awards-ceremony-takes-place-tonight-in-florence.html",
+        "score": 138,
+        "date_added": "2026-07-03",
         "article_like": true
     },
     {
-        "company": "Crinetics Pharmaceuticals",
-        "url": "https://crinetics.com/events/webcast-crinetics-pharmaceuticals-to-report-second-quarter-2026-financial-results-2/",
-        "score": 108,
-        "date_added": "2026-07-02",
+        "company": "Kiora Pharmaceuticals",
+        "url": "https://ir.kiorapharma.com/news-events/news-releases/detail/251/kiora-pharmaceuticals-to-participate-in-piper-sandler-virtual-ophthalmology-symposium",
+        "score": 143,
+        "date_added": "2026-07-03",
+        "article_like": true
+    },
+    {
+        "company": "Junshi Biosciences",
+        "url": "https://www.junshipharma.com/en/junshi-biosciences-enters-licensing-collaboration-with-fosun-wanbang-on-roconkibart-il-17a/",
+        "score": 111,
+        "date_added": "2026-07-03",
         "article_like": true
     }
 ]
