@@ -1,79 +1,51 @@
 [
     {
-        "company": "EY-Parthenon",
-        "url": "https://www.ey.com/en_gl/newsroom/2026/07/global-financial-services-m-and-a-activity-rose-in-h1-2026-with-an-increase-in-deal-volume-but-overall-value-fell-as-fewer-megadeals-completed",
-        "score": 211,
-        "date_added": "2026-07-03",
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/News-and-publications/Food-Blog/Articles-2026/Cereulide-in-Food-Products",
+        "score": 96,
+        "date_added": "2026-07-04",
         "article_like": true
     },
     {
-        "company": "EY-Parthenon",
-        "url": "https://www.ey.com/en_gl/newsroom/2026/06/ey-luxury-client-index-2026-new-ownership-models-experiences-and-ai-could-reshape-how-aspirational-clients-engage-with-luxury-brands",
-        "score": 201,
-        "date_added": "2026-07-03",
+        "company": "Lupin",
+        "url": "https://www.lupin.com/media/perspectives/the-silent-and-growing-burden-of-liver-disease",
+        "score": 82,
+        "date_added": "2026-07-04",
         "article_like": true
     },
     {
-        "company": "Boston Scientific",
-        "url": "https://news.bostonscientific.com/valencia-technologies-acquisition-overactive-bladder",
-        "score": 65,
-        "date_added": "2026-07-03",
-        "article_like": true
-    },
-    {
-        "company": "Eisai",
-        "url": "https://www.eisai.com/news/2026/news202637.html",
-        "score": 57,
-        "date_added": "2026-07-03",
+        "company": "Catalent",
+        "url": "https://www.catalent.com/events/isscr-annual-meeting-2026/",
+        "score": 50,
+        "date_added": "2026-07-04",
         "article_like": true
     },
     {
         "company": "Mankind Pharma",
-        "url": "https://www.mankindpharma.com/media/press-release/prega-newss-mamas-day-out-returns-with-parineeti-chopra-reaffirming-the-brands-place-beyond-the-pregnancy-test",
-        "score": 147,
-        "date_added": "2026-07-03",
+        "url": "https://www.mankindpharma.com/media/press-release/with-only-32-of-indian-companies-offering-paternity-leave-prega-newss-fathers-day-campaign-calls-for-a-shift-in-how-the-country-sees-new-fathers",
+        "score": 181,
+        "date_added": "2026-07-04",
         "article_like": true
     },
     {
         "company": "Mankind Pharma",
-        "url": "https://www.mankindpharma.com/oHDfwMAvj_W5FhyvK4ja6j9DpZaob4qqmkI0sTU2Fd4=.html",
-        "score": 52,
-        "date_added": "2026-07-03",
+        "url": "https://www.mankindpharma.com/media/press-release/mankind-pharma-launches-nationwide-preventive-oncology-initiative-to-reach-one-million-women-and-families",
+        "score": 142,
+        "date_added": "2026-07-04",
         "article_like": true
     },
     {
-        "company": "Nuclera",
-        "url": "https://www.nuclera.com/webinars-events/cell-free-protein-screening-to-predict-scale-up-success/",
-        "score": 89,
-        "date_added": "2026-07-03",
+        "company": "Mankind Pharma",
+        "url": "https://www.mankindpharma.com/media/press-release/mankind-pharma-and-denovo-sciences-join-forces-to-drive-ai-led-innovation-in-drug-discovery",
+        "score": 128,
+        "date_added": "2026-07-04",
         "article_like": true
     },
     {
-        "company": "Menarini Group",
-        "url": "https://www.menarini.com/en-us/news/news-detail/trent-anni-da-incorniciare-il-premio-fair-play-menarini-incanta-il-maggio-musicale-fiorentino.html",
-        "score": 140,
-        "date_added": "2026-07-03",
-        "article_like": true
-    },
-    {
-        "company": "Menarini Group",
-        "url": "https://www.menarini.com/en-us/news/news-detail/fair-play-menarini-a-night-of-champions-the-awards-ceremony-takes-place-tonight-in-florence.html",
-        "score": 138,
-        "date_added": "2026-07-03",
-        "article_like": true
-    },
-    {
-        "company": "Kiora Pharmaceuticals",
-        "url": "https://ir.kiorapharma.com/news-events/news-releases/detail/251/kiora-pharmaceuticals-to-participate-in-piper-sandler-virtual-ophthalmology-symposium",
-        "score": 143,
-        "date_added": "2026-07-03",
-        "article_like": true
-    },
-    {
-        "company": "Junshi Biosciences",
-        "url": "https://www.junshipharma.com/en/junshi-biosciences-enters-licensing-collaboration-with-fosun-wanbang-on-roconkibart-il-17a/",
-        "score": 111,
-        "date_added": "2026-07-03",
+        "company": "Mankind Pharma",
+        "url": "https://www.mankindpharma.com/media/press-release/mankind-pharma-unveils-act-at-30-to-make-early-heart-screening-a-national-priority",
+        "score": 119,
+        "date_added": "2026-07-04",
         "article_like": true
     }
 ]
