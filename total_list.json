@@ -8921,6 +8921,192 @@
     ]
   },
   {
+    "company": "AdametNext",
+    "press_url": "https://adametnext.com/blog/",
+    "candidate_links": [
+      {
+        "url": "https://adametnext.com/competitive-intelligence/",
+        "anchor_text": "Competitive Intelligence",
+        "score": 40
+      },
+      {
+        "url": "https://adametnext.com/marketing-analytics/",
+        "anchor_text": "Marketing Analytics",
+        "score": 35
+      },
+      {
+        "url": "https://adametnext.com/classic-sidebar/",
+        "anchor_text": "How to make the most of a nontraditional startup community",
+        "score": 31
+      },
+      {
+        "url": "https://adametnext.com/classic-sidebar/#respond",
+        "anchor_text": "No comments yet",
+        "score": 31
+      },
+      {
+        "url": "https://adametnext.com/modern-sidebar/",
+        "anchor_text": "Read more",
+        "score": 30
+      },
+      {
+        "url": "https://adametnext.com/modern-sidebar/#respond",
+        "anchor_text": "No comments yet",
+        "score": 30
+      },
+      {
+        "url": "https://adametnext.com/gallery-post/",
+        "anchor_text": "How can you help your team transition to remote with this essential guide",
+        "score": 28
+      },
+      {
+        "url": "https://adametnext.com/category/development/",
+        "anchor_text": "Development",
+        "score": 28
+      },
+      {
+        "url": "https://adametnext.com/gallery-post/#respond",
+        "anchor_text": "No comments yet",
+        "score": 28
+      },
+      {
+        "url": "https://adametnext.com/category/technology/",
+        "anchor_text": "Technology",
+        "score": 27
+      },
+      {
+        "url": "https://adametnext.com/contact-us/",
+        "anchor_text": "Contact Us",
+        "score": 26
+      },
+      {
+        "url": "https://adametnext.com/video-post/",
+        "anchor_text": "The best remote UX and UI design conferences to attend in 2020",
+        "score": 26
+      },
+      {
+        "url": "https://adametnext.com/video-post/#respond",
+        "anchor_text": "No comments yet",
+        "score": 26
+      },
+      {
+        "url": "https://adametnext.com/audio-post/",
+        "anchor_text": "Read more",
+        "score": 26
+      },
+      {
+        "url": "https://adametnext.com/audio-post/#respond",
+        "anchor_text": "No comments yet",
+        "score": 26
+      },
+      {
+        "url": "https://adametnext.com/category/business/",
+        "anchor_text": "Business",
+        "score": 25
+      },
+      {
+        "url": "https://adametnext.com/category/software/",
+        "anchor_text": "Software",
+        "score": 25
+      },
+      {
+        "url": "https://adametnext.com/about-us/",
+        "anchor_text": "About Us",
+        "score": 24
+      },
+      {
+        "url": "https://adametnext.com/category/general/",
+        "anchor_text": "General",
+        "score": 24
+      },
+      {
+        "url": "https://adametnext.com/category/science/",
+        "anchor_text": "Science",
+        "score": 24
+      },
+      {
+        "url": "https://adametnext.com/author/admin143/",
+        "anchor_text": "admin143",
+        "score": 23
+      },
+      {
+        "url": "https://adametnext.com/category/design/",
+        "anchor_text": "Design",
+        "score": 23
+      },
+      {
+        "url": "https://adametnext.com/tag/marketing/",
+        "anchor_text": "Marketing(3)",
+        "score": 21
+      },
+      {
+        "url": "https://adametnext.com/tag/creative/",
+        "anchor_text": "Creative(4)",
+        "score": 20
+      },
+      {
+        "url": "https://adametnext.com/tag/internet/",
+        "anchor_text": "Internet(4)",
+        "score": 20
+      },
+      {
+        "url": "https://adametnext.com/tag/popular/",
+        "anchor_text": "Popular(3)",
+        "score": 19
+      },
+      {
+        "url": "https://adametnext.com/tag/startup/",
+        "anchor_text": "Startup(3)",
+        "score": 19
+      },
+      {
+        "url": "https://adametnext.com/tag/mobile/",
+        "anchor_text": "Mobile(4)",
+        "score": 18
+      },
+      {
+        "url": "https://adametnext.com/forecasting/",
+        "anchor_text": "Forecasting",
+        "score": 17
+      },
+      {
+        "url": "https://adametnext.com/careers/",
+        "anchor_text": "Careers",
+        "score": 13
+      },
+      {
+        "url": "https://adametnext.com/classic/",
+        "anchor_text": "Problems everyone has when working remotely and how to solve them",
+        "score": 13
+      },
+      {
+        "url": "https://adametnext.com/classic/#respond",
+        "anchor_text": "No comments yet",
+        "score": 13
+      },
+      {
+        "url": "https://adametnext.com/modern/",
+        "anchor_text": "Are enterprise teams the next big thing in the freelance revolution?",
+        "score": 12
+      },
+      {
+        "url": "https://adametnext.com/modern/#respond",
+        "anchor_text": "No comments yet",
+        "score": 12
+      },
+      {
+        "url": "https://adametnext.com/blog/",
+        "anchor_text": "Subscribe",
+        "score": 10
+      },
+      {
+        "url": "https://adametnext.com",
+        "anchor_text": "Adamet Next",
+        "score": 0
+      }
+    ]
+  },
+  {
     "company": "Genotypic Technology Pvt Ltd",
     "press_url": "https://genotypic.co.in/aboutus/news/",
     "candidate_links": [
@@ -11028,207 +11214,6 @@
         "url": "https://www.jetro.go.jp/",
         "anchor_text": "",
         "score": 3
-      }
-    ]
-  },
-  {
-    "company": "Adgyl Lifesciences",
-    "press_url": "https://www.adgyllifesciences.com/news-conferences/",
-    "candidate_links": [
-      {
-        "url": "https://www.adgyllifesciences.com/services/in-vitro-in-vivo-pharmacology-in-vivo-imaging-solutions/",
-        "anchor_text": "In Vitro, In Vivo Pharmacology & In Vivo Imaging Solutions",
-        "score": 82
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/services/development-and-reproduction-toxicology/",
-        "anchor_text": "Development and Reproduction Toxicology",
-        "score": 66
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/services/inhalation-toxicity-studies/",
-        "anchor_text": "Inhalation Toxicity Studies",
-        "score": 54
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/services/bio-analytical-services/",
-        "anchor_text": "Bioanalytical Services",
-        "score": 50
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/services/ind-enabling-studies/",
-        "anchor_text": "IND Enabling Studies",
-        "score": 47
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/services/discovery-chemistry/",
-        "anchor_text": "Discovery Chemistry",
-        "score": 46
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/services/in-vitro-toxicology/",
-        "anchor_text": "In Vitro Toxicology",
-        "score": 46
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/services/exploratory-studies/",
-        "anchor_text": "Exploratory studies",
-        "score": 46
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/services/genetic-toxicology/",
-        "anchor_text": "Genetic Toxicology",
-        "score": 45
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/accreditations-registrations/",
-        "anchor_text": "Accreditations & Registrations",
-        "score": 44
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/pharmaceutical-biotechnology/",
-        "anchor_text": "Pharmaceutical & Biotechnology",
-        "score": 44
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/services/immuno-toxicology/",
-        "anchor_text": "Immuno Toxicology",
-        "score": 44
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/services/process-chemistry/",
-        "anchor_text": "Process Chemistry",
-        "score": 44
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/our-vision-mission-values/",
-        "anchor_text": "Vision Mission value",
-        "score": 41
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/veterinary-pharmaceutical/",
-        "anchor_text": "Veterinary Pharmaceuticals",
-        "score": 41
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/services/nda-filing/",
-        "anchor_text": "NDA filing",
-        "score": 37
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/safety-pharmacology/",
-        "anchor_text": "Safety Pharmacology/De-risking Early Development",
-        "score": 35
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/annual-return-csr/",
-        "anchor_text": "Annual Return & CSR",
-        "score": 33
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/news-conferences/",
-        "anchor_text": "21 & #22 Phase II, Peenya Industrial Area Bangalore 560058, India.",
-        "score": 32
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/terms-conditions/",
-        "anchor_text": "Terms & Conditions",
-        "score": 32
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/medical-devices/",
-        "anchor_text": "Medical Devices",
-        "score": 31
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/privacy-policy/",
-        "anchor_text": "Privacy Policy",
-        "score": 30
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/reach-support/",
-        "anchor_text": "REACH Support",
-        "score": 29
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/case-studies/",
-        "anchor_text": "Case studies",
-        "score": 28
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/industry/biologics/",
-        "anchor_text": "Biologics",
-        "score": 26
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/services/biologics/",
-        "anchor_text": "Biologics",
-        "score": 26
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/contact-us/",
-        "anchor_text": "Contact Us",
-        "score": 26
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/about-us/",
-        "anchor_text": "About Us",
-        "score": 24
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/services/dmpk/",
-        "anchor_text": "DMPK",
-        "score": 21
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/nutraceuticals/",
-        "anchor_text": "Nutraceuticals",
-        "score": 20
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/agrochemicals/",
-        "anchor_text": "Agrochemicals",
-        "score": 19
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/cosmetics/",
-        "anchor_text": "Cosmetics",
-        "score": 15
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/resources/",
-        "anchor_text": "Insights",
-        "score": 15
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/downloads/",
-        "anchor_text": "Downloads",
-        "score": 15
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/brochures/",
-        "anchor_text": "Brochures",
-        "score": 15
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/careers/",
-        "anchor_text": "Careers",
-        "score": 13
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/events/",
-        "anchor_text": "Events",
-        "score": 12
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/admet/",
-        "anchor_text": "ADMET",
-        "score": 11
-      },
-      {
-        "url": "https://www.adgyllifesciences.com",
-        "anchor_text": "",
-        "score": 0
       }
     ]
   },
@@ -18373,7 +18358,7 @@
       },
       {
         "url": "https://www.illumina.com/company/news-center.html",
-        "anchor_text": "Cookie Management Center",
+        "anchor_text": "Share on Linkedin",
         "score": 39
       },
       {
@@ -22937,6 +22922,472 @@
       {
         "url": "https://sunpharma.com/",
         "anchor_text": "",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "company": "Cipla",
+    "press_url": "https://www.cipla.com/media-centre/media-releases",
+    "candidate_links": [
+      {
+        "url": "https://www.cipla.com/cipla-launches-mumbais-first-breathefree-lung-wellness-center-indias-most-advanced-integrated-lung-diagnostics-facility",
+        "anchor_text": "Cipla launches Mumbai’s first Breathefree Lung Wellness Center, India’s Most  Advanced Integrated Lung Diagnostics Facility",
+        "score": 132
+      },
+      {
+        "url": "https://www.cipla.com/press-releases-statements/cipla-expands-us-respiratory-portfolio-approval-nintedanib-capsules-100mg",
+        "anchor_text": "Cipla Expands U.S. Respiratory Portfolio with Approval of Nintedanib Capsules (100mg & 150mg) for Idiopathic Pulmonary Fibrosis",
+        "score": 114
+      },
+      {
+        "url": "https://www.cipla.com/press-releases-statements/cipla-partners-immunoact-launch-talicabtagene-autoleucel-anti-cd19-car-t",
+        "anchor_text": "Cipla partners with ImmunoACT to launch talicabtagene autoleucel, an anti-CD19 CAR-T cell therapy for blood cancers in Africa",
+        "score": 113
+      },
+      {
+        "url": "https://www.cipla.com/press-releases-statements/cipla-foundation-partners-tata-iisc-medical-school-set-centre-pulmonary",
+        "anchor_text": "Cipla Foundation partners with Tata IISc Medical School to set up Centre for Pulmonary Medicine to Advance Respiratory Care & Research",
+        "score": 112
+      },
+      {
+        "url": "https://www.cipla.com/press-releases-statements/cipla-receives-us-fda-approval-first-ab-rated-generic-ventolinr-hfa",
+        "anchor_text": "Cipla Receives U.S. FDA Approval for First AB-Rated Generic of Ventolin®  HFA",
+        "score": 108
+      },
+      {
+        "url": "https://www.cipla.com/press-releases-statements/cipla-strengthens-us-portfolio-launch-generic-saxendar-liraglutide",
+        "anchor_text": "Cipla strengthens US portfolio with the launch of generic Saxenda® (Liraglutide Injection) for weight management therapy",
+        "score": 107
+      },
+      {
+        "url": "https://www.cipla.com/press-releases-statements/cipla-celebrates-90-years-commemorative-amar-chitra-katha-comic",
+        "anchor_text": "Cipla celebrates 90 years with commemorative  Amar Chitra Katha comic",
+        "score": 104
+      },
+      {
+        "url": "https://www.cipla.com/sustainability/accelerating-community-wellbeing/community-wellbeing-initiatives",
+        "anchor_text": "Community Initiatives",
+        "score": 96
+      },
+      {
+        "url": "https://www.cipla.com/sustainability/accelerating-community-wellbeing/employees-wellbeing-initiatives",
+        "anchor_text": "Employee Initiatives",
+        "score": 96
+      },
+      {
+        "url": "https://www.cipla.com/press-releases-statements/cipla-launches-first-its-kind-sputum-inflammometry-lab",
+        "anchor_text": "Cipla Launches First-of-its-kind Sputum Inflammometry Lab",
+        "score": 95
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory/paediatric-asthma",
+        "anchor_text": "Paediatric Asthma",
+        "score": 76
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory/nebulization",
+        "anchor_text": "Nebulization",
+        "score": 71
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory/asthma",
+        "anchor_text": "Asthma",
+        "score": 65
+      },
+      {
+        "url": "https://www.cipla.com/sustainability/enhancing-access-and-affordability",
+        "anchor_text": "Enhancing Access and Affordability",
+        "score": 64
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory/copd",
+        "anchor_text": "COPD",
+        "score": 63
+      },
+      {
+        "url": "https://www.cipla.com/sustainability/accelerating-community-wellbeing",
+        "anchor_text": "Accelerated Community Well-being",
+        "score": 62
+      },
+      {
+        "url": "https://www.cipla.com/sustainability/championing-climate-positivity",
+        "anchor_text": "Championing Climate Positivity",
+        "score": 60
+      },
+      {
+        "url": "https://www.cipla.com/about-us/board-directors/committees-board",
+        "anchor_text": "Committees of Board",
+        "score": 58
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory",
+        "anchor_text": "Respiratory",
+        "score": 56
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/cipla-generics/cipcal_500",
+        "anchor_text": "Cipcal",
+        "score": 56
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/cipla-generics/easylax-l",
+        "anchor_text": "Easylax-L",
+        "score": 55
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/our-therapies/hiv-aids",
+        "anchor_text": "HIV/AIDS",
+        "score": 53
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/our-therapies/oncology",
+        "anchor_text": "Oncology",
+        "score": 53
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/cipla-generics/easylax",
+        "anchor_text": "Easylax",
+        "score": 53
+      },
+      {
+        "url": "https://www.cipla.com/about-us/cipla-archive/dr-yk-hamied",
+        "anchor_text": "Scientist with a Heart- Dr. Y K Hamied",
+        "score": 52
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/cipla-generics/cipcal",
+        "anchor_text": "Cipcal",
+        "score": 52
+      },
+      {
+        "url": "https://www.cipla.com/sustainability/raising-bar-governance",
+        "anchor_text": "Raising the Bar on Governance",
+        "score": 52
+      },
+      {
+        "url": "https://www.cipla.com/about-us/90-years-of-caring-for-life",
+        "anchor_text": "90 years of caring for life",
+        "score": 51
+      },
+      {
+        "url": "https://www.cipla.com/investors/intimation-stock-exchanges",
+        "anchor_text": "Intimation to stock Exchanges",
+        "score": 51
+      },
+      {
+        "url": "https://www.cipla.com/disclosures-under-regulation-46-lodr",
+        "anchor_text": "Disclosure under regulation 46 of SEBI",
+        "score": 49
+      },
+      {
+        "url": "https://www.cipla.com/about-us/milestones-and-awards-old",
+        "anchor_text": "Milestones and Awards",
+        "score": 49
+      },
+      {
+        "url": "https://www.cipla.com/board-directors/committees-board",
+        "anchor_text": "CSR Committee",
+        "score": 47
+      },
+      {
+        "url": "https://www.cipla.com/investors/investor-presentation",
+        "anchor_text": "Investor Presentation",
+        "score": 46
+      },
+      {
+        "url": "https://www.cipla.com/about-us/milestones-and-awards",
+        "anchor_text": "Milestones and Awards",
+        "score": 45
+      },
+      {
+        "url": "https://www.cipla.com/investors/corporate-governance",
+        "anchor_text": "Corporate Governance",
+        "score": 45
+      },
+      {
+        "url": "https://www.cipla.com/investors/shareholding-pattern",
+        "anchor_text": "Shareholding Pattern",
+        "score": 45
+      },
+      {
+        "url": "https://www.cipla.com/caution-notice-recruitment-fraud",
+        "anchor_text": "Caution Notice - \"Recruitment Fraud\"",
+        "score": 45
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/cipla-generics",
+        "anchor_text": "Cipla Generics",
+        "score": 43
+      },
+      {
+        "url": "https://www.cipla.com/investors/scheme-arrangement",
+        "anchor_text": "Scheme of Arrangement",
+        "score": 43
+      },
+      {
+        "url": "https://www.cipla.com/investors/investor-resources",
+        "anchor_text": "Investor Resources",
+        "score": 43
+      },
+      {
+        "url": "https://www.cipla.com/media-centre/media-releases#main-content",
+        "anchor_text": "Skip to main content",
+        "score": 42
+      },
+      {
+        "url": "https://www.cipla.com/media-centre/media-releases",
+        "anchor_text": "×",
+        "score": 42
+      },
+      {
+        "url": "https://www.cipla.com/about-us/management-council",
+        "anchor_text": "Management Council",
+        "score": 42
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/our-therapies",
+        "anchor_text": "Other Therapies",
+        "score": 42
+      },
+      {
+        "url": "https://www.cipla.com/investors/quarterly-results",
+        "anchor_text": "Quarterly Results",
+        "score": 42
+      },
+      {
+        "url": "https://www.cipla.com/investors/investor-contacts",
+        "anchor_text": "Investor Contact",
+        "score": 42
+      },
+      {
+        "url": "https://www.cipla.com/careers/inclusion-diversity",
+        "anchor_text": "Diversity & Inclusion",
+        "score": 42
+      },
+      {
+        "url": "https://www.cipla.com/careers/business-functions",
+        "anchor_text": "Business Functions",
+        "score": 41
+      },
+      {
+        "url": "https://www.cipla.com/careers/holistic-wellbeing",
+        "anchor_text": "Holistic Wellbeing",
+        "score": 41
+      },
+      {
+        "url": "https://www.cipla.com/chatbot-api-terms-conditions",
+        "anchor_text": "Terms & Condition",
+        "score": 41
+      },
+      {
+        "url": "https://www.cipla.com/about-us/board-directors",
+        "anchor_text": "Board Of Directors",
+        "score": 39
+      },
+      {
+        "url": "https://www.cipla.com/investors/annual-reports",
+        "anchor_text": "Annual Reports",
+        "score": 39
+      },
+      {
+        "url": "https://www.cipla.com/investors/unclaimed-data",
+        "anchor_text": "Unclaimed Data",
+        "score": 39
+      },
+      {
+        "url": "https://www.cipla.com/careers/cipla-university",
+        "anchor_text": "Cipla University",
+        "score": 39
+      },
+      {
+        "url": "https://www.cipla.com/chatbot-api-privacy-policy",
+        "anchor_text": "Privacy Policy",
+        "score": 39
+      },
+      {
+        "url": "https://www.cipla.com/about-us/onecipla-credo",
+        "anchor_text": "Our Credo",
+        "score": 38
+      },
+      {
+        "url": "https://www.cipla.com/legacy-of-care-comic-book",
+        "anchor_text": "Legacy of Care | Comic Book",
+        "score": 38
+      },
+      {
+        "url": "https://www.cipla.com/cipla-launches-ciposcillo",
+        "anchor_text": "Cipla launches Ciposcillo® – A next-generation oscillometer  device for respiratory diagnostics",
+        "score": 38
+      },
+      {
+        "url": "https://www.cipla.com/about-us/manufacturing",
+        "anchor_text": "Manufacturing",
+        "score": 37
+      },
+      {
+        "url": "https://www.cipla.com/about-us/cipla-archive",
+        "anchor_text": "Our History - Cipla Archives",
+        "score": 37
+      },
+      {
+        "url": "https://www.cipla.com/our-presence/australia",
+        "anchor_text": "Australia",
+        "score": 37
+      },
+      {
+        "url": "https://www.cipla.com/chatbot-api-terms-of-use",
+        "anchor_text": "Terms of Use",
+        "score": 37
+      },
+      {
+        "url": "https://www.cipla.com/about-us/code-conduct",
+        "anchor_text": "Code of Conduct",
+        "score": 36
+      },
+      {
+        "url": "https://www.cipla.com/careers/life-at-cipla",
+        "anchor_text": "Life at Cipla",
+        "score": 36
+      },
+      {
+        "url": "https://www.cipla.com/csr/cipla-foundation",
+        "anchor_text": "CSR-Cipla Foundation",
+        "score": 35
+      },
+      {
+        "url": "https://www.cipla.com/chatbot-api-disclaimer",
+        "anchor_text": "Disclaimer",
+        "score": 35
+      },
+      {
+        "url": "https://www.cipla.com/our-presence/brazil",
+        "anchor_text": "Brazil",
+        "score": 34
+      },
+      {
+        "url": "https://www.cipla.com/our-presence/europe",
+        "anchor_text": "Europe",
+        "score": 34
+      },
+      {
+        "url": "https://www.cipla.com/our-presence/uganda",
+        "anchor_text": "Uganda",
+        "score": 34
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/api",
+        "anchor_text": "API",
+        "score": 32
+      },
+      {
+        "url": "https://www.cipla.com/media-centre/news",
+        "anchor_text": "In the News",
+        "score": 32
+      },
+      {
+        "url": "https://www.cipla.com/about-us/quality",
+        "anchor_text": "Quality",
+        "score": 31
+      },
+      {
+        "url": "https://www.cipla.com/cipla-diagnostics",
+        "anchor_text": "Cipla Diagnostics",
+        "score": 30
+      },
+      {
+        "url": "https://www.cipla.com/cipla-malaysia",
+        "anchor_text": "Malaysia",
+        "score": 27
+      },
+      {
+        "url": "https://www.cipla.com/cipla-srilanka",
+        "anchor_text": "Sri Lanka",
+        "score": 27
+      },
+      {
+        "url": "https://www.cipla.com/privacy-policy",
+        "anchor_text": "More info",
+        "score": 27
+      },
+      {
+        "url": "https://www.cipla.com/cipla-morocco",
+        "anchor_text": "Morocco",
+        "score": 26
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings",
+        "anchor_text": "Our Offerings",
+        "score": 26
+      },
+      {
+        "url": "https://www.cipla.com/investors/disclaimer",
+        "anchor_text": "Disclaimer",
+        "score": 25
+      },
+      {
+        "url": "https://www.cipla.com/media-centre",
+        "anchor_text": "Media Center",
+        "score": 25
+      },
+      {
+        "url": "https://www.cipla.com/about-us-old",
+        "anchor_text": "Cipla At a Glance",
+        "score": 25
+      },
+      {
+        "url": "https://www.cipla.com/cipla-nepal",
+        "anchor_text": "Nepal",
+        "score": 24
+      },
+      {
+        "url": "https://www.cipla.com/covid-care",
+        "anchor_text": "Covid Care",
+        "score": 23
+      },
+      {
+        "url": "https://www.cipla.com/contact-us",
+        "anchor_text": "Contact Us",
+        "score": 23
+      },
+      {
+        "url": "https://www.cipla.com/cipla-amr",
+        "anchor_text": "AMR",
+        "score": 22
+      },
+      {
+        "url": "https://www.cipla.com/about-us",
+        "anchor_text": "About Us",
+        "score": 21
+      },
+      {
+        "url": "https://www.cipla.com/sustainability",
+        "anchor_text": "Sustainability",
+        "score": 17
+      },
+      {
+        "url": "https://www.cipla.com/dsafe.html",
+        "anchor_text": "Drug Safety Reporting",
+        "score": 13
+      },
+      {
+        "url": "https://www.cipla.com/investors",
+        "anchor_text": "Investors",
+        "score": 12
+      },
+      {
+        "url": "https://www.cipla.com/careers",
+        "anchor_text": "Careers",
+        "score": 10
+      },
+      {
+        "url": "https://www.cipla.com/sitemap",
+        "anchor_text": "Sitemap",
+        "score": 10
+      },
+      {
+        "url": "https://www.cipla.com/",
+        "anchor_text": "Our Presence",
         "score": 3
       }
     ]
@@ -44539,6 +44990,147 @@
       {
         "url": "https://numerionlabs.ai/",
         "anchor_text": "Home",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "company": "Generate Biomedicines",
+    "press_url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases",
+    "candidate_links": [
+      {
+        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-expands-board-of-directors-with-appointment-of-marsha-fanucci",
+        "anchor_text": "Generate:Biomedicines Expands Board of Directors with Appointment of Marsha Fanucci",
+        "score": 110
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-announces-multi-target-collaboration-with-novartis",
+        "anchor_text": "Generate:Biomedicines Announces Multi-Target Collaboration with Novartis to Discover and Develop Protein Therapeutics with GenerativeAI",
+        "score": 99
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-provides-update-on-its-platform-and-pipeline",
+        "anchor_text": "Generate:Biomedicines Provides Update on its Platform and Pipeline Powered byAIat the43rdAnnual J.P. Morgan Healthcare Conference",
+        "score": 93
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-expands-board-of-directors",
+        "anchor_text": "Generate:Biomedicines Expands Board of Directors with the Appointment of Rupert Vessey, M.D., Ph.D., and Nancy Simonian, M.D.",
+        "score": 75
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-expands-c-suite",
+        "anchor_text": "Generate:Biomedicines Expands C‑suite with Chief Corporate Affairs Officer and Chief Technical Operations Officer",
+        "score": 64
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/generate-welcomes-laurie-lee",
+        "anchor_text": "Generate:Biomedicines Welcomes Laurie Lee,MD, as Chief Medical Officer for the Immunology&Inflammation Portfolio",
+        "score": 56
+      },
+      {
+        "url": "https://generatebiomedicines.com/generative-biology",
+        "anchor_text": "Generative Biology®",
+        "score": 31
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases",
+        "anchor_text": "News Releases",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases#main-content",
+        "anchor_text": "Skip to content",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases#main-nav",
+        "anchor_text": "Skip to navigation",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type",
+        "anchor_text": "Overview",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type=blogPosts",
+        "anchor_text": "Blog Posts",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type=mediaHighlights",
+        "anchor_text": "Media Highlights",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type=publications",
+        "anchor_text": "Presentations & Publications",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p3?type=newsReleases",
+        "anchor_text": "Next Page",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p4?type=newsReleases",
+        "anchor_text": "4",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p5?type=newsReleases",
+        "anchor_text": "5",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/privacy-policy",
+        "anchor_text": "Privacy Policy",
+        "score": 27
+      },
+      {
+        "url": "https://generatebiomedicines.com/terms-of-use",
+        "anchor_text": "Terms of Use",
+        "score": 25
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center",
+        "anchor_text": "Media Center",
+        "score": 25
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center?type=newsReleases",
+        "anchor_text": "1",
+        "score": 25
+      },
+      {
+        "url": "https://generatebiomedicines.com/about-us",
+        "anchor_text": "About Us",
+        "score": 21
+      },
+      {
+        "url": "https://generatebiomedicines.com/platform",
+        "anchor_text": "The Generate Platform™",
+        "score": 11
+      },
+      {
+        "url": "https://generatebiomedicines.com/pipeline",
+        "anchor_text": "Pipeline",
+        "score": 11
+      },
+      {
+        "url": "https://generatebiomedicines.com/careers",
+        "anchor_text": "Careers",
+        "score": 10
+      },
+      {
+        "url": "https://generatebiomedicines.com/contact",
+        "anchor_text": "",
+        "score": 10
+      },
+      {
+        "url": "https://generatebiomedicines.com/",
+        "anchor_text": "",
         "score": 3
       }
     ]
@@ -75151,12 +75743,329 @@
   {
     "company": "FocalCXM",
     "press_url": "https://www.focalcxm.com/news/",
-    "candidate_links": []
+    "candidate_links": [
+      {
+        "url": "https://www.focalcxm.com/veeva-managed-services/",
+        "anchor_text": "Veeva Managed Services",
+        "score": 38
+      },
+      {
+        "url": "https://www.focalcxm.com/corporate-citizenship/",
+        "anchor_text": "Corporate Citizenship",
+        "score": 37
+      },
+      {
+        "url": "https://www.focalcxm.com/crm-managed-service/",
+        "anchor_text": "CRM Managed Services",
+        "score": 35
+      },
+      {
+        "url": "https://www.focalcxm.com/financial-services/",
+        "anchor_text": "Financial Services",
+        "score": 34
+      },
+      {
+        "url": "https://www.focalcxm.com/enterprise-search/",
+        "anchor_text": "Enterprise Search",
+        "score": 33
+      },
+      {
+        "url": "https://www.focalcxm.com/crm-blueprinting/",
+        "anchor_text": "CRM Blueprinting",
+        "score": 32
+      },
+      {
+        "url": "https://www.focalcxm.com/privacy-policy/",
+        "anchor_text": "Legal",
+        "score": 30
+      },
+      {
+        "url": "https://www.focalcxm.com/data-services/",
+        "anchor_text": "Data Services",
+        "score": 29
+      },
+      {
+        "url": "https://www.focalcxm.com/life-sciences/",
+        "anchor_text": "Life Sciences",
+        "score": 29
+      },
+      {
+        "url": "https://www.focalcxm.com/public-sector/",
+        "anchor_text": "Public Sector",
+        "score": 29
+      },
+      {
+        "url": "https://www.focalcxm.com/focal-events/",
+        "anchor_text": "Events",
+        "score": 28
+      },
+      {
+        "url": "https://www.focalcxm.com/case-studies/",
+        "anchor_text": "Case Studies",
+        "score": 28
+      },
+      {
+        "url": "https://www.focalcxm.com/b2b-rebates/",
+        "anchor_text": "B2B Rebates",
+        "score": 27
+      },
+      {
+        "url": "https://www.focalcxm.com/contact-us/",
+        "anchor_text": "Contact Us",
+        "score": 26
+      },
+      {
+        "url": "https://www.focalcxm.com/about-us/",
+        "anchor_text": "About Us",
+        "score": 24
+      },
+      {
+        "url": "https://www.focalcxm.com/veeva-3/",
+        "anchor_text": "Veeva Services",
+        "score": 23
+      },
+      {
+        "url": "https://www.focalcxm.com/omnichannel/",
+        "anchor_text": "Omni Channel",
+        "score": 17
+      },
+      {
+        "url": "https://www.focalcxm.com/salesforce/",
+        "anchor_text": "SalesForce Services",
+        "score": 16
+      },
+      {
+        "url": "https://www.focalcxm.com/resources/",
+        "anchor_text": "Resources",
+        "score": 15
+      },
+      {
+        "url": "https://www.focalcxm.com/partners/",
+        "anchor_text": "Partners",
+        "score": 14
+      },
+      {
+        "url": "https://www.focalcxm.com/careers/",
+        "anchor_text": "Careers",
+        "score": 13
+      },
+      {
+        "url": "https://www.focalcxm.com/blogs/",
+        "anchor_text": "Blogs",
+        "score": 11
+      },
+      {
+        "url": "https://www.focalcxm.com/news/",
+        "anchor_text": "News",
+        "score": 10
+      },
+      {
+        "url": "https://www.focalcxm.com/",
+        "anchor_text": "",
+        "score": 3
+      }
+    ]
   },
   {
-    "company": "AdametNext",
-    "press_url": "https://adametnext.com/blog/",
-    "candidate_links": []
+    "company": "Adgyl Lifesciences",
+    "press_url": "https://www.adgyllifesciences.com/news-conferences/",
+    "candidate_links": [
+      {
+        "url": "https://www.adgyllifesciences.com/services/in-vitro-in-vivo-pharmacology-in-vivo-imaging-solutions/",
+        "anchor_text": "In Vitro, In Vivo Pharmacology & In Vivo Imaging Solutions",
+        "score": 82
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/services/development-and-reproduction-toxicology/",
+        "anchor_text": "Development and Reproduction Toxicology",
+        "score": 66
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/services/inhalation-toxicity-studies/",
+        "anchor_text": "Inhalation Toxicity Studies",
+        "score": 54
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/services/bio-analytical-services/",
+        "anchor_text": "Bioanalytical Services",
+        "score": 50
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/services/ind-enabling-studies/",
+        "anchor_text": "IND Enabling Studies",
+        "score": 47
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/services/discovery-chemistry/",
+        "anchor_text": "Discovery Chemistry",
+        "score": 46
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/services/in-vitro-toxicology/",
+        "anchor_text": "In Vitro Toxicology",
+        "score": 46
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/services/exploratory-studies/",
+        "anchor_text": "Exploratory studies",
+        "score": 46
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/services/genetic-toxicology/",
+        "anchor_text": "Genetic Toxicology",
+        "score": 45
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/accreditations-registrations/",
+        "anchor_text": "Accreditations & Registrations",
+        "score": 44
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/pharmaceutical-biotechnology/",
+        "anchor_text": "Pharmaceutical & Biotechnology",
+        "score": 44
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/services/immuno-toxicology/",
+        "anchor_text": "Immuno Toxicology",
+        "score": 44
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/services/process-chemistry/",
+        "anchor_text": "Process Chemistry",
+        "score": 44
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/our-vision-mission-values/",
+        "anchor_text": "Vision Mission value",
+        "score": 41
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/veterinary-pharmaceutical/",
+        "anchor_text": "Veterinary Pharmaceuticals",
+        "score": 41
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/services/nda-filing/",
+        "anchor_text": "NDA filing",
+        "score": 37
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/safety-pharmacology/",
+        "anchor_text": "Safety Pharmacology/De-risking Early Development",
+        "score": 35
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/annual-return-csr/",
+        "anchor_text": "Annual Return & CSR",
+        "score": 33
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/news-conferences/",
+        "anchor_text": "21 & #22 Phase II, Peenya Industrial Area Bangalore 560058, India.",
+        "score": 32
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/terms-conditions/",
+        "anchor_text": "Terms & Conditions",
+        "score": 32
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/medical-devices/",
+        "anchor_text": "Medical Devices",
+        "score": 31
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/privacy-policy/",
+        "anchor_text": "Privacy Policy",
+        "score": 30
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/reach-support/",
+        "anchor_text": "REACH Support",
+        "score": 29
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/case-studies/",
+        "anchor_text": "Case studies",
+        "score": 28
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/industry/biologics/",
+        "anchor_text": "Biologics",
+        "score": 26
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/services/biologics/",
+        "anchor_text": "Biologics",
+        "score": 26
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/contact-us/",
+        "anchor_text": "Contact Us",
+        "score": 26
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/about-us/",
+        "anchor_text": "About Us",
+        "score": 24
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/services/dmpk/",
+        "anchor_text": "DMPK",
+        "score": 21
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/nutraceuticals/",
+        "anchor_text": "Nutraceuticals",
+        "score": 20
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/agrochemicals/",
+        "anchor_text": "Agrochemicals",
+        "score": 19
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/cosmetics/",
+        "anchor_text": "Cosmetics",
+        "score": 15
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/resources/",
+        "anchor_text": "Insights",
+        "score": 15
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/downloads/",
+        "anchor_text": "Downloads",
+        "score": 15
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/brochures/",
+        "anchor_text": "Brochures",
+        "score": 15
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/careers/",
+        "anchor_text": "Careers",
+        "score": 13
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/events/",
+        "anchor_text": "Events",
+        "score": 12
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/admet/",
+        "anchor_text": "ADMET",
+        "score": 11
+      },
+      {
+        "url": "https://www.adgyllifesciences.com",
+        "anchor_text": "",
+        "score": 0
+      }
+    ]
   },
   {
     "company": "T-Hub",
@@ -75177,472 +76086,6 @@
     "company": "Telangana Life Sciences",
     "press_url": "https://lifesciences.telangana.gov.in/news/",
     "candidate_links": []
-  },
-  {
-    "company": "Cipla",
-    "press_url": "https://www.cipla.com/media-centre/media-releases",
-    "candidate_links": [
-      {
-        "url": "https://www.cipla.com/cipla-launches-mumbais-first-breathefree-lung-wellness-center-indias-most-advanced-integrated-lung-diagnostics-facility",
-        "anchor_text": "Cipla launches Mumbai’s first Breathefree Lung Wellness Center, India’s Most  Advanced Integrated Lung Diagnostics Facility",
-        "score": 132
-      },
-      {
-        "url": "https://www.cipla.com/press-releases-statements/cipla-expands-us-respiratory-portfolio-approval-nintedanib-capsules-100mg",
-        "anchor_text": "Cipla Expands U.S. Respiratory Portfolio with Approval of Nintedanib Capsules (100mg & 150mg) for Idiopathic Pulmonary Fibrosis",
-        "score": 114
-      },
-      {
-        "url": "https://www.cipla.com/press-releases-statements/cipla-partners-immunoact-launch-talicabtagene-autoleucel-anti-cd19-car-t",
-        "anchor_text": "Cipla partners with ImmunoACT to launch talicabtagene autoleucel, an anti-CD19 CAR-T cell therapy for blood cancers in Africa",
-        "score": 113
-      },
-      {
-        "url": "https://www.cipla.com/press-releases-statements/cipla-foundation-partners-tata-iisc-medical-school-set-centre-pulmonary",
-        "anchor_text": "Cipla Foundation partners with Tata IISc Medical School to set up Centre for Pulmonary Medicine to Advance Respiratory Care & Research",
-        "score": 112
-      },
-      {
-        "url": "https://www.cipla.com/press-releases-statements/cipla-receives-us-fda-approval-first-ab-rated-generic-ventolinr-hfa",
-        "anchor_text": "Cipla Receives U.S. FDA Approval for First AB-Rated Generic of Ventolin®  HFA",
-        "score": 108
-      },
-      {
-        "url": "https://www.cipla.com/press-releases-statements/cipla-strengthens-us-portfolio-launch-generic-saxendar-liraglutide",
-        "anchor_text": "Cipla strengthens US portfolio with the launch of generic Saxenda® (Liraglutide Injection) for weight management therapy",
-        "score": 107
-      },
-      {
-        "url": "https://www.cipla.com/press-releases-statements/cipla-celebrates-90-years-commemorative-amar-chitra-katha-comic",
-        "anchor_text": "Cipla celebrates 90 years with commemorative  Amar Chitra Katha comic",
-        "score": 104
-      },
-      {
-        "url": "https://www.cipla.com/sustainability/accelerating-community-wellbeing/community-wellbeing-initiatives",
-        "anchor_text": "Community Initiatives",
-        "score": 96
-      },
-      {
-        "url": "https://www.cipla.com/sustainability/accelerating-community-wellbeing/employees-wellbeing-initiatives",
-        "anchor_text": "Employee Initiatives",
-        "score": 96
-      },
-      {
-        "url": "https://www.cipla.com/press-releases-statements/cipla-launches-first-its-kind-sputum-inflammometry-lab",
-        "anchor_text": "Cipla Launches First-of-its-kind Sputum Inflammometry Lab",
-        "score": 95
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory/paediatric-asthma",
-        "anchor_text": "Paediatric Asthma",
-        "score": 76
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory/nebulization",
-        "anchor_text": "Nebulization",
-        "score": 71
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory/asthma",
-        "anchor_text": "Asthma",
-        "score": 65
-      },
-      {
-        "url": "https://www.cipla.com/sustainability/enhancing-access-and-affordability",
-        "anchor_text": "Enhancing Access and Affordability",
-        "score": 64
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory/copd",
-        "anchor_text": "COPD",
-        "score": 63
-      },
-      {
-        "url": "https://www.cipla.com/sustainability/accelerating-community-wellbeing",
-        "anchor_text": "Accelerated Community Well-being",
-        "score": 62
-      },
-      {
-        "url": "https://www.cipla.com/sustainability/championing-climate-positivity",
-        "anchor_text": "Championing Climate Positivity",
-        "score": 60
-      },
-      {
-        "url": "https://www.cipla.com/about-us/board-directors/committees-board",
-        "anchor_text": "Committees of Board",
-        "score": 58
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory",
-        "anchor_text": "Respiratory",
-        "score": 56
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/cipla-generics/cipcal_500",
-        "anchor_text": "Cipcal",
-        "score": 56
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/cipla-generics/easylax-l",
-        "anchor_text": "Easylax-L",
-        "score": 55
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/our-therapies/hiv-aids",
-        "anchor_text": "HIV/AIDS",
-        "score": 53
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/our-therapies/oncology",
-        "anchor_text": "Oncology",
-        "score": 53
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/cipla-generics/easylax",
-        "anchor_text": "Easylax",
-        "score": 53
-      },
-      {
-        "url": "https://www.cipla.com/about-us/cipla-archive/dr-yk-hamied",
-        "anchor_text": "Scientist with a Heart- Dr. Y K Hamied",
-        "score": 52
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/cipla-generics/cipcal",
-        "anchor_text": "Cipcal",
-        "score": 52
-      },
-      {
-        "url": "https://www.cipla.com/sustainability/raising-bar-governance",
-        "anchor_text": "Raising the Bar on Governance",
-        "score": 52
-      },
-      {
-        "url": "https://www.cipla.com/about-us/90-years-of-caring-for-life",
-        "anchor_text": "90 years of caring for life",
-        "score": 51
-      },
-      {
-        "url": "https://www.cipla.com/investors/intimation-stock-exchanges",
-        "anchor_text": "Intimation to stock Exchanges",
-        "score": 51
-      },
-      {
-        "url": "https://www.cipla.com/disclosures-under-regulation-46-lodr",
-        "anchor_text": "Disclosure under regulation 46 of SEBI",
-        "score": 49
-      },
-      {
-        "url": "https://www.cipla.com/about-us/milestones-and-awards-old",
-        "anchor_text": "Milestones and Awards",
-        "score": 49
-      },
-      {
-        "url": "https://www.cipla.com/board-directors/committees-board",
-        "anchor_text": "CSR Committee",
-        "score": 47
-      },
-      {
-        "url": "https://www.cipla.com/investors/investor-presentation",
-        "anchor_text": "Investor Presentation",
-        "score": 46
-      },
-      {
-        "url": "https://www.cipla.com/about-us/milestones-and-awards",
-        "anchor_text": "Milestones and Awards",
-        "score": 45
-      },
-      {
-        "url": "https://www.cipla.com/investors/corporate-governance",
-        "anchor_text": "Corporate Governance",
-        "score": 45
-      },
-      {
-        "url": "https://www.cipla.com/investors/shareholding-pattern",
-        "anchor_text": "Shareholding Pattern",
-        "score": 45
-      },
-      {
-        "url": "https://www.cipla.com/caution-notice-recruitment-fraud",
-        "anchor_text": "Caution Notice - \"Recruitment Fraud\"",
-        "score": 45
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/cipla-generics",
-        "anchor_text": "Cipla Generics",
-        "score": 43
-      },
-      {
-        "url": "https://www.cipla.com/investors/scheme-arrangement",
-        "anchor_text": "Scheme of Arrangement",
-        "score": 43
-      },
-      {
-        "url": "https://www.cipla.com/investors/investor-resources",
-        "anchor_text": "Investor Resources",
-        "score": 43
-      },
-      {
-        "url": "https://www.cipla.com/media-centre/media-releases#main-content",
-        "anchor_text": "Skip to main content",
-        "score": 42
-      },
-      {
-        "url": "https://www.cipla.com/media-centre/media-releases",
-        "anchor_text": "×",
-        "score": 42
-      },
-      {
-        "url": "https://www.cipla.com/about-us/management-council",
-        "anchor_text": "Management Council",
-        "score": 42
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/our-therapies",
-        "anchor_text": "Other Therapies",
-        "score": 42
-      },
-      {
-        "url": "https://www.cipla.com/investors/quarterly-results",
-        "anchor_text": "Quarterly Results",
-        "score": 42
-      },
-      {
-        "url": "https://www.cipla.com/investors/investor-contacts",
-        "anchor_text": "Investor Contact",
-        "score": 42
-      },
-      {
-        "url": "https://www.cipla.com/careers/inclusion-diversity",
-        "anchor_text": "Diversity & Inclusion",
-        "score": 42
-      },
-      {
-        "url": "https://www.cipla.com/careers/business-functions",
-        "anchor_text": "Business Functions",
-        "score": 41
-      },
-      {
-        "url": "https://www.cipla.com/careers/holistic-wellbeing",
-        "anchor_text": "Holistic Wellbeing",
-        "score": 41
-      },
-      {
-        "url": "https://www.cipla.com/chatbot-api-terms-conditions",
-        "anchor_text": "Terms & Condition",
-        "score": 41
-      },
-      {
-        "url": "https://www.cipla.com/about-us/board-directors",
-        "anchor_text": "Board Of Directors",
-        "score": 39
-      },
-      {
-        "url": "https://www.cipla.com/investors/annual-reports",
-        "anchor_text": "Annual Reports",
-        "score": 39
-      },
-      {
-        "url": "https://www.cipla.com/investors/unclaimed-data",
-        "anchor_text": "Unclaimed Data",
-        "score": 39
-      },
-      {
-        "url": "https://www.cipla.com/careers/cipla-university",
-        "anchor_text": "Cipla University",
-        "score": 39
-      },
-      {
-        "url": "https://www.cipla.com/chatbot-api-privacy-policy",
-        "anchor_text": "Privacy Policy",
-        "score": 39
-      },
-      {
-        "url": "https://www.cipla.com/about-us/onecipla-credo",
-        "anchor_text": "Our Credo",
-        "score": 38
-      },
-      {
-        "url": "https://www.cipla.com/legacy-of-care-comic-book",
-        "anchor_text": "Legacy of Care | Comic Book",
-        "score": 38
-      },
-      {
-        "url": "https://www.cipla.com/cipla-launches-ciposcillo",
-        "anchor_text": "Cipla launches Ciposcillo® – A next-generation oscillometer  device for respiratory diagnostics",
-        "score": 38
-      },
-      {
-        "url": "https://www.cipla.com/about-us/manufacturing",
-        "anchor_text": "Manufacturing",
-        "score": 37
-      },
-      {
-        "url": "https://www.cipla.com/about-us/cipla-archive",
-        "anchor_text": "Our History - Cipla Archives",
-        "score": 37
-      },
-      {
-        "url": "https://www.cipla.com/our-presence/australia",
-        "anchor_text": "Australia",
-        "score": 37
-      },
-      {
-        "url": "https://www.cipla.com/chatbot-api-terms-of-use",
-        "anchor_text": "Terms of Use",
-        "score": 37
-      },
-      {
-        "url": "https://www.cipla.com/about-us/code-conduct",
-        "anchor_text": "Code of Conduct",
-        "score": 36
-      },
-      {
-        "url": "https://www.cipla.com/careers/life-at-cipla",
-        "anchor_text": "Life at Cipla",
-        "score": 36
-      },
-      {
-        "url": "https://www.cipla.com/csr/cipla-foundation",
-        "anchor_text": "CSR-Cipla Foundation",
-        "score": 35
-      },
-      {
-        "url": "https://www.cipla.com/chatbot-api-disclaimer",
-        "anchor_text": "Disclaimer",
-        "score": 35
-      },
-      {
-        "url": "https://www.cipla.com/our-presence/brazil",
-        "anchor_text": "Brazil",
-        "score": 34
-      },
-      {
-        "url": "https://www.cipla.com/our-presence/europe",
-        "anchor_text": "Europe",
-        "score": 34
-      },
-      {
-        "url": "https://www.cipla.com/our-presence/uganda",
-        "anchor_text": "Uganda",
-        "score": 34
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/api",
-        "anchor_text": "API",
-        "score": 32
-      },
-      {
-        "url": "https://www.cipla.com/media-centre/news",
-        "anchor_text": "In the News",
-        "score": 32
-      },
-      {
-        "url": "https://www.cipla.com/about-us/quality",
-        "anchor_text": "Quality",
-        "score": 31
-      },
-      {
-        "url": "https://www.cipla.com/cipla-diagnostics",
-        "anchor_text": "Cipla Diagnostics",
-        "score": 30
-      },
-      {
-        "url": "https://www.cipla.com/cipla-malaysia",
-        "anchor_text": "Malaysia",
-        "score": 27
-      },
-      {
-        "url": "https://www.cipla.com/cipla-srilanka",
-        "anchor_text": "Sri Lanka",
-        "score": 27
-      },
-      {
-        "url": "https://www.cipla.com/privacy-policy",
-        "anchor_text": "More info",
-        "score": 27
-      },
-      {
-        "url": "https://www.cipla.com/cipla-morocco",
-        "anchor_text": "Morocco",
-        "score": 26
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings",
-        "anchor_text": "Our Offerings",
-        "score": 26
-      },
-      {
-        "url": "https://www.cipla.com/investors/disclaimer",
-        "anchor_text": "Disclaimer",
-        "score": 25
-      },
-      {
-        "url": "https://www.cipla.com/media-centre",
-        "anchor_text": "Media Center",
-        "score": 25
-      },
-      {
-        "url": "https://www.cipla.com/about-us-old",
-        "anchor_text": "Cipla At a Glance",
-        "score": 25
-      },
-      {
-        "url": "https://www.cipla.com/cipla-nepal",
-        "anchor_text": "Nepal",
-        "score": 24
-      },
-      {
-        "url": "https://www.cipla.com/covid-care",
-        "anchor_text": "Covid Care",
-        "score": 23
-      },
-      {
-        "url": "https://www.cipla.com/contact-us",
-        "anchor_text": "Contact Us",
-        "score": 23
-      },
-      {
-        "url": "https://www.cipla.com/cipla-amr",
-        "anchor_text": "AMR",
-        "score": 22
-      },
-      {
-        "url": "https://www.cipla.com/about-us",
-        "anchor_text": "About Us",
-        "score": 21
-      },
-      {
-        "url": "https://www.cipla.com/sustainability",
-        "anchor_text": "Sustainability",
-        "score": 17
-      },
-      {
-        "url": "https://www.cipla.com/dsafe.html",
-        "anchor_text": "Drug Safety Reporting",
-        "score": 13
-      },
-      {
-        "url": "https://www.cipla.com/investors",
-        "anchor_text": "Investors",
-        "score": 12
-      },
-      {
-        "url": "https://www.cipla.com/careers",
-        "anchor_text": "Careers",
-        "score": 10
-      },
-      {
-        "url": "https://www.cipla.com/sitemap",
-        "anchor_text": "Sitemap",
-        "score": 10
-      },
-      {
-        "url": "https://www.cipla.com/",
-        "anchor_text": "Our Presence",
-        "score": 3
-      }
-    ]
   },
   {
     "company": "Medpace",
@@ -76624,147 +77067,6 @@
     "company": "Recursion Pharmaceuticals",
     "press_url": "https://ir.recursion.com/news-events/press-releases",
     "candidate_links": []
-  },
-  {
-    "company": "Generate Biomedicines",
-    "press_url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases",
-    "candidate_links": [
-      {
-        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-expands-board-of-directors-with-appointment-of-marsha-fanucci",
-        "anchor_text": "Generate:Biomedicines Expands Board of Directors with Appointment of Marsha Fanucci",
-        "score": 110
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-announces-multi-target-collaboration-with-novartis",
-        "anchor_text": "Generate:Biomedicines Announces Multi-Target Collaboration with Novartis to Discover and Develop Protein Therapeutics with GenerativeAI",
-        "score": 99
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-provides-update-on-its-platform-and-pipeline",
-        "anchor_text": "Generate:Biomedicines Provides Update on its Platform and Pipeline Powered byAIat the43rdAnnual J.P. Morgan Healthcare Conference",
-        "score": 93
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-expands-board-of-directors",
-        "anchor_text": "Generate:Biomedicines Expands Board of Directors with the Appointment of Rupert Vessey, M.D., Ph.D., and Nancy Simonian, M.D.",
-        "score": 75
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-expands-c-suite",
-        "anchor_text": "Generate:Biomedicines Expands C‑suite with Chief Corporate Affairs Officer and Chief Technical Operations Officer",
-        "score": 64
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/generate-welcomes-laurie-lee",
-        "anchor_text": "Generate:Biomedicines Welcomes Laurie Lee,MD, as Chief Medical Officer for the Immunology&Inflammation Portfolio",
-        "score": 56
-      },
-      {
-        "url": "https://generatebiomedicines.com/generative-biology",
-        "anchor_text": "Generative Biology®",
-        "score": 31
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases",
-        "anchor_text": "News Releases",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases#main-content",
-        "anchor_text": "Skip to content",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases#main-nav",
-        "anchor_text": "Skip to navigation",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type",
-        "anchor_text": "Overview",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type=blogPosts",
-        "anchor_text": "Blog Posts",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type=mediaHighlights",
-        "anchor_text": "Media Highlights",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type=publications",
-        "anchor_text": "Presentations & Publications",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p3?type=newsReleases",
-        "anchor_text": "Next Page",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p4?type=newsReleases",
-        "anchor_text": "4",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p5?type=newsReleases",
-        "anchor_text": "5",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/privacy-policy",
-        "anchor_text": "Privacy Policy",
-        "score": 27
-      },
-      {
-        "url": "https://generatebiomedicines.com/terms-of-use",
-        "anchor_text": "Terms of Use",
-        "score": 25
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center",
-        "anchor_text": "Media Center",
-        "score": 25
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center?type=newsReleases",
-        "anchor_text": "1",
-        "score": 25
-      },
-      {
-        "url": "https://generatebiomedicines.com/about-us",
-        "anchor_text": "About Us",
-        "score": 21
-      },
-      {
-        "url": "https://generatebiomedicines.com/platform",
-        "anchor_text": "The Generate Platform™",
-        "score": 11
-      },
-      {
-        "url": "https://generatebiomedicines.com/pipeline",
-        "anchor_text": "Pipeline",
-        "score": 11
-      },
-      {
-        "url": "https://generatebiomedicines.com/careers",
-        "anchor_text": "Careers",
-        "score": 10
-      },
-      {
-        "url": "https://generatebiomedicines.com/contact",
-        "anchor_text": "",
-        "score": 10
-      },
-      {
-        "url": "https://generatebiomedicines.com/",
-        "anchor_text": "",
-        "score": 3
-      }
-    ]
   },
   {
     "company": "Sangamo Therapeutics",
@@ -77855,7 +78157,378 @@
   {
     "company": "Cresset Group",
     "press_url": "https://cresset-group.com/about/news/",
-    "candidate_links": []
+    "candidate_links": [
+      {
+        "url": "https://cresset-group.com/news/ai-unlocks-unparalleled-efficiency-gains-in-flare-v11-cressets-leading-software-solution-for-digital-molecular-discovery-2/",
+        "anchor_text": "Read More",
+        "score": 145
+      },
+      {
+        "url": "https://cresset-group.com/news/ai-unlocks-unparalleled-efficiency-gains-in-flare-v11-cressets-leading-software-solution-for-digital-molecular-discovery/",
+        "anchor_text": "",
+        "score": 143
+      },
+      {
+        "url": "https://cresset-group.com/news/cresset-releases-flare-v12-to-cut-synthesis-and-testing-cycles-with-faster-more-flexible-fep/",
+        "anchor_text": "",
+        "score": 115
+      },
+      {
+        "url": "https://cresset-group.com/news/cresset-acquires-molab-ai-to-advance-digitization-of-drug-discovery/",
+        "anchor_text": "Read More",
+        "score": 90
+      },
+      {
+        "url": "https://cresset-group.com/news/cresset-discovery-accelerates-optimization-of-mettl3-inhibitor/",
+        "anchor_text": "",
+        "score": 85
+      },
+      {
+        "url": "https://cresset-group.com/event/efmc-ismc-international-symposium-on-medicinal-chemistry/",
+        "anchor_text": "",
+        "score": 80
+      },
+      {
+        "url": "https://cresset-group.com/solutions/by-discovery-phase/target-validation/",
+        "anchor_text": "Target Validation",
+        "score": 66
+      },
+      {
+        "url": "https://cresset-group.com/solutions/by-discovery-phase/lead-optimization/",
+        "anchor_text": "Lead Optimization",
+        "score": 66
+      },
+      {
+        "url": "https://cresset-group.com/solutions/by-discovery-phase/hit-discovery/",
+        "anchor_text": "Hit Discovery",
+        "score": 62
+      },
+      {
+        "url": "https://cresset-group.com/solutions/by-user/computational-chemistry/",
+        "anchor_text": "Computational Chemistry",
+        "score": 61
+      },
+      {
+        "url": "https://cresset-group.com/solutions/by-discovery-phase/hit-to-lead/",
+        "anchor_text": "Hit to Lead",
+        "score": 60
+      },
+      {
+        "url": "https://cresset-group.com/news/fep-in-2025-read-our-latest-blog-post/",
+        "anchor_text": "Read More",
+        "score": 60
+      },
+      {
+        "url": "https://cresset-group.com/solutions/by-user/medicinal-chemistry/",
+        "anchor_text": "Medicinal Chemistry",
+        "score": 57
+      },
+      {
+        "url": "https://cresset-group.com/news/cresset-newsletter-september-2025/",
+        "anchor_text": "Read More",
+        "score": 56
+      },
+      {
+        "url": "https://cresset-group.com/solutions/by-user/academic-research/",
+        "anchor_text": "Academic Research",
+        "score": 55
+      },
+      {
+        "url": "https://cresset-group.com/news/cresset-newsletter-december-2025/",
+        "anchor_text": "Read More",
+        "score": 55
+      },
+      {
+        "url": "https://cresset-group.com/news/cresset-newsletter-october-2025/",
+        "anchor_text": "Read More",
+        "score": 54
+      },
+      {
+        "url": "https://cresset-group.com/about/global-locations-distributors/",
+        "anchor_text": "Locations & distributors",
+        "score": 53
+      },
+      {
+        "url": "https://cresset-group.com/news/cresset-newsletter-august-2025/",
+        "anchor_text": "Read More",
+        "score": 53
+      },
+      {
+        "url": "https://cresset-group.com/news/cresset-newsletter-july-2025/",
+        "anchor_text": "Read More",
+        "score": 51
+      },
+      {
+        "url": "https://cresset-group.com/news/cresset-newsletter-june-2025/",
+        "anchor_text": "Read More",
+        "score": 51
+      },
+      {
+        "url": "https://cresset-group.com/news/end-of-year-message-2025/",
+        "anchor_text": "Read More",
+        "score": 47
+      },
+      {
+        "url": "https://cresset-group.com/solutions/by-discovery-phase/",
+        "anchor_text": "By discovery phase",
+        "score": 46
+      },
+      {
+        "url": "https://cresset-group.com/science/your-trusted-partner/",
+        "anchor_text": "Your trusted partner",
+        "score": 46
+      },
+      {
+        "url": "https://cresset-group.com/software/discovery-services/",
+        "anchor_text": "Discovery Services",
+        "score": 45
+      },
+      {
+        "url": "https://cresset-group.com/about/responsible-business/",
+        "anchor_text": "Responsible business",
+        "score": 44
+      },
+      {
+        "url": "https://cresset-group.com/news/meet-the-new-cresset/",
+        "anchor_text": "Read More",
+        "score": 43
+      },
+      {
+        "url": "https://cresset-group.com/software/methods-archive/",
+        "anchor_text": "Explore all methods and technologies",
+        "score": 42
+      },
+      {
+        "url": "https://cresset-group.com/support/product-releases/",
+        "anchor_text": "Product releases",
+        "score": 42
+      },
+      {
+        "url": "https://cresset-group.com/science/ai-technologies/",
+        "anchor_text": "AI technologies",
+        "score": 41
+      },
+      {
+        "url": "https://cresset-group.com/resources/all-resources/",
+        "anchor_text": "All resources",
+        "score": 41
+      },
+      {
+        "url": "https://cresset-group.com/resources/all-resources/?_category=webinar",
+        "anchor_text": "Webinars",
+        "score": 41
+      },
+      {
+        "url": "https://cresset-group.com/resources/all-resources/?_category=publication",
+        "anchor_text": "Publications",
+        "score": 41
+      },
+      {
+        "url": "https://cresset-group.com/resources/all-resources/?_category=citation",
+        "anchor_text": "Citations",
+        "score": 41
+      },
+      {
+        "url": "https://cresset-group.com/resources/all-resources/?_category=whitepaper",
+        "anchor_text": "Whitepapers",
+        "score": 41
+      },
+      {
+        "url": "https://cresset-group.com/resources/all-resources/?_category=case-study",
+        "anchor_text": "Case Studies",
+        "score": 41
+      },
+      {
+        "url": "https://cresset-group.com/resources/all-resources/?_category=article",
+        "anchor_text": "Articles",
+        "score": 41
+      },
+      {
+        "url": "https://cresset-group.com/software/flare-connect/",
+        "anchor_text": "Flare™ Connect – Collaborative Design",
+        "score": 40
+      },
+      {
+        "url": "https://cresset-group.com/support/knowledge-base/",
+        "anchor_text": "Knowledge Base",
+        "score": 40
+      },
+      {
+        "url": "https://cresset-group.com/science/our-science/",
+        "anchor_text": "Our Science",
+        "score": 37
+      },
+      {
+        "url": "https://cresset-group.com/software/flare-fep/",
+        "anchor_text": "Flare™ FEP – Predict Binding Affinity",
+        "score": 36
+      },
+      {
+        "url": "https://cresset-group.com/solutions/by-user/",
+        "anchor_text": "By user group",
+        "score": 35
+      },
+      {
+        "url": "https://cresset-group.com/about/why-cresset/",
+        "anchor_text": "Why Cresset",
+        "score": 35
+      },
+      {
+        "url": "https://cresset-group.com/software/ai-adme/",
+        "anchor_text": "AI-Powered ADME model building",
+        "score": 34
+      },
+      {
+        "url": "https://cresset-group.com/about/contact-us/",
+        "anchor_text": "Request demo",
+        "score": 34
+      },
+      {
+        "url": "https://cresset-group.com/ai-terms/",
+        "anchor_text": "Additional terms for AI features",
+        "score": 24
+      },
+      {
+        "url": "https://cresset-group.com/about/news/10/",
+        "anchor_text": "Page10",
+        "score": 23
+      },
+      {
+        "url": "https://cresset-group.com/software/flare/",
+        "anchor_text": "Flare™ Drug Design Software",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/software/spark/",
+        "anchor_text": "Spark™ Scaffold Hopping Software",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/software/blaze/",
+        "anchor_text": "Blaze™ Virtual Screening Software",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/about/news/2/",
+        "anchor_text": "Next",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/about/news/3/",
+        "anchor_text": "Page3",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/about/news/4/",
+        "anchor_text": "Page4",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/about/news/5/",
+        "anchor_text": "Page5",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/about/news/6/",
+        "anchor_text": "Page6",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/about/news/7/",
+        "anchor_text": "Page7",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/about/news/8/",
+        "anchor_text": "Page8",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/about/news/9/",
+        "anchor_text": "Page9",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/about/careers/",
+        "anchor_text": "Careers",
+        "score": 21
+      },
+      {
+        "url": "https://cresset-group.com/about/events/",
+        "anchor_text": "Events",
+        "score": 20
+      },
+      {
+        "url": "https://cresset-group.com/about/people/",
+        "anchor_text": "People",
+        "score": 20
+      },
+      {
+        "url": "https://cresset-group.com/about/news/#content",
+        "anchor_text": "Skip to content",
+        "score": 18
+      },
+      {
+        "url": "https://cresset-group.com/about/news/",
+        "anchor_text": "News",
+        "score": 18
+      },
+      {
+        "url": "https://cresset-group.com/about/news/#elementor-action%3Aaction%3Doff_canvas%3Aopen%26settings%3DeyJpZCI6ImM3M2NlM2QiLCJkaXNwbGF5TW9kZSI6Im9wZW4ifQ%3D%3D",
+        "anchor_text": "",
+        "score": 18
+      },
+      {
+        "url": "https://cresset-group.com/about/news/#elementor-action%3Aaction%3Doff_canvas%3Aclose%26settings%3DeyJpZCI6ImM3M2NlM2QiLCJkaXNwbGF5TW9kZSI6ImNsb3NlIn0%3D",
+        "anchor_text": "",
+        "score": 18
+      },
+      {
+        "url": "https://cresset-group.com/solutions/",
+        "anchor_text": "Solution areas",
+        "score": 15
+      },
+      {
+        "url": "https://cresset-group.com/resources/",
+        "anchor_text": "Resources",
+        "score": 15
+      },
+      {
+        "url": "https://cresset-group.com/subscribe/",
+        "anchor_text": "Subscribe",
+        "score": 15
+      },
+      {
+        "url": "https://cresset-group.com/software/",
+        "anchor_text": "Software & Services",
+        "score": 14
+      },
+      {
+        "url": "https://cresset-group.com/science/",
+        "anchor_text": "Science",
+        "score": 13
+      },
+      {
+        "url": "https://cresset-group.com/support/",
+        "anchor_text": "Support",
+        "score": 13
+      },
+      {
+        "url": "http://cresset-group.com/privacy/",
+        "anchor_text": "Privacy notice",
+        "score": 13
+      },
+      {
+        "url": "https://cresset-group.com/about/",
+        "anchor_text": "About",
+        "score": 11
+      },
+      {
+        "url": "https://cresset-group.com",
+        "anchor_text": "",
+        "score": 0
+      }
+    ]
   },
   {
     "company": "Tempus AI",
