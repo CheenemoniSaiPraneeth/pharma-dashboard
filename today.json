@@ -1,1 +1,58 @@
-[]
+[
+    {
+        "company": "Novartis",
+        "url": "https://www.novartis.com/news/media-releases/novartis-agrees-acquire-myricx-bio-advancing-next-generation-antibody-drug-conjugate-innovation-novel-nmti-payload-expanding-options-cancer-patients",
+        "score": 185,
+        "date_added": "2026-07-06",
+        "article_like": true
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/media/press-releases/lupin-named-among-world-s-most-sustainable-companies-by-time-and-statista",
+        "score": 111,
+        "date_added": "2026-07-06",
+        "article_like": true
+    },
+    {
+        "company": "23andMe",
+        "url": "https://blog.23andme.com/category/news?pageUri=category&pageUri=news&pageUri=inside-23andme#cookie-choices",
+        "score": 18,
+        "date_added": "2026-07-06",
+        "article_like": true
+    },
+    {
+        "company": "Otsuka Pharmaceutical",
+        "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260706_1.html",
+        "score": 80,
+        "date_added": "2026-07-06",
+        "article_like": true
+    },
+    {
+        "company": "Bavarian Nordic",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7544",
+        "score": 30,
+        "date_added": "2026-07-06",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/news-media/newsroom/worlds-most-sustainable-companies-2026-time-and-statista",
+        "score": 93,
+        "date_added": "2026-07-06",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/news-media/newsroom/pride-month-2026-hs-connect",
+        "score": 64,
+        "date_added": "2026-07-06",
+        "article_like": true
+    },
+    {
+        "company": "Almirall",
+        "url": "https://www.almirall.com/news-media/newsroom/acne-awareness-month-2026",
+        "score": 62,
+        "date_added": "2026-07-06",
+        "article_like": true
+    }
+]
