@@ -1,10 +1,17 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 7,
-    "items_extracted": 0,
+    "articles_used": 11,
+    "items_extracted": 1,
     "items_dropped": 0,
-    "generated_at": "2026-07-06 10:13:46"
+    "generated_at": "2026-07-07 09:33:33"
   },
-  "news": []
+  "news": [
+    {
+      "company": "Roche",
+      "modality": "bispecific antibodies",
+      "news": "Roche and Genentech presented new long-term safety and biomarker data for trontinemab, an investigational Brainshuttle bispecific antibody, at the Alzheimer's Association International Conference (AAIC). The company also revealed the design of the Phase III PrevenTRON study to investigate trontinemab in preclinical Alzheimer's disease.",
+      "url": "https://www.roche.com/media/releases/med-cor-2026-07-07"
+    }
+  ]
 }

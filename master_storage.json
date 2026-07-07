@@ -114412,5 +114412,124 @@
         "score": 62,
         "date_added": "2026-07-06",
         "article_like": true
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/press/7july2026-reserve-replacement-upstream-agenda-energy-transition",
+        "score": 84,
+        "date_added": "2026-07-07",
+        "article_like": true
+    },
+    {
+        "company": "KPMG",
+        "url": "https://kpmg.com/xx/en/media/press-releases/2026/06/kpmg-law-portugal-launches-strengthening-kpmg-global-legal-services-offering.html",
+        "score": 166,
+        "date_added": "2026-07-07",
+        "article_like": true
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/media/perspectives/hidden-cost-climate-risk-leaves-on-every-balance-sheet",
+        "score": 90,
+        "date_added": "2026-07-07",
+        "article_like": true
+    },
+    {
+        "company": "Genentech",
+        "url": "https://www.gene.com/media/press-releases/15120/2026-07-06/genentech-and-roche-present-new-data-in-",
+        "score": 99,
+        "date_added": "2026-07-07",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-07-07",
+        "score": 50,
+        "date_added": "2026-07-07",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/our-societal-impact/environmental-sustainability",
+        "score": 63,
+        "date_added": "2026-07-07",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-07-06-AbbVie-Announces-TEPKINLY-R-epcoritamab-in-Combination-with-Lenalidomide-and-Rituximab-is-Approved-by-the-European-Commission-for-the-Treatment-of-Relapsed-or-Refractory-Follicular-Lymphoma",
+        "score": 213,
+        "date_added": "2026-07-07",
+        "article_like": true
+    },
+    {
+        "company": "Astellas Pharma",
+        "url": "https://newsroom.astellas.com/2026-07-07-chinas-national-medical-products-administration-accepts-biologics-license-application-for-padcev-tm-enfortumab-vedotin-plus-keytruda-r-pembrolizumab-in-muscle-invasive-bladder-cancer",
+        "score": 206,
+        "date_added": "2026-07-07",
+        "article_like": true
+    },
+    {
+        "company": "Astellas Pharma",
+        "url": "https://newsroom.astellas.com/news?o=1355",
+        "score": 7,
+        "date_added": "2026-07-07",
+        "article_like": false
+    },
+    {
+        "company": "Sarepta Therapeutics",
+        "url": "https://www.sarepta.com/newsroom/time-rise-floor-what-it-can-tell-us-about-when-act-duchenne",
+        "score": 83,
+        "date_added": "2026-07-07",
+        "article_like": true
+    },
+    {
+        "company": "Insilico Medicine",
+        "url": "https://insilico.com/news/er6gnm3741-pharmaai-q2-2026-summer-webinar-a-deep-d",
+        "score": 71,
+        "date_added": "2026-07-07",
+        "article_like": true
+    },
+    {
+        "company": "AbCellera",
+        "url": "https://www.abcellera.com/news/abcellera-appoints-dr-lynn-seely-to-its-board-of-directors",
+        "score": 78,
+        "date_added": "2026-07-07",
+        "article_like": true
+    },
+    {
+        "company": "Kyowa Kirin",
+        "url": "https://www.kyowakirin.com/media_center/news_releases/2026/e20260609_01.html",
+        "score": 83,
+        "date_added": "2026-07-07",
+        "article_like": true
+    },
+    {
+        "company": "Celltrion",
+        "url": "https://www.celltrion.com/en-us/company/media-center/press-release/4844",
+        "score": 66,
+        "date_added": "2026-07-07",
+        "article_like": false
+    },
+    {
+        "company": "Agenus",
+        "url": "https://investor.agenusbio.com/news/news-details/2026/Agenus-Reports-Landmark-BOTBAL-Data-Showing-33-Three-Year-Overall-Survival-in-Refractory-MSS-Metastatic-Colorectal-Cancer-Without-Active-Liver-Metastases-at-ESMO-GI-2026/default.aspx",
+        "score": 251,
+        "date_added": "2026-07-07",
+        "article_like": false
+    },
+    {
+        "company": "Abridge",
+        "url": "https://www.abridge.com/blog/rady-childrens-health-ai-adoption-cerner",
+        "score": 60,
+        "date_added": "2026-07-07",
+        "article_like": true
+    },
+    {
+        "company": "Crinetics Pharmaceuticals",
+        "url": "https://crinetics.com/press-releases/vertex-to-acquire-crinetics-pharmaceuticals/",
+        "score": 76,
+        "date_added": "2026-07-07",
+        "article_like": true
     }
 ]

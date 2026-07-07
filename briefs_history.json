@@ -1,4 +1,45 @@
 {
+  "2026-07-07": {
+    "bispecific antibodies": [
+      {
+        "company": "Roche",
+        "modality": "bispecific antibodies",
+        "news": "Roche and Genentech presented new long-term safety, amyloid removal, and biomarker data for trontinemab, an investigational Brainshuttle bispecific antibody, at the Alzheimer's Association International Conference. The company also revealed the design of the Phase III PrevenTRON study to investigate trontinemab in preclinical Alzheimer's disease.",
+        "url": "https://www.gene.com/media/press-releases/15120/2026-07-06/genentech-and-roche-present-new-data-in-",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "AbbVie",
+        "modality": "bispecific antibodies",
+        "news": "The European Commission granted marketing authorization for TEPKINLY (epcoritamab), a bispecific antibody, in combination with lenalidomide and rituximab for the treatment of relapsed or refractory follicular lymphoma. This approval is based on positive results from the Phase 3 EPCORE FL-1 trial, which demonstrated significant improvements in progression-free survival and overall response rates compared to standard of care.",
+        "url": "https://news.abbvie.com/2026-07-06-AbbVie-Announces-TEPKINLY-R-epcoritamab-in-Combination-with-Lenalidomide-and-Rituximab-is-Approved-by-the-European-Commission-for-the-Treatment-of-Relapsed-or-Refractory-Follicular-Lymphoma",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "AbbVie",
+        "modality": "bispecific antibodies",
+        "news": "The European Commission granted marketing authorization for TEPKINLY (epcoritamab), a bispecific antibody, in combination with lenalidomide and rituximab for treating relapsed or refractory follicular lymphoma. The approval is based on Phase 3 EPCORE FL-1 trial data showing significant improvements in progression-free survival and complete response rates compared to standard care.",
+        "url": "https://news.abbvie.com/2026-07-06-AbbVie-Announces-TEPKINLY-R-epcoritamab-in-Combination-with-Lenalidomide-and-Rituximab-is-Approved-by-the-European-Commission-for-the-Treatment-of-Relapsed-or-Refractory-Follicular-Lymphoma",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Roche",
+        "modality": "bispecific antibodies",
+        "news": "Roche and Genentech presented new long-term safety and biomarker data for trontinemab, an investigational Brainshuttle bispecific antibody, at the Alzheimer's Association International Conference (AAIC). The company also revealed the design of the Phase III PrevenTRON study to investigate trontinemab in preclinical Alzheimer's disease.",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-07-07",
+        "query": "gene editing"
+      }
+    ],
+    "monoclonal antibodies": [
+      {
+        "company": "Genentech",
+        "modality": "monoclonal antibodies",
+        "news": "Genentech and Roche announced new clinical data for trontinemab, an investigational bispecific amyloid-beta targeting monoclonal antibody, at the Alzheimer's Association International Conference (AAIC). The presentations included long-term safety and biomarker results from the Phase Ib/IIa Brainshuttle AD study and the design of the upcoming Phase III PrevenTRON trial for preclinical Alzheimer's disease.",
+        "url": "https://www.gene.com/media/press-releases/15120/2026-07-06/genentech-and-roche-present-new-data-in-",
+        "query": "monoclonal antibodies"
+      }
+    ]
+  },
   "2026-07-06": {
     "monoclonal antibodies": [
       {
