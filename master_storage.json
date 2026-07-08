@@ -114531,5 +114531,131 @@
         "score": 76,
         "date_added": "2026-07-07",
         "article_like": true
+    },
+    {
+        "company": "Genotypic Technology Pvt Ltd",
+        "url": "https://genotypic.co.in/aboutus/impact-report/",
+        "score": 39,
+        "date_added": "2026-07-08",
+        "article_like": false
+    },
+    {
+        "company": "SCIEX",
+        "url": "https://sciex.com/products/mass-spectrometers/triple-quad-systems/triple-quad-5500-plus-system",
+        "score": 95,
+        "date_added": "2026-07-08",
+        "article_like": true
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/publications/2026/luxury-healthier-foundations-and-genai",
+        "score": 98,
+        "date_added": "2026-07-08",
+        "article_like": true
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/industries/retail/grocery-industry",
+        "score": 51,
+        "date_added": "2026-07-08",
+        "article_like": true
+    },
+    {
+        "company": "Sun Pharmaceutical Industries",
+        "url": "https://sunpharma.com/kenya/",
+        "score": 11,
+        "date_added": "2026-07-08",
+        "article_like": false
+    },
+    {
+        "company": "WuXi Biologics",
+        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-achieves-msci-esg-aaa-rating-and-msci-selection-indexes-inclusion-for-fourth-consecutive-year/",
+        "score": 140,
+        "date_added": "2026-07-08",
+        "article_like": true
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/physicians/caris-precision-medicine-tissue-laboratory/",
+        "score": 71,
+        "date_added": "2026-07-08",
+        "article_like": true
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/physicians/inside-the-caris-blood-lab/",
+        "score": 55,
+        "date_added": "2026-07-08",
+        "article_like": true
+    },
+    {
+        "company": "Takeda Pharmaceutical",
+        "url": "https://www.takeda.com/newsroom/newsreleases/2026/takeda-completes-share-issuance-disposal-treasury-shares-long-term-incentive-plan/",
+        "score": 155,
+        "date_added": "2026-07-08",
+        "article_like": true
+    },
+    {
+        "company": "Insilico Medicine",
+        "url": "https://insilico.com/news/xmjsn4l091-insilico-initiates-phase-iii-clinical-tr",
+        "score": 71,
+        "date_added": "2026-07-08",
+        "article_like": true
+    },
+    {
+        "company": "AbCellera",
+        "url": "https://www.abcellera.com/news/abcellera-to-report-second-quarter-2026-financial-results-on-august-5-2026",
+        "score": 94,
+        "date_added": "2026-07-08",
+        "article_like": true
+    },
+    {
+        "company": "Catalent",
+        "url": "https://www.catalent.com/catalent-news/catalent-and-nanoscope-therapeutics-expand-partnership-to-support-late-phase-development-and-commercial-supply-of-mco-010/",
+        "score": 153,
+        "date_added": "2026-07-08",
+        "article_like": true
+    },
+    {
+        "company": "UCB",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-presents-latest-data-from-its-targeted-generalized-myasthenia-gravis-treatment-portfolio-at-international-congress-on-neuromuscular-diseases-2026",
+        "score": 200,
+        "date_added": "2026-07-08",
+        "article_like": true
+    },
+    {
+        "company": "Compass Pathways",
+        "url": "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-Announces-Six-Month-Data-from-Second-Phase-3-Trial-Confirming-Rapid-and-Durable-Profile/default.aspx",
+        "score": 202,
+        "date_added": "2026-07-08",
+        "article_like": false
+    },
+    {
+        "company": "Cresset Group",
+        "url": "https://cresset-group.com/event/whats-new-in-flare-v12-significant-enhancements-to-fep-and-structure-based-methods/",
+        "score": 106,
+        "date_added": "2026-07-08",
+        "article_like": true
+    },
+    {
+        "company": "Cresset Group",
+        "url": "https://cresset-group.com/event/ai-in-drug-discovery-xchange/",
+        "score": 52,
+        "date_added": "2026-07-08",
+        "article_like": true
+    },
+    {
+        "company": "Cresset Group",
+        "url": "https://cresset-group.com/event/acs-fall-2/",
+        "score": 34,
+        "date_added": "2026-07-08",
+        "article_like": false
+    },
+    {
+        "company": "Oxford Nanopore Technologies",
+        "url": "https://nanoporetech.com/news/vcgs-achieves-iso-15189-accreditation-for-whole-genome-sequencing-using-oxford-nanopore-technology",
+        "score": 118,
+        "date_added": "2026-07-08",
+        "article_like": true
     }
 ]
