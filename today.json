@@ -1,100 +1,541 @@
 [
     {
-        "company": "SCIEX",
-        "url": "https://sciex.com/products/mass-spectrometers/triple-quad-systems/triple-quad-5500-plus-system",
-        "score": 95,
-        "date_added": "2026-07-08",
+        "company": "Panacea Biotec",
+        "url": "https://www.panaceabiotec.com/en/press-releases/press-release---panacea-biotec-is-proud-to-announce-the-inclusion-of-emulsipan-adjuvant-in-the-cepi-adjuvant-library-and-its-foray-into-commercialisation-of-its-indigenously-developed-adjuvants",
+        "score": 228,
+        "date_added": "2026-07-09",
         "article_like": true
     },
     {
-        "company": "Boston Consulting Group",
-        "url": "https://www.bcg.com/publications/2026/luxury-healthier-foundations-and-genai",
-        "score": 98,
-        "date_added": "2026-07-08",
+        "company": "Panacea Biotec",
+        "url": "https://www.panaceabiotec.com/en/press-releases/launch-of-the-denstar-project-advancing-the-licensure-of-a-tetravalent-live-attenuated-dengue-vaccine-dengiall-in-sub-saharan-africa-and-to-facilitate-its-global-access",
+        "score": 203,
+        "date_added": "2026-07-09",
         "article_like": true
     },
     {
-        "company": "Boston Consulting Group",
-        "url": "https://www.bcg.com/industries/retail/grocery-industry",
-        "score": 51,
-        "date_added": "2026-07-08",
+        "company": "Panacea Biotec",
+        "url": "https://www.panaceabiotec.com/en/press-releases/press-release---empowering-public-health-across-the-african-region",
+        "score": 101,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Panacea Biotec",
+        "url": "https://www.panaceabiotec.com/en/press-releases/cis-iyn-bus-nutag-dayaar-niygmiyn-eruul-mendiyg-behzhuuleh",
+        "score": 93,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Panacea Biotec",
+        "url": "https://www.panaceabiotec.com/en/press-releases/renforcer-la-sante-publique-a-travers-la-region-africaine",
+        "score": 92,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Panacea Biotec",
+        "url": "https://www.panaceabiotec.com/en/press-releases/capacitar-a-saude-publica-em-toda-a-regiao-africana",
+        "score": 86,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Panacea Biotec",
+        "url": "https://www.panaceabiotec.com/en/press-releases/cis-mintaqasida-jamoat-salomatligini-mustahkamlash",
+        "score": 85,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Panacea Biotec",
+        "url": "https://www.panaceabiotec.com/en/press-releases/press-release---launch-of-niko-mom-baby-skin-care",
+        "score": 84,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Panacea Biotec",
+        "url": "https://www.panaceabiotec.com/en/press-releases/ukreplenie-obshchestvennogo-zdorovya-v-sng",
+        "score": 77,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Panacea Biotec",
+        "url": "https://www.panaceabiotec.com/en/press-releases/tmkyn-lsh-laam-fy-jmyaa-nh-lqlym-l-fryqy",
+        "score": 75,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Panacea Biotec",
+        "url": "https://www.panaceabiotec.com/en/adverse-event-reporting",
+        "score": 41,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Panacea Biotec",
+        "url": "https://www.panaceabiotec.com/en/section/news-center?86cfde1f_page=2",
+        "score": 39,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Panacea Biotec",
+        "url": "https://www.panaceabiotec.com/en/our-privacy-policy",
+        "score": 36,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/media/perspectives/how-lupin-digital-health-is-turning-post-discharge-care-into-a-scalable-business",
+        "score": 116,
+        "date_added": "2026-07-09",
         "article_like": true
     },
     {
         "company": "WuXi Biologics",
-        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-achieves-msci-esg-aaa-rating-and-msci-selection-indexes-inclusion-for-fourth-consecutive-year/",
-        "score": 140,
-        "date_added": "2026-07-08",
+        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-mfg8-drug-substance-facility-secures-fda-pli-approval-advancing-commercial-supply-of-a-potential-blockbuster-autoimmune-therapy/",
+        "score": 174,
+        "date_added": "2026-07-09",
         "article_like": true
     },
     {
-        "company": "Caris Life Sciences",
-        "url": "https://www.carislifesciences.com/physicians/caris-precision-medicine-tissue-laboratory/",
+        "company": "23andMe",
+        "url": "https://blog.23andme.com/blog/articles/twenty-years-of-reading-the-code-of-life-and-were-just-getting-started",
+        "score": 101,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "23andMe",
+        "url": "https://blog.23andme.com/blog/articles/powerful-new-tool-opens-lung-cancer-data-for-research-breakthroughs",
+        "score": 98,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "23andMe",
+        "url": "https://blog.23andme.com/blog/articles/improving-cancer-outcomes-through-early-diagnosis-and-treatment",
+        "score": 94,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "23andMe",
+        "url": "https://blog.23andme.com/blog/articles/uniting-for-a-cure-a-look-at-23andme-lung-cancer-research",
+        "score": 88,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "23andMe",
+        "url": "https://blog.23andme.com/blog/articles/consumer-genomics-in-genetic-counseling-education",
+        "score": 80,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "23andMe",
+        "url": "https://blog.23andme.com/blog/articles/how-to-be-careful-with-your-raw-dna-data",
         "score": 71,
-        "date_added": "2026-07-08",
+        "date_added": "2026-07-09",
         "article_like": true
     },
     {
-        "company": "Caris Life Sciences",
-        "url": "https://www.carislifesciences.com/physicians/inside-the-caris-blood-lab/",
+        "company": "23andMe",
+        "url": "https://blog.23andme.com/blog/articles/introducing-the-genetics-learning-hub",
+        "score": 68,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "23andMe",
+        "url": "https://blog.23andme.com/blog/articles/health-huddle-live-genetics-wellness",
+        "score": 67,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "23andMe",
+        "url": "https://blog.23andme.com/blog/category/23andme-customer-stories",
         "score": 55,
-        "date_added": "2026-07-08",
+        "date_added": "2026-07-09",
         "article_like": true
     },
     {
-        "company": "Takeda Pharmaceutical",
-        "url": "https://www.takeda.com/newsroom/newsreleases/2026/takeda-completes-share-issuance-disposal-treasury-shares-long-term-incentive-plan/",
-        "score": 155,
-        "date_added": "2026-07-08",
+        "company": "23andMe",
+        "url": "https://blog.23andme.com/blog/articles/learn-about-sickle-cell",
+        "score": 54,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "23andMe",
+        "url": "https://blog.23andme.com/blog/articles/happy-dna-day-2024",
+        "score": 49,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "23andMe",
+        "url": "https://blog.23andme.com/blog/category/ancestry-service",
+        "score": 47,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "23andMe",
+        "url": "https://blog.23andme.com/blog/category/23andme-research",
+        "score": 47,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "23andMe",
+        "url": "https://blog.23andme.com/shop/premium-ancestry-health/",
+        "score": 46,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "23andMe",
+        "url": "https://blog.23andme.com/shop/reconstructed-ancestors/",
+        "score": 46,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "23andMe",
+        "url": "https://blog.23andme.com/legal/us-privacy-notice/#washington-consumer-health-data-privacy-policy",
+        "score": 41,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "23andMe",
+        "url": "https://blog.23andme.com/shop/compare-dna-tests/",
+        "score": 40,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "23andMe",
+        "url": "https://blog.23andme.com/legal/terms-of-service/",
+        "score": 40,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "23andMe",
+        "url": "https://blog.23andme.com/shop/genetic-science/",
+        "score": 38,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/biopharma/commercialization-market-access",
+        "score": 56,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/california-comprehensive-compliance-program",
+        "score": 56,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/provider/pathology-foundation-medicine",
+        "score": 53,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/biopharma/research-assay-solutions",
+        "score": 49,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/biopharma/regulatory-cdx-solutions",
+        "score": 49,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/solution/foundationone-liquid-cdx",
+        "score": 48,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/biopharma/regulatory-cdx-approval",
+        "score": 48,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/biopharma/discovery-trial-design",
+        "score": 47,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/providers/ordering-and-logistics",
+        "score": 47,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/solution/foundationone-germline",
+        "score": 46,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/patient/preparing-conversations",
+        "score": 46,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/biopharma/enrollment-solutions",
+        "score": 45,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/biopharma/commercial-solutions",
+        "score": 45,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/biopharma/clinical-operations",
+        "score": 44,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/solution/foundationone-heme",
+        "score": 42,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/providers/interpret-results",
+        "score": 42,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/solution/foundationone-cdx",
+        "score": 41,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/solution/foundationone-rna",
+        "score": 41,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/solution/foundationone-pgx",
+        "score": 41,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/patient/financial-support",
+        "score": 40,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/explore-our-solutions",
+        "score": 34,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/supplier-information",
+        "score": 33,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/browse-resources",
+        "score": 29,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/resources-search?prod_fmi_sitewide%5BrefinementList%5D%5Btype%5D%5B0%5D=Blog%20post",
+        "score": 29,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/knowledge-center",
+        "score": 29,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/resources-search?prod_fmi_sitewide%5BrefinementList%5D%5Btype%5D%5B0%5D=Publication",
+        "score": 29,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/resources-search",
+        "score": 29,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-07-09",
+        "score": 50,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "AstraZeneca",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/update-cardio-ttransform-phase-iii-trial.html",
+        "score": 141,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-FDA-approval-for-the-Dual-Energy-Thermocool-Smarttouch-SF-platform",
+        "score": 137,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/medical-technologies",
+        "score": 65,
+        "date_added": "2026-07-09",
         "article_like": true
     },
     {
         "company": "Insilico Medicine",
-        "url": "https://insilico.com/news/xmjsn4l091-insilico-initiates-phase-iii-clinical-tr",
+        "url": "https://insilico.com/news/6f8yhr6sl1-insilico-medicine-releases-positive-prof",
         "score": 71,
-        "date_added": "2026-07-08",
+        "date_added": "2026-07-09",
         "article_like": true
     },
     {
-        "company": "AbCellera",
-        "url": "https://www.abcellera.com/news/abcellera-to-report-second-quarter-2026-financial-results-on-august-5-2026",
-        "score": 94,
-        "date_added": "2026-07-08",
-        "article_like": true
-    },
-    {
-        "company": "Catalent",
-        "url": "https://www.catalent.com/catalent-news/catalent-and-nanoscope-therapeutics-expand-partnership-to-support-late-phase-development-and-commercial-supply-of-mco-010/",
-        "score": 153,
-        "date_added": "2026-07-08",
-        "article_like": true
-    },
-    {
-        "company": "UCB",
-        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-presents-latest-data-from-its-targeted-generalized-myasthenia-gravis-treatment-portfolio-at-international-congress-on-neuromuscular-diseases-2026",
-        "score": 200,
-        "date_added": "2026-07-08",
-        "article_like": true
-    },
-    {
-        "company": "Cresset Group",
-        "url": "https://cresset-group.com/event/whats-new-in-flare-v12-significant-enhancements-to-fep-and-structure-based-methods/",
+        "company": "IQVIA",
+        "url": "https://www.iqvia.com/newsroom/2026/07/iqvia-to-announce-second-quarter-2026-results",
         "score": 106,
-        "date_added": "2026-07-08",
+        "date_added": "2026-07-09",
         "article_like": true
     },
     {
-        "company": "Cresset Group",
-        "url": "https://cresset-group.com/event/ai-in-drug-discovery-xchange/",
-        "score": 52,
-        "date_added": "2026-07-08",
+        "company": "Wave Life Sciences",
+        "url": "https://ir.wavelifesciences.com/news-releases/news-release-details/wave-life-sciences-reports-first-quarter-2026-financial-results",
+        "score": 115,
+        "date_added": "2026-07-09",
         "article_like": true
     },
     {
-        "company": "Oxford Nanopore Technologies",
-        "url": "https://nanoporetech.com/news/vcgs-achieves-iso-15189-accreditation-for-whole-genome-sequencing-using-oxford-nanopore-technology",
-        "score": 118,
-        "date_added": "2026-07-08",
+        "company": "Wave Life Sciences",
+        "url": "https://ir.wavelifesciences.com/news-releases/news-release-details/wave-life-sciences-announces-hearing-proposed-redomiciliation",
+        "score": 113,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Wave Life Sciences",
+        "url": "https://ir.wavelifesciences.com/news-releases/news-release-details/wave-life-sciences-announces-singapore-court-hearing-be-held",
+        "score": 112,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Wave Life Sciences",
+        "url": "https://ir.wavelifesciences.com/news-releases/news-release-details/wave-life-sciences-announces-proposed-redomiciliation-united",
+        "score": 112,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Wave Life Sciences",
+        "url": "https://ir.wavelifesciences.com/news-releases/news-release-details/wave-life-sciences-announces-positive-update-restoraation-2",
+        "score": 111,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Wave Life Sciences",
+        "url": "https://ir.wavelifesciences.com/news-releases/news-release-details/wave-life-sciences-present-upcoming-investor-conferences-6",
+        "score": 110,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Wave Life Sciences",
+        "url": "https://ir.wavelifesciences.com/news-releases/news-release-details/wave-life-sciences-present-2026-rbc-capital-markets-global",
+        "score": 110,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Wave Life Sciences",
+        "url": "https://ir.wavelifesciences.com/news-releases/news-release-details/wave-life-sciences-announces-initiation-phase-2a-portion",
+        "score": 108,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Wave Life Sciences",
+        "url": "https://ir.wavelifesciences.com/news-releases/news-release-details/wave-life-sciences-first-quarter-2026-financial-results",
+        "score": 107,
+        "date_added": "2026-07-09",
+        "article_like": true
+    },
+    {
+        "company": "Wave Life Sciences",
+        "url": "https://ir.wavelifesciences.com/press-releases#lfg-main-content",
+        "score": 27,
+        "date_added": "2026-07-09",
         "article_like": true
     }
 ]

@@ -1,10 +1,35 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 13,
-    "items_extracted": 0,
+    "articles_used": 73,
+    "items_extracted": 4,
     "items_dropped": 0,
-    "generated_at": "2026-07-08 08:34:45"
+    "generated_at": "2026-07-09 09:49:40"
   },
-  "news": []
+  "news": [
+    {
+      "company": "Wave Life Sciences",
+      "modality": "gene editing",
+      "news": "Wave Life Sciences provided an update on its RNA editing program, highlighting clinical data from the RestorAATion-2 trial of WVE-006 (GalNAc-RNA editing) for Alpha-1 antitrypsin deficiency (AATD). The company expects to present data from the 400 mg monthly and 600 mg single dose cohorts at the ATS International Conference in May 2026 and anticipates regulatory feedback on an accelerated approval pathway mid-2026.",
+      "url": "https://ir.wavelifesciences.com/news-releases/news-release-details/wave-life-sciences-reports-first-quarter-2026-financial-results"
+    },
+    {
+      "company": "Wave Life Sciences",
+      "modality": "gene editing",
+      "news": "Wave Life Sciences announced that the Clinical Trial Application (CTA) for WVE-008, a GalNAc-conjugated AIMer (RNA editing oligonucleotide) targeting PNPLA3 I148M liver disease, is on track for submission in 2026. The company also noted progress in advancing its pipeline of additional hepatic and extra-hepatic siRNAs and AIMers.",
+      "url": "https://ir.wavelifesciences.com/news-releases/news-release-details/wave-life-sciences-reports-first-quarter-2026-financial-results"
+    },
+    {
+      "company": "Wave Life Sciences",
+      "modality": "gene editing",
+      "news": "Wave Life Sciences announced positive clinical data from the RestorAATion-2 trial for WVE-006, an RNA editing therapy for alpha-1 antitrypsin deficiency. The investigational drug achieved a heterozygous MZ-like phenotype by generating wild-type M-AAT and reducing harmful Z-AAT, with effects sustained for at least three months following dosing.",
+      "url": "https://ir.wavelifesciences.com/news-releases/news-release-details/wave-life-sciences-announces-positive-update-restoraation-2"
+    },
+    {
+      "company": "Wave Life Sciences",
+      "modality": "gene editing",
+      "news": "Wave Life Sciences announced positive interim data from the RestorAATion-2 trial for WVE-006, a GalNAc-RNA editing therapy. The data demonstrates that the treatment achieves an MZ-like phenotype across both biweekly and monthly dosing regimens for alpha-1 antitrypsin deficiency.",
+      "url": "https://ir.wavelifesciences.com/press-releases#lfg-main-content"
+    }
+  ]
 }
