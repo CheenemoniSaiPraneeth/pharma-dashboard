@@ -1,4 +1,31 @@
 {
+  "2026-07-10": {
+    "monoclonal antibodies": [
+      {
+        "company": "Serum Institute of India",
+        "modality": "monoclonal antibodies",
+        "news": "Serum Institute of India signed a licensing agreement with DNDi to advance a Phase III global clinical trial for its dengue treatment candidate, a monoclonal antibody formerly known as VIS513. The trial, supported by the European Commission's DG HERA, is set to begin in early 2027 across Brazil, Malaysia, and Thailand involving 1,000 participants.",
+        "url": "https://www.seruminstitute.com/brazil-malaysia-and-thailand-set-to-start-global-clinical-trial-to-test-promising-dengue-treatment-developed-by-serum-institute-of-india.php",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Serum Institute of India",
+        "modality": "monoclonal antibodies",
+        "news": "Serum Institute of India (SII) and DNDi signed a licensing agreement to advance a Phase III global clinical trial for VIS513, a monoclonal antibody treatment for dengue. The trial, expected to begin in early 2027 across Brazil, Malaysia, and Thailand, will evaluate the safety and efficacy of the therapy in 1,000 participants.",
+        "url": "https://www.seruminstitute.com/brazil-malaysia-and-thailand-set-to-start-global-clinical-trial-to-test-promising-dengue-treatment-developed-by-serum-institute-of-india.php",
+        "query": "monoclonal antibodies"
+      }
+    ],
+    "gene editing": [
+      {
+        "company": "Serum Institute of India",
+        "modality": "gene editing",
+        "news": "The FDA published draft guidance in 2026 recommending the use of scalable long-read sequencing for quality control and safety assessment of genome-edited therapies. The guidance specifically addresses the need to detect large structural variants and complex on- and off-target editing events that short-read sequencing may miss.",
+        "url": "https://nanoporetech.com/blog/fda-draft-guidance-ushers-in-a-new-approach",
+        "query": "gene editing"
+      }
+    ]
+  },
   "2026-07-09": {
     "monoclonal antibodies": [
       {

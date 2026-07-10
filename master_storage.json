@@ -115560,5 +115560,131 @@
         "score": 33,
         "date_added": "2026-07-09",
         "article_like": false
+    },
+    {
+        "company": "Centre for Innovation & Entrepreneurship - IIITH",
+        "url": "https://cie.iiit.ac.in/monthly-newsletter-june/",
+        "score": 39,
+        "date_added": "2026-07-10",
+        "article_like": true
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=0505059a-764d-4abb-867b-8431cca99f9f",
+        "score": 80,
+        "date_added": "2026-07-10",
+        "article_like": true
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=ed351905-6bf1-45ea-93a3-1b3d833db091",
+        "score": 80,
+        "date_added": "2026-07-10",
+        "article_like": true
+    },
+    {
+        "company": "Agilisium",
+        "url": "https://www.agilisium.com/context-ai/commercial/skysavings-autonomous-agent",
+        "score": 66,
+        "date_added": "2026-07-10",
+        "article_like": true
+    },
+    {
+        "company": "Agilisium",
+        "url": "https://www.agilisium.com/context-ai/clinical/smart-icf-intelligent-agent",
+        "score": 64,
+        "date_added": "2026-07-10",
+        "article_like": true
+    },
+    {
+        "company": "Boston Consulting Group",
+        "url": "https://www.bcg.com/publications/2026/how-ai-leaders-create-competitive-advantage",
+        "score": 103,
+        "date_added": "2026-07-10",
+        "article_like": true
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/our-business/specialty-and-innovation",
+        "score": 52,
+        "date_added": "2026-07-10",
+        "article_like": true
+    },
+    {
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/roy-jakobs-to-join-gsk-board-as-non-executive-director/",
+        "score": 103,
+        "date_added": "2026-07-10",
+        "article_like": true
+    },
+    {
+        "company": "Labcorp Drug Development",
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-declares-quarterly-dividend-15.html",
+        "score": 122,
+        "date_added": "2026-07-10",
+        "article_like": true
+    },
+    {
+        "company": "Guardant Health",
+        "url": "https://investors.guardanthealth.com/press-releases/press-releases/2026/Guardant-Health-to-Report-Second-Quarter-2026-Financial-Results-on-July-30-2026/default.aspx",
+        "score": 173,
+        "date_added": "2026-07-10",
+        "article_like": false
+    },
+    {
+        "company": "Siemens Healthineers",
+        "url": "https://www.siemens-healthineers.com/press/features/pf-2026-q3",
+        "score": 42,
+        "date_added": "2026-07-10",
+        "article_like": false
+    },
+    {
+        "company": "Stryker",
+        "url": "https://www.stryker.com/us/en/about/news/2026/listen-to-stryker-chair-and-ceo-kevin-lobo-on-bain-and-companys-founders-mentality-podcast.html",
+        "score": 165,
+        "date_added": "2026-07-10",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/biopharma/monitoring-solutions",
+        "score": 45,
+        "date_added": "2026-07-10",
+        "article_like": true
+    },
+    {
+        "company": "Takeda Pharmaceutical",
+        "url": "https://www.takeda.com/newsroom/newsreleases/2026/filing-of-corporate-governance-report-to-the-tokyo-stock-exchange-2026/",
+        "score": 144,
+        "date_added": "2026-07-10",
+        "article_like": true
+    },
+    {
+        "company": "Ono Pharmaceutical",
+        "url": "https://www.ono-pharma.com/en/news/20260710.html",
+        "score": 28,
+        "date_added": "2026-07-10",
+        "article_like": false
+    },
+    {
+        "company": "Serum Institute of India",
+        "url": "https://www.seruminstitute.com/brazil-malaysia-and-thailand-set-to-start-global-clinical-trial-to-test-promising-dengue-treatment-developed-by-serum-institute-of-india.php",
+        "score": 153,
+        "date_added": "2026-07-10",
+        "article_like": true
+    },
+    {
+        "company": "Oxford Nanopore Technologies",
+        "url": "https://nanoporetech.com/news/oxford-nanopore-wins-the-2026-macrobert-award-for-engineering-innovation",
+        "score": 92,
+        "date_added": "2026-07-10",
+        "article_like": true
+    },
+    {
+        "company": "Oxford Nanopore Technologies",
+        "url": "https://nanoporetech.com/blog/fda-draft-guidance-ushers-in-a-new-approach",
+        "score": 63,
+        "date_added": "2026-07-10",
+        "article_like": true
     }
 ]
