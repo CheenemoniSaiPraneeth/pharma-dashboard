@@ -1,107 +1,51 @@
 [
     {
-        "company": "Centre for Innovation & Entrepreneurship - IIITH",
-        "url": "https://cie.iiit.ac.in/monthly-newsletter-june/",
-        "score": 39,
-        "date_added": "2026-07-10",
-        "article_like": true
-    },
-    {
-        "company": "Illumina",
-        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=0505059a-764d-4abb-867b-8431cca99f9f",
-        "score": 80,
-        "date_added": "2026-07-10",
-        "article_like": true
-    },
-    {
-        "company": "Illumina",
-        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=ed351905-6bf1-45ea-93a3-1b3d833db091",
-        "score": 80,
-        "date_added": "2026-07-10",
-        "article_like": true
-    },
-    {
-        "company": "Agilisium",
-        "url": "https://www.agilisium.com/context-ai/commercial/skysavings-autonomous-agent",
-        "score": 66,
-        "date_added": "2026-07-10",
-        "article_like": true
-    },
-    {
-        "company": "Agilisium",
-        "url": "https://www.agilisium.com/context-ai/clinical/smart-icf-intelligent-agent",
-        "score": 64,
-        "date_added": "2026-07-10",
-        "article_like": true
-    },
-    {
-        "company": "Boston Consulting Group",
-        "url": "https://www.bcg.com/publications/2026/how-ai-leaders-create-competitive-advantage",
-        "score": 103,
-        "date_added": "2026-07-10",
-        "article_like": true
-    },
-    {
-        "company": "Lupin",
-        "url": "https://www.lupin.com/our-business/specialty-and-innovation",
-        "score": 52,
-        "date_added": "2026-07-10",
+        "company": "Sanofi",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-07-10-12-35-09-3325483",
+        "score": 107,
+        "date_added": "2026-07-11",
         "article_like": true
     },
     {
         "company": "GSK",
-        "url": "https://www.gsk.com/en-gb/media/press-releases/roy-jakobs-to-join-gsk-board-as-non-executive-director/",
-        "score": 103,
-        "date_added": "2026-07-10",
-        "article_like": true
-    },
-    {
-        "company": "Labcorp Drug Development",
-        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-declares-quarterly-dividend-15.html",
-        "score": 122,
-        "date_added": "2026-07-10",
-        "article_like": true
-    },
-    {
-        "company": "Stryker",
-        "url": "https://www.stryker.com/us/en/about/news/2026/listen-to-stryker-chair-and-ceo-kevin-lobo-on-bain-and-companys-founders-mentality-podcast.html",
-        "score": 165,
-        "date_added": "2026-07-10",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-s-licensor-hansoh-pharma-announces-positive-phase-iii-results-for-ris-rez-in-china-patient-population/",
+        "score": 154,
+        "date_added": "2026-07-11",
         "article_like": true
     },
     {
         "company": "Foundation Medicine",
-        "url": "https://www.foundationmedicine.com/biopharma/monitoring-solutions",
-        "score": 45,
-        "date_added": "2026-07-10",
+        "url": "https://www.foundationmedicine.com/solution/foundationone-mrd",
+        "score": 41,
+        "date_added": "2026-07-11",
         "article_like": true
     },
     {
-        "company": "Takeda Pharmaceutical",
-        "url": "https://www.takeda.com/newsroom/newsreleases/2026/filing-of-corporate-governance-report-to-the-tokyo-stock-exchange-2026/",
-        "score": 144,
-        "date_added": "2026-07-10",
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/legal-privacy#online-tracking",
+        "score": 26,
+        "date_added": "2026-07-11",
         "article_like": true
     },
     {
-        "company": "Serum Institute of India",
-        "url": "https://www.seruminstitute.com/brazil-malaysia-and-thailand-set-to-start-global-clinical-trial-to-test-promising-dengue-treatment-developed-by-serum-institute-of-india.php",
-        "score": 153,
-        "date_added": "2026-07-10",
+        "company": "Pfizer",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/us-fda-approves-padcevr-plus-keytrudar-neoadjuvant-and",
+        "score": 113,
+        "date_added": "2026-07-11",
         "article_like": true
     },
     {
-        "company": "Oxford Nanopore Technologies",
-        "url": "https://nanoporetech.com/news/oxford-nanopore-wins-the-2026-macrobert-award-for-engineering-innovation",
-        "score": 92,
-        "date_added": "2026-07-10",
+        "company": "Dassault Systemes BIOVIA",
+        "url": "https://www.3ds.com/careers/jobs/solution-sales-specialist-biovia-548790",
+        "score": 69,
+        "date_added": "2026-07-11",
         "article_like": true
     },
     {
-        "company": "Oxford Nanopore Technologies",
-        "url": "https://nanoporetech.com/blog/fda-draft-guidance-ushers-in-a-new-approach",
-        "score": 63,
-        "date_added": "2026-07-10",
+        "company": "Nuclera",
+        "url": "https://www.nuclera.com/built-for-ai-antibody-design-accelerating-the-dbtl-cycle/",
+        "score": 72,
+        "date_added": "2026-07-11",
         "article_like": true
     }
 ]

@@ -1,4 +1,29 @@
 {
+  "2026-07-11": {
+    "monoclonal antibodies": [
+      {
+        "company": "Sanofi",
+        "modality": "monoclonal antibodies",
+        "news": "The US FDA approved the subcutaneous formulation of Sarclisa (isatuximab-irfc), an anti-CD38 monoclonal antibody, for multiple myeloma. This approval marks the first anticancer treatment administered via an on-body injector, offering a new delivery method for the monoclonal antibody.",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-07-10-12-35-09-3325483",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "GSK",
+        "modality": "monoclonal antibodies",
+        "news": "GSK's licensor Hansoh Pharma announced positive Phase III results for Ris-Rez (risvutatug rezetecan), an antibody-drug conjugate composed of a fully human anti-B7-H3 monoclonal antibody. The trial met its primary endpoint of overall survival in patients with advanced small-cell lung cancer.",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-s-licensor-hansoh-pharma-announces-positive-phase-iii-results-for-ris-rez-in-china-patient-population/",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Pfizer",
+        "modality": "monoclonal antibodies",
+        "news": "The US FDA approved the combination of PADCEV (enfortumab vedotin) and Keytruda (pembrolizumab), a PD-1 inhibitor monoclonal antibody, for neoadjuvant and adjuvant treatment of muscle-invasive bladder cancer regardless of cisplatin eligibility. The approval is based on Phase 3 EV-304 data showing significant reductions in recurrence and death risks.",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/us-fda-approves-padcevr-plus-keytrudar-neoadjuvant-and",
+        "query": "monoclonal antibodies"
+      }
+    ]
+  },
   "2026-07-10": {
     "monoclonal antibodies": [
       {

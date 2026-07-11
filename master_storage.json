@@ -115686,5 +115686,82 @@
         "score": 63,
         "date_added": "2026-07-10",
         "article_like": true
+    },
+    {
+        "company": "Sanofi",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-07-10-12-35-09-3325483",
+        "score": 107,
+        "date_added": "2026-07-11",
+        "article_like": true
+    },
+    {
+        "company": "Solix Technologies, Inc.",
+        "url": "https://www.solix.com/ai/signin",
+        "score": 14,
+        "date_added": "2026-07-11",
+        "article_like": false
+    },
+    {
+        "company": "Solix Technologies, Inc.",
+        "url": "https://www.solix.com/ai/signup",
+        "score": 14,
+        "date_added": "2026-07-11",
+        "article_like": false
+    },
+    {
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-s-licensor-hansoh-pharma-announces-positive-phase-iii-results-for-ris-rez-in-china-patient-population/",
+        "score": 154,
+        "date_added": "2026-07-11",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/solution/foundationone-mrd",
+        "score": 41,
+        "date_added": "2026-07-11",
+        "article_like": true
+    },
+    {
+        "company": "Foundation Medicine",
+        "url": "https://www.foundationmedicine.com/legal-privacy#online-tracking",
+        "score": 26,
+        "date_added": "2026-07-11",
+        "article_like": true
+    },
+    {
+        "company": "Pfizer",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/us-fda-approves-padcevr-plus-keytrudar-neoadjuvant-and",
+        "score": 113,
+        "date_added": "2026-07-11",
+        "article_like": true
+    },
+    {
+        "company": "WuXi AppTec",
+        "url": "https://www.wuxiapptec.com/news/USPolicyBrief",
+        "score": 23,
+        "date_added": "2026-07-11",
+        "article_like": false
+    },
+    {
+        "company": "Dassault Systemes BIOVIA",
+        "url": "https://www.3ds.com/careers/jobs/solution-sales-specialist-biovia-548790",
+        "score": 69,
+        "date_added": "2026-07-11",
+        "article_like": true
+    },
+    {
+        "company": "Nuclera",
+        "url": "https://www.nuclera.com/built-for-ai-antibody-design-accelerating-the-dbtl-cycle/",
+        "score": 72,
+        "date_added": "2026-07-11",
+        "article_like": true
+    },
+    {
+        "company": "Travere Therapeutics",
+        "url": "https://ir.travere.com/press-releases/news-details/2026/Travere-Therapeutics-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635c4-2224a14b7/default.aspx",
+        "score": 181,
+        "date_added": "2026-07-11",
+        "article_like": false
     }
 ]

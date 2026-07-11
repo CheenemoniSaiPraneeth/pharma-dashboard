@@ -1,17 +1,10 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 15,
-    "items_extracted": 1,
+    "articles_used": 6,
+    "items_extracted": 0,
     "items_dropped": 0,
-    "generated_at": "2026-07-10 09:33:21"
+    "generated_at": "2026-07-11 08:32:05"
   },
-  "news": [
-    {
-      "company": "Serum Institute of India",
-      "modality": "gene editing",
-      "news": "The FDA published draft guidance in 2026 recommending the use of scalable long-read sequencing for quality control and safety assessment of genome-edited therapies. The guidance specifically addresses the need to detect large structural variants and complex on- and off-target editing events that short-read sequencing may miss.",
-      "url": "https://nanoporetech.com/blog/fda-draft-guidance-ushers-in-a-new-approach"
-    }
-  ]
+  "news": []
 }
