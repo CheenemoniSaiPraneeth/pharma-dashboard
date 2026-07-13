@@ -1,1 +1,58 @@
-[]
+[
+    {
+        "company": "Daicel Chiral Technologies Pvt. Ltd.",
+        "url": "https://chiraltech.com/one-platform-countless-applications-the-power-of-vaast/",
+        "score": 70,
+        "date_added": "2026-07-13",
+        "article_like": true
+    },
+    {
+        "company": "BIRAC",
+        "url": "https://www.birac.nic.in/desc_new.php?id=1348",
+        "score": 15,
+        "date_added": "2026-07-13",
+        "article_like": true
+    },
+    {
+        "company": "Rx Propellant",
+        "url": "https://rxpropellant.com/location-as-an-infrastructure-decision/",
+        "score": 54,
+        "date_added": "2026-07-13",
+        "article_like": true
+    },
+    {
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/jemperli-dostarlimab-achieves-sustained-clinical-complete-responses-in-dmmrmsi-h-locally-advanced-rectal-cancer/",
+        "score": 160,
+        "date_added": "2026-07-13",
+        "article_like": true
+    },
+    {
+        "company": "Astellas Pharma",
+        "url": "https://newsroom.astellas.com/2026-07-13-us-fda-approves-padcev-plus-keytruda-as-neoadjuvant-and-adjuvant-treatment-for-muscle-invasive-bladder-cancer-regardless-of-cisplatin-eligibility",
+        "score": 169,
+        "date_added": "2026-07-13",
+        "article_like": true
+    },
+    {
+        "company": "Takeda Pharmaceutical",
+        "url": "https://www.takeda.com/newsroom/newsreleases/2026/takeda-indonesia-plasma-collaboration/",
+        "score": 111,
+        "date_added": "2026-07-13",
+        "article_like": true
+    },
+    {
+        "company": "Insilico Medicine",
+        "url": "https://insilico.com/news/2fx6em2jc1-deepening-collaboration-in-ai-powered-ra",
+        "score": 71,
+        "date_added": "2026-07-13",
+        "article_like": true
+    },
+    {
+        "company": "Bavarian Nordic",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7546",
+        "score": 30,
+        "date_added": "2026-07-13",
+        "article_like": true
+    }
+]

@@ -1,4 +1,36 @@
 {
+  "2026-07-13": {
+    "monoclonal antibodies": [
+      {
+        "company": "GSK",
+        "modality": "monoclonal antibodies",
+        "news": "GSK announced positive interim results from the Phase II AZUR-1 trial for Jemperli (dostarlimab), a PD-1 blocking monoclonal antibody, in patients with dMMR/MSI-H locally advanced rectal cancer. The study met its primary objective, showing sustained clinical complete responses that could potentially eliminate the need for chemotherapy, radiation, and surgery.",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/jemperli-dostarlimab-achieves-sustained-clinical-complete-responses-in-dmmrmsi-h-locally-advanced-rectal-cancer/",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Pfizer",
+        "modality": "monoclonal antibodies",
+        "news": "The U.S. FDA approved the combination of PADCEV (enfortumab vedotin) and Keytruda (pembrolizumab), a PD-1 inhibitor monoclonal antibody, as a neoadjuvant and adjuvant treatment for muscle-invasive bladder cancer regardless of cisplatin eligibility. This approval is based on Phase 3 EV-304 data showing significant reductions in tumor recurrence and death risk.",
+        "url": "https://newsroom.astellas.com/2026-07-13-us-fda-approves-padcev-plus-keytruda-as-neoadjuvant-and-adjuvant-treatment-for-muscle-invasive-bladder-cancer-regardless-of-cisplatin-eligibility",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "GSK",
+        "modality": "monoclonal antibodies",
+        "news": "GSK announced positive interim results from the phase II AZUR-1 trial for Jemperli (dostarlimab), a PD-1 blocking monoclonal antibody. The study in dMMR/MSI-H locally advanced rectal cancer met its primary objective, showing sustained clinical complete responses that could potentially eliminate the need for chemotherapy, radiation, and surgery.",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/jemperli-dostarlimab-achieves-sustained-clinical-complete-responses-in-dmmrmsi-h-locally-advanced-rectal-cancer/",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Pfizer",
+        "modality": "monoclonal antibodies",
+        "news": "The U.S. FDA approved the combination of PADCEV (enfortumab vedotin) and Keytruda (pembrolizumab), a PD-1 inhibitor monoclonal antibody, for neoadjuvant and adjuvant treatment of muscle-invasive bladder cancer. This approval covers patients regardless of cisplatin eligibility, marking the first platinum-free regimen for this indication based on Phase 3 EV-304 data.",
+        "url": "https://newsroom.astellas.com/2026-07-13-us-fda-approves-padcev-plus-keytruda-as-neoadjuvant-and-adjuvant-treatment-for-muscle-invasive-bladder-cancer-regardless-of-cisplatin-eligibility",
+        "query": "monoclonal antibodies"
+      }
+    ]
+  },
   "2026-07-11": {
     "monoclonal antibodies": [
       {
