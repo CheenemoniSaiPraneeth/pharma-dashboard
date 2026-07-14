@@ -115840,5 +115840,236 @@
         "score": 30,
         "date_added": "2026-07-13",
         "article_like": true
+    },
+    {
+        "company": "Veeva Systems",
+        "url": "https://www.veeva.com/products/quality-cloud/#quality-assurance",
+        "score": 40,
+        "date_added": "2026-07-14",
+        "article_like": true
+    },
+    {
+        "company": "Veeva Systems",
+        "url": "https://www.veeva.com/products/quality-cloud/#training",
+        "score": 40,
+        "date_added": "2026-07-14",
+        "article_like": false
+    },
+    {
+        "company": "Veeva Systems",
+        "url": "https://www.veeva.com/products/quality-cloud/#quality-control",
+        "score": 40,
+        "date_added": "2026-07-14",
+        "article_like": true
+    },
+    {
+        "company": "Veeva Systems",
+        "url": "https://www.veeva.com/products/quality-cloud/#health-safety",
+        "score": 40,
+        "date_added": "2026-07-14",
+        "article_like": false
+    },
+    {
+        "company": "Veeva Systems",
+        "url": "https://www.veeva.com/products/veeva-ehs/",
+        "score": 36,
+        "date_added": "2026-07-14",
+        "article_like": false
+    },
+    {
+        "company": "InSilicoMinds",
+        "url": "https://insilicominds.com/fda-updates-statistical-approaches-to-establishing-bioequivalence/",
+        "score": 81,
+        "date_added": "2026-07-14",
+        "article_like": true
+    },
+    {
+        "company": "InSilicoMinds",
+        "url": "https://insilicominds.com/virtual-bioequivalence-is-changing-bioequivalence-studies/",
+        "score": 73,
+        "date_added": "2026-07-14",
+        "article_like": true
+    },
+    {
+        "company": "InSilicoMinds",
+        "url": "https://insilicominds.com/fda-biosimilar-developers-need-to-pay-attention/",
+        "score": 63,
+        "date_added": "2026-07-14",
+        "article_like": true
+    },
+    {
+        "company": "InSilicoMinds",
+        "url": "https://insilicominds.com/fda-ema-guiding-principles-of-good-ai-practice/",
+        "score": 62,
+        "date_added": "2026-07-14",
+        "article_like": true
+    },
+    {
+        "company": "InSilicoMinds",
+        "url": "https://insilicominds.com/ai-in-healthcare-2-0-international-conference/",
+        "score": 61,
+        "date_added": "2026-07-14",
+        "article_like": true
+    },
+    {
+        "company": "InSilicoMinds",
+        "url": "https://insilicominds.com/bcs-based-biowaivers/",
+        "score": 36,
+        "date_added": "2026-07-14",
+        "article_like": true
+    },
+    {
+        "company": "Google DeepMind",
+        "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+        "score": 86,
+        "date_added": "2026-07-14",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/content/ey-unified-site/ey-com/global/main/en_gl/home/insights/private-equity/private-equity-exit-readiness-study",
+        "score": 144,
+        "date_added": "2026-07-14",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/content/ey-unified-site/ey-com/global/main/en_gl/home/insights/geostrategy/geostrategic-analysis",
+        "score": 127,
+        "date_added": "2026-07-14",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/content/ey-unified-site/ey-com/global/main/en_gl/home/campaigns/megatrends",
+        "score": 103,
+        "date_added": "2026-07-14",
+        "article_like": false
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/media/press-releases/lupin-recognized-among-india-s-best-employers-in-the-nation-builders-category-by-great-place-to-work-india-2026",
+        "score": 149,
+        "date_added": "2026-07-14",
+        "article_like": true
+    },
+    {
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/media/media-statements/gsks-position-on-flovent/",
+        "score": 75,
+        "date_added": "2026-07-14",
+        "article_like": true
+    },
+    {
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/media/media-statements/zantac-litigation/",
+        "score": 68,
+        "date_added": "2026-07-14",
+        "article_like": true
+    },
+    {
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/media/media-statements/",
+        "score": 48,
+        "date_added": "2026-07-14",
+        "article_like": true
+    },
+    {
+        "company": "BioMarin",
+        "url": "https://investors.biomarin.com/news/news-details/2026/U-S--Food-and-Drug-Administration-Accepts-BioMarins-Supplemental-New-Drug-Application-for-Full-Approval-of-VOXZOGO-vosoritide-for-Children-With-Achondroplasia/default.aspx",
+        "score": 240,
+        "date_added": "2026-07-14",
+        "article_like": false
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-07-14",
+        "score": 50,
+        "date_added": "2026-07-14",
+        "article_like": true
+    },
+    {
+        "company": "AstraZeneca",
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/astrazeneca-licenses-novel-egfr-inhibitor.html",
+        "score": 142,
+        "date_added": "2026-07-14",
+        "article_like": true
+    },
+    {
+        "company": "Eisai",
+        "url": "https://www.eisai.com/news/2026/news202640.html",
+        "score": 57,
+        "date_added": "2026-07-14",
+        "article_like": true
+    },
+    {
+        "company": "Eisai",
+        "url": "https://www.eisai.com/news/2026/news202639.html",
+        "score": 57,
+        "date_added": "2026-07-14",
+        "article_like": true
+    },
+    {
+        "company": "Eisai",
+        "url": "https://www.eisai.com/news/2026/news202638.html",
+        "score": 57,
+        "date_added": "2026-07-14",
+        "article_like": true
+    },
+    {
+        "company": "Serum Institute of India",
+        "url": "https://www.seruminstitute.com/worlds-first-phase-i-bundibugyo-ebolavirus-vaccine-trial-launched-by-oxford-vaccine-group.php",
+        "score": 106,
+        "date_added": "2026-07-14",
+        "article_like": true
+    },
+    {
+        "company": "Bavarian Nordic",
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7547",
+        "score": 30,
+        "date_added": "2026-07-14",
+        "article_like": true
+    },
+    {
+        "company": "Agenus",
+        "url": "https://investor.agenusbio.com/news/news-details/2026/Agenus-Announces-Oversubscribed-Private-Placement-of-Up-to-340-Million-to-Advance-Registrational-ROBBIN-Trial-of-Neoadjuvant-BOTBAL-in-MSS-Colon-Cancer/default.aspx",
+        "score": 233,
+        "date_added": "2026-07-14",
+        "article_like": false
+    },
+    {
+        "company": "HitGen",
+        "url": "https://www.hitgen.com/news/news-details-529.html",
+        "score": 41,
+        "date_added": "2026-07-14",
+        "article_like": true
+    },
+    {
+        "company": "Ardigen",
+        "url": "https://ardigen.com/ardigen-veraxa-biotech-ai-drug-discovery-collaboration/",
+        "score": 70,
+        "date_added": "2026-07-14",
+        "article_like": true
+    },
+    {
+        "company": "Exscientia",
+        "url": "https://www.exscientia.ai/clinical-trials/solid-tumor-lymphoma-clinical-trial",
+        "score": 66,
+        "date_added": "2026-07-14",
+        "article_like": true
+    },
+    {
+        "company": "BioSolveIT",
+        "url": "https://www.biosolveit.de/2026/07/13/dylan-capitti-fenton-wins-scientific-challenge-summer-2025/",
+        "score": 116,
+        "date_added": "2026-07-14",
+        "article_like": true
+    },
+    {
+        "company": "Crinetics Pharmaceuticals",
+        "url": "https://crinetics.com/journal-articles/",
+        "score": 32,
+        "date_added": "2026-07-14",
+        "article_like": true
     }
 ]

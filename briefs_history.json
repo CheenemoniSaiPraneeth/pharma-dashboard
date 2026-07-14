@@ -1,4 +1,38 @@
 {
+  "2026-07-14": {
+    "bispecific antibodies": [
+      {
+        "company": "VERAXA Biotech",
+        "modality": "bispecific antibodies",
+        "news": "VERAXA Biotech announced a collaboration with Ardigen to utilize AI-enabled tools for optimizing target pair selection within its BiTAC pipeline of bispecific T cell engagers (TCEs). The partnership aims to improve therapeutic design and reduce toxicity by leveraging Ardigen's computational biology capabilities.",
+        "url": "https://ardigen.com/ardigen-veraxa-biotech-ai-drug-discovery-collaboration/",
+        "query": "bispecific antibodies"
+      }
+    ],
+    "monoclonal antibodies": [
+      {
+        "company": "Eisai",
+        "modality": "monoclonal antibodies",
+        "news": "The FDA approved LEQEMBI IQLIK (lecanemab-irmb), a subcutaneous injection of the monoclonal antibody lecanemab, as an initiation dose for early Alzheimer's disease, enabling at-home dosing.",
+        "url": "https://www.eisai.com/news/2026/news202640.html",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Eisai",
+        "modality": "monoclonal antibodies",
+        "news": "Eisai presented findings at AAIC 2026 showing that etalanetug, an investigational monoclonal antibody targeting tau, significantly reduced the plasma biomarker MTBR-tau243 in Alzheimer's disease patients.",
+        "url": "https://www.eisai.com/news/2026/news202639.html",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Eisai",
+        "modality": "monoclonal antibodies",
+        "news": "Clinical data presented at AAIC 2026 demonstrated that the subcutaneous autoinjector formulation of the monoclonal antibody lecanemab (LEQEMBI) supports similar efficacy and safety to the intravenous formulation in early Alzheimer's disease.",
+        "url": "https://www.eisai.com/news/2026/news202638.html",
+        "query": "monoclonal antibodies"
+      }
+    ]
+  },
   "2026-07-13": {
     "monoclonal antibodies": [
       {
