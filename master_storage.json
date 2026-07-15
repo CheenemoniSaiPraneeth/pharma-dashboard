@@ -116071,5 +116071,138 @@
         "score": 32,
         "date_added": "2026-07-14",
         "article_like": true
+    },
+    {
+        "company": "InSilicoMinds",
+        "url": "https://insilicominds.com/qsp-modeling-approaches-for-mabel-determination/",
+        "score": 63,
+        "date_added": "2026-07-15",
+        "article_like": true
+    },
+    {
+        "company": "InSilicoMinds",
+        "url": "https://insilicominds.com/fda-just-took-in-silico-one-step-further/",
+        "score": 56,
+        "date_added": "2026-07-15",
+        "article_like": true
+    },
+    {
+        "company": "InSilicoMinds",
+        "url": "https://insilicominds.com/fda-adopts-ich-m15/",
+        "score": 34,
+        "date_added": "2026-07-15",
+        "article_like": true
+    },
+    {
+        "company": "InSilicoMinds",
+        "url": "https://insilicominds.com/news-blogs/3/",
+        "score": 30,
+        "date_added": "2026-07-15",
+        "article_like": false
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/feature-articles/illumina-gets-behind-the-wheel-to-drive-greater-results-.html",
+        "score": 117,
+        "date_added": "2026-07-15",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/07/ey-named-a-leader-by-idc-marketscape-for-ww-ot-security-services-in-2026",
+        "score": 141,
+        "date_added": "2026-07-15",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/newsroom/2026/07/ey-named-a-leader-in-isg-s-snowflake-ecosystem-partners-2026-study",
+        "score": 135,
+        "date_added": "2026-07-15",
+        "article_like": true
+    },
+    {
+        "company": "KPMG",
+        "url": "https://kpmg.com/xx/en/what-we-do/services/ESG.html",
+        "score": 55,
+        "date_added": "2026-07-15",
+        "article_like": false
+    },
+    {
+        "company": "Genentech",
+        "url": "https://www.gene.com/media/press-releases/15121/2026-07-14/fda-grants-priority-review-to-genentechs",
+        "score": 99,
+        "date_added": "2026-07-15",
+        "article_like": true
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-expands-precision-oncology-with-pten-ihc-testing/",
+        "score": 109,
+        "date_added": "2026-07-15",
+        "article_like": true
+    },
+    {
+        "company": "Roche",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-07-15",
+        "score": 50,
+        "date_added": "2026-07-15",
+        "article_like": true
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://news.abbvie.com/2026-07-14-SkinMedica-R-Deepens-Commitment-to-Regenerative-Science-with-Continued-Investment-in-Research-and-Development",
+        "score": 133,
+        "date_added": "2026-07-15",
+        "article_like": true
+    },
+    {
+        "company": "Alnylam Pharmaceuticals",
+        "url": "https://investors.alnylam.com/press-release?id=29966",
+        "score": 26,
+        "date_added": "2026-07-15",
+        "article_like": true
+    },
+    {
+        "company": "Insilico Medicine",
+        "url": "https://insilico.com/news/xa31uheux1-insilico-medicine-and-bora-pharmaceutica",
+        "score": 71,
+        "date_added": "2026-07-15",
+        "article_like": true
+    },
+    {
+        "company": "IQVIA",
+        "url": "https://www.iqvia.com/solutions/commercialization/iqvia-commercial-agentic-ai",
+        "score": 72,
+        "date_added": "2026-07-15",
+        "article_like": true
+    },
+    {
+        "company": "Sumitomo Pharma",
+        "url": "https://www.sumitomo-pharma.com/news/20260715.html",
+        "score": 23,
+        "date_added": "2026-07-15",
+        "article_like": false
+    },
+    {
+        "company": "HitGen",
+        "url": "https://www.hitgen.com/news/news-details-530.html",
+        "score": 41,
+        "date_added": "2026-07-15",
+        "article_like": true
+    },
+    {
+        "company": "Dotmatics",
+        "url": "https://www.dotmatics.com/news/international-business-times-luma-agent-solves-employees-doing-wrong-work",
+        "score": 93,
+        "date_added": "2026-07-15",
+        "article_like": true
+    },
+    {
+        "company": "BioSolveIT",
+        "url": "https://www.biosolveit.de/2026/07/14/new-publication-strategies-for-identifying-molecules-of-interest-in-large-chemical-spaces/",
+        "score": 147,
+        "date_added": "2026-07-15",
+        "article_like": true
     }
 ]

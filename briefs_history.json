@@ -1,4 +1,38 @@
 {
+  "2026-07-15": {
+    "bispecific antibodies": [
+      {
+        "company": "Genentech",
+        "modality": "bispecific antibodies",
+        "news": "Genentech is investigating Lunsumio (mosunetuzumab), a first-in-class CD20xCD3 T-cell-engaging bispecific antibody, for the treatment of systemic lupus erythematosus (SLE). The company highlighted this program as part of its broader immunology pipeline alongside monoclonal antibodies and CAR-T therapies.",
+        "url": "https://www.gene.com/media/press-releases/15121/2026-07-14/fda-grants-priority-review-to-genentechs",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "Roche",
+        "modality": "bispecific antibodies",
+        "news": "Roche announced that the FDA granted Priority Review for its bispecific antibody Lunsumio (mosunetuzumab) for the treatment of Systemic Lupus Erythematosus (SLE), following positive data from the SOLUNA study. The drug is a first-in-class CD20xCD3 T-cell-engaging bispecific antibody currently under investigation for autoimmune indications.",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-07-15",
+        "query": "bispecific antibodies"
+      }
+    ],
+    "monoclonal antibodies": [
+      {
+        "company": "Genentech",
+        "modality": "monoclonal antibodies",
+        "news": "The FDA granted Priority Review to Genentech's Gazyva (obinutuzumab), a humanized monoclonal antibody, for the treatment of adults with primary membranous nephropathy. The decision is based on Phase III MAJESTY trial results showing significantly higher complete remission rates compared to tacrolimus, with an approval decision expected by November 2026.",
+        "url": "https://www.gene.com/media/press-releases/15121/2026-07-14/fda-grants-priority-review-to-genentechs",
+        "query": "monoclonal antibodies"
+      },
+      {
+        "company": "Roche",
+        "modality": "monoclonal antibodies",
+        "news": "The FDA granted Priority Review to Roche's supplemental Biologics License Application for Gazyva (obinutuzumab), a humanized monoclonal antibody, for the treatment of primary membranous nephropathy. The decision is based on positive Phase III MAJESTY trial results showing superior complete remission rates compared to tacrolimus.",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-07-15",
+        "query": "monoclonal antibodies"
+      }
+    ]
+  },
   "2026-07-14": {
     "bispecific antibodies": [
       {
