@@ -3,8 +3,8 @@
     "query": "gene editing",
     "articles_used": 10,
     "items_extracted": 0,
-    "items_dropped": 1,
-    "generated_at": "2026-07-15 08:07:23"
+    "items_dropped": 0,
+    "generated_at": "2026-07-16 08:15:20"
   },
   "news": []
 }

@@ -1,4 +1,31 @@
 {
+  "2026-07-16": {
+    "monoclonal antibodies": [
+      {
+        "company": "GSK",
+        "modality": "monoclonal antibodies",
+        "news": "GSK completed the $10.6 billion acquisition of Nuvalent, Inc., adding a pipeline of targeted oncology therapies including the B7-H3 targeted antibody-drug conjugate (ADC) Ris-Rez currently in phase III development.",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-completes-acquisition-of-nuvalent-inc/",
+        "query": "bispecific antibodies"
+      },
+      {
+        "company": "GSK",
+        "modality": "monoclonal antibodies",
+        "news": "GSK completed the acquisition of Nuvalent, Inc. for approximately $10.6 billion, adding three lung cancer assets to its portfolio. The deal includes the antibody-drug conjugate Ris-Rez, which targets B7-H3 and is currently in phase III development.",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-completes-acquisition-of-nuvalent-inc/",
+        "query": "monoclonal antibodies"
+      }
+    ],
+    "molecular glues": [
+      {
+        "company": "GSK",
+        "modality": "molecular glues",
+        "news": "GSK completed the acquisition of Nuvalent, Inc. for approximately $10.6 billion, adding three lung cancer assets to its oncology portfolio. The deal includes zidesamtinib (NVL-520) and neladalkib (NVL-655), which are small molecules designed to overcome resistance in ROS1-positive and ALK-altered non-small cell lung cancer, alongside NVL-330 for HER2-altered NSCLC.",
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-completes-acquisition-of-nuvalent-inc/",
+        "query": "molecular glues"
+      }
+    ]
+  },
   "2026-07-15": {
     "bispecific antibodies": [
       {
