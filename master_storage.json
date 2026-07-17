@@ -116358,5 +116358,243 @@
         "score": 23,
         "date_added": "2026-07-16",
         "article_like": false
+    },
+    {
+        "company": "Novartis",
+        "url": "https://www.novartis.com/news/media-releases/novartis-fabhalta-iptacopan-receives-fda-traditional-approval-first-and-only-complement-inhibitor-significantly-slow-kidney-function-decline-primary-igan",
+        "score": 190,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "InSilicoMinds",
+        "url": "https://insilicominds.com/insilicominds-in-the-avicenna-alliance-newsletter/",
+        "score": 65,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "InSilicoMinds",
+        "url": "https://insilicominds.com/news-blogs/4/",
+        "score": 30,
+        "date_added": "2026-07-17",
+        "article_like": false
+    },
+    {
+        "company": "Simson Pharma Limited",
+        "url": "https://www.simsonpharma.com/blog-details/types-of-impurities-in-the-pharma-industry",
+        "score": 70,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Medtronic",
+        "url": "https://news.medtronic.com/2026-07-16-Medtronic-completes-acquisition-of-SPR,-expanding-patient-access-to-minimally-invasive,-non-opioid-treatment-of-chronic-and-acute-pain",
+        "score": 158,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Google DeepMind",
+        "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+        "score": 52,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=27191",
+        "score": 80,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=27161",
+        "score": 80,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=27156",
+        "score": 80,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=27096",
+        "score": 80,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=26961",
+        "score": 80,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/media/perspectives/a-pharma-leader-s-journey-championing-quality-beyond-compliance",
+        "score": 99,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Cadila Pharmaceuticals",
+        "url": "https://www.cadilapharma.com/therapies/vitamins-and-minerals",
+        "score": 46,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/2026-07-16-Abbott-Reports-Second-Quarter-2026-Results-and-Raises-Full-Year-EPS-Guidance",
+        "score": 100,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/2026-07-16-Abbott-Reports-Second-Quarter-2026-Results-and-Raises-Full-Year-EPS-Guidance#assets_2429_124759-111",
+        "score": 100,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/media/media-statements/gsk-developed-tb-vaccine-candidate-progresses-toward-global-access-with-new-manufacturing-agreement/",
+        "score": 150,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/media/media-statements/gsk-tops-antimicrobial-resistance-amr-benchmark-report/",
+        "score": 105,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Edwards Lifesciences",
+        "url": "https://www.edwards.com/newsroom/news/2026-07-16-edwards-lifesciences-to-host-earnings-conference-c-0f06437",
+        "score": 100,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-to-report-second-quarter-2026-financial-results-on-august-5-2026/",
+        "score": 125,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/news/?query-0-page=54#caris-query-filter",
+        "score": 10,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-collaboration-with-time-to-introduce-new-healthcare-champion-of-the-year-award",
+        "score": 149,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://www.jnj.com/media-center/press-releases/depuy-synthes-acquires-expanding-innovations",
+        "score": 89,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Takeda Pharmaceutical",
+        "url": "https://www.takeda.com/newsroom/newsreleases/2026/zasocitinib-phase-3-psoriasis-skin-clearance/",
+        "score": 118,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Alnylam Pharmaceuticals",
+        "url": "https://investors.alnylam.com/press-release?id=29971",
+        "score": 26,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Isomorphic Labs",
+        "url": "https://www.isomorphiclabs.com/articles/our-approach-to-bioresilience",
+        "score": 53,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "IQVIA",
+        "url": "https://www.iqvia.com/newsroom/2026/07/iqvias-dr-cynthia-verst-addresses-congressional-subcommittee",
+        "score": 121,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Shionogi",
+        "url": "https://www.shionogi.com/global/en/news/2026/07/20260717.html",
+        "score": 74,
+        "date_added": "2026-07-17",
+        "article_like": false
+    },
+    {
+        "company": "Serum Institute of India",
+        "url": "https://www.seruminstitute.com/gates-medical-research-institute-and-the-serum-institute-of-india-reach-agreement.php",
+        "score": 98,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Intra-Cellular Therapies",
+        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/Johnson--Johnson-Announces-Collaboration-with-TIME-to-Introduce-New-Healthcare-Champion-of-the-Year-Award/default.aspx",
+        "score": 196,
+        "date_added": "2026-07-17",
+        "article_like": false
+    },
+    {
+        "company": "Compass Pathways",
+        "url": "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-Announces-Publication-of-Post-Hoc-Analysis-Demonstrating-Distinction-of-COMP360-Trial-Monitoring--Support-from-Psychotherapy/default.aspx",
+        "score": 239,
+        "date_added": "2026-07-17",
+        "article_like": false
+    },
+    {
+        "company": "OXB (Oxford Biomedica)",
+        "url": "https://oxb.com/news/oxb-selected-as-gmp-manufacturing-partner-to-support-manufacturing-of-plowshare-therapies-aav-gene-therapy-programme/",
+        "score": 139,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Grail",
+        "url": "https://grail.com/press-releases/priority-health-collaborates-with-grail-as-the-first-michigan-health-plan-to-offer-the-galleri-multi-cancer-early-detection-blood-test-to-employer-plans/",
+        "score": 185,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Oxford Nanopore Technologies",
+        "url": "https://nanoporetech.com/blog/science-unlocked-publication-picks-from-june-2026",
+        "score": 69,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Inventiva Pharma",
+        "url": "https://inventivapharma.com/investors/financials/#financial-results",
+        "score": 28,
+        "date_added": "2026-07-17",
+        "article_like": true
     }
 ]

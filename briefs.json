@@ -1,10 +1,23 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 10,
-    "items_extracted": 0,
+    "articles_used": 24,
+    "items_extracted": 2,
     "items_dropped": 0,
-    "generated_at": "2026-07-16 08:15:20"
+    "generated_at": "2026-07-17 08:11:22"
   },
-  "news": []
+  "news": [
+    {
+      "company": "Illumina",
+      "modality": "gene editing",
+      "news": "Illumina expanded its Billion Cell Atlas program by adding Formation Bio and two other AI-driven drug developers as new members. The alliance utilizes Illumina's genome-wide perturbation data, generated via CRISPR across over 200 disease-relevant cell lines, to train virtual cell models and accelerate the discovery of precise therapeutics.",
+      "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=27191"
+    },
+    {
+      "company": "Plowshare Therapies",
+      "modality": "gene editing",
+      "news": "OXB has been selected as the GMP manufacturing partner to support the manufacturing of Plowshare Therapies' AAV gene therapy programme. The partnership involves process development and manufacturing services from OXB's FDA-approved facility in Durham, North Carolina, to advance Plowshare's lead programme PLOW-101 for rare genetic diseases.",
+      "url": "https://oxb.com/news/oxb-selected-as-gmp-manufacturing-partner-to-support-manufacturing-of-plowshare-therapies-aav-gene-therapy-programme/"
+    }
+  ]
 }

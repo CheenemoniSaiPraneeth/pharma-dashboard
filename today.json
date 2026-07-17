@@ -1,107 +1,212 @@
 [
     {
-        "company": "Miltenyi Biotec",
-        "url": "https://www.miltenyibiotec.com/IN-en/about-us/newsroom/press-releases/s-o-l-a-r-i-s-launches-to-advance-scalable-car-t-cell-manufacturing-across-europe.html",
-        "score": 146,
-        "date_added": "2026-07-16",
+        "company": "Novartis",
+        "url": "https://www.novartis.com/news/media-releases/novartis-fabhalta-iptacopan-receives-fda-traditional-approval-first-and-only-complement-inhibitor-significantly-slow-kidney-function-decline-primary-igan",
+        "score": 190,
+        "date_added": "2026-07-17",
         "article_like": true
     },
     {
-        "company": "Boston Consulting Group",
-        "url": "https://www.bcg.com/publications/2026/three-forces-that-are-reshaping-the-business-of-football",
-        "score": 116,
-        "date_added": "2026-07-16",
+        "company": "InSilicoMinds",
+        "url": "https://insilicominds.com/insilicominds-in-the-avicenna-alliance-newsletter/",
+        "score": 65,
+        "date_added": "2026-07-17",
         "article_like": true
     },
     {
-        "company": "Boston Consulting Group",
-        "url": "https://www.bcg.com/publications/2026/global-m-and-a-rebound-fueled-by-ai",
-        "score": 95,
-        "date_added": "2026-07-16",
+        "company": "Simson Pharma Limited",
+        "url": "https://www.simsonpharma.com/blog-details/types-of-impurities-in-the-pharma-industry",
+        "score": 70,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Medtronic",
+        "url": "https://news.medtronic.com/2026-07-16-Medtronic-completes-acquisition-of-SPR,-expanding-patient-access-to-minimally-invasive,-non-opioid-treatment-of-chronic-and-acute-pain",
+        "score": 158,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Google DeepMind",
+        "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+        "score": 52,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=27191",
+        "score": 80,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=27161",
+        "score": 80,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=27156",
+        "score": 80,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=27096",
+        "score": 80,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Illumina",
+        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=26961",
+        "score": 80,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Lupin",
+        "url": "https://www.lupin.com/media/perspectives/a-pharma-leader-s-journey-championing-quality-beyond-compliance",
+        "score": 99,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Cadila Pharmaceuticals",
+        "url": "https://www.cadilapharma.com/therapies/vitamins-and-minerals",
+        "score": 46,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/2026-07-16-Abbott-Reports-Second-Quarter-2026-Results-and-Raises-Full-Year-EPS-Guidance",
+        "score": 100,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/2026-07-16-Abbott-Reports-Second-Quarter-2026-Results-and-Raises-Full-Year-EPS-Guidance#assets_2429_124759-111",
+        "score": 100,
+        "date_added": "2026-07-17",
         "article_like": true
     },
     {
         "company": "GSK",
-        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-completes-acquisition-of-nuvalent-inc/",
-        "score": 90,
-        "date_added": "2026-07-16",
+        "url": "https://www.gsk.com/en-gb/media/media-statements/gsk-developed-tb-vaccine-candidate-progresses-toward-global-access-with-new-manufacturing-agreement/",
+        "score": 150,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "GSK",
+        "url": "https://www.gsk.com/en-gb/media/media-statements/gsk-tops-antimicrobial-resistance-amr-benchmark-report/",
+        "score": 105,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Edwards Lifesciences",
+        "url": "https://www.edwards.com/newsroom/news/2026-07-16-edwards-lifesciences-to-host-earnings-conference-c-0f06437",
+        "score": 100,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-to-report-second-quarter-2026-financial-results-on-august-5-2026/",
+        "score": 125,
+        "date_added": "2026-07-17",
+        "article_like": true
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/news/?query-0-page=54#caris-query-filter",
+        "score": 10,
+        "date_added": "2026-07-17",
         "article_like": true
     },
     {
         "company": "Johnson & Johnson",
-        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-quarterly-dividend-for-third-quarter-2026",
-        "score": 112,
-        "date_added": "2026-07-16",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-collaboration-with-time-to-introduce-new-healthcare-champion-of-the-year-award",
+        "score": 149,
+        "date_added": "2026-07-17",
         "article_like": true
     },
     {
         "company": "Johnson & Johnson",
-        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-reports-q2-2026-results-raises-2026-outlook",
-        "score": 104,
-        "date_added": "2026-07-16",
+        "url": "https://www.jnj.com/media-center/press-releases/depuy-synthes-acquires-expanding-innovations",
+        "score": 89,
+        "date_added": "2026-07-17",
         "article_like": true
     },
     {
         "company": "Takeda Pharmaceutical",
-        "url": "https://www.takeda.com/newsroom/newsreleases/2026/earnings-call-q1-fy2026/",
-        "score": 97,
-        "date_added": "2026-07-16",
+        "url": "https://www.takeda.com/newsroom/newsreleases/2026/zasocitinib-phase-3-psoriasis-skin-clearance/",
+        "score": 118,
+        "date_added": "2026-07-17",
         "article_like": true
     },
     {
-        "company": "Argenx",
-        "url": "https://argenx.com/content/dam/argenx-corp/events-presentations/ARGENX_RD_AIM-6-23-26.pdf ",
-        "score": 92,
-        "date_added": "2026-07-16",
+        "company": "Alnylam Pharmaceuticals",
+        "url": "https://investors.alnylam.com/press-release?id=29971",
+        "score": 26,
+        "date_added": "2026-07-17",
         "article_like": true
     },
     {
-        "company": "HitGen",
-        "url": "https://www.hitgen.com/news/news-details-532.html",
-        "score": 41,
-        "date_added": "2026-07-16",
+        "company": "Isomorphic Labs",
+        "url": "https://www.isomorphiclabs.com/articles/our-approach-to-bioresilience",
+        "score": 53,
+        "date_added": "2026-07-17",
         "article_like": true
     },
     {
-        "company": "Chemical Computing Group (CCG)",
-        "url": "https://www.chemcomp.com/en/Workshops-North_America.htm#701OO00000oDOEJYA4",
-        "score": 45,
-        "date_added": "2026-07-16",
+        "company": "IQVIA",
+        "url": "https://www.iqvia.com/newsroom/2026/07/iqvias-dr-cynthia-verst-addresses-congressional-subcommittee",
+        "score": 121,
+        "date_added": "2026-07-17",
         "article_like": true
     },
     {
-        "company": "Chemical Computing Group (CCG)",
-        "url": "https://www.chemcomp.com/en/Workshops-North_America.htm?register=701OO00000oDOEJYA4",
-        "score": 45,
-        "date_added": "2026-07-16",
+        "company": "Serum Institute of India",
+        "url": "https://www.seruminstitute.com/gates-medical-research-institute-and-the-serum-institute-of-india-reach-agreement.php",
+        "score": 98,
+        "date_added": "2026-07-17",
         "article_like": true
     },
     {
-        "company": "Chemical Computing Group (CCG)",
-        "url": "https://www.chemcomp.com/en/Workshops-North_America.htm#701OO00000oDdgKYAS",
-        "score": 45,
-        "date_added": "2026-07-16",
+        "company": "OXB (Oxford Biomedica)",
+        "url": "https://oxb.com/news/oxb-selected-as-gmp-manufacturing-partner-to-support-manufacturing-of-plowshare-therapies-aav-gene-therapy-programme/",
+        "score": 139,
+        "date_added": "2026-07-17",
         "article_like": true
     },
     {
-        "company": "Chemical Computing Group (CCG)",
-        "url": "https://www.chemcomp.com/en/Workshops-North_America.htm?register=701OO00000oDdgKYAS",
-        "score": 45,
-        "date_added": "2026-07-16",
+        "company": "Grail",
+        "url": "https://grail.com/press-releases/priority-health-collaborates-with-grail-as-the-first-michigan-health-plan-to-offer-the-galleri-multi-cancer-early-detection-blood-test-to-employer-plans/",
+        "score": 185,
+        "date_added": "2026-07-17",
         "article_like": true
     },
     {
-        "company": "Chemical Computing Group (CCG)",
-        "url": "https://www.chemcomp.com/en/Workshops-North_America.htm#701OO00000oDpZUYA0",
-        "score": 45,
-        "date_added": "2026-07-16",
+        "company": "Oxford Nanopore Technologies",
+        "url": "https://nanoporetech.com/blog/science-unlocked-publication-picks-from-june-2026",
+        "score": 69,
+        "date_added": "2026-07-17",
         "article_like": true
     },
     {
-        "company": "Chemical Computing Group (CCG)",
-        "url": "https://www.chemcomp.com/en/Workshops-North_America.htm?register=701OO00000oDpZUYA0",
-        "score": 45,
-        "date_added": "2026-07-16",
+        "company": "Inventiva Pharma",
+        "url": "https://inventivapharma.com/investors/financials/#financial-results",
+        "score": 28,
+        "date_added": "2026-07-17",
         "article_like": true
     }
 ]
