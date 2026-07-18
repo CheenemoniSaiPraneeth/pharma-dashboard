@@ -1553,6 +1553,11 @@
         "score": 125
       },
       {
+        "url": "https://www.novartis.com/stories/novartis-marks-30-years-breakthroughs-building-250-years-discovery-reimagine-what-medicine-can-do-next",
+        "anchor_text": "StoryJul 17, 2026People and CultureNovartis marks 30 years of breakthroughs, building on 250 years of discovery to reimagine what medicine can do nextThe roots of Novartis reach back more than 250 years, to the chemical and scientific traditions that helped shape modern healthcare. Thirty years after its creation, a legacy of discovery and curiosity continues to guide its pursuit of new possibilities for patients.",
+        "score": 125
+      },
+      {
         "url": "https://www.novartis.com/news/novartis-statement-about-entresto-sacubitrilvalsartan-selection-medicare-drug-price-negotiation-program",
         "anchor_text": "StatementAug 29, 2023Novartis statement about Entresto®  (sacubitril/valsartan) selection for Medicare Drug Price Negotiation Program",
         "score": 123
@@ -1655,11 +1660,6 @@
       {
         "url": "https://www.novartis.com/investors/reporting-and-transparency-hub/patient-organization-funding",
         "anchor_text": "Patient organization funding",
-        "score": 86
-      },
-      {
-        "url": "https://www.novartis.com/stories/victor-bulto-and-thierry-diagana-named-2026-time100-health-list",
-        "anchor_text": "StoryFeb 11, 2026Victor Bulto and Thierry Diagana named to 2026 TIME100 Health ListNovartis is proud to share that TIME has recognized Victor Bultó and Thierry Diagana among the most influential people shaping the future of health. Learn more about what drives our honorees.",
         "score": 86
       },
       {
@@ -1831,6 +1831,11 @@
         "url": "https://www.novartis.com/healthcare-professionals/novartis-medical-information",
         "anchor_text": "Novartis medical information",
         "score": 68
+      },
+      {
+        "url": "https://www.novartis.com/about/30-years-novartis-powered-250-years-innovation",
+        "anchor_text": "30 years of Novartis",
+        "score": 67
       },
       {
         "url": "https://www.novartis.com/investors/shareholder-information/general-meetings",
@@ -5578,7 +5583,7 @@
       },
       {
         "url": "https://www.veeva.com/life-science-digital-engagement-strategy/",
-        "anchor_text": "Digital Engagement",
+        "anchor_text": "Increase Omnichannel Impact",
         "score": 56
       },
       {
@@ -5654,11 +5659,6 @@
       {
         "url": "https://www.veeva.com/products/veeva-safety-workbench/",
         "anchor_text": "Veeva Safety WorkbenchAdvanced reporting and analysis",
-        "score": 49
-      },
-      {
-        "url": "https://www.veeva.com/eu/commercial-excellence-pharma/",
-        "anchor_text": "Achieve Commercial Excellence",
         "score": 49
       },
       {
@@ -5744,6 +5744,11 @@
       {
         "url": "https://www.veeva.com/products/marketing-analytics/",
         "anchor_text": "Marketing AnalyticsCampaign measurement, targeting, and insights",
+        "score": 46
+      },
+      {
+        "url": "https://www.veeva.com/eu/agentic-commercial-pharma/",
+        "anchor_text": "Achieve Agentic Commercial",
         "score": 46
       },
       {
@@ -9022,192 +9027,6 @@
     ]
   },
   {
-    "company": "AdametNext",
-    "press_url": "https://adametnext.com/blog/",
-    "candidate_links": [
-      {
-        "url": "https://adametnext.com/competitive-intelligence/",
-        "anchor_text": "Competitive Intelligence",
-        "score": 40
-      },
-      {
-        "url": "https://adametnext.com/marketing-analytics/",
-        "anchor_text": "Marketing Analytics",
-        "score": 35
-      },
-      {
-        "url": "https://adametnext.com/classic-sidebar/",
-        "anchor_text": "How to make the most of a nontraditional startup community",
-        "score": 31
-      },
-      {
-        "url": "https://adametnext.com/classic-sidebar/#respond",
-        "anchor_text": "No comments yet",
-        "score": 31
-      },
-      {
-        "url": "https://adametnext.com/modern-sidebar/",
-        "anchor_text": "Read more",
-        "score": 30
-      },
-      {
-        "url": "https://adametnext.com/modern-sidebar/#respond",
-        "anchor_text": "No comments yet",
-        "score": 30
-      },
-      {
-        "url": "https://adametnext.com/gallery-post/",
-        "anchor_text": "How can you help your team transition to remote with this essential guide",
-        "score": 28
-      },
-      {
-        "url": "https://adametnext.com/category/development/",
-        "anchor_text": "Development",
-        "score": 28
-      },
-      {
-        "url": "https://adametnext.com/gallery-post/#respond",
-        "anchor_text": "No comments yet",
-        "score": 28
-      },
-      {
-        "url": "https://adametnext.com/category/technology/",
-        "anchor_text": "Technology",
-        "score": 27
-      },
-      {
-        "url": "https://adametnext.com/contact-us/",
-        "anchor_text": "Contact Us",
-        "score": 26
-      },
-      {
-        "url": "https://adametnext.com/video-post/",
-        "anchor_text": "The best remote UX and UI design conferences to attend in 2020",
-        "score": 26
-      },
-      {
-        "url": "https://adametnext.com/video-post/#respond",
-        "anchor_text": "No comments yet",
-        "score": 26
-      },
-      {
-        "url": "https://adametnext.com/audio-post/",
-        "anchor_text": "Read more",
-        "score": 26
-      },
-      {
-        "url": "https://adametnext.com/audio-post/#respond",
-        "anchor_text": "No comments yet",
-        "score": 26
-      },
-      {
-        "url": "https://adametnext.com/category/business/",
-        "anchor_text": "Business",
-        "score": 25
-      },
-      {
-        "url": "https://adametnext.com/category/software/",
-        "anchor_text": "Software",
-        "score": 25
-      },
-      {
-        "url": "https://adametnext.com/about-us/",
-        "anchor_text": "About Us",
-        "score": 24
-      },
-      {
-        "url": "https://adametnext.com/category/general/",
-        "anchor_text": "General",
-        "score": 24
-      },
-      {
-        "url": "https://adametnext.com/category/science/",
-        "anchor_text": "Science",
-        "score": 24
-      },
-      {
-        "url": "https://adametnext.com/author/admin143/",
-        "anchor_text": "admin143",
-        "score": 23
-      },
-      {
-        "url": "https://adametnext.com/category/design/",
-        "anchor_text": "Design",
-        "score": 23
-      },
-      {
-        "url": "https://adametnext.com/tag/marketing/",
-        "anchor_text": "Marketing(3)",
-        "score": 21
-      },
-      {
-        "url": "https://adametnext.com/tag/creative/",
-        "anchor_text": "Creative(4)",
-        "score": 20
-      },
-      {
-        "url": "https://adametnext.com/tag/internet/",
-        "anchor_text": "Internet(4)",
-        "score": 20
-      },
-      {
-        "url": "https://adametnext.com/tag/popular/",
-        "anchor_text": "Popular(3)",
-        "score": 19
-      },
-      {
-        "url": "https://adametnext.com/tag/startup/",
-        "anchor_text": "Startup(3)",
-        "score": 19
-      },
-      {
-        "url": "https://adametnext.com/tag/mobile/",
-        "anchor_text": "Mobile(4)",
-        "score": 18
-      },
-      {
-        "url": "https://adametnext.com/forecasting/",
-        "anchor_text": "Forecasting",
-        "score": 17
-      },
-      {
-        "url": "https://adametnext.com/careers/",
-        "anchor_text": "Careers",
-        "score": 13
-      },
-      {
-        "url": "https://adametnext.com/classic/",
-        "anchor_text": "Problems everyone has when working remotely and how to solve them",
-        "score": 13
-      },
-      {
-        "url": "https://adametnext.com/classic/#respond",
-        "anchor_text": "No comments yet",
-        "score": 13
-      },
-      {
-        "url": "https://adametnext.com/modern/",
-        "anchor_text": "Are enterprise teams the next big thing in the freelance revolution?",
-        "score": 12
-      },
-      {
-        "url": "https://adametnext.com/modern/#respond",
-        "anchor_text": "No comments yet",
-        "score": 12
-      },
-      {
-        "url": "https://adametnext.com/blog/",
-        "anchor_text": "Subscribe",
-        "score": 10
-      },
-      {
-        "url": "https://adametnext.com",
-        "anchor_text": "Adamet Next",
-        "score": 0
-      }
-    ]
-  },
-  {
     "company": "Genotypic Technology Pvt Ltd",
     "press_url": "https://genotypic.co.in/aboutus/news/",
     "candidate_links": [
@@ -9467,11 +9286,6 @@
     "company": "InSilicoMinds",
     "press_url": "https://insilicominds.com/news-blogs/",
     "candidate_links": [
-      {
-        "url": "https://insilicominds.com/insilicominds-to-present-at-federation-of-asian-biotech-associations-faba/",
-        "anchor_text": "Read More »",
-        "score": 89
-      },
       {
         "url": "https://insilicominds.com/fda-updates-statistical-approaches-to-establishing-bioequivalence/",
         "anchor_text": "Read More »",
@@ -11348,9 +11162,19 @@
         "score": 66
       },
       {
+        "url": "https://www.adgyllifesciences.com/industry/pharmaceutical-biotechnology/",
+        "anchor_text": "Pharmaceutical & Biotechnology",
+        "score": 55
+      },
+      {
         "url": "https://www.adgyllifesciences.com/services/inhalation-toxicity-studies/",
         "anchor_text": "Inhalation Toxicity Studies",
         "score": 54
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/industry/veterinary-pharmaceutical/",
+        "anchor_text": "Veterinary Pharmaceuticals",
+        "score": 52
       },
       {
         "url": "https://www.adgyllifesciences.com/services/bio-analytical-services/",
@@ -11388,11 +11212,6 @@
         "score": 44
       },
       {
-        "url": "https://www.adgyllifesciences.com/pharmaceutical-biotechnology/",
-        "anchor_text": "Pharmaceutical & Biotechnology",
-        "score": 44
-      },
-      {
         "url": "https://www.adgyllifesciences.com/services/immuno-toxicology/",
         "anchor_text": "Immuno Toxicology",
         "score": 44
@@ -11403,18 +11222,28 @@
         "score": 44
       },
       {
+        "url": "https://www.adgyllifesciences.com/industry/medical-devices/",
+        "anchor_text": "Medical Devices",
+        "score": 42
+      },
+      {
         "url": "https://www.adgyllifesciences.com/our-vision-mission-values/",
         "anchor_text": "Vision Mission value",
         "score": 41
       },
       {
-        "url": "https://www.adgyllifesciences.com/veterinary-pharmaceutical/",
-        "anchor_text": "Veterinary Pharmaceuticals",
-        "score": 41
+        "url": "https://www.adgyllifesciences.com/industry/reach-support/",
+        "anchor_text": "REACH Support",
+        "score": 40
       },
       {
         "url": "https://www.adgyllifesciences.com/services/nda-filing/",
         "anchor_text": "NDA filing",
+        "score": 37
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/industry/industry/biologics/",
+        "anchor_text": "Biologics",
         "score": 37
       },
       {
@@ -11438,19 +11267,19 @@
         "score": 32
       },
       {
-        "url": "https://www.adgyllifesciences.com/medical-devices/",
-        "anchor_text": "Medical Devices",
+        "url": "https://www.adgyllifesciences.com/industry/nutraceuticals/",
+        "anchor_text": "Nutraceuticals",
         "score": 31
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/industry/agrochemicals/",
+        "anchor_text": "Agrochemicals",
+        "score": 30
       },
       {
         "url": "https://www.adgyllifesciences.com/privacy-policy/",
         "anchor_text": "Privacy Policy",
         "score": 30
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/reach-support/",
-        "anchor_text": "REACH Support",
-        "score": 29
       },
       {
         "url": "https://www.adgyllifesciences.com/case-studies/",
@@ -11460,6 +11289,11 @@
       {
         "url": "https://www.adgyllifesciences.com/industry/biologics/",
         "anchor_text": "Biologics",
+        "score": 26
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/industry/cosmetics/",
+        "anchor_text": "Cosmetics",
         "score": 26
       },
       {
@@ -11481,26 +11315,6 @@
         "url": "https://www.adgyllifesciences.com/services/dmpk/",
         "anchor_text": "DMPK",
         "score": 21
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/category/blog/",
-        "anchor_text": "Blog",
-        "score": 21
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/nutraceuticals/",
-        "anchor_text": "Nutraceuticals",
-        "score": 20
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/agrochemicals/",
-        "anchor_text": "Agrochemicals",
-        "score": 19
-      },
-      {
-        "url": "https://www.adgyllifesciences.com/cosmetics/",
-        "anchor_text": "Cosmetics",
-        "score": 15
       },
       {
         "url": "https://www.adgyllifesciences.com/resources/",
@@ -11526,6 +11340,11 @@
         "url": "https://www.adgyllifesciences.com/admet/",
         "anchor_text": "ADMET",
         "score": 11
+      },
+      {
+        "url": "https://www.adgyllifesciences.com/blog/",
+        "anchor_text": "Blog",
+        "score": 10
       },
       {
         "url": "https://www.adgyllifesciences.com",
@@ -12011,287 +11830,6 @@
       {
         "url": "https://www.instem.com/",
         "anchor_text": "",
-        "score": 3
-      }
-    ]
-  },
-  {
-    "company": "Nucleome Informatics Private Limited",
-    "press_url": "https://www.nucleomeinfo.com/news_test/",
-    "candidate_links": [
-      {
-        "url": "https://www.nucleomeinfo.com/news/mou-between-sriher-and-nucleome-on-cancer-genomics-and-precision-medicine-research-and-clinical-genetic-testing-and-training/",
-        "anchor_text": "Read More",
-        "score": 147
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/news/full-length-16s-v1-to-v9-sequencing-discovers-complete-microbiome-of-cobia-fish/",
-        "anchor_text": "Read More",
-        "score": 102
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/news/nucleome-showcases-advances-in-hifi-sequencing-at-prism-2025-vietnam/",
-        "anchor_text": "Read More",
-        "score": 91
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/news/long-whiskers-catfish-genome-published-in-nature-journal/",
-        "anchor_text": "Long Whiskers Catfish Genome Published in Nature journal",
-        "score": 79
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/news/nucleome-participated-in-biotech-industry-meet-2025/",
-        "anchor_text": "Read More",
-        "score": 74
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/news/nucleome-launches-nucleome-knowledge-hub/",
-        "anchor_text": "Nucleome launches “Nucleome Knowledge Hub”",
-        "score": 63
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/research-verticals/drseq-human-genomics/",
-        "anchor_text": "DrSeq-Human Genomics",
-        "score": 57
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/wgs-hifi-newborn-screening-rare-diseases/",
-        "anchor_text": "Newborn Screening for Rare Diseases by WGS-HiFi Test",
-        "score": 56
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/tag/genome-sequencing-service-in-india/",
-        "anchor_text": "Genome Sequencing service in India",
-        "score": 56
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/tag/de-novo-transcriptome-analysis/",
-        "anchor_text": "de novo transcriptome analysis",
-        "score": 52
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/services/axiom-genotyping-array/",
-        "anchor_text": "SNP Genotyping",
-        "score": 49
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/rare-disease-hackathon-india-2026/",
-        "anchor_text": "Rare Disease Hackathon India 2026",
-        "score": 49
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/tag/de-novo-genome-sequencing/",
-        "anchor_text": "De novo Genome Sequencing",
-        "score": 47
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/sample-submission/dna-sample/",
-        "anchor_text": "DNA Sample",
-        "score": 46
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/sample-submission/rna-sample/",
-        "anchor_text": "RNA Sample",
-        "score": 46
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/tag/bioinformatics-analysis/",
-        "anchor_text": "Bioinformatics analysis",
-        "score": 45
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/services/wildlife-genomics/",
-        "anchor_text": "Wildlife Genomics",
-        "score": 44
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/tag/hybrid-genome-assembly/",
-        "anchor_text": "Hybrid Genome assembly",
-        "score": 44
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/research-verticals/drseed/",
-        "anchor_text": "DrSeed – Agricultural Genomics",
-        "score": 43
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/tag/functional-annotation/",
-        "anchor_text": "functional annotation",
-        "score": 43
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/research-verticals/drpam/",
-        "anchor_text": "DrPAM – Plant, Animal, and Microbial Genomics Research",
-        "score": 42
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/tag/solanum-melongena-l/",
-        "anchor_text": "Solanum melongena L.",
-        "score": 41
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/technologies-we-work-on/",
-        "anchor_text": "Technology",
-        "score": 39
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/tag/de-novo-assembly/",
-        "anchor_text": "De novo assembly",
-        "score": 38
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/tag/genetic-testing/",
-        "anchor_text": "Genetic Testing",
-        "score": 37
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/news/goldlinedseabreamgenome/",
-        "anchor_text": "Read More",
-        "score": 36
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/tag/rna-sequencing/",
-        "anchor_text": "RNA sequencing",
-        "score": 36
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/happy-new-year-2026/",
-        "anchor_text": "Happy New Year 2026",
-        "score": 35
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/research-verticals/",
-        "anchor_text": "Verticals",
-        "score": 34
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/news/drseq4powerbiomarkers/",
-        "anchor_text": "Breakthrough Genomic Test Launched to Solve Unsolved Cancer Cases",
-        "score": 34
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/tag/rare-disease/",
-        "anchor_text": "Rare Disease",
-        "score": 34
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/services/bio-it/",
-        "anchor_text": "Bioinformatics",
-        "score": 33
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/sample-submission/",
-        "anchor_text": "Sample Submission",
-        "score": 33
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/services/transcriptomics/",
-        "anchor_text": "Transcriptomics",
-        "score": 32
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/services/metagenomics/",
-        "anchor_text": "Metagenomics",
-        "score": 29
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/services/epigenomics/",
-        "anchor_text": "Epigenomics",
-        "score": 28
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/about_us/publication/",
-        "anchor_text": "Publications",
-        "score": 28
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/news_test/page/2/#wpnw-news-1",
-        "anchor_text": "Next »",
-        "score": 26
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/news_test/page/3/#wpnw-news-1",
-        "anchor_text": "3",
-        "score": 26
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/news_test/page/5/#wpnw-news-1",
-        "anchor_text": "5",
-        "score": 26
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/services/genomics/",
-        "anchor_text": "Genomics",
-        "score": 25
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/about_us/webinars/",
-        "anchor_text": "Webinars",
-        "score": 25
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/our-team/",
-        "anchor_text": "Our Team",
-        "score": 24
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/about_us/career/",
-        "anchor_text": "Career at Nucleome Informatics",
-        "score": 23
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/tag/conference/",
-        "anchor_text": "Conference",
-        "score": 22
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/news/14746/",
-        "anchor_text": "Read More",
-        "score": 18
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/news/14728/",
-        "anchor_text": "Read More",
-        "score": 18
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/tag/pacbio/",
-        "anchor_text": "PacBio",
-        "score": 18
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/news_test/",
-        "anchor_text": "",
-        "score": 15
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/about_us/",
-        "anchor_text": "About Us",
-        "score": 14
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/services/",
-        "anchor_text": "Services",
-        "score": 14
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/sequel2/",
-        "anchor_text": "Sequencing on PacBio Revio and Sequel II",
-        "score": 13
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/gallery/",
-        "anchor_text": "Gallery",
-        "score": 13
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/contact/",
-        "anchor_text": "Contact Us",
-        "score": 13
-      },
-      {
-        "url": "https://www.nucleomeinfo.com/",
-        "anchor_text": "Home",
         "score": 3
       }
     ]
@@ -14550,287 +14088,6 @@
         "url": "https://agcro.com",
         "anchor_text": "",
         "score": 0
-      }
-    ]
-  },
-  {
-    "company": "Abiogenesis Clinpharm Private Limited",
-    "press_url": "https://abiogenesisclinpharm.com/blog/",
-    "candidate_links": [
-      {
-        "url": "https://abiogenesisclinpharm.com/category/clinical-research-organization/",
-        "anchor_text": "Clinical Research Organization",
-        "score": 57
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/cell-and-gene-therapy-progress-challenges/",
-        "anchor_text": "0",
-        "score": 57
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/rbqm-in-2026-intelligence-clinical-trials/",
-        "anchor_text": "0",
-        "score": 57
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/clinical-research-organization-in-indias/",
-        "anchor_text": "0",
-        "score": 56
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/uk-clinical-trials-reform-2026-ich-e6r3/",
-        "anchor_text": "0",
-        "score": 55
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/clinical-research-organizations-trials/",
-        "anchor_text": "0",
-        "score": 54
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/herbal-food-and-nutraceutical-studies/",
-        "anchor_text": "Herbal, Food, and Nutraceutical Studies",
-        "score": 53
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/choose-right-cro-clinical-trials-2026/",
-        "anchor_text": "How to Choose the Right Clinical Research Organization (CRO) for Successful Clinical Trials",
-        "score": 53
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/real-world-evidence-supports-programs/",
-        "anchor_text": "",
-        "score": 53
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/semaglutide-clinical-trials-generics/",
-        "anchor_text": "0",
-        "score": 52
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/service/biostatistics-programming/",
-        "anchor_text": "Biostatistics & Programming",
-        "score": 51
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/category/clinical-operations/",
-        "anchor_text": "Clinical Operations",
-        "score": 46
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/service/clinical-operations/",
-        "anchor_text": "Clinical Operations",
-        "score": 45
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/decentralized-clinical-trials/",
-        "anchor_text": "Decentralized Clinical Trials",
-        "score": 45
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/category/regulatory-affairs/",
-        "anchor_text": "Regulatory Affairs",
-        "score": 45
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/service/regulatory-affairs/",
-        "anchor_text": "Regulatory Affairs",
-        "score": 44
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/category/quality-assurance/",
-        "anchor_text": "Quality Assurance",
-        "score": 44
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/service/quality-assurance/",
-        "anchor_text": "Quality Assurance",
-        "score": 43
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/india-uk-biosimilar-pathway/",
-        "anchor_text": "India – UK Biosimilar Corridor: A Controlled Evidence Pathway",
-        "score": 43
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/blog/contact@abiogenesisclinpharm.com",
-        "anchor_text": "contact@abiogenesisclinpharm.com",
-        "score": 42
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/category/data-management/",
-        "anchor_text": "Data Management",
-        "score": 42
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/category/medical-affairs/",
-        "anchor_text": "Medical Affairs",
-        "score": 42
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/service/data-management/",
-        "anchor_text": "Data Management",
-        "score": 41
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/service/medical-affairs/",
-        "anchor_text": "Medical Affairs",
-        "score": 41
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/small-molecule-and-fdc/",
-        "anchor_text": "Small Molecule & FDC",
-        "score": 38
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/ethnographic-research/",
-        "anchor_text": "Ethnographic Research",
-        "score": 37
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/real-world-studies/",
-        "anchor_text": "Real World Studies",
-        "score": 34
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/medical-monitoring/",
-        "anchor_text": "Medical Monitoring",
-        "score": 34
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/narcotics-studies/",
-        "anchor_text": "Narcotics Studies",
-        "score": 33
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/cosmetic-studies/",
-        "anchor_text": "Cosmetic Studies",
-        "score": 32
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/terms-conditions/",
-        "anchor_text": "Terms & Conditions",
-        "score": 32
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/medical-devices/",
-        "anchor_text": "Medical Devices",
-        "score": 31
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/rescue-studies/",
-        "anchor_text": "Rescue Studies",
-        "score": 30
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/privacy-policy/",
-        "anchor_text": "Privacy Policy",
-        "score": 30
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/cookies-policy/",
-        "anchor_text": "Cookies Policy",
-        "score": 30
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/pk-pd-studies/",
-        "anchor_text": "Pk/Pd Studies",
-        "score": 29
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/category/biostastics/",
-        "anchor_text": "Biostastics",
-        "score": 28
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/our-journey/",
-        "anchor_text": "Our Journey",
-        "score": 27
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/about-us/",
-        "anchor_text": "About Us",
-        "score": 24
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/our-team/",
-        "anchor_text": "Team",
-        "score": 24
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/contact-us",
-        "anchor_text": "CONTACT US",
-        "score": 23
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/blog/page/2/",
-        "anchor_text": "Next page",
-        "score": 21
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/blog/page/3/",
-        "anchor_text": "3",
-        "score": 21
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/blog/page/6/",
-        "anchor_text": "6",
-        "score": 21
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/biosimilar/",
-        "anchor_text": "Biosimilar",
-        "score": 16
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/accolades/",
-        "anchor_text": "Accolades",
-        "score": 15
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/contacts/",
-        "anchor_text": "Contact",
-        "score": 14
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/product/",
-        "anchor_text": "Product",
-        "score": 13
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/vaccine/",
-        "anchor_text": "Vaccine",
-        "score": 13
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/career/",
-        "anchor_text": "Career",
-        "score": 12
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/cdisc/",
-        "anchor_text": "CDISC",
-        "score": 11
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/blog/",
-        "anchor_text": "Blog",
-        "score": 10
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/blog/#top",
-        "anchor_text": "",
-        "score": 10
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/nce/",
-        "anchor_text": "NCE",
-        "score": 9
-      },
-      {
-        "url": "https://abiogenesisclinpharm.com/",
-        "anchor_text": "Abiogenesis Clinpharm",
-        "score": 3
       }
     ]
   },
@@ -18525,7 +17782,7 @@
       },
       {
         "url": "https://www.illumina.com/company/news-center.html",
-        "anchor_text": "Share on Linkedin",
+        "anchor_text": "Cookie Management Center",
         "score": 39
       },
       {
@@ -19243,6 +18500,11 @@
         "url": "https://www.agilisium.com/context-ai/clinical/study-conduct",
         "anchor_text": "Study Conduct Agent",
         "score": 50
+      },
+      {
+        "url": "https://www.agilisium.com/context-ai/commercial/sdlc-agent",
+        "anchor_text": "SDLC Agent",
+        "score": 49
       },
       {
         "url": "https://www.agilisium.com/autonomous-agents/liver-optimizer",
@@ -20972,9 +20234,9 @@
         "score": 156
       },
       {
-        "url": "https://www.ey.com/en_gl/newsroom/2026/03/ey-named-a-leader-in-the-verdantix-green-quadrant-sustainability-consulting-2026",
-        "anchor_text": "EY named a Leader in the Verdantix Green Quadrant: Sustainability Consulting 2026",
-        "score": 149
+        "url": "https://www.ey.com/en_gl/newsroom/2026/07/ey-named-a-leader-in-the-hfs-global-capability-centers-services-horizons-report-2026",
+        "anchor_text": "EY named a Leader in the HFS Global Capability Centers Services Horizons Report, 2026",
+        "score": 153
       },
       {
         "url": "https://www.ey.com/en_gl/newsroom/2026/06/ey-named-a-leader-in-the-hfs-horizons-sap-s-4hana-transformation-services-2026",
@@ -21618,7 +20880,7 @@
       },
       {
         "url": "https://www.ey.com/en_gl/services/law/transaction",
-        "anchor_text": "Transaction law",
+        "anchor_text": "M&A and Transaction Law Services",
         "score": 39
       },
       {
@@ -23558,6 +22820,11 @@
         "score": 15
       },
       {
+        "url": "https://sunpharma.com/singapore/",
+        "anchor_text": "Singapore",
+        "score": 15
+      },
+      {
         "url": "https://sunpharma.com/products/",
         "anchor_text": "Products",
         "score": 14
@@ -23574,7 +22841,7 @@
       },
       {
         "url": "https://sunpharma.com/malaysia/",
-        "anchor_text": "Malaysia and Singapore",
+        "anchor_text": "Malaysia",
         "score": 14
       },
       {
@@ -26750,11 +26017,6 @@
         "score": 125
       },
       {
-        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-presents-positive-data-for-b7-h4-targeted-adc-in-gynaecological-cancers/",
-        "anchor_text": "12 April 2026GSK presents positive data for B7-H4-targeted ADC in gynaecological cancersPromising efficacy and safety profile supports start of five pivotal phase III trials in 2026.",
-        "score": 124
-      },
-      {
         "url": "https://www.gsk.com/en-gb/media/press-releases/tesaro-a-gsk-subsidiary-provides-update-on-anaptysbio-inc-litigation/",
         "anchor_text": "27 April 2026TESARO, a GSK subsidiary, provides update on AnaptysBio, Inc. litigationDelaware Chancery Court has granted the motion to dismiss filed by AnaptysBio, Inc. against TESARO’s claim for anticipatory breach.",
         "score": 117
@@ -26768,6 +26030,11 @@
         "url": "https://www.gsk.com/en-gb/responsibility/global-health-and-health-security/using-our-science-for-global-health/",
         "anchor_text": "Using our science for global health",
         "score": 112
+      },
+      {
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-provides-an-update-on-calm-1-and-calm-2-phase-iii-trials/",
+        "anchor_text": "17 July 2026GSK provides an update on CALM-1 and CALM-2 phase III trials for camlipixant in refractory chronic cough (RCC)GSK plc (LSE/NYSE: GSK) today provides an update on the CALM-1 and CALM-2 phase III clinical trials",
+        "score": 109
       },
       {
         "url": "https://www.gsk.com/en-gb/responsibility/global-health-and-health-security/improving-access-to-healthcare/",
@@ -30065,6 +29332,11 @@
       {
         "url": "https://www.labcorp.com/modalities/vaccines/assays",
         "anchor_text": "Vaccines",
+        "score": 33
+      },
+      {
+        "url": "https://www.labcorp.com/terms-and-conditions",
+        "anchor_text": "Terms and Conditions",
         "score": 33
       },
       {
@@ -34439,7 +33711,7 @@
       },
       {
         "url": "https://www.edwards.com/legal/privacy-policy",
-        "anchor_text": "Privacy Statement",
+        "anchor_text": "Privacy Policy",
         "score": 35
       },
       {
@@ -35617,11 +34889,6 @@
     "press_url": "https://investor.exactsciences.com/news-releases",
     "candidate_links": [
       {
-        "url": "https://investor.exactsciences.com/content/corp/abbottglobal/countries/en-us/homepage",
-        "anchor_text": "",
-        "score": 73
-      },
-      {
         "url": "https://investor.exactsciences.com/en-us/products-solutions/diagnostics-testing",
         "anchor_text": "Diagnostics Testing",
         "score": 61
@@ -35630,11 +34897,6 @@
         "url": "https://investor.exactsciences.com/en-us/products-solutions/pain-and-movement",
         "anchor_text": "Pain and Movement",
         "score": 59
-      },
-      {
-        "url": "https://investor.exactsciences.com/en-us/privacy-policy/consumer-health-data",
-        "anchor_text": "Consumer Health Data Privacy Policyopens in a new tab",
-        "score": 58
       },
       {
         "url": "https://investor.exactsciences.com/en-us/products-solutions/cardiovascular",
@@ -35652,11 +34914,6 @@
         "score": 54
       },
       {
-        "url": "https://investor.exactsciences.com/en-us/responsibility/sustainability",
-        "anchor_text": "Sustainability",
-        "score": 52
-      },
-      {
         "url": "https://investor.exactsciences.com/en-us/products-solutions/nutrition",
         "anchor_text": "Nutrition",
         "score": 51
@@ -35667,33 +34924,13 @@
         "score": 51
       },
       {
-        "url": "https://investor.exactsciences.com/en-us/responsibility/social-impact",
-        "anchor_text": "Social Impact",
-        "score": 51
-      },
-      {
         "url": "https://investor.exactsciences.com/en-us/products-solutions/diabetes",
         "anchor_text": "Diabetes",
         "score": 50
       },
       {
-        "url": "https://investor.exactsciences.com/en-us/responsibility/abbott-fund",
-        "anchor_text": "Abbott Fund",
-        "score": 49
-      },
-      {
-        "url": "https://investor.exactsciences.com/en-us/online-terms-and-conditions",
-        "anchor_text": "Terms and Conditionsopens in a new tab",
-        "score": 48
-      },
-      {
-        "url": "https://investor.exactsciences.com/en-us/careers/working-with-us",
-        "anchor_text": "Working at Abbott",
-        "score": 46
-      },
-      {
-        "url": "https://investor.exactsciences.com/en-us/about-abbott/leadership",
-        "anchor_text": "Leadership",
+        "url": "https://investor.exactsciences.com/en-us/global-locations-contacts",
+        "anchor_text": "Global Locations",
         "score": 46
       },
       {
@@ -35702,44 +34939,9 @@
         "score": 43
       },
       {
-        "url": "https://investor.exactsciences.com/en-us/science-and-innovation",
-        "anchor_text": "Science and Innovation",
-        "score": 43
-      },
-      {
         "url": "https://investor.exactsciences.com/en-us/products-solutions",
         "anchor_text": "Overview",
         "score": 39
-      },
-      {
-        "url": "https://investor.exactsciences.com/en-us/careers/benefits",
-        "anchor_text": "Benefits",
-        "score": 39
-      },
-      {
-        "url": "https://investor.exactsciences.com/en-us/careers/students",
-        "anchor_text": "Early Careers",
-        "score": 39
-      },
-      {
-        "url": "https://investor.exactsciences.com/en-us/responsibility",
-        "anchor_text": "Overview",
-        "score": 35
-      },
-      {
-        "url": "https://investor.exactsciences.com/en-us/privacy-policy",
-        "anchor_text": "Privacy Policyopens in a new tab",
-        "score": 35
-      },
-      {
-        "url": "https://investor.exactsciences.com/en-us/about-abbott",
-        "anchor_text": "Overview",
-        "score": 33
-      },
-      {
-        "url": "https://investor.exactsciences.com/en-us/corpnewsroom",
-        "anchor_text": "Newsroom",
-        "score": 33
       },
       {
         "url": "https://investor.exactsciences.com/en-us/where-to-buy",
@@ -35747,29 +34949,9 @@
         "score": 33
       },
       {
-        "url": "https://investor.exactsciences.com/en-us/global-sites",
-        "anchor_text": "Global Websites",
-        "score": 33
-      },
-      {
         "url": "https://investor.exactsciences.com/en-us/contact-us",
         "anchor_text": "contact us",
         "score": 31
-      },
-      {
-        "url": "https://investor.exactsciences.com/en-us/investors",
-        "anchor_text": "Overview",
-        "score": 30
-      },
-      {
-        "url": "https://investor.exactsciences.com/en-us/contactus",
-        "anchor_text": "Contact Us",
-        "score": 30
-      },
-      {
-        "url": "https://investor.exactsciences.com/en-us/homepage",
-        "anchor_text": "Home",
-        "score": 29
       },
       {
         "url": "https://investor.exactsciences.com/en-us/site-map",
@@ -35780,16 +34962,6 @@
         "url": "https://investor.exactsciences.com/en-us/partners",
         "anchor_text": "Partners",
         "score": 29
-      },
-      {
-        "url": "https://investor.exactsciences.com/en-us/policies",
-        "anchor_text": "Policiesopens in a new tab",
-        "score": 29
-      },
-      {
-        "url": "https://investor.exactsciences.com/en-us/careers",
-        "anchor_text": "Careers",
-        "score": 28
       }
     ]
   },
@@ -35831,11 +35003,6 @@
         "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-to-present-32-studies-at-asco-2026/",
         "anchor_text": "Read more: Caris Life Sciences to Present 32 Studies at ASCO 2026 Highlighting Advances in Multi-omic Biomarker Research and Real-World Evidence",
         "score": 95
-      },
-      {
-        "url": "https://www.carislifesciences.com/privacy-website-policies/do-not-sell-or-share-my-personal-information/",
-        "anchor_text": "webform",
-        "score": 87
       },
       {
         "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-launches-caris-detect/",
@@ -36755,6 +35922,11 @@
         "score": 50
       },
       {
+        "url": "https://www.pfizer.com/washington-health-data-privacy-policy",
+        "anchor_text": "Washington Health Data Privacy Policy",
+        "score": 50
+      },
+      {
         "url": "https://www.pfizer.com/science/clinical-trials/children",
         "anchor_text": "Clinical Trials in Children",
         "score": 49
@@ -37417,7 +36589,7 @@
       },
       {
         "url": "https://www.roche.com/investors/bonds",
-        "anchor_text": "Share price332.60CHF+ 1.00(+0.30%)Today",
+        "anchor_text": "Share price334.20CHF+ 2.60(+0.78%)Today",
         "score": 20
       },
       {
@@ -37863,7 +37035,7 @@
       },
       {
         "url": "https://www.astrazeneca.com/media-centre/press-releases.html",
-        "anchor_text": "Select Preferences",
+        "anchor_text": "More Details",
         "score": 47
       },
       {
@@ -38670,6 +37842,11 @@
     "press_url": "https://news.abbvie.com/",
     "candidate_links": [
       {
+        "url": "https://news.abbvie.com/2026-07-17-Allergan-Aesthetics-receives-approval-for-Boey-R-trenibotulinumtoxinE-,-for-use-in-Europe-the-first-and-only-rapid-onset,-short-duration-neurotoxin-for-the-temporary-improvement-of-frown-lines-in-adult-patients",
+        "anchor_text": "Allergan Aesthetics receives approval for Boey® (trenibotulinumtoxinE), for use in Europe: the first and only rapid-onset, short-duration neurotoxin for the temporary improvement of frown lines in adult patients",
+        "score": 234
+      },
+      {
         "url": "https://news.abbvie.com/2026-06-23-Allergan-Aesthetics-receives-approval-for-Boey-R-trenibotulinumtoxinE-in-Canada,-the-first-and-only-rapid-onset,-short-duration-neurotoxin-for-the-temporary-improvement-of-frown-lines-in-adult-patients",
         "anchor_text": "Allergan Aesthetics receives approval for Boey® (trenibotulinumtoxinE) in Canada, the first and only rapid-onset, short-duration neurotoxin for the temporary improvement of frown lines in adult patients",
         "score": 225
@@ -38693,11 +37870,6 @@
         "url": "https://news.abbvie.com/2026-06-29-AbbVie-Receives-Positive-CHMP-Opinion-for-Upadacitinib-RINVOQ-R-for-the-Treatment-of-Adults-and-Adolescents-with-Non-segmental-Vitiligo",
         "anchor_text": "AbbVie Receives Positive CHMP Opinion for Upadacitinib (RINVOQ®) for the Treatment of Adults and Adolescents with Non-segmental Vitiligo",
         "score": 159
-      },
-      {
-        "url": "https://news.abbvie.com/2026-06-23-AbbVie-Announces-European-Commission-Approval-of-MAVIRET-R-Glecaprevir-Pibrentasvir-for-People-with-Acute-Hepatitis-C-Virus-Infection",
-        "anchor_text": "AbbVie Announces European Commission Approval of MAVIRET® (Glecaprevir/Pibrentasvir) for People with Acute Hepatitis C Virus Infection",
-        "score": 157
       },
       {
         "url": "https://news.abbvie.com/2026-07-14-SkinMedica-R-Deepens-Commitment-to-Regenerative-Science-with-Continued-Investment-in-Research-and-Development",
@@ -42140,11 +41312,6 @@
     "press_url": "https://ir.beonemedicines.com/news-events/pressreleases",
     "candidate_links": [
       {
-        "url": "https://ir.beonemedicines.com/media/custom-news/0d682643-b057-4241-8942-b51e133c2983/assets/af2c9a48-4ca0-40e6-86bc-7991ba4fa419/BeOneMedicines_2025_SustainabilityReport_V3.3.pdf?disposition=inline",
-        "anchor_text": "2025 Responsible Business and Sustainability Report",
-        "score": 171
-      },
-      {
         "url": "https://ir.beonemedicines.com/news/blood-cancer-united-and-beone-medicines-announce-expanded-partnership-to-advance-patient-support-and-community/f66eb6b3-6e84-4be9-9fee-86ef1c26a260",
         "anchor_text": "Blood Cancer United and BeOne Medicines Announce Expanded Partnership to Advance Patient Support and Community for People Impacted by Blood Cancer",
         "score": 169
@@ -42208,6 +41375,11 @@
         "url": "https://ir.beonemedicines.com/news/us-fda-grants-priority-review-to-beone-medicines-tevimbra-in-first-line-her2-gea/2dd4da40-4943-4a0a-ad05-81899dc06d7d",
         "anchor_text": "U.S. FDA Grants Priority Review to BeOne Medicines’ TEVIMBRA in First-Line HER2+ GEA",
         "score": 139
+      },
+      {
+        "url": "https://ir.beonemedicines.com/news/beone-medicines-to-announce-second-quarter-2026-financial-results-on-august-5/4269443d-ed19-4806-bb23-f16c0d199251",
+        "anchor_text": "BeOne Medicines to Announce Second Quarter 2026 Financial Results on August 5",
+        "score": 136
       },
       {
         "url": "https://ir.beonemedicines.com/news/beone-medicines-to-announce-first-quarter-2026-financial-results-on-may-6/969fa7c9-8ace-4b80-aaeb-2b4eb2f15847",
@@ -47579,6 +46751,11 @@
         "score": 57
       },
       {
+        "url": "https://www.iconplc.com/solutions/manufacturing-pharmacy-services",
+        "anchor_text": "Manufacturing & Pharmacy Services",
+        "score": 56
+      },
+      {
         "url": "https://www.iconplc.com/solutions/consulting/regulatory-affairs",
         "anchor_text": "Regulatory Affairs",
         "score": 56
@@ -49302,11 +48479,6 @@
         "score": 125
       },
       {
-        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-presents-positive-data-for-b7-h4-targeted-adc-in-gynaecological-cancers/",
-        "anchor_text": "12 April 2026GSK presents positive data for B7-H4-targeted ADC in gynaecological cancersPromising efficacy and safety profile supports start of five pivotal phase III trials in 2026.",
-        "score": 124
-      },
-      {
         "url": "https://www.gsk.com/en-gb/media/press-releases/tesaro-a-gsk-subsidiary-provides-update-on-anaptysbio-inc-litigation/",
         "anchor_text": "27 April 2026TESARO, a GSK subsidiary, provides update on AnaptysBio, Inc. litigationDelaware Chancery Court has granted the motion to dismiss filed by AnaptysBio, Inc. against TESARO’s claim for anticipatory breach.",
         "score": 117
@@ -49320,6 +48492,11 @@
         "url": "https://www.gsk.com/en-gb/responsibility/global-health-and-health-security/using-our-science-for-global-health/",
         "anchor_text": "Using our science for global health",
         "score": 112
+      },
+      {
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-provides-an-update-on-calm-1-and-calm-2-phase-iii-trials/",
+        "anchor_text": "17 July 2026GSK provides an update on CALM-1 and CALM-2 phase III trials for camlipixant in refractory chronic cough (RCC)GSK plc (LSE/NYSE: GSK) today provides an update on the CALM-1 and CALM-2 phase III clinical trials",
+        "score": 109
       },
       {
         "url": "https://www.gsk.com/en-gb/responsibility/global-health-and-health-security/improving-access-to-healthcare/",
@@ -60135,6 +59312,11 @@
         "score": 215
       },
       {
+        "url": "https://investor.agenusbio.com/news/news-details/2026/Agenus-Announces-Three-BOTBAL-Presentations-Spanning-Neoadjuvant-and-Late-Line-Colorectal-Cancer-and-Advanced-Sarcomas-at-ESMO-2026/default.aspx",
+        "anchor_text": "Read More",
+        "score": 213
+      },
+      {
         "url": "https://investor.agenusbio.com/news/news-details/2026/Agenus-Reports-2025-Results-BOTBAL-Advances-to-Phase-3-and-Early-Access-Programs-Expand-Globally-with-Initial-Revenues-Recognized/default.aspx",
         "anchor_text": "Read More",
         "score": 211
@@ -64915,6 +64097,392 @@
     ]
   },
   {
+    "company": "Cresset Group",
+    "press_url": "https://cresset-group.com/about/news/",
+    "candidate_links": [
+      {
+        "url": "https://cresset-group.com/news/ai-unlocks-unparalleled-efficiency-gains-in-flare-v11-cressets-leading-software-solution-for-digital-molecular-discovery-2/",
+        "anchor_text": "Read More",
+        "score": 145
+      },
+      {
+        "url": "https://cresset-group.com/news/cresset-releases-flare-v12-to-cut-synthesis-and-testing-cycles-with-faster-more-flexible-fep/",
+        "anchor_text": "",
+        "score": 115
+      },
+      {
+        "url": "https://cresset-group.com/event/whats-new-in-flare-v12-significant-enhancements-to-fep-and-structure-based-methods/",
+        "anchor_text": "",
+        "score": 106
+      },
+      {
+        "url": "https://cresset-group.com/news/cresset-acquires-molab-ai-to-advance-digitization-of-drug-discovery/",
+        "anchor_text": "Read More",
+        "score": 90
+      },
+      {
+        "url": "https://cresset-group.com/news/cresset-discovery-accelerates-optimization-of-mettl3-inhibitor/",
+        "anchor_text": "",
+        "score": 85
+      },
+      {
+        "url": "https://cresset-group.com/event/efmc-ismc-international-symposium-on-medicinal-chemistry/",
+        "anchor_text": "",
+        "score": 80
+      },
+      {
+        "url": "https://cresset-group.com/solutions/by-discovery-phase/target-validation/",
+        "anchor_text": "Target Validation",
+        "score": 66
+      },
+      {
+        "url": "https://cresset-group.com/solutions/by-discovery-phase/lead-optimization/",
+        "anchor_text": "Lead Optimization",
+        "score": 66
+      },
+      {
+        "url": "https://cresset-group.com/solutions/by-discovery-phase/hit-discovery/",
+        "anchor_text": "Hit Discovery",
+        "score": 62
+      },
+      {
+        "url": "https://cresset-group.com/solutions/by-user/computational-chemistry/",
+        "anchor_text": "Computational Chemistry",
+        "score": 61
+      },
+      {
+        "url": "https://cresset-group.com/solutions/by-discovery-phase/hit-to-lead/",
+        "anchor_text": "Hit to Lead",
+        "score": 60
+      },
+      {
+        "url": "https://cresset-group.com/news/fep-in-2025-read-our-latest-blog-post/",
+        "anchor_text": "Read More",
+        "score": 60
+      },
+      {
+        "url": "https://cresset-group.com/solutions/by-user/medicinal-chemistry/",
+        "anchor_text": "Medicinal Chemistry",
+        "score": 57
+      },
+      {
+        "url": "https://cresset-group.com/news/cresset-newsletter-september-2025/",
+        "anchor_text": "Read More",
+        "score": 56
+      },
+      {
+        "url": "https://cresset-group.com/solutions/by-user/academic-research/",
+        "anchor_text": "Academic Research",
+        "score": 55
+      },
+      {
+        "url": "https://cresset-group.com/news/cresset-newsletter-december-2025/",
+        "anchor_text": "Read More",
+        "score": 55
+      },
+      {
+        "url": "https://cresset-group.com/news/cresset-newsletter-october-2025/",
+        "anchor_text": "Read More",
+        "score": 54
+      },
+      {
+        "url": "https://cresset-group.com/about/global-locations-distributors/",
+        "anchor_text": "Locations & distributors",
+        "score": 53
+      },
+      {
+        "url": "https://cresset-group.com/news/cresset-newsletter-august-2025/",
+        "anchor_text": "Read More",
+        "score": 53
+      },
+      {
+        "url": "https://cresset-group.com/event/ai-in-drug-discovery-xchange/",
+        "anchor_text": "",
+        "score": 52
+      },
+      {
+        "url": "https://cresset-group.com/news/cresset-newsletter-july-2025/",
+        "anchor_text": "Read More",
+        "score": 51
+      },
+      {
+        "url": "https://cresset-group.com/news/cresset-newsletter-june-2025/",
+        "anchor_text": "Read More",
+        "score": 51
+      },
+      {
+        "url": "https://cresset-group.com/news/end-of-year-message-2025/",
+        "anchor_text": "Read More",
+        "score": 47
+      },
+      {
+        "url": "https://cresset-group.com/solutions/by-discovery-phase/",
+        "anchor_text": "By discovery phase",
+        "score": 46
+      },
+      {
+        "url": "https://cresset-group.com/science/your-trusted-partner/",
+        "anchor_text": "Your trusted partner",
+        "score": 46
+      },
+      {
+        "url": "https://cresset-group.com/software/discovery-services/",
+        "anchor_text": "Discovery Services",
+        "score": 45
+      },
+      {
+        "url": "https://cresset-group.com/about/responsible-business/",
+        "anchor_text": "Responsible business",
+        "score": 44
+      },
+      {
+        "url": "https://cresset-group.com/news/meet-the-new-cresset/",
+        "anchor_text": "Read More",
+        "score": 43
+      },
+      {
+        "url": "https://cresset-group.com/software/methods-archive/",
+        "anchor_text": "Explore all methods and technologies",
+        "score": 42
+      },
+      {
+        "url": "https://cresset-group.com/support/product-releases/",
+        "anchor_text": "Product releases",
+        "score": 42
+      },
+      {
+        "url": "https://cresset-group.com/science/ai-technologies/",
+        "anchor_text": "AI technologies",
+        "score": 41
+      },
+      {
+        "url": "https://cresset-group.com/resources/all-resources/",
+        "anchor_text": "All resources",
+        "score": 41
+      },
+      {
+        "url": "https://cresset-group.com/resources/all-resources/?_category=webinar",
+        "anchor_text": "Webinars",
+        "score": 41
+      },
+      {
+        "url": "https://cresset-group.com/resources/all-resources/?_category=publication",
+        "anchor_text": "Publications",
+        "score": 41
+      },
+      {
+        "url": "https://cresset-group.com/resources/all-resources/?_category=citation",
+        "anchor_text": "Citations",
+        "score": 41
+      },
+      {
+        "url": "https://cresset-group.com/resources/all-resources/?_category=whitepaper",
+        "anchor_text": "Whitepapers",
+        "score": 41
+      },
+      {
+        "url": "https://cresset-group.com/resources/all-resources/?_category=case-study",
+        "anchor_text": "Case Studies",
+        "score": 41
+      },
+      {
+        "url": "https://cresset-group.com/resources/all-resources/?_category=article",
+        "anchor_text": "Articles",
+        "score": 41
+      },
+      {
+        "url": "https://cresset-group.com/software/flare-connect/",
+        "anchor_text": "Flare™ Connect – Collaborative Design",
+        "score": 40
+      },
+      {
+        "url": "https://cresset-group.com/support/knowledge-base/",
+        "anchor_text": "Knowledge Base",
+        "score": 40
+      },
+      {
+        "url": "https://cresset-group.com/science/our-science/",
+        "anchor_text": "Our Science",
+        "score": 37
+      },
+      {
+        "url": "https://cresset-group.com/event/25th-euroqsar/",
+        "anchor_text": "",
+        "score": 37
+      },
+      {
+        "url": "https://cresset-group.com/software/flare-fep/",
+        "anchor_text": "Flare™ FEP – Predict Binding Affinity",
+        "score": 36
+      },
+      {
+        "url": "https://cresset-group.com/solutions/by-user/",
+        "anchor_text": "By user group",
+        "score": 35
+      },
+      {
+        "url": "https://cresset-group.com/about/why-cresset/",
+        "anchor_text": "Why Cresset",
+        "score": 35
+      },
+      {
+        "url": "https://cresset-group.com/software/ai-adme/",
+        "anchor_text": "AI-Powered ADME model building",
+        "score": 34
+      },
+      {
+        "url": "https://cresset-group.com/about/contact-us/",
+        "anchor_text": "Request demo",
+        "score": 34
+      },
+      {
+        "url": "https://cresset-group.com/event/acs-fall-2/",
+        "anchor_text": "",
+        "score": 34
+      },
+      {
+        "url": "https://cresset-group.com/about/news/10/",
+        "anchor_text": "Page10",
+        "score": 23
+      },
+      {
+        "url": "https://cresset-group.com/software/flare/",
+        "anchor_text": "Flare™ Drug Design Software",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/software/spark/",
+        "anchor_text": "Spark™ Scaffold Hopping Software",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/software/blaze/",
+        "anchor_text": "Blaze™ Virtual Screening Software",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/about/news/2/",
+        "anchor_text": "Next",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/about/news/3/",
+        "anchor_text": "Page3",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/about/news/4/",
+        "anchor_text": "Page4",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/about/news/5/",
+        "anchor_text": "Page5",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/about/news/6/",
+        "anchor_text": "Page6",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/about/news/7/",
+        "anchor_text": "Page7",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/about/news/8/",
+        "anchor_text": "Page8",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/about/news/9/",
+        "anchor_text": "Page9",
+        "score": 22
+      },
+      {
+        "url": "https://cresset-group.com/about/careers/",
+        "anchor_text": "Careers",
+        "score": 21
+      },
+      {
+        "url": "https://cresset-group.com/about/events/",
+        "anchor_text": "Events",
+        "score": 20
+      },
+      {
+        "url": "https://cresset-group.com/about/people/",
+        "anchor_text": "People",
+        "score": 20
+      },
+      {
+        "url": "https://cresset-group.com/about/news/#content",
+        "anchor_text": "Skip to content",
+        "score": 18
+      },
+      {
+        "url": "https://cresset-group.com/about/news/",
+        "anchor_text": "News",
+        "score": 18
+      },
+      {
+        "url": "https://cresset-group.com/about/news/#elementor-action%3Aaction%3Doff_canvas%3Aopen%26settings%3DeyJpZCI6ImM3M2NlM2QiLCJkaXNwbGF5TW9kZSI6Im9wZW4ifQ%3D%3D",
+        "anchor_text": "",
+        "score": 18
+      },
+      {
+        "url": "https://cresset-group.com/about/news/#elementor-action%3Aaction%3Doff_canvas%3Aclose%26settings%3DeyJpZCI6ImM3M2NlM2QiLCJkaXNwbGF5TW9kZSI6ImNsb3NlIn0%3D",
+        "anchor_text": "",
+        "score": 18
+      },
+      {
+        "url": "https://cresset-group.com/solutions/",
+        "anchor_text": "Solution areas",
+        "score": 15
+      },
+      {
+        "url": "https://cresset-group.com/resources/",
+        "anchor_text": "Resources",
+        "score": 15
+      },
+      {
+        "url": "https://cresset-group.com/subscribe/",
+        "anchor_text": "Subscribe",
+        "score": 15
+      },
+      {
+        "url": "https://cresset-group.com/software/",
+        "anchor_text": "Software & Services",
+        "score": 14
+      },
+      {
+        "url": "https://cresset-group.com/science/",
+        "anchor_text": "Science",
+        "score": 13
+      },
+      {
+        "url": "https://cresset-group.com/support/",
+        "anchor_text": "Support",
+        "score": 13
+      },
+      {
+        "url": "http://cresset-group.com/privacy/",
+        "anchor_text": "Privacy notice",
+        "score": 13
+      },
+      {
+        "url": "https://cresset-group.com/about/",
+        "anchor_text": "About",
+        "score": 11
+      },
+      {
+        "url": "https://cresset-group.com",
+        "anchor_text": "",
+        "score": 0
+      }
+    ]
+  },
+  {
     "company": "OpenEye Scientific",
     "press_url": "https://www.eyesopen.com/news",
     "candidate_links": [
@@ -68804,11 +68372,6 @@
         "score": 125
       },
       {
-        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-presents-positive-data-for-b7-h4-targeted-adc-in-gynaecological-cancers/",
-        "anchor_text": "12 April 2026GSK presents positive data for B7-H4-targeted ADC in gynaecological cancersPromising efficacy and safety profile supports start of five pivotal phase III trials in 2026.",
-        "score": 124
-      },
-      {
         "url": "https://www.gsk.com/en-gb/media/press-releases/tesaro-a-gsk-subsidiary-provides-update-on-anaptysbio-inc-litigation/",
         "anchor_text": "27 April 2026TESARO, a GSK subsidiary, provides update on AnaptysBio, Inc. litigationDelaware Chancery Court has granted the motion to dismiss filed by AnaptysBio, Inc. against TESARO’s claim for anticipatory breach.",
         "score": 117
@@ -68822,6 +68385,11 @@
         "url": "https://www.gsk.com/en-gb/responsibility/global-health-and-health-security/using-our-science-for-global-health/",
         "anchor_text": "Using our science for global health",
         "score": 112
+      },
+      {
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-provides-an-update-on-calm-1-and-calm-2-phase-iii-trials/",
+        "anchor_text": "17 July 2026GSK provides an update on CALM-1 and CALM-2 phase III trials for camlipixant in refractory chronic cough (RCC)GSK plc (LSE/NYSE: GSK) today provides an update on the CALM-1 and CALM-2 phase III clinical trials",
+        "score": 109
       },
       {
         "url": "https://www.gsk.com/en-gb/responsibility/global-health-and-health-security/improving-access-to-healthcare/",
@@ -72931,7 +72499,7 @@
       },
       {
         "url": "https://alexion.com/media-center/press-releases",
-        "anchor_text": "Cookie Settings",
+        "anchor_text": "More Details",
         "score": 42
       },
       {
@@ -73131,7 +72699,7 @@
       },
       {
         "url": "https://alexion.com/Legal#privacynotice",
-        "anchor_text": "More information",
+        "anchor_text": "cookie notice web page",
         "score": 8
       },
       {
@@ -76032,6 +75600,573 @@
     "candidate_links": []
   },
   {
+    "company": "AdametNext",
+    "press_url": "https://adametnext.com/blog/",
+    "candidate_links": []
+  },
+  {
+    "company": "Nucleome Informatics Private Limited",
+    "press_url": "https://www.nucleomeinfo.com/news_test/",
+    "candidate_links": [
+      {
+        "url": "https://www.nucleomeinfo.com/news/mou-between-sriher-and-nucleome-on-cancer-genomics-and-precision-medicine-research-and-clinical-genetic-testing-and-training/",
+        "anchor_text": "Read More",
+        "score": 147
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/news/full-length-16s-v1-to-v9-sequencing-discovers-complete-microbiome-of-cobia-fish/",
+        "anchor_text": "Read More",
+        "score": 102
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/news/nucleome-showcases-advances-in-hifi-sequencing-at-prism-2025-vietnam/",
+        "anchor_text": "Read More",
+        "score": 91
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/news/long-whiskers-catfish-genome-published-in-nature-journal/",
+        "anchor_text": "Long Whiskers Catfish Genome Published in Nature journal",
+        "score": 79
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/news/nucleome-participated-in-biotech-industry-meet-2025/",
+        "anchor_text": "Read More",
+        "score": 74
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/news/nucleome-launches-nucleome-knowledge-hub/",
+        "anchor_text": "Nucleome launches “Nucleome Knowledge Hub”",
+        "score": 63
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/research-verticals/drseq-human-genomics/",
+        "anchor_text": "DrSeq-Human Genomics",
+        "score": 57
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/wgs-hifi-newborn-screening-rare-diseases/",
+        "anchor_text": "Newborn Screening for Rare Diseases by WGS-HiFi Test",
+        "score": 56
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/tag/genome-sequencing-service-in-india/",
+        "anchor_text": "Genome Sequencing service in India",
+        "score": 56
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/tag/de-novo-transcriptome-analysis/",
+        "anchor_text": "de novo transcriptome analysis",
+        "score": 52
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/services/axiom-genotyping-array/",
+        "anchor_text": "SNP Genotyping",
+        "score": 49
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/rare-disease-hackathon-india-2026/",
+        "anchor_text": "Rare Disease Hackathon India 2026",
+        "score": 49
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/tag/de-novo-genome-sequencing/",
+        "anchor_text": "De novo Genome Sequencing",
+        "score": 47
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/sample-submission/dna-sample/",
+        "anchor_text": "DNA Sample",
+        "score": 46
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/sample-submission/rna-sample/",
+        "anchor_text": "RNA Sample",
+        "score": 46
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/tag/bioinformatics-analysis/",
+        "anchor_text": "Bioinformatics analysis",
+        "score": 45
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/services/wildlife-genomics/",
+        "anchor_text": "Wildlife Genomics",
+        "score": 44
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/tag/hybrid-genome-assembly/",
+        "anchor_text": "Hybrid Genome assembly",
+        "score": 44
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/research-verticals/drseed/",
+        "anchor_text": "DrSeed – Agricultural Genomics",
+        "score": 43
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/tag/functional-annotation/",
+        "anchor_text": "functional annotation",
+        "score": 43
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/research-verticals/drpam/",
+        "anchor_text": "DrPAM – Plant, Animal, and Microbial Genomics Research",
+        "score": 42
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/tag/solanum-melongena-l/",
+        "anchor_text": "Solanum melongena L.",
+        "score": 41
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/technologies-we-work-on/",
+        "anchor_text": "Technology",
+        "score": 39
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/tag/de-novo-assembly/",
+        "anchor_text": "De novo assembly",
+        "score": 38
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/tag/genetic-testing/",
+        "anchor_text": "Genetic Testing",
+        "score": 37
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/news/goldlinedseabreamgenome/",
+        "anchor_text": "Read More",
+        "score": 36
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/tag/rna-sequencing/",
+        "anchor_text": "RNA sequencing",
+        "score": 36
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/happy-new-year-2026/",
+        "anchor_text": "Happy New Year 2026",
+        "score": 35
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/research-verticals/",
+        "anchor_text": "Verticals",
+        "score": 34
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/news/drseq4powerbiomarkers/",
+        "anchor_text": "Breakthrough Genomic Test Launched to Solve Unsolved Cancer Cases",
+        "score": 34
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/tag/rare-disease/",
+        "anchor_text": "Rare Disease",
+        "score": 34
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/services/bio-it/",
+        "anchor_text": "Bioinformatics",
+        "score": 33
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/sample-submission/",
+        "anchor_text": "Sample Submission",
+        "score": 33
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/services/transcriptomics/",
+        "anchor_text": "Transcriptomics",
+        "score": 32
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/services/metagenomics/",
+        "anchor_text": "Metagenomics",
+        "score": 29
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/services/epigenomics/",
+        "anchor_text": "Epigenomics",
+        "score": 28
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/about_us/publication/",
+        "anchor_text": "Publications",
+        "score": 28
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/news_test/page/2/#wpnw-news-1",
+        "anchor_text": "Next »",
+        "score": 26
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/news_test/page/3/#wpnw-news-1",
+        "anchor_text": "3",
+        "score": 26
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/news_test/page/5/#wpnw-news-1",
+        "anchor_text": "5",
+        "score": 26
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/services/genomics/",
+        "anchor_text": "Genomics",
+        "score": 25
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/about_us/webinars/",
+        "anchor_text": "Webinars",
+        "score": 25
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/our-team/",
+        "anchor_text": "Our Team",
+        "score": 24
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/about_us/career/",
+        "anchor_text": "Career at Nucleome Informatics",
+        "score": 23
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/tag/conference/",
+        "anchor_text": "Conference",
+        "score": 22
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/news/14746/",
+        "anchor_text": "Read More",
+        "score": 18
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/news/14728/",
+        "anchor_text": "Read More",
+        "score": 18
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/tag/pacbio/",
+        "anchor_text": "PacBio",
+        "score": 18
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/news_test/",
+        "anchor_text": "",
+        "score": 15
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/about_us/",
+        "anchor_text": "About Us",
+        "score": 14
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/services/",
+        "anchor_text": "Services",
+        "score": 14
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/sequel2/",
+        "anchor_text": "Sequencing on PacBio Revio and Sequel II",
+        "score": 13
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/gallery/",
+        "anchor_text": "Gallery",
+        "score": 13
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/contact/",
+        "anchor_text": "Contact Us",
+        "score": 13
+      },
+      {
+        "url": "https://www.nucleomeinfo.com/",
+        "anchor_text": "Home",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "company": "Abiogenesis Clinpharm Private Limited",
+    "press_url": "https://abiogenesisclinpharm.com/blog/",
+    "candidate_links": [
+      {
+        "url": "https://abiogenesisclinpharm.com/category/clinical-research-organization/",
+        "anchor_text": "Clinical Research Organization",
+        "score": 57
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/cell-and-gene-therapy-progress-challenges/",
+        "anchor_text": "0",
+        "score": 57
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/rbqm-in-2026-intelligence-clinical-trials/",
+        "anchor_text": "0",
+        "score": 57
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/clinical-research-organization-in-indias/",
+        "anchor_text": "0",
+        "score": 56
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/uk-clinical-trials-reform-2026-ich-e6r3/",
+        "anchor_text": "0",
+        "score": 55
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/clinical-research-organizations-trials/",
+        "anchor_text": "0",
+        "score": 54
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/herbal-food-and-nutraceutical-studies/",
+        "anchor_text": "Herbal, Food, and Nutraceutical Studies",
+        "score": 53
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/choose-right-cro-clinical-trials-2026/",
+        "anchor_text": "How to Choose the Right Clinical Research Organization (CRO) for Successful Clinical Trials",
+        "score": 53
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/real-world-evidence-supports-programs/",
+        "anchor_text": "",
+        "score": 53
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/semaglutide-clinical-trials-generics/",
+        "anchor_text": "0",
+        "score": 52
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/service/biostatistics-programming/",
+        "anchor_text": "Biostatistics & Programming",
+        "score": 51
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/category/clinical-operations/",
+        "anchor_text": "Clinical Operations",
+        "score": 46
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/service/clinical-operations/",
+        "anchor_text": "Clinical Operations",
+        "score": 45
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/decentralized-clinical-trials/",
+        "anchor_text": "Decentralized Clinical Trials",
+        "score": 45
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/category/regulatory-affairs/",
+        "anchor_text": "Regulatory Affairs",
+        "score": 45
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/service/regulatory-affairs/",
+        "anchor_text": "Regulatory Affairs",
+        "score": 44
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/category/quality-assurance/",
+        "anchor_text": "Quality Assurance",
+        "score": 44
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/service/quality-assurance/",
+        "anchor_text": "Quality Assurance",
+        "score": 43
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/india-uk-biosimilar-pathway/",
+        "anchor_text": "India – UK Biosimilar Corridor: A Controlled Evidence Pathway",
+        "score": 43
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/blog/contact@abiogenesisclinpharm.com",
+        "anchor_text": "[email protected]",
+        "score": 42
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/category/data-management/",
+        "anchor_text": "Data Management",
+        "score": 42
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/category/medical-affairs/",
+        "anchor_text": "Medical Affairs",
+        "score": 42
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/service/data-management/",
+        "anchor_text": "Data Management",
+        "score": 41
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/service/medical-affairs/",
+        "anchor_text": "Medical Affairs",
+        "score": 41
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/small-molecule-and-fdc/",
+        "anchor_text": "Small Molecule & FDC",
+        "score": 38
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/ethnographic-research/",
+        "anchor_text": "Ethnographic Research",
+        "score": 37
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/real-world-studies/",
+        "anchor_text": "Real World Studies",
+        "score": 34
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/medical-monitoring/",
+        "anchor_text": "Medical Monitoring",
+        "score": 34
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/narcotics-studies/",
+        "anchor_text": "Narcotics Studies",
+        "score": 33
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/cosmetic-studies/",
+        "anchor_text": "Cosmetic Studies",
+        "score": 32
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/terms-conditions/",
+        "anchor_text": "Terms & Conditions",
+        "score": 32
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/medical-devices/",
+        "anchor_text": "Medical Devices",
+        "score": 31
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/rescue-studies/",
+        "anchor_text": "Rescue Studies",
+        "score": 30
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/privacy-policy/",
+        "anchor_text": "Privacy Policy",
+        "score": 30
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/cookies-policy/",
+        "anchor_text": "Cookies Policy",
+        "score": 30
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/pk-pd-studies/",
+        "anchor_text": "Pk/Pd Studies",
+        "score": 29
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/category/biostastics/",
+        "anchor_text": "Biostastics",
+        "score": 28
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/our-journey/",
+        "anchor_text": "Our Journey",
+        "score": 27
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/about-us/",
+        "anchor_text": "About Us",
+        "score": 24
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/our-team/",
+        "anchor_text": "Team",
+        "score": 24
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/contact-us",
+        "anchor_text": "CONTACT US",
+        "score": 23
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/blog/page/2/",
+        "anchor_text": "Next page",
+        "score": 21
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/blog/page/3/",
+        "anchor_text": "3",
+        "score": 21
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/blog/page/6/",
+        "anchor_text": "6",
+        "score": 21
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/biosimilar/",
+        "anchor_text": "Biosimilar",
+        "score": 16
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/accolades/",
+        "anchor_text": "Accolades",
+        "score": 15
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/contacts/",
+        "anchor_text": "Contact",
+        "score": 14
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/product/",
+        "anchor_text": "Product",
+        "score": 13
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/vaccine/",
+        "anchor_text": "Vaccine",
+        "score": 13
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/career/",
+        "anchor_text": "Career",
+        "score": 12
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/cdisc/",
+        "anchor_text": "CDISC",
+        "score": 11
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/blog/",
+        "anchor_text": "Blog",
+        "score": 10
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/blog/#top",
+        "anchor_text": "",
+        "score": 10
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/nce/",
+        "anchor_text": "NCE",
+        "score": 9
+      },
+      {
+        "url": "https://abiogenesisclinpharm.com/",
+        "anchor_text": "Abiogenesis Clinpharm",
+        "score": 3
+      }
+    ]
+  },
+  {
     "company": "T-Hub",
     "press_url": "https://t-hub.co/media/",
     "candidate_links": []
@@ -78585,11 +78720,6 @@
     "candidate_links": []
   },
   {
-    "company": "Cresset Group",
-    "press_url": "https://cresset-group.com/about/news/",
-    "candidate_links": []
-  },
-  {
     "company": "Tempus AI",
     "press_url": "https://www.tempus.com/news/",
     "candidate_links": []
@@ -78697,12 +78827,6 @@
   {
     "company": "Werewolf Therapeutics",
     "press_url": "https://www.werewolftx.com/news/",
-    "candidate_links": [
-      {
-        "url": "https://www.werewolftx.com/news/#content",
-        "anchor_text": "Skip to content",
-        "score": 10
-      }
-    ]
+    "candidate_links": []
   }
 ]
